@@ -1,0 +1,46 @@
+---
+url: https://www.emfink.net 
+baseurl: /CivilProcedure 
+title: Civil Procedure 
+description:  # leave blank for no description 
+last_updated: 18 March 2020
+
+name: Civil Procedure 
+author: Eric M. Fink 
+institution: Elon Law School
+street: 201 North Greene Street
+city: Greensboro
+state: North Carolina
+zip: '27401'
+email: efink@elon.edu
+phone: 336-279-9334
+
+footer_text: >
+  Created by <a href="https://github.com/LuckyJimJD" target="_blank">Eric M. Fink</a>. 
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. 
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. 
+  <br> 
+  Original content licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Build settings
+markdown: kramdown
+remote_theme: luckyjimjd/lj-teaching
+
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
+
+# Plug-ins
+plugins:
+    - jekyll-paginate
+    - jemoji
+
+# -----------------------------------------------------------------------------
+# Other settings
+# -----------------------------------------------------------------------------
+jquery_version: "1.12.4"
+anchorjs_version: "3.2.2"
