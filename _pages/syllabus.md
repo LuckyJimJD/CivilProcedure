@@ -72,7 +72,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 _Note: Many of the topics covered in this course are governed by federal statutes and rules. It is essential that you read the assigned statutes and rules carefully, along with the casebook._
 
-## Introduction 
+## 1. Introduction 
 
 #### Date (1 day)
 
@@ -81,7 +81,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
 
-## Shaping the Lawsuit: Parties and Claims 
+## 2. Shaping the Lawsuit: Parties and Claims 
 
 ### Joining Claims 
 #### Date (2 days) 
@@ -119,7 +119,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Quiz: Joinder (Due Date)
 
-## Chosing a Forum, Part 1: Personal Jurisdiction 
+## 3. Chosing a Forum, Part 1: Personal Jurisdiction 
 
 ### Foundations of Personal Jurisdiction 
 
@@ -143,7 +143,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Quiz: Personal Jurisdiction (Due Date)
 
-## Choosing a Forum, Part 2: Subject Matter Jurisdiction 
+## 4. Choosing a Forum, Part 2: Subject Matter Jurisdiction 
 
 ### Foundations of Federal Subject Matter Jurisdiction 
 
@@ -185,7 +185,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Midterm Exam (Due Date)
 
-## Choice of Law 
+## 5. Choice of Law 
 
 ### Vertical Choice of Law: State or Federal?
 
@@ -204,7 +204,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Quiz: Choice of Law (Due Date)
 
-## Pleading 
+## 6. Pleading 
 
 ### Pleading Under the Federal Rules 
 
@@ -243,14 +243,14 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Quiz: Pleadings (Due Date)
 
-## Summary Judgment
+## 7. Summary Judgment
 
 #### Date (2 days) 
 
 - FRCP Rules 12(d) & 56
 - Casebook, 609-35
 
-## Preclusion
+## 8. Preclusion
 
 ### Foundations of Claim & Issue Preclusion 
 
