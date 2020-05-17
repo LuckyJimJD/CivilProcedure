@@ -87,28 +87,27 @@ Implications of natural law theory for understanding common law:
 	
 - Following _Swift v. Tyson_, the Supreme Court held that the federal trial court properly applied "general common law" rather than following KY state court decisions. 
 	
-#### The Problem with _Swift_
+##### Significance 
 	
-_Black & White Taxi_ illustrates the problem with the _Swift_ approach. 
+_Black & White Taxi_ illustrates the problem with the _Swift_ approach: 
 
-Assume B&W (KY corp.) sued to challenge the contract:
+- Assume B&W (KY corp.) sued to challenge the contract:
+  - B&Y (TN) and L&N (KY) would have to be joined as co-defendants.
+  - Since B&W and L&N are both KY citizens, the federal court would not have diversity jurisdiction.
+  - The KY state court would apply KY law and declare the contract void. 
 
-- B&Y (TN) and L&N (KY) would have to be joined as co-defendants.
-- Since B&W and L&N are both KY citizens, the federal court would not have diversity jurisdiction. 
-- The KY state court would apply KY law and declare the contract void. 
-
-Now assume that the contract would be valid under KY law, but that a federal court applying "general law" would declare the contract void (i.e. the reverse of the actual case): 
-
-- If B&Y (TN) sues B&W (KY) and L&N (KY) in KY state court to enforce the contract, may B&W remove to take advantage of more favorable federal law?
+- Now assume that the contract would be valid under KY law, but that a federal court applying "general law" would declare the contract void (i.e. the reverse of the actual case): 
+  - If B&Y (TN) sues B&W (KY) and L&N (KY) in KY state court to enforce the contract, may B&W remove to take advantage of more favorable federal law?
   - There is complete diversity
   - But forum defendant rule would prevent removal
 
-Under each scenario (i.e. the actual Black & White v. Brown & Yellow case and the two hypothetical versions), the outcome will be different in state v. federal court. 
+Under each scenario (i.e. the actual _Black & White Taxi_ case and the two hypothetical versions), the outcome will be different in state v. federal court. This makes law both unpredictable & inequitable: 
 
-This makes law both unpredictable & inequitable: 
-
-- People can't be sure what their legal rights and duties are until they end up in one court or the other. 
-- Some people will be able to forum shop for more favorable law, but others won't (because of the requirements of diversity jurisdiction).
+- Parties can't be sure what their legal rights and duties are until they end up in one court or the other. 
+- Some parties will be able to forum shop for more favorable law, but others won't (because of the limits of federal subject matter jurisdiction).
+  - At the time of _Black & White Taxi_, the citizenship of a corporation for diversity purposes was based only on its state of incorporation. The plaintiff corporation, Brown & Yellow, was able to create diversity, and thus sue in federal court, simply by changing its state of incorporation from KY to TN (and by joining the L&NRR as a co-defendant, rather than a co-plaintiff, which might have seemed more logical). 
+  - The diversity jurisdiction statute now defines the citizenship of a corporation as both its state of incorporation and the state where its principle place of business is located. So the plaintiff's ruse in _Black & White Taxi_ would no longer work (because Brown & Yellow was based in Kentucky). 
+  - But this does not solve the larger problem under _Swift_ of inconsistent outcomes between state and federal courts. 
 
 ### Legal Positivism 
 

@@ -9,11 +9,9 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: 'Civil Procedure'
-term: 'Fall 2019'
-days: 'Mondays, Wednesdays, & Fridays, 9:00 – 10:45 am'
-room: 'Room 207'
-
-nonumbers: true 
+term: 'Fall 2020'
+days: 'Days & Times TBD'
+room: 'Location TBD'
 
 output: 
   pdf_document:
@@ -24,29 +22,37 @@ output:
 
 # Description
 
-In this course, you will learn about the procedures for civil suits. You will also learn how to understand and use primary legal texts (constitutions, statutes, rules, & judicial opinions) as tools for analyzing legal problems. While the course will focus on federal courts, the rules of civil procedure in many states (including North Carolina) are similar. 
+In this course, you will learn about the procedures for civil suits. You will also learn how to understand and use primary legal texts (constitutions, statutes, rules, & judicial opinions) as tools for analyzing legal problems and making legal arguments. While the course will focus on federal courts, the rules of civil procedure in many states (including North Carolina) are similar. 
 
-Topics to be covered include the selection of an appropriate forum, the scope of a lawsuit, the presentation of claims and defenses, disposition without a trial, the choice of applicable law, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. 
+Topics to be covered include the scope of a lawsuit, selection of an appropriate forum, presentation of claims and defenses, choice of applicable law, disposition without a trial, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. 
 
 # Materials
 
+### Required 
+
 Gerald Hess, et al, Civil Procedure: A Context & Practice Casebook (Carolina Academic Press, 2d ed. 2019)
 
-The course website, [`emfink.net/CivilProcedure`](https://www.emfink.net/CivilProcedure), has links to the FRCP and federal statutes, subject outlines, visual aids, practice problems, and other resources. 
+Federal Rules of Civil Procedure, Federal Judicial Statutes, & Restatements. Available online (see [Links page](https://www.emfink.net/CivilProcedure/links/)  on course website)
+
+### Study Aids 
+
+The course website, [`emfink.net/CivilProcedure`](https://www.emfink.net/CivilProcedure), has subject outlines, visual aids, practice problems, past exam questions, and other resources. 
+
+There are numerous published study aids available for Civil Procedure. Two good options are Joseph W. Glannon, Examples & Explanations: Civil Procedure (8th ed., 2018) or The Glannon Guide to Civil Procedure (4th ed., 2018). 
 
 # Policies 
 
-#### Grading
+### Grading
 
-Your final grade for the term will be based on four quizzes (5% each; 20% total), a final exam (70%), and in-class performance (10%). 
+Your final grade for the term will be based on a midterm exam (40%) and a final exam (60%). The midterm will be a take-home exam. The final will be a closed-book/closed-notes exam. These will consist of short-answer and essay questions. Dates for the midterm and final exams are indicated in the Class Schedule & Assignments section below. 
 
-The quizzes will consist of multiple choice questions. These will be given in class and will be open-book/open-notes. Dates for the quizzes will be announced at least one week in advance. 
+There will also be online review quizzes during the term (as indicated in the Class Schedule & Assignments section below). These quizzes are intended as diagnostic tools to assess your understanding of the concepts and help focus your efforts in preparing for the midterm and final exams. They will be ungraded, but completion of each quiz is required to receive course credit. 
 
-The final exam will consist of essay and short-answer questions. It will be given during the final exam period and will be closed-book/closed-notes. 
+### Class Preparation, Attendance, & Participation
 
-The in-class performance component depends on your preparation before class, regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
+Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. 
 
-#### Attendance 
+Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction. 
 
 Elon Law School has adopted the following attendance policy for all courses: 
 
@@ -54,179 +60,219 @@ Elon Law School has adopted the following attendance policy for all courses:
 >
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
-Excessive absences (more than 2 classes) may result in a reduction of your grade.
+### Disability Accommodations 
 
-#### Disability Accommodations 
+For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).  
 
-For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html). 
-
-#### Honor Code 
+### Honor Code 
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
 
-# Outline & Assignments
+# Class Schedule & Assignments
 
-## Introduction & Overview
+_Note: Many of the topics covered in this course are governed by federal statutes and rules. It is essential that you read the assigned statutes and rules carefully, along with the casebook._
+
+## Introduction 
+
+#### Date (1 day)
 
 - Casebook, Chapter 1
+- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.jstor.org/stable/3053505?seq=1), 15 Law & Society Review 630 (1981)
+- Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
+- Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
 
-## Personal Jurisdiction
+## Shaping the Lawsuit: Parties and Claims 
 
-- Casebook, Chapter 2
+### Joining Claims 
+#### Date (2 days) 
+
+- FRCP Rule 18
+- Casebook, 403-
+
+### Counterclaims & Crossclaims 
+
+#### Date (2 days)
+
+- FRCP Rule 13
+- Casebook, 
+
+### Joining Parties  
+
+#### Date (1 day)
+
+- FRCP Rule 20 
+- Casebook, 422-
+
+### Adding Third-Parties
+
+#### Date (1 day)
+
+- FRCP Rule 14
+- Casebook, 
+
+### Required Parties  
+
+#### Date (1 day)
+
+- FRCP Rule 19
+- Cases
+
+##### Quiz: Joinder (Due Date)
+
+## Chosing a Forum, Part 1: Personal Jurisdiction 
 
 ### Foundations of Personal Jurisdiction 
 
+#### Date (1 day) 
+
 - U.S. Constitution, Amendments 5 & 14
-
 - FRCP Rule 12(b)(2)
-
 - Casebook, 23-36
 
-### Specific Jurisdiction 
+### Specific Jurisdiction Based on Minimum Contacts 
+
+#### Date (3-5 days)
 
 - Casebook, 36-79; 96-106
 
 ### General Jurisdiction 
 
+#### Date (1 day)
+
 - Casebook, 79-95
 
-##### Quiz 1: Personal Jurisdiction
+##### Quiz: Personal Jurisdiction (Due Date)
 
-## Subject Matter Jurisdiction 
+## Choosing a Forum, Part 2: Subject Matter Jurisdiction 
 
-- Casebook, Chapter 4
+### Foundations of Federal Subject Matter Jurisdiction 
 
-### Introduction of Subject Matter Jurisdiction 
+#### Date (1 day)
 
 - U.S. Constitution, Art. III, § 2
-
 - FRCP Rule 12(b)(1)
-
 - Casebook, 153-57
 
 ### Diversity Jurisdiction 
 
-- 28 U.S.C. § 1332
+#### Date (2 days)
 
+- 28 U.S.C. § 1332
 - Casebook, 157-80
 
 ### Federal Question Jurisdiction 
 
-- 28 U.S.C. § 1331
+#### Date (2 days)
 
+- 28 U.S.C. § 1331
 - Casebook, 180-205
 
 ### Supplemental Jurisdiction 
 
-- 28 U.S.C. § 1367
+#### Date (2 days)
 
+- 28 U.S.C. § 1367
 - Casebook, 205-17
 
 ### Removal 
 
-- 28 U.S.C. §§ 1441, 1446, 1447, 1448
+#### Date (2 days)
 
+- 28 U.S.C. §§ 1441, 1446, 1447, 1448
 - Casebook, 217-18
+
+##### Quiz: Subject Matter Jurisdiction (Due Date)
+
+##### Midterm Exam (Due Date)
 
 ## Choice of Law 
 
-- Casebook, Chapter 6 
+### Vertical Choice of Law: State or Federal?
 
-### Vertical Choice of Law: Rules of Decision Act 
+#### Date (4 days)
 
-- 28 U.S.C. § 1652
+- Rules of Decision Act, 28 U.S.C. § 1652
+- Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074
+- Casebook, 266-311
 
-- Casebook, 266-77
+### Horizontal Choice of Law: Which State? 
 
-### Vertical Choice of Law: Rules Enabling Act 
+#### Date (1-2 days)
 
-- 28 U.S.C. §§ 2072, 2073, 2074
-
-- Casebook, 277-311
-
-### Horizontal Choice of Law 
-
+- Restatement (2d) of Conflicts of Law, §§ 6, 145, 187, 188, 
 - Casebook, 311-25
 
-##### Quiz 2: Subject Matter Jurisdiction & Choice of Law
-
+##### Quiz: Choice of Law (Due Date)
 
 ## Pleading 
 
-- Casebook, Chapter 7
+### Pleading Under the Federal Rules 
 
-### Introduction to Pleadings 
+#### Date (1 day)
 
 - FRCP Rules 7-10
-
 - Casebook, 327-30
 
 ### Complaints 
 
-- FRCP Rules 8(a), 9(b), 12(b)(6)
+#### Date (2-3 days) 
 
+- FRCP Rules 8(a), 9(b), 12(b)(6)
 - Casebook, 330-63
 
 ### Answers & Defenses 
 
-- FRCP Rule 8(b) & (c)
+#### Date (1 day) 
 
+- FRCP Rule 8(b) & (c)
 - Casebook, 363-70
 
 ### Amended Pleadings 
 
-- FRCP Rule 15
+#### Date (2 days) 
 
+- FRCP Rule 15
 - Casebook, 370-86
 
 ### Truthfulness & Good Faith in Pleadings 
 
-- FRCP Rule 11
+#### Date (2 days) 
 
+- FRCP Rule 11
 - Casebook, 386-401
 
-## Joinder
-
-- Casebook, Chapter 8
-
-### Introduction to Joinder 
-
-- FRCP Rules 13, 14, 18, 19, 20
-
-- Casebook, 403-08
-
-### Joinder of Claims 
-
-- FRCP Rules 13, 18
-
-- Casebook, 408-22
-
-### Joinder of Parties 
-
-- FRCP Rules 14, 20 
-
-- Casebook, 422-45
-
-##### Quiz 3: Pleadings & Joinder
+##### Quiz: Pleadings (Due Date)
 
 ## Summary Judgment
 
-- FRCP Rules 12(d) & 56
+#### Date (2 days) 
 
+- FRCP Rules 12(d) & 56
 - Casebook, 609-35
 
 ## Preclusion
 
-- Casebook, Chapter 13
+### Foundations of Claim & Issue Preclusion 
+
+#### Date (1 day)
+
+- Restatement (2d) of Judgments, §§ 13-17
+- Casebook, 
 
 ### Claim Preclusion
 
+#### Date (2 days)
+
+- Restatement (2d) of Judgments, §§ 18-26
 - Casebook, 761-82
 
 ### Issue Preclusion 
 
+#### Date (2 days)
+
+- Restatement (2d) of Judgments, §§ 27-29
 - Casebook, 782-807
 
-##### Quiz 4: Summary Judgment & Preclusion
+##### Quiz: Summary Judgment & Preclusion (Due Date)
 
-
+##### Final Exam (Date)
