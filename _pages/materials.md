@@ -35,11 +35,11 @@ title: Materials
 
 - [Subject Matter Jurisdiction Outline]({{ site.baseurl }}/assets/course_material/outlines/SubjectMatterJurisdiction.pdf)
 
-- [Subject Matter Jurisdiction Problems]({{ site.baseurl }}/assets/course_material/problems/SMJProblems.html)
-
 - [Supplemental Jurisdiction Flowchart]({{ site.baseurl }}/assets/course_material/visuals/1367b.png)
 
 - [§ 1367(b) Illustration]({{ site.baseurl }}/assets/course_material/visuals/1367bExample.png)
+
+- [Subject Matter Jurisdiction Problems]({{ site.baseurl }}/assets/course_material/problems/SMJProblems.html)
 
 ## Choice of Law 
 
