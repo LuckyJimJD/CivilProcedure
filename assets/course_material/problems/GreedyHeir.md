@@ -11,7 +11,7 @@ affiliation: Elon Law School
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.latex
+    template: classnotes.tex
 
 ---
 

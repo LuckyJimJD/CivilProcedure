@@ -16,7 +16,7 @@ geometry: top=1in,bottom=1in,left=.5in,right=.5in
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: default.latex
+    template: default.tex
     
 ---
 
