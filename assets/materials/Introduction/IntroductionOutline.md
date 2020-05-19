@@ -2,8 +2,10 @@
 layout: notes 
 date: Fall 2019 
 
-title: Civil Procedure
-subtitle: Introduction
+course: Civil Procedure
+title: Introduction
+
+categories: notes 
 
 author: Eric M. Fink
 affiliation: Elon Law School 
@@ -16,7 +18,6 @@ output:
     template: default.tex
     
 ---
-
 
 # What is Civil Procedure?
 
