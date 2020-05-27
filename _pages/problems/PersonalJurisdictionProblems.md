@@ -33,21 +33,13 @@ How should the court rule on each defendant’s motion to dismiss?
 
 # Problem 2
 
-Easycredit Mortgage Co., a Delaware corporation headquartered in Pennsylvania, brought a lawsuit in Pennsylvania court against Sprawlin Development Partnership, a business partnership organized under the laws of North Carolina and doing business exclusively in that state. Easycredit alleges that Sprawlin owes $250,000 pursuant to a loan agreement between the two entities. Sprawlin sought the loan agreement to secure the funding necessary to develop a residential development in Greensboro, North Carolina. The agreement had been negotiated and signed on behalf of Easycredit by its regional account representative in North Carolina.
-
-Under the agreement, Sprawlin was required to request funds from Easycredit as needed during the construction project. Those requests were made by telephone to Easycredit’s Pennsylvania headquarters. After the project was completed, Sprawlin sent interest payments to Easycredit in Pennsylvania. The loan agreement also required Sprawlin to send progress and operating reports on the project to Easycredit in Pennsylvania. The agreement contained a provision specifying that Pennsylvania law would govern any disputes arising out of the agreement, but did not specify where any such disputes should be brought. 
-
-If Sprawlin moves to dismiss the complaint for lack of personal jurisdiction in Pennsylvania, how should the court rule?
-
-# Problem 3
-
 Doug lives in North Carolina. After he became seriously ill, his physician recommended that he visit a medical clinic in Missitucky. Before leaving North Carolina to visit the clinic, Doug signed an agreement to pay for all services received. After he spend five days at the Clinic, the Clinic sent him a bill for $100,000. When Doug failed to pay, the Clinic sued him for breach of contract in Missitucky state court. Doug was personally served with process in North Carolina pursuant to Missitucky’s long-arm statute. 
 
 a. May the court statutorily exercise personal jurisdiction over Doug if the Missitucky long-arm statute is identical (i) New York’s, (ii) Rhode Island’s, (iii) North Carolina’s?
 
 b. Would the exercise of personal jurisdiction over Doug under the Missitucky statute be permissible under the U.S. Constitution?
 
-# Problem 4
+# Problem 3
 
 Dan operates a gas station near U.S. Interstate 40 in Greensboro, north Carolina. The station is frequented by locals and by interstate travelers using I-40. last summer, Dan changed a tire on an automobile bearing Missitucky license plates. The car belonged to Vivian, who was driving through Greensboro on her way home from vacation in the Outer Banks. A few days later, after Vivian reached Missitucky, her car swerved out of control and his an embankment. Vivian sued Dan in Missitucky state court, alleging that the accident resulted in his negligence in changing the tire. Dan was served with process in North Carolina pursuant to Missitucky’s long-arm statute. 
 
@@ -55,17 +47,17 @@ a. May the court statutorily exercise personal jurisdiction over Dan if the Miss
 
 b. Would the exercise of personal jurisdiction over Dan under the Missitucky statute be permissible under the U.S. Constitution?
 
-# Problem 5
+# Problem 4
 
 HCI is a District of Columbia company that conducts training programs around the country to help servers and sellers of alcohol prevent alcohol abuse. Mariner, a Texas company, owns hotels in five states but has none in D.C. Mariner contacted HCI to arrange for training sessions for its employes. A contract between the parties was negotiated by telephone and by mail over a period of eight months. it was signed in Texas. Pursuant to the contract, HCI conducted four two-day workshops for Mariner, none of them in D.C. HCI issued certificates to people successfully completing the workshops, which allowed them to provide similar training for other mariner employees. HCI sent Mariner materials for these additional sessions, graded the participants’ exams, and corresponded with Mariner about the training. When Mariner failed to pay for these services, HCI sued Mariner for breach of contract in a D.C. federal court. Mariner moved to dismiss for lack of jurisdiction. Assume that the applicable long-arm statute authorizes the exercise of personal jurisdiction up to the constitutional limit. 
 
 Is Mariner subject to personal jurisdiction in D.C.? See Health Communications, Inc. v. Mariner Corp., 860 F.2d 460 (D.C. Cir. 1988). 
 
-# Problem 6 
+# Problem 5
 
 D & P, both residents of Pennsylvania, are partners in a Delaware business. The business fails, and a disagreement arises between D & P over the division of the partnership's remaining assets. Deciding to get away from it all, D moves to North Dakota. Assume North Dakota's long-arm statute provides for jurisdiction to the full extent permitted under the Constitution.
 
-## Question 6.1 
+## Question 5.1 
 
 If P sues D in a North Dakota court, claiming that D owes P $25,000 arising from their business partnership, may the North Dakota court assert jurisdiction?
 
@@ -77,7 +69,7 @@ c. Yes, because D is subject to general jurisdiction in North Dakota
 
 d. Yes, but only if D is personally served while present in North Dakota
 
-## Question 6.2
+## Question 5.2
 
 P has a vacation home on the Jersey shore. While P is spending the weekend there, D arranges to serve him with a complaint and summons in a suit D has filed in New Jersey court, claiming that P owes D $25,000 arising from their business partnership. May the New Jersey court assert jurisdiction?
 
@@ -89,7 +81,7 @@ c. No, because D's suit does not arise from, and is unrelated to, P's contacts w
 
 d. No, because New Jersey is not P's permanent home
 
-## Question 6.3 
+## Question 5.3 
 
 P sues D in a Delaware court, and obtains a judgment against D in the amount of $25,000. Assume that the Delaware court validly asserted personal jurisdiction over D based. P now seeks to collect on the Delaware judgment. He knows that D has a bank account in Florida, so he files an action in the Florida court, asking the court to attach D's bank account and order payment to P in the amount of the judgment. May the Florida court assert jurisdiction?
 

@@ -3,7 +3,8 @@ layout: post
 date: Fall 2020
 
 course: Civil Procedure 
-title: Practice Exam 3
+title: Practice Exam Questions III 
+subtitle: Subject Matter Jurisdiction & Personal Jurisdiction
 author: Prof. Fink
 affiliation: Elon Law School 
 
@@ -12,7 +13,7 @@ categories: exams
 ---
 
 
-## Part A
+# Part A
 
 Burnley Mills, a textile manufacturing company incorporated and headquartered in the State of Ealing, hired Sidney Stratton as a chemist in its stain prevention research and development department. Stratton left her long-time home in the State of Pinewood and moved to Ealing when she started work at Burnley. She is unsure how long she will remain with the company, as she has considered returning to school at Pinewood State University to pursue a doctorate in chemistry.
 
@@ -26,7 +27,7 @@ Two weeks after DuMond files its suit and serves the defendants with process, Bu
 
 You are a clerk for the federal judge assigned to the case. Draft a memo indicating how the court should rule on the motion to remand. (You may assume that both defendants are subject to personal jurisdiction, and should not discuss that issue.)
 
-## Part B 
+# Part B 
 
 To promote sales of Impervitex, Burnley places advertisements in various national fashion publications, such as Vogue and GQ, aimed at both clothing designers and consumers. As with all its products, Burnley sells Impervitex through an independent distributor, Fabricorp (incorporated and headquartered in Ealing). Barry Lyndon, Inc., a clothing design and manufacturing company incorporated and headquartered in the State of Cackalacky, orders several thousand yards of Impervitex through Fabricorp, for use in its new line of women’s clothing. For many years, Barry Lyndon has exclusively used Burnley fabrics in its designs, because they are known for being of particularly high quality. All Barry Lyndon garments include a label identifying the fabric as being manufactured by Burnley. Barry Lyndon sells its clothing through its flagship boutique in Gotham City (located in the State of Gotham), and through select retailers in other states (which do not include Ealing).
 

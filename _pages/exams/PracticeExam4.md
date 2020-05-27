@@ -3,7 +3,8 @@ layout: post
 date: Fall 2020
 
 course: Civil Procedure 
-title: Practice Exam 4
+title: Practice Exam Questions IV
+subtitle: Joinder, Personal Jurisdiction, & Subject Matter Jurisdiction
 author: Prof. Fink
 affiliation: Elon Law School 
 

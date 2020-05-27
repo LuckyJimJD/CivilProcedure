@@ -3,7 +3,8 @@ layout: post
 date: Fall 2020
 
 course: Civil Procedure 
-title: Practice Exam 1
+title: Practice Exam Questions I
+subtitle: Pleadings
 author: Prof. Fink
 affiliation: Elon Law School 
 

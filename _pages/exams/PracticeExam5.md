@@ -3,7 +3,8 @@ layout: post
 date: Fall 2020
 
 course: Civil Procedure 
-title: 'Personal Jurisdiction Problem 2: Model Answers'
+title: Practice Exam Questions V
+subtitle: Personal Jurisdiction
 author: Prof. Fink
 affiliation: Elon Law School 
 
@@ -17,8 +18,6 @@ output:
   
 ---
 
-# Problem
-
 Easycredit Mortgage Co., a Delaware corporation headquartered in Pennsylvania, brought a lawsuit in Pennsylvania court against Sprawlin Development Partnership, a business partnership organized under the laws of North Carolina and doing business exclusively in that state. Easycredit alleges that Sprawlin owes $250,000 pursuant to a loan agreement between the two entities. Sprawlin sought the loan agreement to secure the funding necessary to develop a residential development in Greensboro, North Carolina. The agreement had been negotiated and signed on behalf of Easycredit by its regional account representative in North Carolina.
 
 Under the agreement, Sprawlin was required to request funds from Easycredit as needed during the construction project. Those requests were made by telephone to Easycredit’s Pennsylvania headquarters. After the project was completed, Sprawlin sent interest payments to Easycredit in Pennsylvania. The loan agreement also required Sprawlin to send progress and operating reports on the project to Easycredit in Pennsylvania. The agreement contained a provision specifying that Pennsylvania law would govern any disputes arising out of the agreement, but did not specify where any such disputes should be brought. 
@@ -27,11 +26,11 @@ If Sprawlin moves to dismiss the complaint for lack of personal jurisdiction in 
 
 # Model Answer 
 
-1. Start with a complete statement of the rule/standard:
+## 1. Start with a complete statement of the rule/standard:
 
 > Under the "minimum contacts" standard for personal jurisdiction over a non-resident defendant, the focus is on whether the defendant's contacts with the forum state are sufficient that requiring the defendant to litigate in that state would not offend "traditional notions of fair play and substantial justice". If so, and if the suit arises out of those contacts, there is a presumption in favor of jurisdiction. The burden then shifts to the defendant to overcome that presumption, by identifying special circumstances that would make jurisdiction unreasonable despite the contacts. 
 
-2. Explain the provisions and key terms of the rule/standard: 
+## 2. Explain the provisions and key terms of the rule/standard: 
 
 > The defendant's contacts are based on the defendant’s own voluntary acts directed at the forum state. These may include the defendant’s activity within the forum state itself, or the defendant’s acts outside the forum state by which the defendant purposefully availed itself of the legal, economic, or other benefits or protections of the forum state.
 > 
@@ -39,13 +38,13 @@ If Sprawlin moves to dismiss the complaint for lack of personal jurisdiction in 
 > 
 > If the minimum contacts requirement is satisfied, the defendant then has the burden to show that the exercise of jurisdiction would be unreasonable based on these factors: (1) any special burden on the defendant (beyond the ordinary burden of having to defend a case in another state), (2) the plaintiff’s interest in litigating the matter in the forum state, (3) the forum state’s interest in the litigation, (4) the judicial system’s interest in efficient resolution of disputes, and (5) the competing policy interests of other states (or foreign jurisdictions). 
 
-3. As a bridge between your rule statement and analysis, illustrate the application of the rule by introducing cases in which the facts are analogous to, or distinguishable from, the facts in the problem:
+## 3. As a bridge between your rule statement and analysis, illustrate the application of the rule by introducing cases in which the facts are analogous to, or distinguishable from, the facts in the problem:
 
 > In McGee v. Int’l Life Ins., an Arizona insurance company issued a policy to a California resident, and then periodically communicated with the policyholder in California pursuant to the contract. Similarly, in Burger King, the Michigan defendants entered into a franchise contract with Burger King in Florida, attended Burger King training in Florida, and periodically communicated with Burger King in Florida pursuant to the contract. The Court held that, by voluntarily establishing a contractual relationship with a party in the forum state, and by ongoing communications and activities pursuant to the contract directed to the party in the forum state, the defendants in these cases had established contacts with the forum state. In Burger King, the contract also provided that Florida law would govern any disputes arising out of the contract. While this choice of law provision did not designate Florida as the forum state for such disputes, the Court observed that it further represented the defendants’ choice to avail themselves of the benefits and protections of FL law in their dealings with a FL entity. Since the suits in these cases arose out of the contracts, jurisdiction over the defendants in the forum state was proper in each case.
 
 Note: If you don't remember case names, the particular states involved, or other factual details, that's ok. Just describe the essential facts and outcome of the case(s) as best as you can remember, e.g.: "In a case where an out-of-state company hired salesmen in the forum state to solicit orders there, and where the claim against the company arose out of the salesmen's activity in the forum state, the court found that this arrangement established minimum contacts sufficient to permit jurisdiction over the defendant." Also, I won't be expecting you to use any cases in particular. You can use cases that are in the casebook, discussed in a supplement, mentioned in my outlines, etc. There's nothing especially magical about any of the "landmark" cases. They are significant only as illustrations of how a court has decided the issue under a particular set of facts that may be analogous to/distinguishable from the facts in the problem (which is how the common law method works). 
 
-4. Then proceed with your analysis, showing how the facts in the problem are analogous to, or distinguishable from, the illustrative cases:
+## 4. Then proceed with your analysis, showing how the facts in the problem are analogous to, or distinguishable from, the illustrative cases:
 
 > As in McGee and Burger King, this case arises out of a contract between a forum-state plaintiff, EasyCredit in PA, and an out-of-state defendant, Sprawlin in NC. The facts here are similar: Sprawlin voluntarily entered in to a contractual relationship with EasyCredit in PA. Pursuant to the contract, Sprawlin regularly communicated with EasyCredit in PA, calling to request funds, and mailing payments and reports. Also, as in Burger King, the contract between Sprawlin & EasyCredit included a PA choice of law clause. The contractual relationship and Sprawlin’s ongoing conduct aimed at PA under that contract represent Sprawlin’s voluntary acts purposefully aimed at PA. In addition, the contract’s PA choice of law clause represents Sprawlin’s purposeful availment of the benefits and protections of PA law in connection with the contract. This satisfies the minimum contacts requirement. 
 
@@ -57,8 +56,8 @@ The unusual facts of the Asahi case illustrate how steep a burden the defendant 
 
 On the exam, it will be sufficient for you to mention the reasonableness factors, and note any facts in the problem that the defendant might rely on to show that jurisdiction is unreasonable. 
 
-5. You might also address alternative or contrary arguments: 
+## 5. You might also address alternative or contrary arguments: 
 
 > Sprawlin may seek to distinguish this case from McGee and Burger King by emphasizing that EasyCredit sent its agent to NC, where the contract was negotiated and signed; that the real focus of the contract was not in PA but NC, where Sprawlin used the funds for its development project; that the the provisions requiring Sprawlin to call EasyCredit in PA to request additional funds and send payments there were probably standard terms of EasyCredit's contract, and that this arrangement was for the convenience of EasyCredit, not for Sprawlin's benefit; and that, (unlike the defendants in Burger King, who went to Florida for training required under the contract), there is no indication that any employee or agent of Sprawlin ever went to PA in connection with this contract.
 
-6. In the exam, it isn't necessary to end with a "Conclusion", since there won't be any additional points for summarizing what you've already said in your rule statement/explanation and analysis. 
+## 6. In the exam, it isn't necessary to end with a "Conclusion", since there won't be any additional points for summarizing what you've already said in your rule statement/explanation and analysis. 

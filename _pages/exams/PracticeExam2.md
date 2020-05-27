@@ -3,7 +3,8 @@ layout: post
 date: Fall 2020
 
 course: Civil Procedure 
-title: Practice Exam 2
+title: Practice Exam Questions II
+subtitle: Subject Matter Jurisdiction & Joinder
 author: Prof. Fink
 affiliation: Elon Law School 
 
@@ -41,7 +42,7 @@ Regardless of your answer to the previous question, assume Parker brings his sui
  
 4. A claim by the Bugle against ZF Corp. (incorporated and having its principal place of business in New York), which manufactured the Bugle t-shirts, for indemnification on Parker’s personal injury claim (assume, regardless of your answer to the previous question, that Parker’s claim is properly joined). 
 
-# Model Answer
+# Model Answers
 
 ## Part A
 
