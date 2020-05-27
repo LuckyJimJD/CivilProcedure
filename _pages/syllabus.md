@@ -44,9 +44,9 @@ There are numerous published study aids available for Civil Procedure. Two good 
 
 #### Grading
 
-Your final grade for the term will be based on a midterm exam (40%) and a final exam (60%). The midterm will be a take-home exam. The final will be a closed-book/closed-notes exam. These will consist of short-answer and essay questions. Dates for the midterm and final exams are indicated in the Class Schedule & Assignments section below. 
+Your final grade for the term will be based on a midterm exam (40%) and a final exam (60%). The midterm will be a take-home exam. The final will be a closed-book/closed-notes exam. The exams will consist of short-answer and essay questions. Dates for the midterm and final exams are indicated in the Class Schedule & Assignments section below. 
 
-There will also be online review quizzes during the term (as indicated in the Class Schedule & Assignments section below). These quizzes are intended as diagnostic tools to assess your understanding of the concepts and help focus your efforts in preparing for the midterm and final exams. They will be ungraded, but completion of each quiz is required to receive course credit. 
+There will also be online review quizzes during the term (as indicated in the Class Schedule & Assignments section below). These quizzes are intended as diagnostic tools to assess your understanding of the concepts and help focus your efforts in preparing for the midterm and final exams. The review quizzes will be ungraded, but completion of each quiz is required to receive course credit. 
 
 #### Class Preparation, Attendance, & Participation
 
