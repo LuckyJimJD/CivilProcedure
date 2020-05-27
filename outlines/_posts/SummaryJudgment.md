@@ -8,7 +8,7 @@ author: Prof. Fink
 affiliation: Elon Law School 
 
 categories: outlines 
-tags: 'summary judgment'
+tags: summary-judgment
 
 notes: true 
 

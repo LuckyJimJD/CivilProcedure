@@ -8,13 +8,8 @@ author: Prof. Fink
 affiliation: Elon Law School 
 
 categories: problems 
-tags: 'choice of law'
+tags: choice-of-law
 
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: syllabus.tex
-  
 ---
 
 # Problem 1

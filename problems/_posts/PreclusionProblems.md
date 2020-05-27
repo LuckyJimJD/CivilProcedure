@@ -8,12 +8,7 @@ author: Prof. Fink
 affiliation: Elon Law School 
 
 categories: problems 
-tags: preclusion
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: syllabus.tex
+tags: preclusion summary-judgment 
   
 ---
 

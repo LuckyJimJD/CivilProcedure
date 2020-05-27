@@ -9,13 +9,25 @@ affiliation: Elon Law School
 
 categories: problems 
 tags: pleadings
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: syllabus.tex
   
 ---
+
+
+# Problem 1 
+
+Guy Mackendrick was injured while attending a party at the office of Sterling Cooper, P.C., a New York advertising agency that handles advertising for Mackendrick’s business. During the party, a Sterling Cooper employee named Lois Sadler, who was drunk, drove over Mackendrick’s foot with a John Deere riding lawnmower. 
+
+As a result of this incident, Mackendrick has lost all of the toes on his left foot. He will require reconstructive surgery and extensive physical therapy. He has also experienced recurring nightmares about the incident, and has developed a morbid fear of garden tools, leaving him unable to enjoy his previous hobby of gardening. 
+
+Mackendrick hires you to represent him in a suit over his injury. Draft a complaint (using this form) asserting the following claims: 
+
+a. A claim against Sadler for her negligence in operating the mower. 
+
+b. A claim against Sterling Cooper seeking to hold them vicariously liable for Sadler's negligence. 
+
+What additional facts, if any, might you need to satisfy the pleading requirements under the FRCP? 
+
+# Problem 2
 
 After working at the Sterling Cooper advertising agency for about 18 months, Peggy Olson was very much surprised when her boss, Don Draper, called her into his office and told her she was being fired for poor performance. Olson believes the real reason was her rejection of Don's repeated and unwelcome advances. 
 

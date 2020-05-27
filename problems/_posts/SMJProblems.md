@@ -8,12 +8,7 @@ author: Prof. Fink
 affiliation: Elon Law School 
 
 categories: problems 
-tags: 'subject matter jurisdiction'
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: syllabus.tex
+tags: subject-matter-jurisdiction
   
 ---
 

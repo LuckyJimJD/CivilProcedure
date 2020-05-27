@@ -3,17 +3,12 @@ layout: post
 date: Fall 2020
 
 course: Civil Procedure 
-title: 'Subject Matter Jurisdiction & Joinder Problems'
+title: 'Subject Matter Jurisdiction & Joinder Problem'
 author: Prof. Fink
 affiliation: Elon Law School 
 
 categories: problems 
-tags: 'subject matter jurisdiction'
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: syllabus.tex
+tags: subject-matter-jurisdiction joinder 
   
 ---
 

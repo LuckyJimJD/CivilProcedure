@@ -1,24 +1,9 @@
 allowed-tags:
   - introduction
-  - 'federal courts'
-  - joinder 
-  - counterclaims 
-  - crossclaims 
-  - '3rd party claims'
-  - 'required parties'
-  - intervention 
-  - interpleader 
-  - 'personal jurisdiction'
-  - 'minimum contacts'
-  - 'stream of commerce'
-  - 'subject matter jurisdiction'
-  - 'diversity'
-  - 'federal question'
-  - venue 
-  - 'choice of law'
-  - erie 
+  - joinder  
+  - personal-jurisdiction
+  - subject-matter-jurisdiction
+  - choice-of-law
   - pleadings
-  - rule11
-  - rule12(b)(6)
-  - 'summary judgment'
+  - summary-judgment
   - preclusion 
