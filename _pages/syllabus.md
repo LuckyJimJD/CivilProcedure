@@ -28,13 +28,13 @@ Topics to be covered include the scope of a lawsuit, selection of an appropriate
 
 # Materials
 
-### Required 
+#### Required 
 
 Gerald Hess, et al, Civil Procedure: A Context & Practice Casebook (Carolina Academic Press, 2d ed. 2019)
 
 Federal Rules of Civil Procedure, Federal Judicial Statutes, & Restatements. Available online (see [Links page](https://www.emfink.net/CivilProcedure/links/)  on course website)
 
-### Study Aids 
+#### Study Aids 
 
 The course website, [`emfink.net/CivilProcedure`](https://www.emfink.net/CivilProcedure), has subject outlines, visual aids, practice problems, past exam questions, and other resources. 
 
@@ -42,13 +42,13 @@ There are numerous published study aids available for Civil Procedure. Two good 
 
 # Policies 
 
-### Grading
+#### Grading
 
 Your final grade for the term will be based on a midterm exam (40%) and a final exam (60%). The midterm will be a take-home exam. The final will be a closed-book/closed-notes exam. These will consist of short-answer and essay questions. Dates for the midterm and final exams are indicated in the Class Schedule & Assignments section below. 
 
 There will also be online review quizzes during the term (as indicated in the Class Schedule & Assignments section below). These quizzes are intended as diagnostic tools to assess your understanding of the concepts and help focus your efforts in preparing for the midterm and final exams. They will be ungraded, but completion of each quiz is required to receive course credit. 
 
-### Class Preparation, Attendance, & Participation
+#### Class Preparation, Attendance, & Participation
 
 Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. 
 
@@ -60,11 +60,11 @@ Elon Law School has adopted the following attendance policy for all courses:
 >
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
-### Disability Accommodations 
+#### Disability Accommodations 
 
 For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).  
 
-### Honor Code 
+#### Honor Code 
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
 
@@ -72,7 +72,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 _Note: Many of the topics covered in this course are governed by federal statutes and rules. It is essential that you read the assigned statutes and rules carefully, along with the casebook._
 
-## 1. Introduction 
+## Introduction 
 
 #### Date (1 day)
 
@@ -81,7 +81,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
 
-## 2. Shaping the Lawsuit: Parties and Claims 
+## Shaping the Lawsuit: Parties and Claims 
 
 ### Joining Claims 
 #### Date (2 days) 
@@ -119,7 +119,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Quiz: Joinder (Due Date)
 
-## 3. Chosing a Forum, Part 1: Personal Jurisdiction 
+## Chosing a Forum, Part 1: Personal Jurisdiction 
 
 ### Foundations of Personal Jurisdiction 
 
@@ -143,7 +143,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Quiz: Personal Jurisdiction (Due Date)
 
-## 4. Choosing a Forum, Part 2: Subject Matter Jurisdiction 
+## Choosing a Forum, Part 2: Subject Matter Jurisdiction 
 
 ### Foundations of Federal Subject Matter Jurisdiction 
 
@@ -185,7 +185,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Midterm Exam (Due Date)
 
-## 5. Choice of Law 
+## Choice of Law 
 
 ### Vertical Choice of Law: State or Federal?
 
@@ -204,7 +204,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Quiz: Choice of Law (Due Date)
 
-## 6. Pleading 
+## Pleading 
 
 ### Pleading Under the Federal Rules 
 
@@ -243,14 +243,14 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ##### Quiz: Pleadings (Due Date)
 
-## 7. Summary Judgment
+## Summary Judgment
 
 #### Date (2 days) 
 
 - FRCP Rules 12(d) & 56
 - Casebook, 609-35
 
-## 8. Preclusion
+## Preclusion
 
 ### Foundations of Claim & Issue Preclusion 
 
