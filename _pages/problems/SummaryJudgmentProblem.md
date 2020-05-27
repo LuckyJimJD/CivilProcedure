@@ -1,14 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Civil Procedure
-subtitle: "Review Problem: Summary Judgment"
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Summary Judgment Problems
+author: Prof. Fink
 affiliation: Elon Law School 
 
+categories: problems 
+tags: 'summary judgment'
 
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: syllabus.tex
+  
 ---
 
 Sally Schlimazel (domiciled in Florida), was injured when she cut her foot on a chair at the home of her neighbor, Freddie Frankel. The chair was designed by Mebelmacher Designs (incorporated and having its principal place of business in NC). Schlimazel sued Mebelmacher in the U.S. District Court for the Middle District of North Carolina, asserting a claim under state law based on strict liability for a defective product. (Assume Schlimazel seeks more than $75,000 in damages and the court has diversity jurisdiction.)

@@ -1,12 +1,14 @@
 ---
-layout: notes 
-date: Fall 2019 
+layout: outline
+date: Fall 2020
 
-title: Civil Procedure 
-subtitle: Choice of Law 
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Choice of Law
+author: Prof. Fink
 affiliation: Elon Law School 
+
+categories: outlines 
+tags: 'choice of law'
 
 notes: true 
 

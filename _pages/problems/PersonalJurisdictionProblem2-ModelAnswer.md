@@ -1,21 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Civil Procedure
-subtitle: "Personal Jurisdiction Problem 2: Model Answer"
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: 'Personal Jurisdiction Problem 2: Model Answers'
+author: Prof. Fink
 affiliation: Elon Law School 
 
-parskip: 0.5em 
+categories: problems 
+tags: 'personal jurisdiction'
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: default.tex
-
-
+    template: syllabus.tex
+  
 ---
 
 # Problem

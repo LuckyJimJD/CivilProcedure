@@ -1,14 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Civil Procedure
-subtitle: "Review Problem: Choice of Law"
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Choice of Law Problems
+author: Prof. Fink
 affiliation: Elon Law School 
 
+categories: problems 
+tags: 'choice of law'
 
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: syllabus.tex
+  
 ---
 
 # Problem 1

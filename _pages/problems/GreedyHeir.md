@@ -1,18 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Civil Procedure
-subtitle: "Personal Jurisdiction Problem: The Case of the Greedy Heirs"
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: 'Personal Jurisdiction Problem: The Case of the Greedy Heir'
+author: Prof. Fink
 affiliation: Elon Law School 
+
+categories: problems 
+tags: 'personal jurisdiction'
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: classnotes.tex
-
+    template: syllabus.tex
+  
 ---
 
 Mrs. Potter, a wealthy resident of Philadelphia, decides that the time has come to make provisions for her children after her death. She creates a trust, administered by the Delaware Bank & Trust Company (located, naturally enough, in Delaware). Under the terms of the trust, after Mrs. Potter's death, her daughter Dora will receive whatever money remains in the trust account. She also writes a will, leaving the remainder of her estate to her other daughter, Polly. 

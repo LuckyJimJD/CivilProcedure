@@ -1,13 +1,13 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Practice Exam
-subtitle: Question 1
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Practice Exam 1
+author: Prof. Fink
 affiliation: Elon Law School 
 
+categories: exams 
 
 ---
 

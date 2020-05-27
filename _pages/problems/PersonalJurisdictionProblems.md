@@ -8,7 +8,7 @@ author: Prof. Fink
 affiliation: Elon Law School 
 
 categories: problems 
-tags: personal-jurisdiction
+tags: 'personal jurisdiction'
 
 output: 
   pdf_document:

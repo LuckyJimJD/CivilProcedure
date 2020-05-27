@@ -1,14 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Civil Procedure  
-subtitle: "Review Problem: Pleadings"
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Pleadings Problems
+author: Prof. Fink
 affiliation: Elon Law School 
 
+categories: problems 
+tags: pleadings
 
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: syllabus.tex
+  
 ---
 
 After working at the Sterling Cooper advertising agency for about 18 months, Peggy Olson was very much surprised when her boss, Don Draper, called her into his office and told her she was being fired for poor performance. Olson believes the real reason was her rejection of Don's repeated and unwelcome advances. 

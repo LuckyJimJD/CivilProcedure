@@ -1,21 +1,22 @@
 ---
-layout: notes 
-date: Fall 2019 
+layout: outline
+date: Fall 2020
 
-title: Civil Procedure 
-subtitle: Summary Judgment 
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Summary Judgment 
+author: Prof. Fink
 affiliation: Elon Law School 
 
-secnumdepth: 3 
-parskip: 0.5em 
+categories: outlines 
+tags: 'summary judgment'
+
+notes: true 
 
 output: 
   pdf_document:
     latex_engine: xelatex
     template: default.tex
-        
+    
 ---
 
 # Basic Principles 

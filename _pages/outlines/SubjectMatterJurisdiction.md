@@ -1,14 +1,16 @@
 ---
-layout: notes 
-date: Fall 2019 
+layout: outline
+date: Fall 2020
 
-title: Civil Procedure 
-subtitle: Subject Matter Jurisdiction
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Subject Matter Jurisdiction 
+author: Prof. Fink
 affiliation: Elon Law School 
 
-notes: true
+categories: outlines 
+tags: 'subject matter jurisdiction'
+
+notes: true 
 
 output: 
   pdf_document:

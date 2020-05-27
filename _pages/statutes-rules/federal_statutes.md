@@ -8,16 +8,17 @@ title: 'Federal Judicial Statutes'
 cite: 'U.S. Code, Title 28 '
 
 categories: statutes
+tags: ['subject matter jurisdiction' diversity 'federal question' 'supplemental jurisdiction' venue removal]
   
 ---
 
-## Subject Matter Jurisdiction 
+# Subject Matter Jurisdiction 
 
-### § 1331. Federal question
+## § 1331. Federal question
 
 The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States. 
 
-### § 1332. Diversity of citizenship; amount in controversy; costs
+## § 1332. Diversity of citizenship; amount in controversy; costs
 
 (a) The district courts shall have original jurisdiction of all civil actions where the matter in controversy exceeds the sum or value of $75,000, exclusive of interest and costs, and is between—
     (1) citizens of different States;
@@ -38,7 +39,7 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 (e) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-### § 1367. Supplemental jurisdiction
+## § 1367. Supplemental jurisdiction
 
 (a) Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties. 
 
@@ -54,10 +55,9 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 (e) As used in this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
+# Venue
 
-## Venue
-
-### § 1390. Scope
+## § 1390. Scope
 
 (a) Venue Defined.— As used in this chapter, the term “venue” refers to the geographic specification of the proper court or courts for the litigation of a civil action that is within the subject-matter jurisdiction of the district courts in general, and does not refer to any grant or restriction of subject-matter jurisdiction providing for a civil action to be adjudicated only by the district court for a particular district or districts.
 
@@ -65,7 +65,7 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 (c) Clarification Regarding Cases Removed From Courts.— This chapter shall not determine the district court to which a civil action pending in a State court may be removed, but shall govern the transfer of an action so removed as between districts and divisions of the United States district courts.
 
-### § 1390. Venue generally 
+## § 1390. Venue generally 
 
 (a) Applicability of Section.—Except as otherwise provided by law—
     (1) this section shall govern the venue of all civil actions brought in district courts of the United States; and
@@ -89,11 +89,9 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 (g) [Omitted]
 
+# Removal
 
-
-## Removal
-
-### § 1441. Removal of civil actions
+## § 1441. Removal of civil actions
 
 (a) Generally.— Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending.
 
@@ -114,7 +112,7 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 (f) Derivative Removal Jurisdiction.— The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
 
-### § 1446. Procedure for removal of civil actions
+## § 1446. Procedure for removal of civil actions
 
 (a) Generally.— A defendant or defendants desiring to remove any civil action from a State court shall file in the district court of the United States for the district and division within which such action is pending a notice of removal signed pursuant to Rule 11 of the Federal Rules of Civil Procedure and containing a short and plain statement of the grounds for removal, together with a copy of all process, pleadings, and orders served upon such defendant or defendants in such action.
 
@@ -143,8 +141,7 @@ The district courts shall have original jurisdiction of all civil actions arisin
 
 (g)  [Omitted]
 
-
-### § 1447. Procedure after removal generally 
+## § 1447. Procedure after removal generally 
 
 (a) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
 

@@ -4,7 +4,6 @@ date: Fall 2020
 
 course: Civil Procedure
 title: Federal Rules of Civil Procedure
-subtitle: Selected Provisions
 
 categories: statutes
 tags: frcp 

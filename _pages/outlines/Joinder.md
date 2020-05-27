@@ -1,20 +1,22 @@
 ---
-date: Fall 2019 
+layout: outline
+date: Fall 2020
 
-title: Civil Procedure 
-subtitle: Joinder
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Joinder 
+author: Prof. Fink
 affiliation: Elon Law School 
 
-secnumdepth: 3 
-parskip: 0.5em 
+categories: outlines 
+tags: joinder
+
+notes: true 
 
 output: 
   pdf_document:
     latex_engine: xelatex
     template: default.tex
-        
+    
 ---
 
 # Basic Joinder 

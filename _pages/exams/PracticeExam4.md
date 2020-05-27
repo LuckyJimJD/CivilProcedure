@@ -1,14 +1,14 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Practice Exam
-subtitle: Question 4
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Practice Exam 4
+author: Prof. Fink
 affiliation: Elon Law School 
 
-  
+categories: exams 
+
 ---
 
 Angelica Sanchez is a citizen of Mexico, where she lives with her boyfriend, Arturo Quiñonez (also a Mexican citizen). Angelica’s two children, Roberto (age 10) & Carmen (age 7) lived with the couple until one year ago, when their aunt, Miriam Lopez (also a Mexican citizen), brought them across the border to El Paso, Texas. Lopez did so without Angelica’s knowledge. When Sanchez learned what had happened, she contacted Lopez and demanded that she bring the children home to Mexico. Lopez refused, believing that the children would not be safe if they returned home, because Quiñonez was involved in drug trafficking. Instead, Lopez contacted the Texas Department of Children’s Services (“DCS”), explaining that she feared for the children’s safety, but was unable to care for them herself. DCS took custody of the children and placed them in the temporary care of the South Texas Children’s Home (“STCH”, a non-profit corporation incorporated and having its sole place of business in Texas). Lopez then returned home to Mexico. 

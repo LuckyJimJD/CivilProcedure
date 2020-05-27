@@ -1,19 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Practice Exam
-subtitle: Question 2
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Practice Exam 2
+author: Prof. Fink
 affiliation: Elon Law School 
 
+categories: exams 
 
 ---
 
+
 Peter Parker, a lifelong resident of Pennsylvania, was reviewing his credit card bill and noticed a $100 charge for a subscription to the Daily Bugle, a newspaper published in New York (where it is incorporated and has its sole place of business). Parker had never subscribed to the Daily Bugle, and never received any copies of the paper. However, he recalled that, a few months earlier, he had visited the Bugle’s website and ordered a t-shirt with the paper’s stylish logo (pictured below). 
 
-![Daily Bugle]({{ site.baseurl }}/assets/problems/DailyBugle.png)
+![The Daily Bugle Newspaper](DailyBugle.png)
 
 After reading reports of other people similarly being improperly billed for Bugle subscriptions, Parker suspected that he was the victim of an elaborate scam. After further investigation, Parker concluded that the scam was concocted by J. Jonah Jameson (domiciled in New York), the Bugle’s business manager. Jameson did so as a way to artificially inflate the paper’s circulation figures, on which his salary was based. 
 

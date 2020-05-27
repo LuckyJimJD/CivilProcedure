@@ -3,7 +3,7 @@ layout: post
 date: Fall 2020
 
 course: Civil Procedure 
-title: 'The Emergence and Transformation of Disputes (Abridged)'
+title: 'The Emergence and Transformation of Disputes'
 author: 'William L.F. Felstiner, Richard L. Abel & Austin Sarat'
 cite: '15 Law & Society Review 630 (1981)'
 
@@ -13,7 +13,6 @@ tags: introduction
 ---
 
 ###### N.B. Citations and footnotes have been omitted. Other omissions are indicated by [ * * * ]. 
-
 
 # I. Introduction 
 

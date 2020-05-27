@@ -1,21 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Civil Procedure
-subtitle: "Joinder Problem: Model Answers"
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: 'Joinder Problems: Model Answers'
+author: Prof. Fink
 affiliation: Elon Law School 
 
-
-parskip: 0.5em 
+categories: problems 
+tags: joinder 
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: default.tex
-
+    template: syllabus.tex
+  
 ---
 
 Mrs. Claypool (a citizen of Pennsylvania), an aspiring society matron, hires Otis Driftwood (a citizen of NY) to act as her publicity agent. Driftwood arranges for Mrs. Claypool to meet Herman Gottlieb (a citizen of NY), director of the New York Opera Company, who is seeking a patron. Mrs. Claypool agrees to donate $500,000 to the Opera Company, so that it can hire Rodolfo Lassparri (a citizen of NY), the greatest tenor in the world. In exchange, Gottlieb agrees to name the Opera House after Mrs. Claypool. 

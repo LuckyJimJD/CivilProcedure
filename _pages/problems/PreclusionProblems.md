@@ -1,14 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Civil Procedure
-subtitle: "Review Problem: Preclusion Problems"
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Preclusion Problems
+author: Prof. Fink
 affiliation: Elon Law School 
 
+categories: problems 
+tags: preclusion
 
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: syllabus.tex
+  
 ---
 
 # Problem 1

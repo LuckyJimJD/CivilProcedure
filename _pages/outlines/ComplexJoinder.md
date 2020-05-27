@@ -1,12 +1,14 @@
 ---
-layout: notes 
-date: Fall 2019 
+layout: outline
+date: Fall 2020
 
-title: Civil Procedure 
-subtitle: Complex Party Joinder 
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: 'Joinder: Required Parties, Intervention, & Interpleader'
+author: Prof. Fink
 affiliation: Elon Law School 
+
+categories: outlines 
+tags: joinder
 
 notes: true 
 

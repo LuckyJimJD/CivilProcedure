@@ -1,18 +1,22 @@
 ---
-layout: notes 
-date: Fall 2019
+layout: outline
+date: Fall 2020
 
-title: Civil Procedure 
-subtitle: Subject Matter Jurisdiction
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: 'Subject Matter Jurisdiction: Understanding Grable'
+author: Prof. Fink
 affiliation: Elon Law School 
+
+categories: outlines 
+tags: 'subject matter jurisdiction'
+
+notes: true 
 
 output: 
   pdf_document:
     latex_engine: xelatex
     template: default.tex
-
+    
 ---
 
 # Essential Federal Element of a State Law Claim 

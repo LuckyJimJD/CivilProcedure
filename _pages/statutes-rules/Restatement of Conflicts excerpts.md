@@ -1,26 +1,18 @@
 ---
+layout: notes 
 date: Fall 2019 
 
-title: Civil Procedure
+course: Civil Procedure
+title: 'Restatement (2d) of Conflicts of Law'
 
-author: Eric M. Fink
-affiliation: Elon Law School 
+categories: statutes
+tags: [restatements 'choice of law']
 
-raggedright: true 
-#delete for justified paragraphs
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: default.tex
-    
 ---
 
-# Restatement (2d) of Conflicts of Law  
+# General Principles
 
-## General Principles
-
-### §6. Choice-Of-Law Principles
+## §6. Choice-Of-Law Principles
 
 1. A court, subject to constitutional restrictions, will follow a statutory directive of its own state on choice of law.
 
@@ -34,9 +26,9 @@ output:
     f. certainty, predictability and uniformity of result, and 
     g. ease in the determination and application of the law to be applied.
 
-## Torts
+# Torts
 
-### §145. The General Principle
+## §145. The General Principle
 
 1.  The rights and liabilities of the parties with respect to an issue in tort are determined by the local law of the state which, with respect to that issue, has the most significant relationship to the occurrence and the parties under the principles stated in §6.
 2.  Contacts to be taken into account in applying the principles of §6 to determine the law applicable to an issue include:
@@ -47,9 +39,9 @@ output:
     d.  the place where the relationship, if any, between the parties is centered.
 These contacts are to be evaluated according to their relative importance with respect to the particular issue.
 
-## Contracts
+# Contracts
 
-### §187. Law of the State Chosen by the Parties
+## §187. Law of the State Chosen by the Parties
 
 1.  The law of the state chosen by the parties to govern their contractual rights and duties will be applied if the particular issue is one which the parties could have resolved by an explicit provision in their agreement directed to that issue.
 
@@ -60,7 +52,7 @@ These contacts are to be evaluated according to their relative importance with r
 
 3.  In the absence of a contrary indication of intention, the reference is to the local law of the state of the chosen law.
 
-### §188. Law Governing In Absence Of Effective Choice By The Parties
+## §188. Law Governing In Absence Of Effective Choice By The Parties
 
 1.  The rights and duties of the parties with respect to an issue in contract are determined by the local law of the state which, with respect to that issue, has the most significant relationship to the transaction and the parties under the principles stated in §6.
 

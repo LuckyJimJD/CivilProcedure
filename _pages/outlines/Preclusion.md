@@ -1,21 +1,22 @@
 ---
-layout: notes 
-date: Fall 2019 
+layout: outline
+date: Fall 2020
 
-title: Civil Procedure 
-subtitle: Preclusion
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Preclusion 
+author: Prof. Fink
 affiliation: Elon Law School 
 
-secnumdepth: 3 
-parskip: 0.5em 
+categories: outlines 
+tags: preclusion 
+
+notes: true 
 
 output: 
   pdf_document:
     latex_engine: xelatex
     template: default.tex
-        
+    
 ---
 
 # Introduction

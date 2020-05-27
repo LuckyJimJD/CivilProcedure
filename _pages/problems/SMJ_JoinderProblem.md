@@ -1,14 +1,20 @@
 ---
 layout: post 
-date: Fall 2019 
+date: Fall 2020
 
-title: Civil Procedure
-subtitle: "Review Problem: SMJ & Joinder"
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: 'Subject Matter Jurisdiction & Joinder Problems'
+author: Prof. Fink
 affiliation: Elon Law School 
 
+categories: problems 
+tags: 'subject matter jurisdiction'
 
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: syllabus.tex
+  
 ---
 
 Waverly Hotels, Inc. is incorporated in Delaware with its principal place of business in North Carolina. Slate Construction is a business partnership (unincorporated association) based in Maryland, owned by partners who are domiciled in Delaware, Pennsylvania, and Maryland. Modern Interiors, Inc. is incorporated and has its principal place of business in North Carolina. 
