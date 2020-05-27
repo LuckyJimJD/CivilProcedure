@@ -12,4 +12,4 @@ tags: 'civil action'
   
 ---
 
-![Civil Action Flowchart](../../assets/img/CivilAction.png)
+![Civil Action Flowchart](../../assets/img/introduction/CivilAction.png)

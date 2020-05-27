@@ -8,7 +8,7 @@ author: Prof. Fink
 affiliation: Elon Law School 
 
 categories: outlines 
-tags: 
+tags: introduction
 
 notes: true 
 
@@ -37,18 +37,18 @@ Procedure: Rules determining how the court manages the dispute
 
 ## Procedure as Aspect of Due Process
 
-#### Constitutional requirement
+##### Constitutional requirement
  
-*5th Amendment*: applies to federal government
+5th Amendment: applies to federal government
 
-*14th Amendment*: applies to state government 
+14th Amendment: applies to state government 
 
 ##### Elements
 
 - Notice
 - Opportunity to be heard
 
-# Courts as socio-legal institutions
+# Courts as Socio-Legal Institutions
 
 ## The Judicial Process
 
@@ -293,7 +293,7 @@ In some states (e.g. NY), judges on some courts are elected while others are app
 
 # Outline of a Civil Action
 
-![Civil Action Flowchart](../../assets/img/CivilAction.png)
+![Civil Action Flowchart](../../assets/img/introduction/CivilAction.png)
 
 ## Precipitating incident
 
