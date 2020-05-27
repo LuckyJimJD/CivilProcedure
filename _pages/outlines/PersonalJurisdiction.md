@@ -1,12 +1,14 @@
 ---
-layout: notes 
-date: Fall 2019 
+layout: outline
+date: Fall 2020
 
-title: Civil Procedure 
-subtitle: Personal Jurisdiction
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: Personal Jurisdiction
+author: Prof. Fink
 affiliation: Elon Law School 
+
+categories: outlines 
+tags: personal-jurisdiction
 
 notes: true 
 
@@ -16,7 +18,6 @@ output:
     template: default.tex
     
 ---
-
 
 # Basic Principles 
 
@@ -28,11 +29,11 @@ Court’s authority to bind the parties to judgment
 
 ## Basis of Personal Jurisdiction 
 
-#### Sovereignty
+### Sovereignty
 
 - Territorial
 
-#### Due Process
+### Due Process
 
 - Notice
 - Fairness of requiring party to appear
@@ -45,21 +46,23 @@ Court’s authority to bind the parties to judgment
 
 #### Pennoyer v. Neff (US 1878)
 
+##### Facts & Procedural History 
+
 Prior suit: Mitchell v. Neff (Oregon state court)
 
-- Mitchell sued Neff to collect unpaid attorney’s fees
-- No personal service on Neff, who was not in Oregon
+- Mitchell (Oregon resident) sued Neff (not Oregon resident) to collect unpaid attorney’s fees
+	- Service by publication in Oregon newspaper
 - Court entered default judgment against Neff, who failed to appear
-- Mitchell satisfied judgment by attachment and execution on Neff’s Oregon property
+	- Mitchell satisfied judgment by attachment and execution on Neff’s Oregon property
 
 This suit: Neff v. Pennoyer (Oregon federal court)
 
 - Neff sued to recover property from Pennoyer, who bought the property at sheriff’s sale
 	- Trial court ruled in favor of Neff, based on defects in affidavit of service by publication in the prior case
 - Supreme Court affirmed
-	- Majority says defects in affidavit may only be challenged on direct appeal, not collateral attack
-	- But affirms the judgment based on lack of personal jurisdiction in prior case
-	- Why does the Court do that, rather than remand?
+	- Defects in affidavit of service may only be challenged on direct appeal, not collateral attack
+	- But default judgment was void because the Oregon court lacked personal jurisdiction over Neff 
+	- Absent a valid judgment, the attachment and sale of the property was also void
 
 ##### Holding
 
@@ -91,8 +94,7 @@ Court recognizes exceptions to the physical presence requirement
 
 ##### Questions
 
-If Mitchell had personally served Neff in California (where Neff lived), would that have been effective?
-	- Why not?
+If Mitchell had personally served Neff in California (where Neff lived), would that have been effective? Why?
 
 Was there any way Mitchell could have sued in Oregon?
 
@@ -111,9 +113,8 @@ Was there any other way to sue Neff in Oregon?
 
 ##### Rationale
 
-Scalia: Tradition
-
-Brennan: Minimum Contacts
+- Scalia: Tradition
+- Brennan: Minimum Contacts
 
 #### Problems
 
@@ -159,6 +160,8 @@ Out-of-state motorist’s use of state’s roads implies appointment of a state 
 
 #### Ins. Corp. of Ireland, Ltd. v. Compagnie des Bauxites de Guinee (US 1982)
 
+##### Facts & Procedural History 
+
 CBG (a DE corporation based in Guinea) sued multiple insurance carriers including ICI (incorporated & based in Ireland) in PA federal court. Suit involved dispute over insurance coverage. 
 
 ICI & other foreign defendants asserted lack of personal jurisdiction as a defense. CBG served discovery requests seeking documents pertaining to foreign defendants’ activities in PA, for purpose of establishing jurisdiction. After defendants repeated failure to produce the documents, the trial court imposed discovery sanctions under FRCP Rule 37(b). Sanctions included an order, pursuant to Rule 37(b)(2)(A), that “for the purposes of this litigation the [foreign defendants] are subject to the in personam jurisdiction of this Court due to their business contacts with Pennsylvania”. 
@@ -178,7 +181,7 @@ The requirement of personal jurisdiction is not a limit on the court’s soverei
 A defendant’s conduct may constitute implied consent to jurisdiction, or may result in the defendant’s being estopped from contesting jurisdiction
 	- This may include the defendant’s failure to comply with procedural rules
 
-##### Problems
+#### Problems
 
 Neff sues Mitchell in Oregon for legal malpractice
 
@@ -192,13 +195,15 @@ Suppose that Dowell, a resident of Oregon, has an unrelated claim against Neff f
 
 #### Carnival Cruise Lines v. Shute (US 1991)
 
-A non-negotiable forum selection clause was enforceable against Plaintiffs, even though plaintiffs didn't receive tickets until after they'd already paid and the clause was printed on reverse of ticket. 
+A non-negotiable forum selection clause was enforceable against plaintiffs, even though they didn't receive tickets until after they'd already paid and the clause was printed on reverse of ticket. 
 
 # Jurisdiction Based on Contacts
 
 ## Origins of the Minimum Contacts Standard
 
 #### International Shoe v. Washington (US 1945)
+
+##### Facts & Procedural History 
 
 Missouri corporation sold shoes through sales representatives in Washington. 
 
@@ -237,11 +242,13 @@ Service of process on company's in-state employees (agents), whose in-state acti
 
 #### Hanson v. Denckla (US 1958)
 
- Donner, a Pennsylvania resident, established a trust, naming a Delaware bank as trustee. 
+##### Facts & Procedural History 
+
+Donner, a Pennsylvania resident, established a trust, naming a Delaware bank as trustee. 
  
- After Donner moved to Florida, she executed a power of appointment transferring $400k from the trust to two other trusts that her daughter, Hanson, had established for the benefit of her sons (Donner's grandsons). Another Delaware bank was the trustee for these trusts. 
+After Donner moved to Florida, she executed a power of appointment transferring $400k from the trust to two other trusts that her daughter, Hanson, had established for the benefit of her sons (Donner's grandsons). Another Delaware bank was the trustee for these trusts. 
  
- Donner also executed a will, naming Hanson as executor, and directed that the balance of the original trust ($1 million) would pass under the will.
+Donner also executed a will, naming Hanson as executor, and directed that the balance of the original trust ($1 million) would pass under the will.
 
 Donner’s two other daughters, Denckla & Stewart, were the residual beneficiaries under the will. They contested the validity of the appointment granting $400k from the Donner trust to the two Hanson trusts, contending that this money should also pass to them under the will.
 
@@ -276,9 +283,11 @@ Trustee’s mere continuation of business with settler, after she moved from PA 
 
 Following *International Shoe* & *Hanson*, would Neff have been subject to jurisdiction in Oregon on Mitchell’s breach of contract suit?
 
-## Minimum Contacts based on Contractual Relationships
+## Contacts Based on Contractual Relationships
 
 #### McGee v. International Life Ins. Co. (US 1957)
+
+##### Facts & Procedural History 
 
 McGee sued International Life, a Texas corporation, in California state court over its refusal to pay benefits under a life insurance policy. The policy was issued by Empire Mutual, an Arizona corporation, which sold the policy to Franklin, a California resident. 
 
@@ -324,7 +333,7 @@ After A reaches SC, the tire has a blow out.
 
 - In a suit by A against C for breach of warranty, is C subject to jurisdiction in SC?
 
-## Minimum Contacts Based on Publication
+## Contacts Based on Publication
 
 #### Keeton v Hustler Magazine (US 1984)
 
@@ -373,9 +382,11 @@ Defendants did not have sufficient NC contacts to support jurisdiction
 - Only 14 books, out of 10,000+ total, were sold in NC
 - No marketing efforts aimed at NC
 
-## Minimum Contacts and the Stream of Commerce
+## Contacts and the Stream of Commerce
 
 #### World Wide Volkswagen v. Woodson (US 1980)
+
+##### Facts & Procedural History 
 
 The Robinsons purchased an Audi from Seaway VW, a NY dealer. The car was manufactured by Audi (Germany), imported by VW of America (NJ), and distributed by World-Wide VW (NY). 
 
@@ -438,6 +449,8 @@ Brennan would abandon the “defendant focus” of *International Shoe* and also
 
 #### Asahi Metal Industry Co. v. Superior Ct. (US 1987)
 
+##### Facts & Procedural History 
+
 Zurcher was injured, and his wife killed, in a motorcycle accident in California.
 
 Zurcher sued Cheng Shin, Taiwanese manufacturer of motorcycle’s tires, in California. Cheng Shin impleaded Asahi, Japanese manufacturer of tire valves. 
@@ -492,6 +505,8 @@ But exercise of jurisdiction is unreasonable, based on the “interest” factor
 
 #### J. McIntyre Machinery Ltd. V. Nicastro (US 2011)
 
+##### Facts & Procedural History 
+
 Suit against British manufacturer of machine that injured plaintiff in NJ.  Machine was sold in US by independent distributor, not under McIntyre’s control. Distributor followed McIntyre’s “direction and guidance whenever possible” in advertising and sales. No more than four machines ended up in NJ. McIntyre held US patents and McIntyre personnel attended industry events in US (but not in NJ) to promote sales. 
 
 ##### Holding & Analysis
@@ -522,13 +537,13 @@ Would apply Brennan’s “stream of commerce” theory
 
 ## Varieties of Long-Arm Statute
 
-#### Constitutional-limits statute
+### Constitutional-limits statute
 
 Co-extensive with constitutional limits on jurisdiction
 
 - Example: California
 
-#### Enumerated statute
+### Enumerated statute
 
 Applies to specifically-enumerated acts
 
@@ -543,6 +558,8 @@ Often interpreted to extend to constitutional limits
 ## Applying Long-Arm Statutes
 
 #### Gray v. American Radiator & Standard Sanitary Corp. (Ill. 1961)
+
+##### Facts & Procedural History 
 
 Gray was injured when a water heater, manufactured by American Radiator (IL), exploded. Explosion was caused by valve manufactured by Titan (Ohio). 
 
@@ -594,6 +611,8 @@ For purposes of personal jurisdiction, the company was effectively “at home”
 
 #### Helicopteros Nacionales de Colombia v. Hall (US 1984)
 
+##### Facts & Procedural History 
+
 Wrongful death action arising from helicoptor accident in Peru
 
 Defendant, Columbian corporation, operated helicopter per contract with decedants’ employer, Peruvian corportion that was alter ego of Texas corporation
@@ -623,6 +642,8 @@ Contract included forum selection clause providing that any suits arising out of
 
 #### Goodyear Dunlop Tires Operations, S.A. v. Brown (US 2011)
 
+##### Facts & Procedural History 
+
 Parents of children killed in bus accident in France sued tire manufacturer in NC. Tires were manufactured by Turkish subsidiary of US corporation. 
 
 The parent corporation conceded jurisdiction, based on its own activity in NC. 
@@ -640,6 +661,8 @@ General jurisdiction applies only where foreign corporation’s contacts “are 
 “Stream of commerce” theory has no application in general jurisdiction context, where the claim does not arise from any forum-state contacts
 	
 #### Daimler AG v. Bauman (US 2014)
+
+##### Facts & Procedural History 
 
 Residents of Argentina sued Daimler in California federal court, alleging that Daimler’s Argentinian subsidiary collaborated with government security forces during Argentina’s “dirty war”. Plaintiffs were victims, or family members of victims, of government human rights abuses.
 
@@ -692,6 +715,8 @@ Property belonging to the defendant/judgment-debtor is used to secure or satisfy
 
 #### Harris v. Balk (US 1905)
 
+##### Facts & Procedural History 
+
 Harris (NC) owed money to Balk (NC); Balk (NC) owed money to Epstein (MD)
 
 While Harris was traveling in MD, Epstein brought *quasi in rem* action, attaching Harris’s debt to Balk, to satisfy Balk’s debt to Epstein. MD court ordered Harris to pay Epstein instead of Balk. 
@@ -723,6 +748,8 @@ Attachment of Balk’s property in MD is sufficient to satisfy due process.
 ## Minimum Contacts & In Rem Jurisdiction
 
 #### Shaffer v. Heitner (US 1977)
+
+##### Facts & Procedural History 
 
 Shaffer brought shareholder derivative suit in DE against Greyhound Corp. (DE corp, based in AZ) & corporate directors (not DE residents)
 

@@ -1,23 +1,14 @@
 ---
-date: Fall 2019
+layout: post
+date: Fall 2020
 
-title: Civil Procedure
-subtitle: "Federal Judicial Statutes & Rules of Civil Procedure"
+course: Civil Procedure
+title: Federal Rules of Civil Procedure
+subtitle: Selected Provisions
 
-author: Eric M. Fink
-affiliation: Elon Law School 
+categories: statutes
+tags: frcp 
 
-fontsize: 10pt 
-
-nofoot: true
-columns: 2
-geometry: top=1in,bottom=1in,left=.5in,right=.5in
-
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: default.tex
-    
 ---
 
 # Federal Judicial Statutes

@@ -1,17 +1,13 @@
 ---
-layout: page
-title: 'Civil Procedure'
-subtitle: 'Federal Judicial Statutes (28 U.S. Code, Title 28)'
-author: Eric M. Fink
-affiliation: Elon Law School
+layout: post
 
-fontsize: 10pt
-parskip: 0.25em
+date: Fall 2020 
 
-output: 
-  pdf_document:
-    latex_engine: xelatex
-    template: default.tex
+course: 'Civil Procedure'
+title: 'Federal Judicial Statutes'
+cite: 'U.S. Code, Title 28 '
+
+categories: statutes
   
 ---
 

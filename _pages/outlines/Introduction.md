@@ -1,14 +1,14 @@
 ---
-layout: notes 
-date: Fall 2019 
+layout: outline
+date: Fall 2020
 
-course: Civil Procedure
-title: Introduction
-
-categories: notes 
-
-author: Eric M. Fink
+course: Civil Procedure 
+title: 'Civil Procedure: Introduction'
+author: Prof. Fink
 affiliation: Elon Law School 
+
+categories: outlines 
+tags: 
 
 notes: true 
 
@@ -23,15 +23,15 @@ output:
 
 ## Procedure v. Substance
 
-#### Outcome determination
+##### Outcome determination
 
 But many cases are won or lost on procedure, not substance
 
-#### Primary rights
+##### Primary rights
 
-*Substance*: Rules determining underlying rights and obligations in dispute
+Substance: Rules determining underlying rights and obligations in dispute
 
-*Procedure*: Rules determining how the court manages the dispute
+Procedure: Rules determining how the court manages the dispute
 	
 - But procedural rules may also be rooted in fundamental rights, especially Due Process
 
@@ -43,7 +43,7 @@ But many cases are won or lost on procedure, not substance
 
 *14th Amendment*: applies to state government 
 
-#### Elements
+##### Elements
 
 - Notice
 - Opportunity to be heard
@@ -56,7 +56,7 @@ Wigmore, The Judicial Function, in Science of Legal Method at xxviii (1921):
 
 > [The] process .. of deciding, by an agent of state power, a controversy existing between two individuals (or the State and an individual), by rational (not merely personal) considerations, purporting to rest on justice and law (i.e. the community’s general sense of order).
 
-#### Elements of Wigmore’s definition
+Elements of Wigmore’s definition:
 
 - Decision
     - State power (authority)
@@ -65,7 +65,7 @@ Wigmore, The Judicial Function, in Science of Legal Method at xxviii (1921):
 - Rational/Impersonal (cf. Max Weber)
 - Justice and law (community norms)
 
-## The Legislative Process:
+## The Legislative Process
 
 Wigmore:
 
@@ -73,7 +73,7 @@ Wigmore:
 
 ## Law as a Social Construct & Practice 
 
-### Turning Disputes into Claims
+### Disputes & Claims
 
 Felstiner, Abel, & Sarat, The Emergence and Transformation of Disputes: Naming, Blaming, Claiming, 15 Law & Society Review 631 (1980-81)
 
@@ -93,15 +93,17 @@ May be in tension or conflict
 	- Example: Internal rules of a private organization (corporation, labor union, social club, homeowners’ association, etc.) may be subject to requirements or limitations under state or federal law.
 - Applicability may depend on time/place/activity/dispute
 
-#### Example
+##### Example
 
-Religious law governs religious matters, without interference by secular law
+Religious law governs religious matters (e.g. appointment of clergy), without interference by secular law. 
 
-But secular law may govern matters affecting secular rights and liabilities of religious institutions (e.g. ownership of church property) 
+But secular law may govern matters affecting secular rights and liabilities of religious institutions (e.g. ownership of church property). 
 
 ### Multiple Institutions
 
-Official courts are not the only, nor necessarily the primary, institution through which parties seek to resolve disputes. Even disputes that might be within the jurisdiction of official courts are frequently resolved by other means. 
+Official courts are not the only, nor necessarily the primary, institution for dispute resolution. 
+
+Even disputes that might be within the jurisdiction of official courts are frequently resolved by other means:
 
 - Arbitration and mediation 
 - Social sanctions (shunning, gossip, etc.) 
@@ -110,7 +112,7 @@ Official courts are not the only, nor necessarily the primary, institution throu
 
 ## Dual Court Systems: State & Federal
 
-### Aspect of federalism
+### Federalism
 
 Dual sovereignty of federal and state governments
 
@@ -128,17 +130,19 @@ Federal courts may sometimes decide cases that involve matters of state law
 - Diversity jurisdiction: Cases with state law claims between parties who are citizens of different states 
 - Supplemental jurisdiction: Cases with both federal and state law claims arising from same dispute
 
-## The Federal Court System
+# Federal Courts
 
-#### U.S. Constitution, Article III, sec. 1:
+#### U.S. Constitution, Article III, sec. 1
 
 > The judicial power of the United States, shall be vested in one Supreme Court, and in such inferior courts as the Congress may from time to time ordain and establish.
 
-The Constitution mandates only a single federal court, the Supreme Court
+The Constitution mandates only a single federal court, the Supreme Court.
 
 - Congress early on established a system of lower courts to hear most cases in the initial instance, limiting the Supreme Court’s jurisdiction primarily to appeals from those lower courts.
 - The system and organization of lower courts has varied historically.
 - The present system organizes the federal courts into three hierarchical levels
+
+## Article III Courts: Structure  
 
 ### U.S. District Courts
 
@@ -148,7 +152,7 @@ One or more in each state.
 
 ### U.S. Courts of Appeal
 
-#### Organization
+##### Organization
 
 12 Circuits defined by geographical coverage
 
@@ -162,7 +166,7 @@ One or more in each state.
     - Appeals from certain federal administrative tribunals (e.g. Court of Federal Claims, Merit Systems Protection Board, Court of Appeals for Veterans Claims, Trademark Trial & Appeal Board, Board of Patent Appeals & Interferences, Board of Contract Appeals, International Trade Commission)
 	- Appeals from U.S. District Courts in cases arising under certain federal laws (e.g. Patents)
 
-#### Composition
+##### Composition
 
 Appeals are typically heard by a panel of 3 judges.
 
@@ -179,12 +183,12 @@ En banc review:
 
 > In all cases affecting ambassadors, other public ministers and consuls, and those in which a state shall be party, the Supreme Court shall have original jurisdiction. In all the other cases before mentioned, the Supreme Court shall have appellate jurisdiction, both as to law and fact, with such exceptions, and under such regulations as the Congress shall make.
 
-#### Composition (not set by Constitution)
+##### Composition (not set by Constitution)
 
 - 1 Chief Justice
 - 8 Associate Justices
 
-#### Appellate Jurisdiction
+##### Appellate Jurisdiction
 
 Discretionary review
 
@@ -194,19 +198,17 @@ Discretionary review
 - Review of state court decisions
 	- The Supreme Court may review decisions by a state’s highest court, but only where there is an issue of federal law (substantive or procedural) at stake.
 
-#### Original Jurisdiction
+##### Original Jurisdiction
 
 Constitution (Article III, sec. 2) gives the Supreme Court original jurisdiction over certain cases.
 
-### Appointment of Federal Judges
+## Article III Courts: Appointment of Judges
 
-#### Article III Courts
-
-Judges are appointed by President, with confirmation by Senate
+Judges are appointed by President, with confirmation by Senate.
 
 - Lifetime appointment, subject to removal by impeachment 
 
-#### Administrative Law Judges
+## Administrative Courts 
 
 In addition to the federal courts established under Article III, there are a variety of adjudicatory tribunals as part of the federal administrative state. These tribunals perform quasi-judicial functions, and operate much like courts, though often with less formality in their procedures.
 
@@ -216,73 +218,82 @@ The presiding officers on these tribunals are often called Administrative Law Ju
 
 The Administrative Law and Federal Courts courses address the Constitutional status and operation of these tribunals.
 
-## State Court Systems
+# State Courts
 
-### Organization
+## Structure 
 
-#### Trial Courts
+### Trial Courts
 
 Nomenclature varies
 
 - NC: Superior Court
 - Other states use different names (e.g. PA: Court of Common Pleas; NY: Supreme Court)
 
-Geographical coverage
+Typically organized by county or multi-county district. 
 
-- State trial courts usually cover a single county or a few contiguous counties within the state
-- Sometimes there are inferior courts, e.g. small claims courts for disputes over small dollar amounts, or special courts for limited types of issues. 
+Most states also have "inferior" courts, e.g. small claims courts for disputes over small dollar amounts, or special courts for limited types of issues. 
 	- N.C.: District Courts
 	- Typically, state procedure allows parties to seek a de novo trial in superior trial court
 
-#### Appellate Courts
+### Appellate Courts
 
 Most states follow the federal system in having two levels of appellate court
 
-#### Intermediate Appellate Court 
+##### Intermediate Appellate Court 
 
-In some states, there is a single intermediate-level appellate court, which hears direct appeals from all trial-level courts
+In some states, there is a single intermediate-level appellate court, which hears direct appeals from all trial-level courts.
 
 - e.g. NC Court of Appeals
 
 In other states, there are multiple intermediate-level appellate courts
 
-- Geographic division: e.g. NY & CA: multiple intermediate appellate courts each covering a geographical territory, akin to the U.S. Circuits
-- Subject Matter division: e.g. PA (Superior Court hears most appeals; Commonwealth Court hears appeals in which the state is a party, and cases under certain state laws) 
+- Geographic division (e.g. NY & CA)
+	- Multiple intermediate appellate courts each covering a geographical territory (similar to the U.S. Courts of Appeal)
+- Subject Matter division 
+	- e.g. PA
+		- Superior Court: hears most appeals; 
+		- Commonwealth Court: hears appeals in which the state is a party, and cases under certain state laws
 
-#### Supreme Court
+##### Supreme Court
 
-Sometimes known by other name, e.g. NY Court of Appeals; Mass. Supreme Judicial Court)
+Sometimes known by other name (e.g. NY Court of Appeals; Mass. Supreme Judicial Court)
 
-Appellate jurisdiction is typically discretionary, as with U.S. Supreme Court
+Appellate jurisdiction is typically discretionary, as with U.S. Supreme Court.
 
 - Automatic right to review in some circumstances
-	- NC: constitutional question; dissent in Court of Appeals; Utilities Commission General Rate Cases; Bar Exam, Judicial Standards
+	- NC: constitutional question; dissent in Court of Appeals; Utilities Commission General Rate Cases; Bar Exam; Judicial Standards
 
-Original Jurisdiction over certain cases, as provided under state constitution or by statute
+May also have original jurisdiction over certain cases, as provided under state constitution or by statute. 
 
-### Appointment of Judges
+## Appointment of Judges
 
 Varies by state
 
-#### Direct Election (21 states)
+### Direct Election (21 states)
 
-May be partisan (8 states) or nonpartisan)
+May be partisan or nonpartisan. 
 
 - NC changed from nonpartisan to partisan elections in 2016-17. 
 
-In some states (e.g. CA, PA), after serving an initial term, judges face a retention election for an additional term; in other states (e.g. NY, NC), an incumbent judge wishing to serve another term must face another contested election.
+In some states (e.g. CA, PA), after serving an initial term, judges face a retention election for an additional term
 
-#### Merit Selection ("Missouri Plan")
+In other states (e.g. NY, NC), an incumbent judge wishing to serve another term must face another contested election.
+
+### Merit Selection ("Missouri Plan")
 
 A special non-partisan commission recommends a list of potential judges, from which the governor selects a nominee for approval by the legislature.
 
-In some states (e.g. CO), after an initial period of service (typically one or two years), judges face a retention election; in other states (e.g. DE), after serving a full term, judges may be reappointed through the same process.
+In some states (e.g. CO), after an initial period of service (typically one or two years), judges face a retention election. 
 
-#### Mixed systems
+In other states (e.g. DE), after serving a full term, judges may be reappointed through the same merit selection process.
 
-In some states, judges on some courts are elected while others are appointed.
+### Mixed systems
+
+In some states (e.g. NY), judges on some courts are elected while others are appointed.
 
 # Outline of a Civil Action
+
+![Civil Action Flowchart](../../assets/img/CivilAction.png)
 
 ## Precipitating incident
 
@@ -301,9 +312,9 @@ The transformation of a grievance into a legal case is a process:
 
 ## Choice of Forum
 
-#### Choice of court system (Federal or State)
+### Choice of court system (Federal or State)
 
-*Subject-Matter Jurisdiction*
+##### Subject-Matter Jurisdiction
 
 Does the court have authority to decide this type of case?
 
@@ -312,39 +323,41 @@ Does the court have authority to decide this type of case?
 - Some states have special courts (trial or appellate) for particular types of case 
     - e.g. NC Business Court, small claims court, probate court, family court, etc. 
 
-#### Choice of court location
+### Choice of court location
 
-*Personal Jurisdiction*
+There are two dimensions to this choice.
+
+##### Personal Jurisdiction
 
 Do courts (state or federal) in the state have authority to issue a decision binding on the parties? 
 
-*Venue* 
+##### Venue
 
-Is this particular court a convenient forum for this action?
+Is this particular court (e.g. Middle District of NC; Guilford County Superior Court) a convenient forum for this action?
 
 ## Choice of Law
 
-#### Vertical
+### Vertical
 
-Federal or state law ()*Erie* doctrine)
+Federal or state law (*Erie* doctrine)
 
-#### Horizontal
+### Horizontal
 
 Which state's (or country's) law
 
 ## Scope of Suit
 
-#### Joinder
+### Joinder
 
 Combinging multiple claims and/or parties in the same action 
 
 ## Commencement of Action
 
-#### Pleadings
+### Pleadings
 
 Complaint and Answer 
 
-#### Preliminary Motions
+### Preliminary Motions
 
 *Pleadings*
 
@@ -358,41 +371,41 @@ Complaint and Answer
 
 ## Pre-Trial Practice
 
-#### Discovery
+### Discovery
 
 Fact gathering 
 
-#### Summary Judgment 
+### Summary Judgment 
 
 Disposition on the merits, based on evidence developed in discovery
 
 ## Trial & Appeal
 
-#### Judgment
+### Judgment
 
 Court's order deciding the case and (if judgment is in favor of plaintiff) granting a remedy
 
-#### Post-Trial Motions
+### Post-Trial Motions
 
 e.g. Judgment notwithstanding verdict, remittitur, etc. 
 
-#### Appeals
+### Appeals
 
 Review by higher court
  
 - Errors of law: *de novo* review 
 - Errors of fact: deferential review 
 
-#### Execution
+### Execution
 
 Collecting money awarded in a judgment 
 
 ## Future Litigation
 
-#### Claim Preclusion (Res judicata)
+### Claim Preclusion (Res judicata)
 
 Judgment in a case precludes the parties from asserting similar claims in another case 
 
-#### Issue Preclusion (Collateral estoppel)
+### Issue Preclusion (Collateral estoppel)
 
  Disposition of legal or factual issue in a case precludes parties (and sometimes others) from contesting the same issue in another case 
