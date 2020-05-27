@@ -7,7 +7,7 @@ title: 'U.S. ex rel. Mayo v. Satan and His Staff'
 cite: '54 F.R.D. 282 (W.D. Pa 1971)'
 
 categories: cases 
-tags: 'personal jurisdiction'
+tags: personal-jurisdiction
     
 ---
 
