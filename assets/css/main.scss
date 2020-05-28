@@ -3,32 +3,47 @@
 ---
 @charset "utf-8";
 
+// List in hierachical order (later overrides earlier)
 
 @import 'variables';
 @import 'media-queries';
 @import 'basscss';
-
 @import 'base';
 @import 'clearfix';
 @import 'positions';
-
-@import 'header';
-@import 'footer';
-@import 'pages';
-@import 'posts';
-
-@import 'projects';
-@import 'profile';
-@import 'pagination';
-@import 'publications';
-
+@import 'measure';
+@import 'typography';
+@import 'links';
 @import 'blockquotes';
 @import 'code';
 @import 'gallery';
 @import 'gists';
-@import 'links';
-@import 'measure';
-
-@import 'social-icons';
+@import 'pagination';
 @import 'tables';
-@import 'typography';
+@import 'header';
+@import 'footer';
+@import 'pages';
+@import 'posts';
+@import 'profile';
+@import 'social-icons';
+@import 'outlines';
+@import 'projects';
+@import 'publications';
+@import 'syllabus';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
