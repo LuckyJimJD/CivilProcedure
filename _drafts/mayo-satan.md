@@ -1,6 +1,6 @@
 ---
 layout: post
-date: Fall 2020
+date: 2020-05-27T22:29:30-04:00
 
 course: Civil Procedure 
 title: 'U.S. ex rel. Mayo v. Satan and His Staff'

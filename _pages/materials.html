@@ -1,0 +1,42 @@
+---
+layout: page
+permalink: /materials/
+title: Materials
+
+---
+
+<h1>Outlines</h1>
+
+<ul>
+  {% for outline in site.outlines %}
+    <li><a href="{{ site.baseurl }}{{ outline.url }}">{{ outline.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h1>Problems</h1>
+
+<ul>
+  {% for problem in site.problems %}
+    <li><a href="{{ site.baseurl }}{{ problem.url }}">{{ problem.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h1>Visuals</h1>
+
+<ul>
+  {% for visual in site.visuals %}
+    <li><a href="{{ site.baseurl }}{{ visual.url }}">{{ visual.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<h1>Practice Exam Questions</h1>
+
+<ul>
+  {% for exam in site.exams %}
+    <li><a href="{{ site.baseurl }}{{ exam.url }}">{{ exam.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

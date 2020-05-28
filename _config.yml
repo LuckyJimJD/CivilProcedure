@@ -15,6 +15,32 @@ zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
 
+collections: 
+  exams:
+    output: true
+  notes: 
+    output: true 
+  outlines:
+    output: true
+  problems:
+    output: true
+  readings: 
+    output: true 
+  statutes-rules: 
+    output: true 
+  visuals:
+    output: true
+
+tags: 
+  Introduction: 
+  Joinder:
+  Personal-Jurisdiction:
+  Subject-Matter-Jurisdiction:
+  Choice-of-Law:
+  Pleadings: 
+  Summary-Judgment: 
+  Preclusion: 
+
 footer_text: >
   Created by <a href="https://github.com/LuckyJimJD" target="_blank">Eric M. Fink</a>. 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. 

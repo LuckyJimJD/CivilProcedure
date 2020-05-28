@@ -1,6 +1,6 @@
 ---
 layout: post
-date: Fall 2020
+date: 2020-05-27T22:29:18-04:00
 
 course: Civil Procedure 
 title: 'The Emergence and Transformation of Disputes: Naming, Blaming, Claiming …'
