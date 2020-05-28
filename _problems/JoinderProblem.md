@@ -1,15 +1,15 @@
 ---
 layout: page 
-date: 2020-05-27T19:00:00
+date: 2020-05-28T01:00:00
 
 term: Fall 2020
 course: Civil Procedure 
-title: 'Joinder/Subject Matter Jurisdiction Problem'
+title: 'Joinder Problem'
 author: Prof. Fink
 affiliation: Elon Law School 
 
 categories: problems 
-tags: joinder subject-matter-jurisdiction 
+tags: joinder  
   
 ---
 
