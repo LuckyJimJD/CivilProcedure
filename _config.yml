@@ -26,7 +26,7 @@ collections:
     output: true 
   readings: 
     output: true 
-  statutes-rules: 
+  statutes: 
     output: true 
   visuals:
     output: true
