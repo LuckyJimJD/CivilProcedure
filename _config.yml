@@ -23,10 +23,6 @@ collections:
   outlines:
     output: true
   problems:
-    output: true
-  readings: 
-    output: true 
-  statutes-rules: 
     output: true 
   visuals:
     output: true
