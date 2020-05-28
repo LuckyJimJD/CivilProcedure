@@ -77,7 +77,7 @@ _Note: Many of the topics covered in this course are governed by federal statute
 #### Date (1 day)
 
 - Casebook, Chapter 1
-- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](../_readings/Felstiner_Abel_Sarat.md), 15 Law & Society Review 630 (1981)
+- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
 
