@@ -1,6 +1,6 @@
 ---
 layout: outline
-date: 2020-05-28T12:00:00
+date: 2020-05-28T01:00:00
 
 term: Fall 2020
 course: Civil Procedure 
