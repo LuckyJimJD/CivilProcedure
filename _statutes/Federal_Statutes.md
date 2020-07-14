@@ -1,7 +1,6 @@
 ---
 layout: post
-
-date: Fall 2020 
+date: 2020-07-14T01:00:00
 
 course: 'Civil Procedure'
 title: 'Federal Judicial Statutes'

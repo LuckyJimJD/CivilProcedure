@@ -1,6 +1,6 @@
 ---
 layout: post
-date: Fall 2020
+date: 2020-07-14T01:00:00
 
 course: Civil Procedure
 title: Federal Rules of Civil Procedure
@@ -10,145 +10,11 @@ tags: frcp
 
 ---
 
-# Federal Judicial Statutes
-
-### § 1331. Federal question
-
-The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States. 
-
-### § 1332. Diversity of citizenship; amount in controversy; costs
-
-(a) The district courts shall have original jurisdiction of all civil actions where the matter in controversy exceeds the sum or value of $75,000, exclusive of interest and costs, and is between—
-	
-	(1) citizens of different States;
-
-	(2) citizens of a State and citizens or subjects of a foreign state, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State;
-
-	(3) citizens of different States and in which citizens or subjects of a foreign state are additional parties; and
-
-	(4) a foreign state, defined in section 1603 (a) of this title, as plaintiff and citizens of a State or of different States. 
-
-[ * * * ]
-
-(c) For the purposes of this section and section 1441 of this title—
-
-	(1) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business, except that in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of—
-		
-		(A) every State and foreign state of which the insured is a citizen;
-
-		(B) every State and foreign state by which the insurer has been incorporated; and
-
-		(C) the State or foreign state where the insurer has its principal place of business; and
-
-	(2) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
-
-### § 1335. Interpleader
-
-
-(a) The district courts shall have original jurisdiction of any civil action of interpleader or in the nature of interpleader filed by any person, firm, or corporation, association, or society having in his or its custody or possession money or property of the value of $500 or more, or having issued a note, bond, certificate, policy of insurance, or other instrument of value or amount of $500 or more, or providing for the delivery or payment or the loan of money or property of such amount or value, or being under any obligation written or unwritten to the amount of $500 or more, if 
-
-	(1)  Two or more adverse claimants, of diverse citizenship as defined in subsection (a) or (d) of section 1332 of this title, are claiming or may claim to be entitled to such money or property, or to any one or more of the benefits arising by virtue of any note, bond, certificate, policy or other instrument, or arising by virtue of any such obligation; and if 
-
-	(2)  the plaintiff has deposited such money or property or has paid the amount of or the loan or other value of such instrument or the amount due under such obligation into the registry of the court, there to abide the judgment of the court, or has given bond payable to the clerk of the court in such amount and with such surety as the court or judge may deem proper, conditioned upon the compliance by the plaintiff with the future order or judgment of the court with respect to the subject matter of the controversy. 
-
-(b) Such an action may be entertained although the titles or claims of the conflicting claimants do not have a common origin, or are not identical, but are adverse to and independent of one another.
-
-### § 1367. Supplemental jurisdiction
-
-(a) Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties. 
-
-(b) In any civil action of which the district courts have original jurisdiction founded solely on section 1332 of this title, the district courts shall not have supplemental jurisdiction under subsection (a) over claims by plaintiffs against persons made parties under Rule 14, 19, 20, or 24 of the Federal Rules of Civil Procedure, or over claims by persons proposed to be joined as plaintiffs under Rule 19 of such rules, or seeking to intervene as plaintiffs under Rule 24 of such rules, when exercising supplemental jurisdiction over such claims would be inconsistent with the jurisdictional requirements of section 1332. 
-
-(c) The district courts may decline to exercise supplemental jurisdiction over a claim under subsection (a) if—
-
-	(1) the claim raises a novel or complex issue of State law,
-
-	(2) the claim substantially predominates over the claim or claims over which the district court has original jurisdiction,
-
-	(3) the district court has dismissed all claims over which it has original jurisdiction, or
-
-	(4) in exceptional circumstances, there are other compelling reasons for declining jurisdiction. 
-
-[ * * * ]
-
-### § 1441. Actions removable generally
-
-(a) Generally.— Except as otherwise expressly provided by Act of Congress, any civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending.
-
-(b) Removal Based on Diversity of Citizenship.—
-
-	(1) In determining whether a civil action is removable on the basis of the jurisdiction under section 1331(a) of this title, the citizenship of defendants sued under fictitious names shall be disregarded.
-
-	(2) A civil action otherwise removable solely on the basis of the jurisdiction under section 1331(a) of this title may not be removed if any of the parties in interest properly joined and served as defendants is a citizen of the State in which such action is brought.
-
-(c) Joinder of Federal Law Claims and State Law Claims.—
-
-	(1) If a civil action includes—
-
-		(A) a claim arising under the Constitution, laws, or treaties of the United States (within the meaning of section 1331 of this title), and
-
-		(B) a claim not within the original or supplemental jurisdiction of the district court or a claim that has been made nonremovable by statute,
-
-the entire action may be removed if the action would be removable without the inclusion of the claim described in subparagraph (B).
-
-	(2) Upon removal of an action described in paragraph (1), the district court shall sever from the action all claims described in paragraph (1)(B) and shall remand the severed claims to the State court from which the action was removed. Only defendants against whom a claim described in paragraph (1)(A) has been asserted are required to join in or consent to the removal under paragraph (1).
-
-[ * * * ]
-
-### § 1446. Procedure for removal
-
-(a) Generally.— A defendant or defendants desiring to remove any civil action from a State court shall file in the district court of the United States for the district and division within which such action is pending a notice of removal signed pursuant to Rule 11 of the Federal Rules of Civil Procedure and containing a short and plain statement of the grounds for removal, together with a copy of all process, pleadings, and orders served upon such defendant or defendants in such action.
-
-(b) Requirements; Generally.—
-
-	(1) The notice of removal of a civil action or proceeding shall be filed within 30 days after the receipt by the defendant, through service or otherwise, of a copy of the initial pleading setting forth the claim for relief upon which such action or proceeding is based, or within 30 days after the service of summons upon the defendant if such initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
-
-	(2) 
-
-		(A) When a civil action is removed solely under section 1441(b), all defendants who have been properly joined and served must join in or consent to the removal of the action.
-
-		(B) Each defendant shall have 30 days after receipt by or service on that defendant of the initial pleading or summons described in paragraph (1) to file the notice of removal.
-
-		(C) If defendants are served at different times, and a later-served defendant files a notice of removal, any earlier-served defendant may consent to the removal even though that earlier-served defendant did not previously initiate or consent to removal.
-
-	(3) Except as provided in subsection (c), if the case stated by the initial pleading is not removable, a notice of removal may be filed within thirty days after receipt by the defendant, through service or otherwise, of a copy of an amended pleading, motion, order or other paper from which it may first be ascertained that the case is one which is or has become removable.
-
-(c) Requirements; Removal Based on Diversity of Citizenship.—
-
-	(1) A case may not be removed under subsection (b)(3) on the basis of jurisdiction conferred by section 1332 more than 1 year after commencement of the action, unless the district court finds that the plaintiff has acted in bad faith in order to prevent a defendant from removing the action.
-
-	(2) If removal of a civil action is sought on the basis of the jurisdiction conferred by section 1332(a), the sum demanded in good faith in the initial pleading shall be deemed to be the amount in controversy, except that—
-
-		(A) the notice of removal may assert the amount in controversy if the initial pleading seeks—
-
-			(i) nonmonetary relief; or
-			(ii) a money judgment, but the State practice either does not permit demand for a specific sum or permits recovery of damages in excess of the amount demanded; and
-
-		(B) removal of the action is proper on the basis of an amount in controversy asserted under subparagraph (A) if the district court finds, by the preponderance of the evidence, that the amount in controversy exceeds the amount specified in section 1332(a).
-
-[ * * * ]
-
-### § 1447. Procedure after removal generally
-
-(a) In any case removed from a State court, the district court may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the State court or otherwise.
-
-[ * * * ]
- 
-(c) A motion to remand the case on the basis of any defect other than lack of subject matter jurisdiction must be made within 30 days after the filing of the notice of removal under section 1446(a). If at any time before final judgment it appears that the district court lacks subject matter jurisdiction, the case shall be remanded. An order remanding the case may require payment of just costs and any actual expenses, including attorney fees, incurred as a result of the removal. A certified copy of the order of remand shall be mailed by the clerk to the clerk of the State court. The State court may thereupon proceed with such case.
-
-(d) An order remanding a case to the State court from which it was removed is not reviewable on appeal or otherwise, except that an order remanding a case to the State court from which it was removed pursuant to section 1442 or 1443 of this title shall be reviewable by appeal or otherwise.
-
-(e) If after removal the plaintiff seeks to join additional defendants whose joinder would destroy subject matter jurisdiction, the court may deny joinder, or permit joinder and remand the action to the State court.
-
-\newpage 
-
-# Federal Rules of Civil Procedure
-
-### Rule 3. Commencing An Action
+## Rule 3. Commencing An Action
 
 A civil action is commenced by filing a complaint with the court. 
 
-### Rule 7. Pleadings Allowed; Form of Motions and Other Papers
+## Rule 7. Pleadings Allowed; Form of Motions and Other Papers
 
 (a) Pleadings. Only these pleadings are allowed:
 
@@ -178,7 +44,7 @@ A civil action is commenced by filing a complaint with the court.
 
 	(2) Form. The rules governing captions and other matters of form in pleadings apply to motions and other papers. 
 
-### Rule 8. General Rules of Pleading
+## Rule 8. General Rules of Pleading
 
 (a) Claim for Relief. A pleading that states a claim for relief must contain:
 
@@ -241,7 +107,7 @@ A civil action is commenced by filing a complaint with the court.
 
 (e) Construing Pleadings. Pleadings must be construed so as to do justice. 
 
-### Rule 9. Pleading Special Matters
+## Rule 9. Pleading Special Matters
 
 [ * * * ]
 
@@ -249,7 +115,7 @@ A civil action is commenced by filing a complaint with the court.
 
 [ * * * ]
 
-### Rule 11. Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions
+## Rule 11. Signing Pleadings, Motions, and Other Papers; Representations to the Court; Sanctions
 
 (a) Signature. Every pleading, written motion, and other paper must be signed by at least one attorney of record in the attorney’s name—or by a party personally if the party is unrepresented. The paper must state the signer’s address, e-mail address, and telephone number. Unless a Rule or statute specifically states otherwise, a pleading need not be verified or accompanied by an affidavit. The court must strike an unsigned paper unless the omission is promptly corrected after being called to the attorney’s or party’s attention. 
 
@@ -283,7 +149,7 @@ A civil action is commenced by filing a complaint with the court.
 
 (d) Inapplicability to Discovery. This rule does not apply to disclosures and discovery requests, responses, objections, and motions under Rules 26 through 37. 
 
-### Rule 12. Defenses and Objections: When and How Presented; Motion for Judgment on the Pleadings; Consolidating Motions; Waiving Defenses; Pretrial Hearing
+## Rule 12. Defenses and Objections: When and How Presented; Motion for Judgment on the Pleadings; Consolidating Motions; Waiving Defenses; Pretrial Hearing
 
 (a) Time to Serve a Responsive Pleading. [***]
 
@@ -344,7 +210,7 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 (i) Hearing Before Trial. If a party so moves, any defense listed in Rule 12(b)(1)-(7)—whether made in a pleading or by motion—and a motion under Rule 12(c) must be heard and decided before trial unless the court orders a deferral until trial. 
 
-### Rule 13. Counterclaim and Crossclaim
+## Rule 13. Counterclaim and Crossclaim
 
 (a) Compulsory Counterclaim. 
 
@@ -372,7 +238,7 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 [ * * * ]
 
-### Rule 14. Third-Party Practice
+## Rule 14. Third-Party Practice
 
 (a) When a Defending Party May Bring in a Third Party. 
 
@@ -400,7 +266,7 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 [ * * * ]
 
-### Rule 15. Amended and Supplemental Pleadings
+## Rule 15. Amended and Supplemental Pleadings
 
 (a) Amendments Before Trial. 
 
@@ -432,13 +298,13 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 [ * * * ]
 
-### Rule 18. Joinder of Claims
+## Rule 18. Joinder of Claims
 
 (a) In General. A party asserting a claim, counterclaim, crossclaim, or third-party claim may join, as independent or alternative claims, as many claims as it has against an opposing party. 
 
 (b) Joinder of Contingent Claims. A party may join two claims even though one of them is contingent on the disposition of the other; but the court may grant relief only in accordance with the parties’ relative substantive rights. In particular, a plaintiff may state a claim for money and a claim to set aside a conveyance that is fraudulent as to that plaintiff, without first obtaining a judgment for the money. 
 
-### Rule 19. Required Joinder of Parties
+## Rule 19. Required Joinder of Parties
 
 (a) Persons Required to Be Joined if Feasible. 
 
@@ -480,7 +346,7 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 [ * * * ]
 
-### Rule 20. Permissive Joinder of Parties
+## Rule 20. Permissive Joinder of Parties
 
 (a) Persons Who May Join or Be Joined. 
 
@@ -500,11 +366,11 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 [ * * * ]
 
-### Rule 21. Misjoinder and Nonjoinder of Parties
+## Rule 21. Misjoinder and Nonjoinder of Parties
 
 Misjoinder of parties is not a ground for dismissing an action. On motion or on its own, the court may at any time, on just terms, add or drop a party. The court may also sever any claim against a party. 
 
-### Rule 22. Interpleader
+## Rule 22. Interpleader
 
 (a) Grounds.
 
@@ -518,7 +384,7 @@ Misjoinder of parties is not a ground for dismissing an action. On motion or on 
 
 (b) Relation to Other Rules and Statutes. This rule supplements—and does not limit—the joinder of parties allowed by Rule 20. The remedy this rule provides is in addition to—and does not supersede or limit—the remedy provided by 28 U.S.C. §§1335, 1397, and 2361. An action under those statutes must be conducted under these rules.
 
-### Rule 24. Intervention
+## Rule 24. Intervention
 
 (a) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
 
@@ -540,30 +406,7 @@ Misjoinder of parties is not a ground for dismissing an action. On motion or on 
 
 [ * * * ]
 
-### Rule 55. Default; Default Judgment
-
-(a) Entering a Default.
-When a party against whom a judgment for affirmative relief is sought has failed to plead or otherwise defend, and that failure is shown by affidavit or otherwise, the clerk must enter the party's default.
-
-(b) Entering a Default Judgment.
-
-	(1) By the Clerk. If the plaintiff's claim is for a sum certain or a sum that can be made certain by computation, the clerk — on the plaintiff's request, with an affidavit showing the amount due — must enter judgment for that amount and costs against a defendant who has been defaulted for not appearing and who is neither a minor nor an incompetent person.
-
-	(2) By the Court. In all other cases, the party must apply to the court for a default judgment. A default judgment may be entered against a minor or incompetent person only if represented by a general guardian, conservator, or other like fiduciary who has appeared. If the party against whom a default judgment is sought has appeared personally or by a representative, that party or its representative must be served with written notice of the application at least 7 days before the hearing. The court may conduct hearings or make referrals — preserving any federal statutory right to a jury trial — when, to enter or effectuate judgment, it needs to:
-
-		(A) conduct an accounting;
-
-		(B) determine the amount of damages;
-
-		(C) establish the truth of any allegation by evidence; or
-
-		(D) investigate any other matter.
-
-(c) Setting Aside a Default or a Default Judgment. The court may set aside an entry of default for good cause, and it may set aside a default judgment under Rule 60(b).
-
-[ * * * ]
-
-### Rule 56. Summary Judgment
+## Rule 56. Summary Judgment
 
 (a) By a Claiming Party. A party claiming relief may move, with or without supporting affidavits, for summary judgment on all or part of the claim.
 
