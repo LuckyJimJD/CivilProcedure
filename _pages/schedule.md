@@ -9,45 +9,46 @@ title: Schedule & Assignments
 
 #### August 31
 
-- CASES Chapter 1
-- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
+- [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii#section1)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
+- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
 
 ## Shaping the Lawsuit: Parties and Claims 
 
 ### Basic Claim & Party Joinder  
+
 #### September 2
 
-- FRCP Rules 18 & 20 
+- [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 ### Counterclaims 
 
 #### September 4
 
-- FRCP Rule 13(a) & (b)
+- [FRCP Rule 13(a) & (b)](https://www.law.cornell.edu/rules/frcp)
 - CASES 
 
 ### Crossclaims 
 
 #### September 7
 
-- FRCP Rule 13(g)
+- [FRCP Rule 13(g)](https://www.law.cornell.edu/rules/frcp)
 - CASES 
 
 ### Third-Party Claims 
 
 #### September 9
 
-- FRCP Rule 14
+- [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
 - CASES 
 
 ### Required Parties  & Intervention 
 
 #### September 11
 
-- FRCP Rules 19 & 24
+- [FRCP Rules 19 & 24](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 ### Joinder Review 
@@ -62,30 +63,30 @@ title: Schedule & Assignments
 
 #### September 16 & 18 
 
-- U.S. Constitution, Art. III, § 2
-- FRCP Rule 12(b)(1)
-- 28 U.S.C. § 1331
+- [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii#section2)
+- [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
+- [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
 - CASES 
 
 ### Diversity Jurisdiction 
 
 #### September 21 & 23 
 
-- 28 U.S.C. § 1332
+- [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
 - CASES
 
 ### Supplemental Jurisdiction 
 
 #### September 25 & 28
 
-- 28 U.S.C. § 1367
+- [28 U.S.C. § 1367](https://www.law.cornell.edu/uscode/text/28/1367)
 - CASES
 
 ### Removal 
 
 #### September 30
 
-- 28 U.S.C. §§ 1441, 1446, 1447, 1448
+- [28 U.S.C. §§ 1441, 1446, 1447, 1448](https://www.law.cornell.edu/uscode/text/28/part-IV/chapter-89)
 
 ### Subject Matter Jurisdiction Review 
 
@@ -99,8 +100,8 @@ title: Schedule & Assignments
 
 #### October 5
 
-- U.S. Constitution, Amendments 5 & 14
-- FRCP Rule 12(b)(2)
+- U.S. Constitution, [5th Amendment](https://www.law.cornell.edu/constitution/billofrights#amendmentv) & [14th Amendment, § 1](https://www.law.cornell.edu/constitution/amendmentxiv)
+- [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
 - Pennoyer v. Neff 
 
 ### Specific Jurisdiction Based on Minimum Contacts 
@@ -146,28 +147,28 @@ title: Schedule & Assignments
 
 #### October 28
 
-- FRCP Rules 3, 7-12, 15
+- [FRCP Rules 3, 7-12, 15](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 ### Complaints 
 
 #### October 30 & November 2
 
-- FRCP Rules 8(a), 9(b), 12(b)(6)
+- [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
 - Twombly, Iqbal, 
 
 ### Answers & Defenses 
 
 #### November 4
 
-- FRCP Rule 8(b) & (c)
+- [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 ### Truthfulness & Good Faith in Pleadings 
 
 #### November 6
 
-- FRCP Rule 11
+- [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 ##### Quiz: Pleadings (Due November 7)
@@ -178,14 +179,14 @@ title: Schedule & Assignments
 
 #### November 9 & 11 
 
-- Rules of Decision Act, 28 U.S.C. § 1652
+- [Rules of Decision Act, 28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
 - CASES: Erie, Byrd, 
 
 ### The Rules Enabling Act 
 
 #### November 13
 
-- Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074
+- [Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
 - CASES: Hanna, 
 
 ### Erie Doctrine Review 
@@ -198,7 +199,7 @@ title: Schedule & Assignments
 
 #### November 16 & 17
 
-- FRCP Rules 12(d) & 56
+- [FRCP Rules 12(d) & 56](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 ##### Quiz: Summary Judgment (Due November 23)
