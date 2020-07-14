@@ -1,11 +1,9 @@
 ---
-layout: page 
+layout: schedule 
 permalink: /schedule/
 title: Schedule & Assignments
   
 ---
-
-_Note: Many of the topics covered in this course are governed by federal statutes and rules. It is essential that you read the assigned statutes and rules carefully, along with the casebook._
 
 ## Introduction 
 
