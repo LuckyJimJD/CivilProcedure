@@ -10,8 +10,8 @@ address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: 'Civil Procedure'
 term: 'Fall 2020'
-days: 'Days & Times TBD'
-room: 'Location TBD'
+days: 'MWF 8:00–9:45 am'
+room: 'Rooms 204, 207, 211'
 
 output: 
   pdf_document:
@@ -26,27 +26,20 @@ In this course, you will learn about the procedures for civil suits. You will al
 
 Topics to be covered include the scope of a lawsuit, selection of an appropriate forum, presentation of claims and defenses, choice of applicable law, disposition without a trial, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. 
 
-# Materials
+# Required Materials
 
-#### Required 
+Click & Learn: Civil Procedure (Carolina Academic Press)
 
-Gerald Hess, et al, Civil Procedure: A Context & Practice Casebook (Carolina Academic Press, 2d ed. 2019)
-
-Federal Rules of Civil Procedure, Federal Judicial Statutes, & Restatements. Available online (see [Links page](https://www.emfink.net/CivilProcedure/links/)  on course website)
-
-#### Study Aids 
-
-The course website, [`emfink.net/CivilProcedure`](https://www.emfink.net/CivilProcedure), has subject outlines, visual aids, practice problems, past exam questions, and other resources. 
-
-There are numerous published study aids available for Civil Procedure. Two good options are Joseph W. Glannon, Examples & Explanations: Civil Procedure (8th ed., 2018) or The Glannon Guide to Civil Procedure (4th ed., 2018). 
+All other assigned reading (cases, statutes, rules, etc.) are available online via the course site, [`emfink.net/CivilProcedure`](https://www.emfink.net/CivilProcedure). The course site also has subject outlines, visual aids, review problems, and past exam questions.
 
 # Policies 
 
 #### Grading
 
-Your final grade for the term will be based on a midterm exam (40%) and a final exam (60%). The midterm will be a take-home exam. The final will be a closed-book/closed-notes exam. The exams will consist of short-answer and essay questions. Dates for the midterm and final exams are indicated in the Class Schedule & Assignments section below. 
+Your final grade for the term will be based on review quizzes (40% total) and a final exam (60%). 
 
-There will also be online review quizzes during the term (as indicated in the Class Schedule & Assignments section below). These quizzes are intended as diagnostic tools to assess your understanding of the concepts and help focus your efforts in preparing for the midterm and final exams. The review quizzes will be ungraded, but completion of each quiz is required to receive course credit. 
+- The review quizzes will consist of multiple choice questions and will be open-book/open-notes. You will take the quizzes outside of class on Click to Learn, as indicated in the Course Schedule section below.
+- The final exam will consist of short-answer and essay questions and will be closed-book/closed-notes. You will take the exam online during the exam period. 
 
 #### Class Preparation, Attendance, & Participation
 
@@ -74,205 +67,200 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ## Introduction 
 
-#### Date (1 day)
+#### August 31
 
-- Casebook, Chapter 1
+- CASES Chapter 1
 - William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
 
 ## Shaping the Lawsuit: Parties and Claims 
 
-### Joining Claims 
-#### Date (2 days) 
+### Basic Claim & Party Joinder  
+#### September 2
 
-- FRCP Rule 18
-- Casebook, 403-
+- FRCP Rules 18 & 20 
+- CASES
 
-### Counterclaims & Crossclaims 
+### Counterclaims 
 
-#### Date (2 days)
+#### September 4
 
-- FRCP Rule 13
-- Casebook, 
+- FRCP Rule 13(a) & (b)
+- CASES 
 
-### Joining Parties  
+### Crossclaims 
 
-#### Date (1 day)
+#### September 7
 
-- FRCP Rule 20 
-- Casebook, 422-
+- FRCP Rule 13(g)
+- CASES 
 
-### Adding Third-Parties
+### Third-Party Claims 
 
-#### Date (1 day)
+#### September 9
 
 - FRCP Rule 14
-- Casebook, 
+- CASES 
 
-### Required Parties  
+### Required Parties  & Intervention 
 
-#### Date (1 day)
+#### September 11
 
-- FRCP Rule 19
-- Cases
+- FRCP Rules 19 & 24
+- CASES
 
-##### Quiz: Joinder (Due Date)
+### Joinder Review 
 
-## Chosing a Forum, Part 1: Personal Jurisdiction 
+#### September 14
 
-### Foundations of Personal Jurisdiction 
+##### Quiz: Joinder (Due September 15)
 
-#### Date (1 day) 
-
-- U.S. Constitution, Amendments 5 & 14
-- FRCP Rule 12(b)(2)
-- Casebook, 23-36
-
-### Specific Jurisdiction Based on Minimum Contacts 
-
-#### Date (3-5 days)
-
-- Casebook, 36-79; 96-106
-
-### General Jurisdiction 
-
-#### Date (1 day)
-
-- Casebook, 79-95
-
-##### Quiz: Personal Jurisdiction (Due Date)
-
-## Choosing a Forum, Part 2: Subject Matter Jurisdiction 
-
-### Foundations of Federal Subject Matter Jurisdiction 
-
-#### Date (1 day)
-
-- U.S. Constitution, Art. III, § 2
-- FRCP Rule 12(b)(1)
-- Casebook, 153-57
-
-### Diversity Jurisdiction 
-
-#### Date (2 days)
-
-- 28 U.S.C. § 1332
-- Casebook, 157-80
+## Choosing a Forum, Part 1: Subject Matter Jurisdiction 
 
 ### Federal Question Jurisdiction 
 
-#### Date (2 days)
+#### September 16 & 18 
 
+- U.S. Constitution, Art. III, § 2
+- FRCP Rule 12(b)(1)
 - 28 U.S.C. § 1331
-- Casebook, 180-205
+- CASES 
+
+### Diversity Jurisdiction 
+
+#### September 21 & 23 
+
+- 28 U.S.C. § 1332
+- CASES
 
 ### Supplemental Jurisdiction 
 
-#### Date (2 days)
+#### September 25 & 28
 
 - 28 U.S.C. § 1367
-- Casebook, 205-17
+- CASES
 
 ### Removal 
 
-#### Date (2 days)
+#### September 30
 
 - 28 U.S.C. §§ 1441, 1446, 1447, 1448
-- Casebook, 217-18
 
-##### Quiz: Subject Matter Jurisdiction (Due Date)
+### Subject Matter Jurisdiction Review 
 
-##### Midterm Exam (Due Date)
+#### October 2
 
-## Choice of Law 
+##### Quiz: Subject Matter Jurisdiction (Due October 4)
 
-### Vertical Choice of Law: State or Federal?
+## Chosing a Forum, Part 2: Personal Jurisdiction 
 
-#### Date (4 days)
+### Foundations of Personal Jurisdiction 
 
-- Rules of Decision Act, 28 U.S.C. § 1652
-- Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074
-- Casebook, 266-311
+#### October 5
 
-### Horizontal Choice of Law: Which State? 
+- U.S. Constitution, Amendments 5 & 14
+- FRCP Rule 12(b)(2)
+- Pennoyer v. Neff 
 
-#### Date (1-2 days)
+### Specific Jurisdiction Based on Minimum Contacts 
 
-- Restatement (2d) of Conflicts of Law, §§ 6, 145, 187, 188, 
-- Casebook, 311-25
+#### October 7, 9, & 12
 
-##### Quiz: Choice of Law (Due Date)
+- International Shoe, World Wide Volkswagen, 
+
+### General Jurisdiction 
+
+#### October 14
+
+- CASES
+
+### Personal Jurisdiction Review 
+
+#### October 16 
+
+##### Quiz: Personal Jurisdiction (Due Otober 18)
+
+## Preclusion
+
+### Claim Preclusion 
+
+#### October 19 & 21
+
+- Restatement (2d) of Judgments, §§ 13-26
+- CASES 
+
+
+### Issue Preclusion 
+
+#### October 23 & 26
+
+- Restatement (2d) of Judgments, §§ 27-29
+- CASES
+
+##### Quiz: Preclusion (Due October 27)
 
 ## Pleading 
 
 ### Pleading Under the Federal Rules 
 
-#### Date (1 day)
+#### October 28
 
-- FRCP Rules 7-10
-- Casebook, 327-30
+- FRCP Rules 3, 7-12, 15
+- CASES
 
 ### Complaints 
 
-#### Date (2-3 days) 
+#### October 30 & November 2
 
 - FRCP Rules 8(a), 9(b), 12(b)(6)
-- Casebook, 330-63
+- Twombly, Iqbal, 
 
 ### Answers & Defenses 
 
-#### Date (1 day) 
+#### November 4
 
 - FRCP Rule 8(b) & (c)
-- Casebook, 363-70
-
-### Amended Pleadings 
-
-#### Date (2 days) 
-
-- FRCP Rule 15
-- Casebook, 370-86
+- CASES
 
 ### Truthfulness & Good Faith in Pleadings 
 
-#### Date (2 days) 
+#### November 6
 
 - FRCP Rule 11
-- Casebook, 386-401
+- CASES
 
-##### Quiz: Pleadings (Due Date)
+##### Quiz: Pleadings (Due November 7)
+
+## The Erie Doctrine 
+
+### The Rules of Decision Act 
+
+#### November 9 & 11 
+
+- Rules of Decision Act, 28 U.S.C. § 1652
+- CASES: Erie, Byrd, 
+
+### The Rules Enabling Act 
+
+#### November 13
+
+- Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074
+- CASES: Hanna, 
+
+### Erie Doctrine Review 
+
+#### November 16
+
+##### Quiz: Erie Doctrine (Due November 17)
 
 ## Summary Judgment
 
-#### Date (2 days) 
+#### November 16 & 17
 
 - FRCP Rules 12(d) & 56
-- Casebook, 609-35
+- CASES
 
-## Preclusion
-
-### Foundations of Claim & Issue Preclusion 
-
-#### Date (1 day)
-
-- Restatement (2d) of Judgments, §§ 13-17
-- Casebook, 
-
-### Claim Preclusion
-
-#### Date (2 days)
-
-- Restatement (2d) of Judgments, §§ 18-26
-- Casebook, 761-82
-
-### Issue Preclusion 
-
-#### Date (2 days)
-
-- Restatement (2d) of Judgments, §§ 27-29
-- Casebook, 782-807
-
-##### Quiz: Summary Judgment & Preclusion (Due Date)
+##### Quiz: Summary Judgment (Due November 23)
 
 ##### Final Exam (Date)
