@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: post 
 date: 2020-05-28T07:00:00
 
 term: Fall 2020
