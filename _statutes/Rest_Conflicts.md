@@ -1,5 +1,5 @@
 ---
-layout: notes 
+layout: post 
 date: 2020-07-14T01:01:00
 
 course: Civil Procedure
