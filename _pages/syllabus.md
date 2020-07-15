@@ -10,7 +10,7 @@ address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: 'Civil Procedure'
 term: 'Fall 2020'
-days: 'MWF 8:00–9:45 am'
+days: 'Monday, Wednesday, & Friday 8:00–9:45 am'
 room: 'Rooms 204, 207, 211'
 
 output: 
