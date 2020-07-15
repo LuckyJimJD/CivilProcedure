@@ -9,9 +9,14 @@ title: Schedule & Assignments
 
 #### August 31
 
+### The Federal Judicial System 
+
 - [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii#section1)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
+
+### Civil Action Overview 
+
 - William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
 
 ## Shaping the Lawsuit: Parties and Claims 
@@ -195,12 +200,18 @@ title: Schedule & Assignments
 
 ##### Quiz: Erie Doctrine (Due November 17)
 
-#### November 16 & 17
-
 ## Summary Judgment
+
+#### November 16
+
+### Standard for Summary Judgment 
 
 - [FRCP Rules 12(d) & 56](https://www.law.cornell.edu/rules/frcp)
 - CASES
+
+#### November 17
+
+### Burden of Production 
 
 ##### Quiz: Summary Judgment (Due November 23)
 
