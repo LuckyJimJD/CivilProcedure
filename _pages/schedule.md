@@ -134,14 +134,14 @@ title: Schedule & Assignments
 
 ### Claim Preclusion 
 
-- Restatement (2d) of Judgments, §§ 13-26
+- [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments.md)
 - CASES 
 
 #### October 23 & 26
 
 ### Issue Preclusion 
 
-- Restatement (2d) of Judgments, §§ 27-29
+- [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments.md)
 - CASES
 
 ##### Quiz: Preclusion (Due October 27)
