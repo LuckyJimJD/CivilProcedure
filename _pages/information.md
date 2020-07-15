@@ -29,14 +29,14 @@ All other assigned reading (cases, statutes, rules, etc.) are available online v
 
 # Policies 
 
-#### Grading
+### Grading
 
 Your final grade for the term will be based on review quizzes (40% total) and a final exam (60%). 
 
 - The review quizzes will consist of multiple choice questions and will be open-book/open-notes. You will take the quizzes outside of class on Click to Learn, as indicated in the Course Schedule section below.
 - The final exam will consist of short-answer and essay questions and will be closed-book/closed-notes. You will take the exam online during the exam period. 
 
-#### Class Preparation, Attendance, & Participation
+### Class Preparation, Attendance, & Participation
 
 Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. 
 
@@ -48,10 +48,10 @@ Elon Law School has adopted the following attendance policy for all courses:
 >
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
-#### Disability Accommodations 
+### Disability Accommodations 
 
 For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).  
 
-#### Honor Code 
+### Honor Code 
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 

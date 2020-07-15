@@ -34,14 +34,14 @@ All other assigned reading (cases, statutes, rules, etc.) are available online v
 
 # Policies 
 
-#### Grading
+### Grading
 
 Your final grade for the term will be based on review quizzes (40% total) and a final exam (60%). 
 
 - The review quizzes will consist of multiple choice questions and will be open-book/open-notes. You will take the quizzes outside of class on Click to Learn, as indicated in the Course Schedule section below.
 - The final exam will consist of short-answer and essay questions and will be closed-book/closed-notes. You will take the exam online during the exam period. 
 
-#### Class Preparation, Attendance, & Participation
+### Class Preparation, Attendance, & Participation
 
 Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. 
 
@@ -53,147 +53,152 @@ Elon Law School has adopted the following attendance policy for all courses:
 >
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
-#### Disability Accommodations 
+### Disability Accommodations 
 
 For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).  
 
-#### Honor Code 
+### Honor Code 
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
 
 # Class Schedule & Assignments
 
-_Note: Many of the topics covered in this course are governed by federal statutes and rules. It is essential that you read the assigned statutes and rules carefully, along with the casebook._
 
 ## Introduction 
 
 #### August 31
 
-- CASES Chapter 1
-- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
+### The Federal Judicial System 
+
+- [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii#section1)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
 
+### Civil Action Overview 
+
+- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
+
 ## Shaping the Lawsuit: Parties and Claims 
 
-### Basic Claim & Party Joinder  
 #### September 2
 
-- FRCP Rules 18 & 20 
-- CASES
+### Basic Claim & Party Joinder  
 
-### Counterclaims 
+
+- [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
+- CASES
 
 #### September 4
 
-- FRCP Rule 13(a) & (b)
-- CASES 
+### Counterclaims 
 
-### Crossclaims 
+- [FRCP Rule 13(a) & (b)](https://www.law.cornell.edu/rules/frcp)
+- CASES 
 
 #### September 7
 
-- FRCP Rule 13(g)
-- CASES 
+### Crossclaims 
 
-### Third-Party Claims 
+- [FRCP Rule 13(g)](https://www.law.cornell.edu/rules/frcp)
+- CASES 
 
 #### September 9
 
-- FRCP Rule 14
-- CASES 
+### Third-Party Claims 
 
-### Required Parties  & Intervention 
+- [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
+- CASES 
 
 #### September 11
 
-- FRCP Rules 19 & 24
+### Required Parties  & Intervention 
+
+- [FRCP Rules 19 & 24](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-### Joinder Review 
-
 #### September 14
+
+### Joinder Review 
 
 ##### Quiz: Joinder (Due September 15)
 
 ## Choosing a Forum, Part 1: Subject Matter Jurisdiction 
 
-### Federal Question Jurisdiction 
-
 #### September 16 & 18 
 
-- U.S. Constitution, Art. III, § 2
-- FRCP Rule 12(b)(1)
-- 28 U.S.C. § 1331
-- CASES 
+### Federal Question Jurisdiction 
 
-### Diversity Jurisdiction 
+- [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii#section2)
+- [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
+- [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
+- CASES 
 
 #### September 21 & 23 
 
-- 28 U.S.C. § 1332
-- CASES
+### Diversity Jurisdiction 
 
-### Supplemental Jurisdiction 
+- [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
+- CASES
 
 #### September 25 & 28
 
-- 28 U.S.C. § 1367
-- CASES
+### Supplemental Jurisdiction 
 
-### Removal 
+- [28 U.S.C. § 1367](https://www.law.cornell.edu/uscode/text/28/1367)
+- CASES
 
 #### September 30
 
-- 28 U.S.C. §§ 1441, 1446, 1447, 1448
+### Removal 
 
-### Subject Matter Jurisdiction Review 
+- [28 U.S.C. §§ 1441, 1446, 1447, 1448](https://www.law.cornell.edu/uscode/text/28/part-IV/chapter-89)
 
 #### October 2
+
+### Subject Matter Jurisdiction Review 
 
 ##### Quiz: Subject Matter Jurisdiction (Due October 4)
 
 ## Chosing a Forum, Part 2: Personal Jurisdiction 
 
-### Foundations of Personal Jurisdiction 
-
 #### October 5
 
-- U.S. Constitution, Amendments 5 & 14
-- FRCP Rule 12(b)(2)
-- Pennoyer v. Neff 
+### Foundations of Personal Jurisdiction 
 
-### Specific Jurisdiction Based on Minimum Contacts 
+- U.S. Constitution, [5th Amendment](https://www.law.cornell.edu/constitution/billofrights#amendmentv) & [14th Amendment, § 1](https://www.law.cornell.edu/constitution/amendmentxiv)
+- [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
+- Pennoyer v. Neff 
 
 #### October 7, 9, & 12
 
-- International Shoe, World Wide Volkswagen, 
+### Specific Jurisdiction Based on Minimum Contacts 
 
-### General Jurisdiction 
+- International Shoe, World Wide Volkswagen, 
 
 #### October 14
 
+### General Jurisdiction 
+
 - CASES
 
-### Personal Jurisdiction Review 
-
 #### October 16 
+
+### Personal Jurisdiction Review 
 
 ##### Quiz: Personal Jurisdiction (Due Otober 18)
 
 ## Preclusion
 
-### Claim Preclusion 
-
 #### October 19 & 21
+
+### Claim Preclusion 
 
 - Restatement (2d) of Judgments, §§ 13-26
 - CASES 
 
+#### October 23 & 26
 
 ### Issue Preclusion 
-
-#### October 23 & 26
 
 - Restatement (2d) of Judgments, §§ 27-29
 - CASES
@@ -202,64 +207,70 @@ _Note: Many of the topics covered in this course are governed by federal statute
 
 ## Pleading 
 
-### Pleading Under the Federal Rules 
-
 #### October 28
 
-- FRCP Rules 3, 7-12, 15
-- CASES
+### Pleading Under the Federal Rules 
 
-### Complaints 
+- [FRCP Rules 3, 7-12, 15](https://www.law.cornell.edu/rules/frcp)
+- CASES
 
 #### October 30 & November 2
 
-- FRCP Rules 8(a), 9(b), 12(b)(6)
-- Twombly, Iqbal, 
+### Complaints 
 
-### Answers & Defenses 
+- [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
+- Twombly, Iqbal, 
 
 #### November 4
 
-- FRCP Rule 8(b) & (c)
-- CASES
+### Answers & Defenses 
 
-### Truthfulness & Good Faith in Pleadings 
+- [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
+- CASES
 
 #### November 6
 
-- FRCP Rule 11
+### Truthfulness & Good Faith in Pleadings 
+
+- [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 ##### Quiz: Pleadings (Due November 7)
 
 ## The Erie Doctrine 
 
-### The Rules of Decision Act 
-
 #### November 9 & 11 
 
-- Rules of Decision Act, 28 U.S.C. § 1652
-- CASES: Erie, Byrd, 
+### The Rules of Decision Act 
 
-### The Rules Enabling Act 
+- [Rules of Decision Act, 28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
+- CASES: Erie, Byrd, 
 
 #### November 13
 
-- Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074
+### The Rules Enabling Act 
+
+- [Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
 - CASES: Hanna, 
 
-### Erie Doctrine Review 
-
 #### November 16
+
+### Erie Doctrine Review 
 
 ##### Quiz: Erie Doctrine (Due November 17)
 
 ## Summary Judgment
 
-#### November 16 & 17
+#### November 16
 
-- FRCP Rules 12(d) & 56
+### Standard for Summary Judgment 
+
+- [FRCP Rules 12(d) & 56](https://www.law.cornell.edu/rules/frcp)
 - CASES
+
+#### November 17
+
+### Burden of Production 
 
 ##### Quiz: Summary Judgment (Due November 23)
 
