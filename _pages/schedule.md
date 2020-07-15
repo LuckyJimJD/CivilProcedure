@@ -19,7 +19,7 @@ title: Schedule & Assignments
 
 - William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.emfink.net/CivilProcedure/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
 
-## Shaping the Lawsuit: Parties and Claims 
+## Joinder
 
 #### September 2
 
@@ -63,7 +63,7 @@ title: Schedule & Assignments
 
 ##### Quiz: Joinder (Due September 15)
 
-## Choosing a Forum, Part 1: Subject Matter Jurisdiction 
+## Subject Matter Jurisdiction 
 
 #### September 16 & 18 
 
@@ -100,7 +100,7 @@ title: Schedule & Assignments
 
 ##### Quiz: Subject Matter Jurisdiction (Due October 4)
 
-## Chosing a Forum, Part 2: Personal Jurisdiction 
+## Personal Jurisdiction 
 
 #### October 5
 
@@ -206,12 +206,15 @@ title: Schedule & Assignments
 
 ### Standard for Summary Judgment 
 
-- [FRCP Rules 12(d) & 56](https://www.law.cornell.edu/rules/frcp)
+- [FRCP Rules 56(a)](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 #### November 17
 
 ### Burden of Production 
+
+- [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
+- CASES
 
 ##### Quiz: Summary Judgment (Due November 23)
 

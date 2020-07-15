@@ -36,10 +36,7 @@ All other assigned reading (cases, statutes, rules, etc.) are available online v
 
 ### Grading
 
-Your final grade for the term will be based on review quizzes (40% total) and a final exam (60%). 
-
-- The review quizzes will consist of multiple choice questions and will be open-book/open-notes. You will take the quizzes outside of class on Click to Learn, as indicated in the Course Schedule section below.
-- The final exam will consist of short-answer and essay questions and will be closed-book/closed-notes. You will take the exam online during the exam period. 
+Your final grade for the term will be based on review quizzes (40% total) and a final exam (60%). The review quizzes will consist of multiple choice questions and will be open-book/open-notes. You will take the quizzes outside of class on Click to Learn, as indicated in the Course Schedule section below. The final exam will consist of short-answer and essay questions and will be closed-book/closed-notes. You will take the exam online during the exam period. 
 
 ### Class Preparation, Attendance, & Participation
 
@@ -63,7 +60,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 # Class Schedule & Assignments
 
-
 ## Introduction 
 
 #### August 31
@@ -76,14 +72,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Civil Action Overview 
 
-- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
+- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.emfink.net/CivilProcedure/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
 
-## Shaping the Lawsuit: Parties and Claims 
+## Joinder
 
 #### September 2
 
 ### Basic Claim & Party Joinder  
-
 
 - [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
 - CASES
@@ -109,20 +104,16 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
 - CASES 
 
-#### September 11
+#### September 11 & 14
 
-### Required Parties  & Intervention 
+### Required Parties & Intervention 
 
 - [FRCP Rules 19 & 24](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-#### September 14
-
-### Joinder Review 
-
 ##### Quiz: Joinder (Due September 15)
 
-## Choosing a Forum, Part 1: Subject Matter Jurisdiction 
+## Subject Matter Jurisdiction 
 
 #### September 16 & 18 
 
@@ -147,19 +138,15 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [28 U.S.C. § 1367](https://www.law.cornell.edu/uscode/text/28/1367)
 - CASES
 
-#### September 30
+#### September 30 & October 2
 
 ### Removal 
 
 - [28 U.S.C. §§ 1441, 1446, 1447, 1448](https://www.law.cornell.edu/uscode/text/28/part-IV/chapter-89)
 
-#### October 2
-
-### Subject Matter Jurisdiction Review 
-
 ##### Quiz: Subject Matter Jurisdiction (Due October 4)
 
-## Chosing a Forum, Part 2: Personal Jurisdiction 
+## Personal Jurisdiction 
 
 #### October 5
 
@@ -175,17 +162,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - International Shoe, World Wide Volkswagen, 
 
-#### October 14
+#### October 14 & 16
 
 ### General Jurisdiction 
 
 - CASES
 
-#### October 16 
-
-### Personal Jurisdiction Review 
-
-##### Quiz: Personal Jurisdiction (Due Otober 18)
+##### Quiz: Personal Jurisdiction (Due October 18)
 
 ## Preclusion
 
@@ -193,14 +176,14 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Claim Preclusion 
 
-- Restatement (2d) of Judgments, §§ 13-26
+- [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments.md)
 - CASES 
 
 #### October 23 & 26
 
 ### Issue Preclusion 
 
-- Restatement (2d) of Judgments, §§ 27-29
+- [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments.md)
 - CASES
 
 ##### Quiz: Preclusion (Due October 27)
@@ -265,12 +248,15 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### Standard for Summary Judgment 
 
-- [FRCP Rules 12(d) & 56](https://www.law.cornell.edu/rules/frcp)
+- [FRCP Rules 56(a)](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
 #### November 17
 
 ### Burden of Production 
+
+- [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
+- CASES
 
 ##### Quiz: Summary Judgment (Due November 23)
 
