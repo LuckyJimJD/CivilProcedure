@@ -2,16 +2,6 @@
 layout: syllabus
 permalink: /information/
 title: Course Information 
-author: Eric M. Fink
-affiliation: Elon Law School
-email: efink@elon.edu
-phone: 336-279-9334
-address1: 201 North Greene Street
-address2: Greensboro, North Carolina 27401
-course: 'Civil Procedure'
-term: 'Fall 2020'
-days: 'MWF 8:00–9:45 am'
-room: 'Rooms 204, 207, 211'
   
 ---
 
