@@ -1,5 +1,5 @@
 ---
-layout: syllabus 
+layout: schedule 
 permalink: /schedule/
 title: Schedule & Assignments
   
@@ -16,125 +16,125 @@ title: Schedule & Assignments
 
 ## Shaping the Lawsuit: Parties and Claims 
 
+#### September 2
+
 ### Basic Claim & Party Joinder  
 
-#### September 2
 
 - [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-### Counterclaims 
-
 #### September 4
+
+### Counterclaims 
 
 - [FRCP Rule 13(a) & (b)](https://www.law.cornell.edu/rules/frcp)
 - CASES 
 
-### Crossclaims 
-
 #### September 7
+
+### Crossclaims 
 
 - [FRCP Rule 13(g)](https://www.law.cornell.edu/rules/frcp)
 - CASES 
 
-### Third-Party Claims 
-
 #### September 9
+
+### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
 - CASES 
 
-### Required Parties  & Intervention 
-
 #### September 11
+
+### Required Parties  & Intervention 
 
 - [FRCP Rules 19 & 24](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-### Joinder Review 
-
 #### September 14
+
+### Joinder Review 
 
 ##### Quiz: Joinder (Due September 15)
 
 ## Choosing a Forum, Part 1: Subject Matter Jurisdiction 
 
-### Federal Question Jurisdiction 
-
 #### September 16 & 18 
+
+### Federal Question Jurisdiction 
 
 - [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii#section2)
 - [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
 - CASES 
 
-### Diversity Jurisdiction 
-
 #### September 21 & 23 
+
+### Diversity Jurisdiction 
 
 - [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
 - CASES
 
-### Supplemental Jurisdiction 
-
 #### September 25 & 28
+
+### Supplemental Jurisdiction 
 
 - [28 U.S.C. § 1367](https://www.law.cornell.edu/uscode/text/28/1367)
 - CASES
 
-### Removal 
-
 #### September 30
+
+### Removal 
 
 - [28 U.S.C. §§ 1441, 1446, 1447, 1448](https://www.law.cornell.edu/uscode/text/28/part-IV/chapter-89)
 
-### Subject Matter Jurisdiction Review 
-
 #### October 2
+
+### Subject Matter Jurisdiction Review 
 
 ##### Quiz: Subject Matter Jurisdiction (Due October 4)
 
 ## Chosing a Forum, Part 2: Personal Jurisdiction 
 
-### Foundations of Personal Jurisdiction 
-
 #### October 5
+
+### Foundations of Personal Jurisdiction 
 
 - U.S. Constitution, [5th Amendment](https://www.law.cornell.edu/constitution/billofrights#amendmentv) & [14th Amendment, § 1](https://www.law.cornell.edu/constitution/amendmentxiv)
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
 - Pennoyer v. Neff 
 
-### Specific Jurisdiction Based on Minimum Contacts 
-
 #### October 7, 9, & 12
+
+### Specific Jurisdiction Based on Minimum Contacts 
 
 - International Shoe, World Wide Volkswagen, 
 
-### General Jurisdiction 
-
 #### October 14
+
+### General Jurisdiction 
 
 - CASES
 
-### Personal Jurisdiction Review 
-
 #### October 16 
+
+### Personal Jurisdiction Review 
 
 ##### Quiz: Personal Jurisdiction (Due Otober 18)
 
 ## Preclusion
 
-### Claim Preclusion 
-
 #### October 19 & 21
+
+### Claim Preclusion 
 
 - Restatement (2d) of Judgments, §§ 13-26
 - CASES 
 
+#### October 23 & 26
 
 ### Issue Preclusion 
-
-#### October 23 & 26
 
 - Restatement (2d) of Judgments, §§ 27-29
 - CASES
@@ -143,30 +143,30 @@ title: Schedule & Assignments
 
 ## Pleading 
 
-### Pleading Under the Federal Rules 
-
 #### October 28
+
+### Pleading Under the Federal Rules 
 
 - [FRCP Rules 3, 7-12, 15](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-### Complaints 
-
 #### October 30 & November 2
+
+### Complaints 
 
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
 - Twombly, Iqbal, 
 
-### Answers & Defenses 
-
 #### November 4
+
+### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-### Truthfulness & Good Faith in Pleadings 
-
 #### November 6
+
+### Truthfulness & Good Faith in Pleadings 
 
 - [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
 - CASES
@@ -175,29 +175,29 @@ title: Schedule & Assignments
 
 ## The Erie Doctrine 
 
-### The Rules of Decision Act 
-
 #### November 9 & 11 
+
+### The Rules of Decision Act 
 
 - [Rules of Decision Act, 28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
 - CASES: Erie, Byrd, 
 
-### The Rules Enabling Act 
-
 #### November 13
+
+### The Rules Enabling Act 
 
 - [Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
 - CASES: Hanna, 
 
-### Erie Doctrine Review 
-
 #### November 16
+
+### Erie Doctrine Review 
 
 ##### Quiz: Erie Doctrine (Due November 17)
 
-## Summary Judgment
-
 #### November 16 & 17
+
+## Summary Judgment
 
 - [FRCP Rules 12(d) & 56](https://www.law.cornell.edu/rules/frcp)
 - CASES
