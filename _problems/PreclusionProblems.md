@@ -4,7 +4,8 @@ date: 2020-05-28T04:00:00
 
 term: Fall 2020
 course: Civil Procedure 
-title: Preclusion Problems
+title: Review Problems
+subtitle: Preclusion 
 author: Prof. Fink
 affiliation: Elon Law School 
 
@@ -23,7 +24,7 @@ Guy brings a timely workers’ compensation claim for the injury to his foot. St
 
 - Guy negligently failed to move out of the way from the approaching mower.
 
-- The accident was the fault of Elke, which designed and manufactured the mower without an adequate safety device to prevent operation by an unconscious driver, and failed to warn against operating the mower indoors or while intoxicated.
+- The accident was the fault of Elke, which designed the mower without an adequate safety device to prevent operation by an unconscious driver, and failed to warn against operating the mower indoors or while intoxicated.
 
 The Workers’ Compensation Claims Board makes the following findings of fact & conclusions of law:
 
@@ -35,19 +36,19 @@ The Workers’ Compensation Claims Board makes the following findings of fact & 
 
 - While an injured employee’s contributory negligence may provide an employer with a defense to a claim under the worker’s compensation statute, Guy was not negligent in connection with the accident. 
 
-- The mower was not defective in its design or manufacture. 
+- The mower was not defective in its design. 
 
 - The mower did not include any warning against operation indoors or while intoxicated. 
 
-- As a matter of law, neither the defective condition of the mower nor the absence of a warning against unsafe operation provides a defense against an employer’s liability for on-the-job injuries to its employee under the workers’ compensation statute.
+- As a matter of law, neither a design defect nor the absence of a warning against unsafe operation provides a defense against an employer’s liability for on-the-job injuries to its employee under the workers’ compensation statute.
 
 Based on these findings, the Board granted Guy’s claim. Sterling Cooper appeals the Board’s decision to the Hudson Court of Appeals, which affirms the Board’s ruling. Under Hudson law, when a decision by the Board has been affirmed on appeal, the Board’s decision has the same preclusive effect as a court judgment. 
 
-Guy then files a lawsuit in Hudson federal court against Elke Corp., asserting that the design, manufacturing, and/or warning defects in the mower were responsible for his injury. 
+Guy then files a lawsuit in Hudson federal court against Elke Corp., alleging that a design defect and lack of a warning against operation of the mower indoors or while intoxicated were responsible for his injury. 
 
-a. May Elke rely on the decision decision of the Workers' Compensation Claims Board to preclude Guy from arguing that the mower was defective?
+_May Elke rely on the decision of the Workers' Compensation Claims Board to preclude Guy from asserting that the mower's design was defective?_
 
-b. May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?
+_May Guy rely on the decision of the Workers' Compensation Claims Board to preclude Elke from disputing that there was no warning against operating the mower indoors or while intoxicated?_
 
 # Problem 2
 
@@ -57,8 +58,6 @@ Peggy sues Sterling Cooper in Hudson state court, asserting a claim for wrongful
 
 Peggy then brings another suit, this time in Hudson federal court, against both Sterling Cooper and Don, asserting claims for employment discrimination under Title VII (a federal statute). In her new complaint, Peggy alleges that she was fired because she rejected Don's unwanted sexual advances. In the federal suit, Peggy seeks damages for emotional distress, punitive damages, and attorney fees (as permitted under Title VII). 
 
-Each defendant files an answer denying all of the factual allegations in Peggy’s complaint. Each defendant then moves for summary judgment, based on the state court judgement in Peggy’s original suit. Neither Sterling Cooper nor Don offers any evidence concerning the merits of Peggy’s discrimination claim. 
-
-How should the court rule on the two summary judgment motions?
+_Does claim preclusion apply to the claim against Sterling Cooper? To the claim against Don?_
 
 

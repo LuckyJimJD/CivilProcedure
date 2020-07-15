@@ -4,7 +4,8 @@ date: 2020-05-28T03:00:00
 
 term: Fall 2020
 course: Civil Procedure 
-title: Personal Jurisdiction Problems
+title: Review Problems
+subtitle: Personal Jurisdiction 
 author: Prof. Fink
 affiliation: Elon Law School 
 
@@ -19,27 +20,29 @@ Mrs. Potter, a wealthy resident of Philadelphia, decides that the time has come 
 
 A year later, Mrs. Potter decides to move to Cocoanut Manor, a luxurious retirement community in Florida. There she meets Mr. Hammer, the genial grifter who developed Cocoanut Manor in the hopes of attracting a steady supply of wealthy victims for his cons. Mrs. Potter, smitten by Hammer's charm and believing he is the true love of her life, contacts the Delaware bank and directs them to make Mr. Hammer the trust beneficiary in place of her daughter Dora, who hasn't even bothered to write or call since Mrs. Potter moved to Florida. 
 
-A few months later, Mrs. Potter dies in a tragic shuffleboard accident. Dora Potter is chagrined to discover that the trust funds, now totalling $1.4 million, will go to Mr. Hammer isntead of her. She brings a lawsuit in a Florida court, challenging the validity of the trust. Polly Potter, who despises her sister, also joins the suit as a co-plaintiff, arguing that the money in the trust should also go to her as part of Mrs. Potter's estate under the will. 
+A few months later, Mrs. Potter dies in a tragic shuffleboard accident. Dora Potter is chagrined to discover that the trust funds, now totalling $1.4 million, will go to Mr. Hammer isntead of her. She brings a lawsuit in a Florida court, challenging the validity of the trust. Polly Potter, who despises her sister, also joins the suit as a co-plaintiff, arguing that the money in the trust should also go to her as part of Mrs. Potter's estate under the will. Because the Bank is in control of the trust account, it is named as a co-defendant in the suit. 
 
-Because the Bank is in control of the trust account, it is named as a defendant in the suit. Does the Florida court have personal jurisdiction over the Bank? 
+_Does the Florida court have personal jurisdiction over the Bank?_ 
 
 # Problem 2
 
 HCI is a District of Columbia company that conducts training programs around the country to help servers and sellers of alcohol prevent alcohol abuse. Mariner, a Texas company, owns hotels in five states but has none in D.C. Mariner contacted HCI to arrange for training sessions for its employes. A contract between the parties was negotiated by telephone and by mail over a period of eight months. it was signed in Texas. Pursuant to the contract, HCI conducted four two-day workshops for Mariner, none of them in D.C. HCI issued certificates to people successfully completing the workshops, which allowed them to provide similar training for other mariner employees. HCI sent Mariner materials for these additional sessions, graded the participants’ exams, and corresponded with Mariner about the training. When Mariner failed to pay for these services, HCI sued Mariner for breach of contract in a D.C. federal court. Mariner moved to dismiss for lack of jurisdiction. Assume that the applicable long-arm statute authorizes the exercise of personal jurisdiction up to the constitutional limit. 
 
-Is Mariner subject to personal jurisdiction in D.C.? See Health Communications, Inc. v. Mariner Corp., 860 F.2d 460 (D.C. Cir. 1988). 
+_Is Mariner subject to personal jurisdiction in D.C.?_ See Health Communications, Inc. v. Mariner Corp., 860 F.2d 460 (D.C. Cir. 1988). 
 
 # Problem 3
 
-Dan & Pat, both residents of Pennsylvania, are partners in a Delaware business. The business fails, and a disagreement arises between Dan & Pat over the division of the partnership's remaining assets. Deciding to get away from it all, Dan moves to Idaho. Pat now wants to sue Dan over the partnership dispute. Assuming each state's long-arm statute provides for jurisdiction to the full extent permitted under the Constitution, in which state(s) may Pat sue? 
+Dan & Pat, both residents of Pennsylvania, are partners in a Delaware business. The business fails, and a disagreement arises between Dan & Pat over the division of the partnership's remaining assets. Deciding to get away from it all, Dan moves to Idaho. Pat now wants to sue Dan over the partnership dispute. Each state's long-arm statute provides for jurisdiction to the full extent permitted under the U.S. Constitution. 
+
+_In which state(s) may Pat sue?_ 
 
 # Problem 4
 
 Dan operates a gas station near U.S. Interstate 40 in Greensboro, north Carolina. The station is frequented by locals and by interstate travelers using I-40. last summer, Dan changed a tire on an automobile bearing Missitucky license plates. The car belonged to Vivian, who was driving through Greensboro on her way home from vacation in the Outer Banks. A few days later, after Vivian reached Missitucky, her car swerved out of control and his an embankment. Vivian sued Dan in Missitucky state court, alleging that the accident resulted in his negligence in changing the tire. 
 
-a. May the court statutorily exercise personal jurisdiction over Dan if the Missitucky long-arm statute is identical (i) New York’s, (ii) Rhode Island’s, (iii) North Carolina’s?
+_May the court statutorily exercise personal jurisdiction over Dan if the Missitucky long-arm statute is identical (i) New York’s, (ii) Rhode Island’s, (iii) North Carolina’s?_
 
-b. Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Dan be permissible under the U.S. Constitution?
+_Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Dan be permissible under the U.S. Constitution?_
 
 ## Question 4.1 
 
@@ -76,4 +79,3 @@ b. Yes, because the court may assert quasi in rem jurisdiction in this case
 c. No, unless D is personally served while pressent in Florida
 
 d. No, because the underlying judgment has no connection to Florida
-e the underlying judgment has no connection to Florida

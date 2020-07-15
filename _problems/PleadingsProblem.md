@@ -4,7 +4,8 @@ date: 2020-05-28T05:00:00
 
 term: Fall 2020
 course: Civil Procedure 
-title: Pleadings Problems
+title: Review Problems
+subtitle: Pleadings
 author: Prof. Fink
 affiliation: Elon Law School 
 
@@ -60,4 +61,4 @@ Under Hudson state law, the elements of a claim for wrongful termination in brea
 
 Sterling Cooper moves to dismiss for failure to state a claim under FRCP Rule 12(b)(6), asserting that the allegations in the complaint are insufficient to state a claim for breach of contract. 
 
-How should the court rule?
+_Should the court grant the motion to dismiss?_

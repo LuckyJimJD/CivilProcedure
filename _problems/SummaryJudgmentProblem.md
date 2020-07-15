@@ -4,7 +4,8 @@ date: 2020-05-28T07:00:00
 
 term: Fall 2020
 course: Civil Procedure 
-title: Summary Judgment Problem
+title: Review Problem
+subtitle: Summary Judgment 
 author: Prof. Fink
 affiliation: Elon Law School 
 
@@ -61,4 +62,4 @@ Julius Hahn, founder and president of Hahn, Inc., testified that his company man
 
 Mebelmacher generally furnishes Hahn with a pencil sketch of the furniture design, as well as a working sketch giving the actual dimensions of the piece and specifying the exterior material to be used. The Swivel Tub Chair was designed so that the chrome veneer edge would be flush with the plywood and the edges of the veneer would be sanded down. Chrome veneer is sharp because it is thin. However, the chair was not designed to have sharp edges. Hahn considers a sharp edge to be a manufacturing defect, not a design defect. Nothing prevented the placement of a protective trim along the bottom of the Swivel Tub Chair. Plastic edge guards have been added to similar chairs in the last few years.
 
-Should the court grant summary judgment in favor of Mebelmacher?
+_Should the court grant summary judgment in favor of Mebelmacher?_
