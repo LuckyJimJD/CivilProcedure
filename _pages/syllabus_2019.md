@@ -8,10 +8,10 @@ email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-course: 'Civil Procedure'
-term: 'Fall 2019'
+course: Civil Procedure
+term: Fall 2019
 days: 'Mondays, Wednesdays, & Fridays, 9:00 – 10:45 am'
-room: 'Room 207'
+room: Room 207
 
 output: 
   pdf_document:
