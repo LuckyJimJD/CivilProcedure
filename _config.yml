@@ -22,8 +22,6 @@ collections:
     output: true 
   outlines:
     output: true
-  pleadings: 
-    output: true
   problems:
     output: true 
   readings: 
