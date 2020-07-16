@@ -8,11 +8,7 @@ title: Links
 
 ## Federal
 
-[Federal Judicial Statutes (PDF)]({{ site.baseurl }}/assets/course_material/rules_statutes/federal_statutes.pdf)
-
 [Federal Judicial Statutes (LII)](https://www.law.cornell.edu/uscode/text/28)
-
-[Federal Rules of Civil Procedure (PDF)]({{ site.baseurl}}/assets/course_material/rules_statutes/FRCP2018.pdf)
 
 [Federal Rules of Civil Procedure (LII)](https://www.law.cornell.edu/rules/frcp)
 
