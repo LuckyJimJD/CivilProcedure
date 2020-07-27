@@ -45,7 +45,7 @@ In _Williams,_ the court offered a rationale for the continuing applicability of
 
 ## III. Permissive Counterclaim
 
-[The court concluded that the counterclaim was permissive. See [Ginwright, part III]({{ site.baseurl }}/cases/Ginwright1).]
+[The court concluded that Exeter's counterclaim was permissive. See [Ginwright, part III]({{ site.baseurl }}/cases/Ginwright1).]
 
 [ * * * ]
 
@@ -53,7 +53,7 @@ In _Williams,_ the court offered a rationale for the continuing applicability of
 
 Even if the Court could exercise supplemental jurisdiction over a permissive counterclaim, the Court may decline to do so under certain circumstances. 28 U.S.C. § 1367(c). Among those circumstances are where the "claim substantially predominates over the claims over which the court has original jurisdiction" and where, "in exceptional circumstances, there are other compelling reasons for declining jurisdiction." _Id._ Here, the more fact-intensive breach of contract counterclaim, which may involve analysis of whether Exeter following state law requirements for repossession and resale, is likely to substantially predominate over the TCPA claim centered on whether Ginwright consented to receive telephone calls from Exeter on his cellular phone. 
 
-Moreover, public policy concerns support declining jurisdiction. Federal consumer protection statutes seek to protect consumers from unscrupulous practices "regardless of whether a valid debt actually exists." <a href="https://scholar.google.com/scholar_case?case=6328438593927666150&amp;hl=en&amp;as_sdt=6,34">_Baker v. G. C. Servs. Corp.,_ 677 F.2d 775, 777 (9th Cir. 1982) (discussing the purpose of the Fair Debt Collection Practices Act). In the context of TILA, the Fourth Circuit has cautioned that "[t]o let the lender use the federal proceedings as an opportunity to pursue private claims against the borrower would impede expeditious enforcement of the federal penalty and involve the district courts in debt collection matters having no federal significance." _Whigham,_ 599 F.3d at 1324 (discussing TILA). This same concern applies here. Accordingly, having concluded that Exeter's counterclaim would substantially predominate over the TCPA claim, the Court, even if authorized to exercise supplemental jurisdiction over that counterclaim, would decline to do so.
+Moreover, public policy concerns support declining jurisdiction. Federal consumer protection statutes seek to protect consumers from unscrupulous practices "regardless of whether a valid debt actually exists." _Baker v. G. C. Servs. Corp.,_ 677 F.2d 775, 777 (9th Cir. 1982) (discussing the purpose of the Fair Debt Collection Practices Act). In the context of TILA, the Fourth Circuit has cautioned that "[t]o let the lender use the federal proceedings as an opportunity to pursue private claims against the borrower would impede expeditious enforcement of the federal penalty and involve the district courts in debt collection matters having no federal significance." _Whigham,_ 599 F.3d at 1324 (discussing TILA). This same concern applies here. Accordingly, having concluded that Exeter's counterclaim would substantially predominate over the TCPA claim, the Court, even if authorized to exercise supplemental jurisdiction over that counterclaim, would decline to do so.
 
 ## CONCLUSION
 
