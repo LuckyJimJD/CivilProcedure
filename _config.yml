@@ -16,6 +16,8 @@ email: efink@elon.edu
 phone: 336-279-9334
 
 collections: 
+  cases: 
+    output: true 
   exams:
     output: true
   notes: 
