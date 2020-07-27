@@ -8,7 +8,7 @@ cite: 'No. TDC-16-0565'
 court: D. Md. 
 published: '2016'
 
-slug: Ginwright_counterclaim
+slug: Ginwright1
 
 categories: cases 
 tags: joinder counterclaims 'supplemental jurisdiction'
