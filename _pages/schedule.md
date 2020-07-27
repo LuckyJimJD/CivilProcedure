@@ -27,7 +27,9 @@ title: Schedule & Assignments
 
 
 - [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
-- CASES
+- [Mosley v. General Motors Co.]({{ site.baseurl }}/cases/Mosley)
+- [Jones v. Ford Motor Credit Co.]({{ site.baseurl }}/cases/FordMotorCredit1)
+- [Ginwright v. Exeter Finance Corp.]({{ site.baseurl }}/cases/Ginwright1)
 
 #### September 4
 
