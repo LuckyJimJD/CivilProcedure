@@ -4,8 +4,9 @@ date: 2020-05-27T22:29:30-04:00
 
 course: Civil Procedure 
 title: 'Ginwright v. Exeter Finance Corp.'
-cite: 'No. TDC-16-0565 (D. Md. 2016)'
-
+cite: 'No. TDC-16-0565'
+court: D. Md. 
+published: '2016'
 
 categories: cases 
 tags: joinder counterclaims 'supplemental jurisdiction'
