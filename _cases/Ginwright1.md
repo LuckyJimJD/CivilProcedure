@@ -1,6 +1,5 @@
 ---
 layout: case
-date: 2020-05-27T22:29:30-04:00
 
 course: Civil Procedure 
 title: 'Ginwright v. Exeter Finance Corp.'

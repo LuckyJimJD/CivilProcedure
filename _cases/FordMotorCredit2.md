@@ -1,6 +1,5 @@
 ---
 layout: case
-date: 2020-01-01T02:00:00-00:00
 
 course: Civil Procedure 
 title: 'Jones v. Ford Motor Credit Co.'
