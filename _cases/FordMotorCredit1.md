@@ -57,6 +57,6 @@ We agree with the District Court that the debt collection counterclaims were per
 
 [^1]: The phrase "logical relationship," in the context of counterclaims, was first used by the Supreme Court in [_Moore v. New York Cotton Exchange](https://scholar.google.com/scholar_case?case=3166674641492367016)_, 270 U.S. 593 (1926). Referring to a counterclaim "arising out of the transaction which is the subject matter of the suit," as stated in former Equity Rule 30, the Court explained:
 
-> "Transaction" is a word of flexible meaning. It may comprehend a series of many occurrences, depending not so much upon the immediateness of their connection as upon their logical relationship.
+	> "Transaction" is a word of flexible meaning. It may comprehend a series of many occurrences, depending not so much upon the immediateness of their connection as upon their logical relationship.
 
-_Id_.
+	_Id_.
