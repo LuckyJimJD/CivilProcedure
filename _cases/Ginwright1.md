@@ -6,9 +6,6 @@ title: 'Ginwright v. Exeter Finance Corp.'
 cite: 'No. TDC-16-0565'
 court: D. Md. 
 published: '2016'
-
-categories: cases 
-tags: joinder Rule13 counterclaims 
     
 ---
 
