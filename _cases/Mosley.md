@@ -12,7 +12,7 @@ categories: cases
 tags: joinder Rule20
     
 ---
-## Before ROSS AND STEPHENSON, Circuit Judges, and VAN PELT,[^*] Senior District Judge.
+## Before ROSS AND STEPHENSON, Circuit Judges, and VAN PELT,[^1] Senior District Judge.
 
 ## OPINION 
 
@@ -68,4 +68,4 @@ The judgment of the district court disallowing joinder of the plaintiffs' indivi
 
 ---
 
-[^*] ROBERT VAN PELT, Senior District Judge, District of Nebraska, sitting by designation.
+[^1] ROBERT VAN PELT, Senior District Judge, District of Nebraska, sitting by designation.
