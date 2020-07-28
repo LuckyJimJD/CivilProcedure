@@ -88,23 +88,20 @@ title: Schedule & Assignments
 ### Supplemental Jurisdiction 
 
 - [28 U.S.C. § 1367](https://www.law.cornell.edu/uscode/text/28/1367)
-- CASES
+- [United Mine Workers of America v. Gibbs]({{ site.baseurl }}/cases/Gibbs)
+- [Jones v. Ford Motor Credit Co.]({{ site.baseurl }}/cases/FordMotorCredit2)
+- [Ginwright v. Exeter Finance Corp.]({{ site.baseurl }}/cases/Ginwright2)
+- [Exxon Mobile Corp. v. Allapattah Services, Inc.]({{ site.baseurl }}/cases/Allapattah)
 
 #### September 30
 
-### Removal 
-
-- [28 U.S.C. §§ 1441, 1446, 1447, 1448](https://www.law.cornell.edu/uscode/text/28/part-IV/chapter-89)
-
-#### October 2
-
 ### Subject Matter Jurisdiction Review 
 
-##### Quiz: Subject Matter Jurisdiction (Due October 4)
+##### Quiz: Subject Matter Jurisdiction (Due October 1)
 
 ## Personal Jurisdiction 
 
-#### October 5
+#### October 2
 
 ### Foundations of Personal Jurisdiction 
 
@@ -112,73 +109,77 @@ title: Schedule & Assignments
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
 - Pennoyer v. Neff 
 
-#### October 7, 9, & 12
+#### October 5, 7, & 9
 
 ### Specific Jurisdiction Based on Minimum Contacts 
 
 - International Shoe, World Wide Volkswagen, 
 
-#### October 14
+#### October 12
 
 ### General Jurisdiction 
 
 - CASES
 
-#### October 16 
+#### October 14 
 
 ### Personal Jurisdiction Review 
 
-##### Quiz: Personal Jurisdiction (Due Otober 18)
+##### Quiz: Personal Jurisdiction (Due Otober 15)
 
 ## Preclusion
 
-#### October 19 & 21
+#### October 16 & 19
 
 ### Claim Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments.md)
 - CASES 
 
-#### October 23 & 26
+#### October 21 & 23 
 
 ### Issue Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments.md)
 - CASES
 
-##### Quiz: Preclusion (Due October 27)
+##### Quiz: Preclusion (Due October 25)
 
 ## Pleading 
 
-#### October 28
+#### October 26
 
 ### Pleading Under the Federal Rules 
 
 - [FRCP Rules 3, 7-12, 15](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-#### October 30 & November 2
+#### October 28 & 30
 
 ### Complaints 
 
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
 - Twombly, Iqbal, 
 
-#### November 4
+#### November 2
 
 ### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-#### November 6
+#### November 4
 
 ### Truthfulness & Good Faith in Pleadings 
 
 - [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-##### Quiz: Pleadings (Due November 7)
+#### November 6
+
+### Pleadings Review 
+
+##### Quiz: Pleadings (Due November 8)
 
 ## The Erie Doctrine 
 
@@ -204,20 +205,20 @@ title: Schedule & Assignments
 
 ## Summary Judgment
 
-#### November 16
+#### November 18
 
 ### Standard for Summary Judgment 
 
 - [FRCP Rules 56(a)](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-#### November 17
+#### November 20
 
 ### Burden of Production 
 
 - [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-##### Quiz: Summary Judgment (Due November 23)
+##### Quiz: Summary Judgment (Due November 22)
 
 ##### Final Exam (Date)
