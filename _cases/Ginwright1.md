@@ -26,7 +26,7 @@ In its Counterclaim, Exeter alleges that Ginwright breached the original contrac
 
 ## DISCUSSION
 
-Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of Civil Procedure 12(b)(1) for lack of subject matter jurisdiction. Ginwright asserts that Exeter has failed to assert any independent basis for jurisdiction over the counterclaim and that this Court may not exercise supplemental jurisdiction over the counterclaim because it is a permissive counterclaim. Exeter counters that, since the enactment of 28 U.S.C. § 1367, a court, may exercise supplemental jurisdiction over a permissive counterclaim,[^8bf301ad] and that, in any event, its counterclaim is compulsory.
+Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of Civil Procedure 12(b)(1) for lack of subject matter jurisdiction. Ginwright asserts that Exeter has failed to assert any independent basis for jurisdiction over the counterclaim and that this Court may not exercise supplemental jurisdiction over the counterclaim because it is a permissive counterclaim. Exeter counters that, since the enactment of 28 U.S.C. § 1367, a court, may exercise supplemental jurisdiction over a permissive counterclaim, and that, in any event, its counterclaim is compulsory.
 
 [ * * * ]
 
@@ -64,6 +64,3 @@ Exeter's citation to a single district court case reaching the contrary conclusi
 
 [ * * * ]
 
---- 
-
-[^8bf301ad]: The court's discussion of supplemental jurisdiction over counterclaims under § 1367 appears in [Part II of the opinion]({{ site.baseurl }}/cases/Ginwright2).
