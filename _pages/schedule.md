@@ -83,7 +83,7 @@ title: Schedule & Assignments
 - [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
 - CASES
 
-#### September 25 & 28 
+#### September 25 & 28
 
 ### Supplemental Jurisdiction 
 
