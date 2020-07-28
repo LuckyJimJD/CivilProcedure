@@ -34,10 +34,6 @@ On March 27, 2003, the District Court entered judgment pursuant to Fed.R.Civ.P. 
 
 ## Discussion
 
-## I. Are Ford Credit's Counterclaims Permissive?
-
-[The court concluded that Ford Motor Credit's counterclaim was permissive. See [Part I of the opinion]({{ site.baseurl }}/cases/FordMotorCredit1).]
-
 ## II. Is There Jurisdiction over the Permissive Counterclaims?
 
 For several decades federal courts have asserted that permissive counterclaims require an independent basis of jurisdiction, _i.e_., that the counterclaim must be maintainable in a federal district court on some jurisdictional basis that would have sufficed had it been brought in a separate action. The origin of this proposition, the questioning of it before the statutory authorization of supplemental jurisdiction in section 1367, and the impact of that provision upon the proposition all merit careful consideration.

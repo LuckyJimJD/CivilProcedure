@@ -42,9 +42,7 @@ Several courts of appeals have agreed with this view and have interpreted § 136
 
 In _Williams,_ the court offered a rationale for the continuing applicability of the Fourth Circuit rule based on the premise that § 1367 did not materially alter the jurisdictional landscape applicable to this issue. The United States Supreme Court has stated that § 1367 "codified" existing common law doctrines of pendent and ancillary jurisdiction "under a common heading" of supplemental jurisdiction. _City of Chicago v. Int'l Coll. of Surgeons_, 522 U.S. 156, 165 (1997). The pre-§ 1367 doctrine of pendent jurisdiction provided federal jurisdiction over claims that "derive from a common nucleus of operative fact" such that "the entire action before the court comprises but one constitutional `case.'" _Id._ at 164-65 (quoting _United Mine Workers v. Gibbs,_ 383 U.S. 715, 725 (1966)). In _International College of Surgeons,_ when the Court applied the "common nucleus of operative fact" test to conclude that there was supplemental jurisdiction under the "same case or controversy" requirement of § 1367, it effectively equated the two tests. _See id._ at 165. In _Williams,_ the court concluded that because the "common nucleus of operative fact" standard remains applicable after § 1367, the Fourth Circuit rule of providing supplemental jurisdiction over compulsory counterclaims only, which was premised on that pre-§ 1367 standard, remains intact. Where the Fourth Circuit has not addressed whether § 1367 altered the rule articulated in _Whigham_ and _Painter,_ the district courts within this circuit continue to adhere to that rule, and a principled basis exists for doing so, the Court declines to deviate from Fourth Circuit precedent and will continue to apply the rule that a federal court has supplemental jurisdiction over compulsory counterclaims only.
 
-## III. Permissive Counterclaim
-
-[The court concluded that Exeter's counterclaim was permissive. See [Part III of the opinion]({{ site.baseurl }}/cases/Ginwright1).]
+[ * * * ]
 
 ## IV. 28 U.S.C. § 1367(c)
 
