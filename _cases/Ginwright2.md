@@ -9,13 +9,13 @@ court: D. Md.
 published: '2016'
 
 categories: cases 
-tags: joinder counterclaims 'supplemental jurisdiction'
+tags: 'supplemental jurisdiction' counterclaims 
     
 ---
 
 ## MEMORANDUM OPINION
 
-### THEODORE D. CHUANG, District Judge.
+## THEODORE D. CHUANG, District Judge.
 
 On February 26, 2016, Plaintiff Billy Ginwright filed this action against Defendant Exeter Finance Corporation ("Exeter") for violations of the Telephone Consumer Protection Act ("TCPA"), 47 U.S.C. § 227 (2012), and the Maryland Telephone Consumer Protection Act ("MTCPA"), Md. Code Ann., Com. Law §§ 14-3201 to -3202 (West 2013). On May 11, 2016, Exeter filed its Amended Answer and Counterclaim, alleging that Ginwright breached the contract that led Exeter to seek to collect a debt by telephone. Pending before the Court is Ginwright's Motion to Dismiss Exeter's Counterclaim. For the following reasons, the Motion is granted.
 
