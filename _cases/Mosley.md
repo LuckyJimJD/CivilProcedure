@@ -36,7 +36,7 @@ The purpose of the rule is to promote trial convenience and expedite the final d
 
 > Under the Rules, the impulse is toward entertaining the broadest possible scope of action consistent with fairness to the parties; joinder of claims, parties and remedies is strongly encouraged.
 
-United Mine Workers of America v. Gibbs, 383 U.S. 715 (1966).
+_United Mine Workers of America v. Gibbs_, 383 U.S. 715 (1966).
 
 Permissive joinder is not, however, applicable in all cases. The rule imposes two specific requisites to the joinder of parties: (1) a right to relief must be asserted by, or against, each plaintiff or defendant relating to or arising out of the same _transaction or occurrence, or series of transactions or occurrences;_ and (2) some _question of law or fact common_ to all the parties must arise in the action.
 
