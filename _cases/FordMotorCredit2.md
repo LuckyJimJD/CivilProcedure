@@ -8,8 +8,6 @@ cite: '358 F.3d 205'
 court: '2d Cir.'
 published: '2004'
 
-categories: cases 
-tags: 'supplemental jurisdiction' counterclaims
     
 ---
 
