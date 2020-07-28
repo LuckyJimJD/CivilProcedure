@@ -33,16 +33,6 @@ collections:
   visuals:
     output: true
 
-tags: 
-  Introduction: 
-  Joinder:
-  Subject-Matter-Jurisdiction:
-  Personal-Jurisdiction:
-  Preclusion: 
-  Pleadings: 
-  Choice-of-Law:
-  Summary-Judgment: 
-
 footer_text: >
   Created by <a href="https://github.com/LuckyJimJD" target="_blank">Eric M. Fink</a>. 
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>. 
