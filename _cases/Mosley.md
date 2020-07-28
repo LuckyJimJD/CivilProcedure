@@ -12,7 +12,7 @@ categories: cases
 tags: joinder Rule20
     
 ---
-## Before ROSS AND STEPHENSON, Circuit Judges, and VAN PELT,[^1] Senior District Judge.
+## Before ROSS AND STEPHENSON, Circuit Judges, and VAN PELT, Senior District Judge (sitting by designation).
 
 ## OPINION 
 
@@ -66,6 +66,3 @@ For the reasons set forth above, we conclude that the district court abused its 
 
 The judgment of the district court disallowing joinder of the plaintiffs' individual actions is reversed and remanded with directions to permit the plaintiffs to proceed jointly. [ * * * ]
 
----
-
-[^1] ROBERT VAN PELT, Senior District Judge, District of Nebraska, sitting by designation.
