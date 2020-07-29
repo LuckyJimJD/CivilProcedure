@@ -3,7 +3,7 @@ layout: statute
 
 course: Civil Procedure
 title: 'Restatement (2d) of Judgments'
-subtitle: 'Chapter 3. Former Adjudication: the Effects of a Judicial Judgment'
+subtitle: 'Chapter 3. Former Adjudication: the Effects of a Judicial Judgment' 
     
 ---
 
