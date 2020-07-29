@@ -1,6 +1,5 @@
 ---
-layout: post 
-date: 2020-07-14T01:00:00
+layout: statute
 
 course: Civil Procedure
 title: 'Restatement (2d) of Judgments'
@@ -62,11 +61,11 @@ This general rule is subject to the exceptions stated in §§20 and 26.
 
 (1) A personal judgment for the defendant, although valid and final, does not bar another action by the plaintiff on the same claim:
 
-	(a) When the judgment is one of dismissal for lack of jurisdiction, for improper venue, or for nonjoinder or misjoinder of parties; or
+> (a) When the judgment is one of dismissal for lack of jurisdiction, for improper venue, or for nonjoinder or misjoinder of parties; or
 
-	(b) When the plaintiff agrees to or elects a nonsuit (or voluntary dismissal) without prejudice or the court directs that the plaintiff be nonsuited (or that the action be otherwise dismissed) without prejudice; or
+> (b) When the plaintiff agrees to or elects a nonsuit (or voluntary dismissal) without prejudice or the court directs that the plaintiff be nonsuited (or that the action be otherwise dismissed) without prejudice; or
 
-	(c) When by statute or rule of court the judgment does not operate as a bar to another action on the same claim, or does not so operate unless the court specifies, and no such specification is made.
+> (c) When by statute or rule of court the judgment does not operate as a bar to another action on the same claim, or does not so operate unless the court specifies, and no such specification is made.
 
 (2) A valid and final personal judgment for the defendant, which rests on the prematurity of the action or on the plaintiff’s failure to satisfy a precondition to suit, does not bar another action by the plaintiff instituted after the claim has matured, or the precondition has been satisfied, unless a second action is precluded by operation of the substantive law.
 
@@ -84,9 +83,9 @@ For statement of the general rule of merger and its exceptions, see §§18, 26.
 
 (2) A defendant who may interpose a claim as a counterclaim in an action but fails to do so is precluded, after the rendition of judgment in that action, from maintaining an action on the claim if:
 
-|	(a) The counterclaim is required to be interposed by a compulsory counterclaim statute or rule of court, or
+> (a) The counterclaim is required to be interposed by a compulsory counterclaim statute or rule of court, or
 
-|	(b) The relationship between the counterclaim and the plaintiff’s claim is such that successful prosecution of the second action would nullify the initial judgment or would impair rights established in the initial action.
+> (b) The relationship between the counterclaim and the plaintiff’s claim is such that successful prosecution of the second action would nullify the initial judgment or would impair rights established in the initial action.
 
 ### §23 Judgment for Plaintiff on Defendant’s Counterclaim
 
@@ -114,17 +113,17 @@ The rule of §24 applies to extinguish a claim by the plaintiff against the defe
 
 (1) When any of the following circumstances exists, the general rule of §24 does not apply to extinguish the claim, and part or all of the claim subsists as a possible basis for a second action by the plaintiff against the defendant:
 
-|	(a) The parties have agreed in terms or in effect that the plaintiff may split his claim, or the defendant has acquiesced therein; or
+> (a) The parties have agreed in terms or in effect that the plaintiff may split his claim, or the defendant has acquiesced therein; or
 
-|	(b) The court in the first action has expressly reserved the plaintiff’s right to maintain the second action; or
+> (b) The court in the first action has expressly reserved the plaintiff’s right to maintain the second action; or
 
-|	(c) The plaintiff was unable to rely on a certain theory of the case or to seek a certain remedy or form of relief in the first action because of the limitations on the subject matter jurisdiction of the courts or restrictions on their authority to entertain multiple theories or demands for multiple remedies or forms of relief in a single action, and the plaintiff desires in the second action to rely on that theory or to seek that remedy or form of relief; or
+> (c) The plaintiff was unable to rely on a certain theory of the case or to seek a certain remedy or form of relief in the first action because of the limitations on the subject matter jurisdiction of the courts or restrictions on their authority to entertain multiple theories or demands for multiple remedies or forms of relief in a single action, and the plaintiff desires in the second action to rely on that theory or to seek that remedy or form of relief; or
 
-|	(d) The judgment in the first action was plainly inconsistent with the fair and equitable implementation of a statutory or constitutional scheme, or it is the sense of the scheme that the plaintiff should be permitted to split his claim; or
+> (d) The judgment in the first action was plainly inconsistent with the fair and equitable implementation of a statutory or constitutional scheme, or it is the sense of the scheme that the plaintiff should be permitted to split his claim; or
 
-|	(e) For reasons of substantive policy in a case involving a continuing or recurrent wrong, the plaintiff is given an option to sue once for the total harm, both past and prospective, or to sue from time to time for the damages incurred to the date of suit, and chooses the latter course; or
+> (e) For reasons of substantive policy in a case involving a continuing or recurrent wrong, the plaintiff is given an option to sue once for the total harm, both past and prospective, or to sue from time to time for the damages incurred to the date of suit, and chooses the latter course; or
 
-|	(f) It is clearly and convincingly shown that the policies favoring preclusion of a second action are overcome for an extraordinary reason, such as the apparent invalidity of a continuing restraint or condition having a vital relation to personal liberty or the failure of the prior litigation to yield a coherent disposition of the controversy.
+> (f) It is clearly and convincingly shown that the policies favoring preclusion of a second action are overcome for an extraordinary reason, such as the apparent invalidity of a continuing restraint or condition having a vital relation to personal liberty or the failure of the prior litigation to yield a coherent disposition of the controversy.
 
 (2) In any case described in (f) of Subsection (1), the plaintiff is required to follow the procedure set forth in §§78- 82.
 
@@ -194,17 +193,17 @@ For related provisions on attachment, garnishment and similar proceedings (tradi
 
 (1) A judgment in an action whose purpose is to determine or change a person’s status is conclusive upon the parties to the action:
 
-|	(a) With respect to the existence of the status, and rights and obligations incident to the status which under the procedures governing the action are ordinarily determined therein, in accordance with the rules of claim preclusion stated in §§18- 26 and subject to the qualifications stated in §13 concerning judgments granting or denying continuing relief;
+> (a) With respect to the existence of the status, and rights and obligations incident to the status which under the procedures governing the action are ordinarily determined therein, in accordance with the rules of claim preclusion stated in §§18- 26 and subject to the qualifications stated in §13 concerning judgments granting or denying continuing relief;
 
-|	(b) With respect to issues determined in the action, in accordance with the rules of issue preclusion stated in §§27- 28.
+> (b) With respect to issues determined in the action, in accordance with the rules of issue preclusion stated in §§27- 28.
 
 (2) A judgment in an action whose purpose is to determine or change a person’s status is conclusive with respect to that status upon all other persons, with the following qualifications:
 
-|	(a) If a person has, under applicable law, an interest in such status such that he is entitled to contest its existence, the judgment is not conclusive upon him unless he was afforded an opportunity to be a party to the action;
+> (a) If a person has, under applicable law, an interest in such status such that he is entitled to contest its existence, the judgment is not conclusive upon him unless he was afforded an opportunity to be a party to the action;
 
-|	(b) When a statute, rule of court, or provision of the judgment itself limits the effect of the judgment with respect to other persons, the effect of the judgment is limited accordingly;
+> (b) When a statute, rule of court, or provision of the judgment itself limits the effect of the judgment with respect to other persons, the effect of the judgment is limited accordingly;
 
-|	(c) As against a person who is not entitled to contest the existence of the status, the judgment is not accorded effect to the extent it would result in unjust effect on that person’s own status, rights, or obligations.
+> (c) As against a person who is not entitled to contest the existence of the status, the judgment is not accorded effect to the extent it would result in unjust effect on that person’s own status, rights, or obligations.
 
 (3) The determination of a person’s status in an action other than one whose purpose is to determine or change that status is conclusive upon the parties to the action, in accordance with the rules of issue preclusion, except in a subsequent action whose purpose is to determine or change the status in question.
 
