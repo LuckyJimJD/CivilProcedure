@@ -11,7 +11,7 @@ title: Schedule & Assignments
 
 ### The Federal Judicial System 
 
-- [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii#section1)
+- [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
 
@@ -71,7 +71,7 @@ title: Schedule & Assignments
 
 ### Federal Question Jurisdiction 
 
-- [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii#section2)
+- [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii)
 - [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
 - CASES 
@@ -133,14 +133,14 @@ title: Schedule & Assignments
 
 ### Claim Preclusion 
 
-- [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments.md)
+- [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
 - CASES 
 
 #### October 21 & 23 
 
 ### Issue Preclusion 
 
-- [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments.md)
+- [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
 - CASES
 
 ##### Quiz: Preclusion (Due October 25)
