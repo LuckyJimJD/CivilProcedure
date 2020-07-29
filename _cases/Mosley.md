@@ -1,15 +1,11 @@
 ---
 layout: case
-date: 2020-05-27T22:29:30-04:00
 
 course: Civil Procedure 
 title: 'Mosley v. General Motors Corp.'
 cite: '497 F. 2d 1330'
 court: '8th Cir.'
 published: '1974'
-
-categories: cases 
-tags: joinder Rule20
     
 ---
 ## Before ROSS AND STEPHENSON, Circuit Judges, and VAN PELT, Senior District Judge (sitting by designation).
@@ -65,4 +61,3 @@ The right to relief here depends on the ability to demonstrate that each of the 
 For the reasons set forth above, we conclude that the district court abused its discretion in severing the joined actions. The difficulties in ultimately adjudicating damages to the various plaintiffs are not so overwhelming as to require such severance. If appropriate, separate trials may be granted as to any particular issue after the determination of common questions.
 
 The judgment of the district court disallowing joinder of the plaintiffs' individual actions is reversed and remanded with directions to permit the plaintiffs to proceed jointly. [ * * * ]
-
