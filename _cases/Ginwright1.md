@@ -27,7 +27,7 @@ Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of C
 
 [ * * * ]
 
-## III. Permissive Counterclaim
+### III. Permissive Counterclaim
 
 In assessing whether a counterclaim is compulsory or permissive, courts consider four inquiries:
 
@@ -60,4 +60,3 @@ The Court's conclusion is consistent with those of several district courts that 
 Exeter's citation to a single district court case reaching the contrary conclusion, _Horton v. Calvary Portfolio Servs._, (S.D. Cal. 2014), is unpersuasive. In _Horton,_ the court applied the "logical relationship" test, followed by the United States Court of Appeals for the Ninth Circuit in determining whether a counterclaim is compulsory or permissive, which differs from the Fourth Circuit's four-part inquiry. Moreover, other courts applying a logical relationship test have concluded that a breach of contract counterclaim to a TCPA claim is permissive. 
 
 [ * * * ]
-

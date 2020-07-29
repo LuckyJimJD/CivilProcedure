@@ -34,7 +34,7 @@ On March 27, 2003, the District Court entered judgment pursuant to Fed.R.Civ.P. 
 
 ## Discussion
 
-## II. Is There Jurisdiction over the Permissive Counterclaims?
+### II. Is There Jurisdiction over the Permissive Counterclaims?
 
 For several decades federal courts have asserted that permissive counterclaims require an independent basis of jurisdiction, _i.e_., that the counterclaim must be maintainable in a federal district court on some jurisdictional basis that would have sufficed had it been brought in a separate action. The origin of this proposition, the questioning of it before the statutory authorization of supplemental jurisdiction in section 1367, and the impact of that provision upon the proposition all merit careful consideration.
 
@@ -47,11 +47,10 @@ The explicit extension to the limit of Article III of a federal court's jurisdic
 We share the view that section 1367 has displaced, rather than codified, whatever validity inhered in the earlier view that a permissive counterclaim requires independent jurisdiction (in the sense of federal question or diversity jurisdiction). The issue in this case therefore becomes whether supplemental jurisdiction is available for Ford Credit's counterclaims.
 
 
-## III. Application of Section 1367's Standards for Supplemental Jurisdiction
+### III. Application of Section 1367's Standards for Supplemental Jurisdiction
 
 [ * * * ]
 
 ## Conclusion
 
 The judgment dismissing Ford Credit's counterclaims is vacated, and the case is remanded for further proceedings consistent with this opinion. No costs.
-

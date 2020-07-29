@@ -25,11 +25,11 @@ In its Counterclaim, Exeter alleges that Ginwright breached the original contrac
 
 Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of Civil Procedure 12(b)(1) for lack of subject matter jurisdiction. Ginwright asserts that Exeter has failed to assert any independent basis for jurisdiction over the counterclaim and that this Court may not exercise supplemental jurisdiction over the counterclaim because it is a permissive counterclaim. Exeter counters that, since the enactment of 28 U.S.C. § 1367, a court, may exercise supplemental jurisdiction over a permissive counterclaim, and that, in any event, its counterclaim is compulsory.
 
-## I. Legal Standard
+### I. Legal Standard
 
 It is the burden of the party asserting jurisdiction to show that subject matter jurisdiction exists. Rule 12(b)(1) allows a party to move for dismissal when it believes that the claimant has failed to make that showing. Fed. R. Civ. P. 12(b)(1). When a plaintiff asserts that the facts alleged in a counterclaim are not sufficient to establish subject matter jurisdiction, the allegations in the counterclaim are assumed to be true under the same standard as in a Rule 12(b)(6) motion, and "the motion must be denied if the [counterclaim] alleges sufficient facts to invoke subject matter jurisdiction." 
 
-## II. Supplemental Jurisdiction
+### II. Supplemental Jurisdiction
 
 In asserting its counterclaim, Exeter does not allege that the Court has federal question jurisdiction, _see_ 28 U.S.C. § 1331 (2012), or diversity jurisdiction, _see_ 28 U.S.C. § 1332. Rather, Exeter asserts that jurisdiction is proper under the supplemental jurisdiction statute, 28 U.S.C. § 1367. In determining whether a court has supplemental jurisdiction over a counterclaim, the United States Court of Appeals for the Fourth Circuit has traditionally distinguished between compulsory counterclaims, which must be stated by a defendant in its answer, and permissive counterclaims, which need not be. Fed. R. Civ. P. 13. The Fourth Circuit has held that, absent an independent basis of jurisdiction, a federal court has supplemental jurisdiction over a compulsory counterclaim but not a permissive counterclaim. 
 
@@ -41,7 +41,7 @@ In _Williams,_ the court offered a rationale for the continuing applicability of
 
 [ * * * ]
 
-## IV. 28 U.S.C. § 1367(c)
+### IV. 28 U.S.C. § 1367(c)
 
 Even if the Court could exercise supplemental jurisdiction over a permissive counterclaim, the Court may decline to do so under certain circumstances. 28 U.S.C. § 1367(c). Among those circumstances are where the "claim substantially predominates over the claims over which the court has original jurisdiction" and where, "in exceptional circumstances, there are other compelling reasons for declining jurisdiction." _Id._ Here, the more fact-intensive breach of contract counterclaim, which may involve analysis of whether Exeter following state law requirements for repossession and resale, is likely to substantially predominate over the TCPA claim centered on whether Ginwright consented to receive telephone calls from Exeter on his cellular phone. 
 
@@ -50,5 +50,3 @@ Moreover, public policy concerns support declining jurisdiction. Federal consume
 ## CONCLUSION
 
 For the foregoing reasons, Ginwright's Motion to Dismiss Counterclaim is GRANTED. A separate Order shall issue.
-
-
