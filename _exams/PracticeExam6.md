@@ -1,11 +1,8 @@
 ---
-layout: post 
-date: 2020-05-27T19:00:00
+layout: note
 
-term: Fall 2020
 course: Civil Procedure 
-title: Practice Exam Questions VI
-subtitle: Pleadings & Preclusion 
+title: Practice Exam Question 6
 author: Prof. Fink
 affiliation: Elon Law School 
 

@@ -1,14 +1,10 @@
 ---
-layout: post 
-date: 2020-05-27T19:00:00
+layout: note
 
-term: Fall 2020
 course: Civil Procedure 
-title: Practice Exam Question II
+title: Practice Exam Question 2
 author: Prof. Fink
 affiliation: Elon Law School 
-
-tags: 'Subject Matter Jurisdiction' Joinder
 
 ---
 
@@ -25,55 +21,71 @@ Parker sues the Bugle and Jameson, asserting two claims against each defendant:
 - A claim under the federal Credit Card Protection Act (CCPA).^[A fictional federal statute invented for purposes of this problem.]
 - A claim under New York’s Unfair or Deceptive Acts and Practices (UDAP) law.^[A real state statute.]
 
-Under the federal CCPA, a successful plaintiff may recover damages equal to the amount of unauthorized credit card charges or $5000, whichever is greater. Under the NY state UDAP law, a succesful plaintiff may recover three-times the amount of actual loss caused by the defendant’s wrongful conduct. In this case, that means that the most Parker may recover is $5300 ($5000 for the federal CCPA claim plus $300 for the NY state UDAP claim). The two defendants would be jointly and severally liable for that amount.
+The federal CCPA allows a credit card holder to sue any person (including a corporation) who makes or assists another in making an unauthorized charge against the plaintiff's credit card. A successful plaintiff may recover damages equal to the amount of unauthorized credit card charges or $5000, whichever is greater. 
 
-If Parker bring his suit in a New York state court, may the defendants remove the suit to federal court? 
+The NY UDAP statute allows suits against a business for unfair or deceptive acts or practices. The statute's definition of "unfair or deceptive acts or practices" includes, but is not limited to, acts or practices that violate state or federal consumer protection laws. A succesful plaintiff may recover three-times the amount of actual loss caused by the defendant’s wrongful conduct. 
+
+In this case, the most Parker may recover is $5300 ($5000 for the federal CCPA claim, plus $300 for the NY state UDAP claim). The two defendants would be jointly and severally liable for that amount (i.e. if both defendants are found liable, Parker could collect the full amount from either defendant, or part from each).
+
+Parker bring his suit in the U.S. District Court for the Southern District of New York.[^1] 
+
+[^1]: Assume that the court has personal jurisdiction over both defendants and do not discuss that issue.
+
+1. Is joinder of the Bugle and Jameson as co-defendants proper under the Federal Rules of Civil Procedure? 
+
+2. Does the federal court have subject matter jurisdiction over the suit?[^2] 
+
+[^2]: Assume that the court has personal jurisdiction over any additional parties and do not discuss that issue.
 
 ## Part B
 
-Regardless of your answer to the previous question, assume Parker brings his suit in federal court. For each of the following additional claims, explain (i) whether joinder would be proper under the Federal Rules of Civil Procedure, and (ii) whether the federal court would have subject matter jurisdiction:
+Regardless of your answer to the previous question, assume that the federal court had subject matter jurisdiction over the suit as initially filed. For each of the following additional claims, explain (i) whether joinder would be proper under the Federal Rules of Civil Procedure, and (ii) whether the federal court would have subject matter jurisdiction over the claim. 
 
-1. A claim by Betty Brant (a citizen of New Jersey), joining in the suit as a co-plaintiff against the Bugle, alleging that she was fired from her job at the Bugle in violation of a state whistleblower statute after threatening to expose the credit card scam to state authorities. She seeks damages equal to one year’s salary ($50,000), the maximum permitted under the statute. 
+1. A claim by Betty Brant (a citizen of New Jersey), intervening in the suit as a co-plaintiff against the Bugle, alleging that she was fired from her job at the Bugle in violation of a state whistleblower statute after threatening to expose the credit card scam to state authorities. She seeks damages equal to one year’s salary ($50,000), the maximum permitted under the statute. 
 
 2. A claim by the Bugle against Jameson, alleging that Jameson breached his employment contract by concocting the scheme to boost his salary through artificially inflated circulation figures, and seeking recovery of $50,000 in excess salary that Jameson received. 
 
 3. A personal injury claim (under state law) by Parker against the Bugle, alleging that the Bugle t-shirt Parker bought was treated with toxic chemicals that caused a severe skin condition, for which Parker seeks a total of $70,000 in compensatory and punitive damages.
  
-4. A claim by the Bugle against ZF Corp. (incorporated and having its principal place of business in New York), which manufactured the Bugle t-shirts, for indemnification on Parker’s personal injury claim (assume, regardless of your answer to the previous question, that Parker’s claim is properly joined). 
+4. A claim by the Bugle against ZF Corp. (incorporated and having its principal place of business in New York), which manufactured the Bugle t-shirts, for indemnification on Parker’s personal injury claim (assume, regardless of your answer to the previous question, that Parker’s personal injury claim against the Bugle is properly joined). 
 
 # Model Answers
 
 ## Part A
 
-A defendant may (subject to certain conditions and exceptions) remove a suit from state court to federal court if the action is within the original jurisdiction of the federal district courts. Sec. 1441(a). A suit is removable only if there is federal subject matter jurisdiction over each claim in the suit. Subject matter jurisdiction must be based on the complaint itself, not on any defenses or counterclaims. 
+1. Joinder of Co-Defendants 
 
-Federal courts have original jurisdiction over all actions arising under federal law. Sec. 1331. The CCPA is a federal statute that provides a remedy for fraudulent credit card charges. Because federal law creates that cause of action, there is federal question jurisdiction over the CCPA claim under sec. 1331. But Parker’s UDAP claim is based on state law and raises no apparent issue of federal law. So there is no federal question jurisdiction over that claim. 
+FRCP Rule 20(a)(2) governs permissive joinder of defendants. There are two requirements for joinder under this rule. 
+
+First, there must be at least one claim asserted against each defendant "arising out of the same transaction, occurrence, or series of transactions or occurrences" ("Same T/O"). Under the "logical relationship" test, claims arise from the same T/O where the "essential facts" underlying each claim are "so logically connected that considerations of judicial economy and fairness dictate that all the issues be resolved in one lawsuit." 
+
+Second, there must be a "question of law or fact common to all defendants". Only one common question, of either law or fact, is required to satisfy this requirement. 
+
+Both requirements are readily satisfied in this case. The claims against the Bugle and James both arise from the same transaction, i.e. the $100 charge against Parker's credit card. It makes sense, both as a matter of efficiency and fairness, to try these claims together in a single case. The claims also turn on a common question of law and fact, notably whether the $100 charge was indeed unauthorized. Accordingly, joinder under Rule 20(a)(2) is proper. 
+
+2. Federal Subject Matter Jurisdiction 
+
+Federal courts have original jurisdiction over all actions arising under federal law. Sec. 1331. The CCPA is a federal statute that provides a remedy for fraudulent credit card charges. Because federal law creates that cause of action, there is federal question jurisdiction over the CCPA claim under sec. 1331. 
+
+But state law, not federal law, creates Parker’s UDAP claim. Where an issue of federal law arises as an essential element of a state law claim, and where there is a substantial federal interest in the issue as it arises in the case, a federal court may assert jurisdiction under sec. 1331. In Grable v. Darue, the plaintiff brought a quiet title action to recover property that the IRS had seized and sold to satisfy a federal tax debt. Grable's claim depended on whether it had received valid notice of the seizure and sale as required by federal law. Grable's right to notice, established under federal law, was the crux of his claim, and there was a substantial federal interest in the correct and consistent interpretation of federal tax law. Here, in contrast, a violation of the federal CCPA is not essential to Parker's state UDAP claim, but simply one way he may establish the defendant's liability under the NY statute. A state court's incorrect or inconsistent interpretation of the federal CCPA in the context of a state UDAP claim would have no substantial impact on enforcement of the federal statute itself. 
 
 Diversity jurisdiction under sec. 1332 requires (1) a suit between citizens of different states, and (2) an amount in controversy exceeding $75,000. Jurisdiction under sec. 1332 requires complete diversity of citizenship, i.e. no common citizenship between any plaintiff and any defendant. 
 
-An individual’s state of citizenship is based on domicile, i.e. the state where the individual resides and intends to remain or return indefinitely. Parker is a lifelong resident of Pennsylvania, and there is no indication that he intends to move, so he is a citizen of PA. The facts state that Jameson is domiciled in New York. A corporation is a citizen of both its state of incorporation and its principal place of business. The Bugle is incorporated and has its principal place of business in New York. Accordingly, there is complete diversity of citizenship between the plaintiff (PA) and both defendants (NY). 
+An individual's state of citizenship is based on their domicile, i.e. the state where they reside and intend to remain or return indefinitely. Parker is a lifelong resident of Pennsylvania, and there is no indication that he intends to move, so he is a citizen of PA. The facts state that Jameson is domiciled in New York, so that is his state of citizenship. A corporation is a citizen of both its state of incorporation and its principal place of business. The Bugle is incorporated and has its principal place of business in New York. Accordingly, there is complete diversity of citizenship between the plaintiff (PA) and both defendants (NY). 
 
-To satisfy the amount in controversy requirement, it must be legally possible for the plaintiff to recover more than $75,000. In this case, the most Parker can recover is $5300. Consequently, the federal court would not have diversity jurisdiction over Parker’s state-law fraud claim. 
+To satisfy the amount in controversy requirement, it must be legally possible for the plaintiff to recover more than $75,000. In this case, the most Parker can recover is $5300. Consequently, the federal court would not have diversity jurisdiction over Parker’s state-law claim. 
 
-Supplemental jurisdiction permits a federal court to hear an otherwise non-jurisdictional claim where it forms part of the same constitutional case or controversy as a claim over which the federal court has subject matter jurisdiction. Sec. 1367(a). This requirement is satisfied where the claims share a common nucleus of operative fact (CNOF). Here, Parker’s federal CCPA claim and his state UDAP claim are based on the same underlying facts, i.e. the alleged fraudulent charge to his credit card. Where the sole basis for the federal court’s original jurisdiction is diversity, sec. 1367(b) restricts the exercise of supplemental jurisdiction over certain claims (to prevent parties from evading the complete diversity requirement). Because Parker asserts a federal CCPA claim here, sec. 1367(b) does not apply. So the court may exercise supplemental jurisdiction over the UDAP claim. 
-
-Where the sole basis for federal SMJ is diversity, the forum defendant rule prohibits removal if any defendant is a citizen of the state in which the action was originally filed. Sec. 1441(b). In this case, both defendants are citizens of NY, where Parker filed his suit in state court. However, removal here is based on federal question and supplemental jurisdiction, not diversity. So the forum defendant rule does not prevent removal. Assuming both defendants join in or consent to removal, and file a timely notice of removal (sec. 1446), removal will be proper. 
-
-Joinder of the Bugle and Jameson as co-defendants is also be proper. Rule 20 permits joinder of co-defendants where the claims against them (1) arise from the same transaction or occurrence (or series thereof), and (2) share a common question of law or fact. Here, Parker’s claims against the two defendants arise from the same transaction or occurrence, i.e. the unauthorized charge against his credit card. There will be common questions regarding the circumstances of that charge and whether it was indeed unauthorized. Accordingly, joinder under Rule 20 is proper.^[The question does not explicitly ask about joinder of the two defendants. But bonus credit is awarded for students who correctly address the issue.]
+Supplemental jurisdiction permits a federal court to hear an otherwise non-jurisdictional claim where it forms part of the same constitutional case or controversy as a claim over which the federal court has subject matter jurisdiction. Sec. 1367(a). This requirement is satisfied where the claims share a common nucleus of operative fact (CNOF). Here, Parker’s federal CCPA claim and his state UDAP claim are based on the same underlying facts, i.e. the alleged fraudulent charge to his credit card. Where the sole basis for the federal court’s original jurisdiction is diversity, sec. 1367(b) restricts the exercise of supplemental jurisdiction over certain claims (to prevent parties from evading the complete diversity requirement under sec. 1332). Because Parker asserts a federal CCPA claim here, sec. 1367(b) does not apply. The court may exercise supplemental jurisdiction over the UDAP claim. 
 
 ## Part B
 
 ### B.1: Brant v. Bugle (wrongful discharge)
 
-It is likely that Brant may join as a co-plaintiff against the Bugle; if so, the court could exercise supplemental jurisdiction over her claim. 
+It is likely that Brant may intervene as a co-plaintiff against the Bugle; if so, the court could exercise supplemental jurisdiction over her claim. 
 
-Rule 20 permits co-plaintiffs to join in the same suit if they assert claims against the same defendant(s) (1) arising out of the same transaction or occurrence (or series thereof), and (2) sharing a common question of law or fact. 
+Rule 24(b)(1)(B) permits someone who "has a claim or defense that shares with the main action a common question of law or fact" to intervene, i.e. join the case as an additional party. Here, Brant's claim against the Bugle alleges that she was fired in retaliation for threatening to expose the credit card scam. It thus shares with Parker's action questions about the alleged unauthorized charge to Parker's credit card. 
 
-The first requirement is probably satisfied. Claims are usually regarded as arising from the same T/O where they are logically related factually or legally, so that it makes sense to try them together. Here, Brant’s claim and Parker’s claims all involve the same alleged fraudulent scheme, which is likely enough to satisfy the requirement. The Bugle might argue (if it wishes to oppose joinder) that its liability to Brant does not depend, legally or factually, on liability to Parker (and vice versa), and that the claims are thus not logically related. 
-
-The second requirement is satisfied, because Brant’s claim and Parker’s claims will share common questions of fact (and perhaps of law) concerning the alleged unauthorized charges.
-
-Assuming the court agrees that joinder is proper under Rule 20, the court may exercise jurisdiction over Brant’s claim. The court would not have diversity jurisdiction over that claim, because the amount in controversy on Brant’s claim is only $50,000. However, the court may exercise supplemental jurisdiction. Brant’s claim and Parker’s claims share a CNOF, i.e. the facts pertaining to the fraudulent credit card charges. Section 1367(b) does not apply, because original jurisdiction is based on a federal question (Parker’s CCPA claim). Even if sec. 1367(b) did apply, joinder of Brant and exercise of supplemental jurisdiction over her claim would not destroy complete diversity. Brant is a citizen of NJ, while the two defendants are citizens of NY. 
+Brant's claim arises under state law, not federal law. The court would not have diversity jurisdiction over that claim, because the amount in controversy is only $50,000. However, the court may exercise supplemental jurisdiction. Brant’s claim and Parker’s claims share a CNOF, i.e. the facts pertaining to the fraudulent credit card charges. Section 1367(b) does not apply, because original jurisdiction over the action is based on a federal question (Parker’s CCPA claim). 
 
 ### B.2: Bugle v. Jameson (breach of contract)
 

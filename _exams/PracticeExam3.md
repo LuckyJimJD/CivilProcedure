@@ -1,14 +1,10 @@
 ---
-layout: post 
-date: 2020-05-27T19:00:00
+layout: note
 
-term: Fall 2020
 course: Civil Procedure 
-title: Practice Exam Questions III 
+title: Practice Exam Question 3
 author: Prof. Fink
 affiliation: Elon Law School 
-
-tages: 'Subject Matter Jurisdiction' 'Personal Jurisdiction'
 
 ---
 
