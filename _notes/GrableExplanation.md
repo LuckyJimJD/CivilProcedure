@@ -51,7 +51,7 @@ In assessing whether there is a “substantial federal interest", the Supreme Co
 - Under state law, Grable was required to specify “the facts establishing the superiority of [its] claim” to the property.
 - Under the federal statute governing the sale of property to satisfy tax delinquencies, the IRS was supposed to give Grable written notice of the seizure. The IRS sent Grable notice of the seizure by certified mail, but Grable contended that the statute required personal service of the notice. 
 - Grable argued that failure to satisfy the federal statutory notice requirement rendered the sale of the property to Darue invalid. 
-- Darue argued that, since Grable did receive actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, its purchase of the property was valid. 
+- Darue argued that, since Grable received actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, its purchase of the property was valid. 
 - Grable’s right to relief under state law thus depended on the construction and applicability of federal law (i.e. whether service of the IRS notice by certified mail satisfied the federal statute the lack of notice in the form specified by federal law rendered the sale of the property void).
 
 #### Not Essential
@@ -102,7 +102,7 @@ In assessing whether there is a “substantial federal interest", the Supreme Co
 *Gunn v. Minton*
 
 - While there is a federal interest in uniform interpretation of federal patent law, that interest would not be impaired by conflicting state court interpretations in the context of state-law attorney malpractice claims. 
-- State court interpretations of federal patent law in the context of attorney malpractice claims do not actually affect any rights or interests under federal law. 
+- State court interpretations of federal patent law in the context of attorney malpractice claims do not actually affect any rights or interests under federal patent law. 
 - The federal issues arise only as counterfactual hypotheticals: what would have happened if the attorney had done something different? 
 - Uniform interpretation and application of federal patent law, in cases where rights under that law are actually at stake, is ensured by exclusive federal jurisdiction over patent claims (i.e. not only do federal courts have jurisdiction over those claims, because they arise under the federal patent statute, but state courts may not hear those claims at all).  
 - Parties asserting rights under federal patent law have a private right of action in federal court. 
