@@ -1,15 +1,13 @@
 ---
-layout: post
-date: 2020-05-28T01:00:00
+layout: reading
 
 course: Civil Procedure 
 title: 'The Emergence and Transformation of Disputes'
 author: 'William L.F. Felstiner, Richard L. Abel & Austin Sarat'
-cite: '15 Law & Society Review 630 (1981)'
+cite: '15 Law & Society Review 630'
+published: '1981'
 
 ---
-
-###### N.B. Citations and footnotes have been omitted. Other omissions are indicated by [ * * * ]. 
 
 # I. Introduction 
 
@@ -113,3 +111,7 @@ The nature and potential transformational effects of courts can be seen best if 
 In between courts and psychotherapy there are many other dispute institutions—arbitration, mediation, administrative hearings, and investigations—that use ingredients of each process in different combinations but always effect a transformation.
 
 [ * * * ]
+
+--- 
+
+N.B. Citations and footnotes have been omitted. Other omissions are indicated by [ * * * ]. 

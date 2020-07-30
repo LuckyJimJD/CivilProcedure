@@ -17,7 +17,7 @@ title: Schedule & Assignments
 
 ### Civil Action Overview 
 
-- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.emfink.net/CivilProcedure/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
+- William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"]({{ site.baseurl }}/readings/Felstiner_Abel_Sarat.html), 15 Law & Society Review 630 (1981)
 
 ## Joinder
 
@@ -28,15 +28,15 @@ title: Schedule & Assignments
 
 - [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
 - [Mosley v. General Motors Co.]({{ site.baseurl }}/cases/Mosley)
-- [Jones v. Ford Motor Credit Co.]({{ site.baseurl }}/cases/FordMotorCredit1)
-- [Ginwright v. Exeter Finance Corp.]({{ site.baseurl }}/cases/Ginwright1)
 
 #### September 4
 
 ### Counterclaims 
 
 - [FRCP Rule 13(a) & (b)](https://www.law.cornell.edu/rules/frcp)
-- CASES 
+
+- [Jones v. Ford Motor Credit Co.]({{ site.baseurl }}/cases/FordMotorCredit1)
+- [Ginwright v. Exeter Finance Corp.]({{ site.baseurl }}/cases/Ginwright1)
 
 #### September 7
 
@@ -54,7 +54,7 @@ title: Schedule & Assignments
 
 #### September 11
 
-### Required Parties  & Intervention 
+### Required Parties & Intervention 
 
 - [FRCP Rules 19 & 24](https://www.law.cornell.edu/rules/frcp)
 - CASES
@@ -74,14 +74,18 @@ title: Schedule & Assignments
 - [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii)
 - [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
-- CASES 
+- [Louisville & Nashville R.R. Co. v. Mottley]({{ site.baseurl }}/cases/Mottley)
+- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing]({{ site.baseurl }}/cases/Grable)
+- [Gunn v. Minton]({{ site.baseurl }}/cases/Gunn)
 
 #### September 21 & 23 
 
 ### Diversity Jurisdiction 
 
 - [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
-- CASES
+- [Mas v. Perry]({{ site.baseurl }}/cases/Mas)
+- [Carroll v. Stryker Corp.]({{ site.baseurl }}/cases/Carroll)
+- [Linck v. Tayler]({{ site.baseurl }}/cases/Linck)
 
 #### September 25 & 28
 
@@ -107,19 +111,21 @@ title: Schedule & Assignments
 
 - U.S. Constitution, [5th Amendment](https://www.law.cornell.edu/constitution/billofrights#amendmentv) & [14th Amendment, § 1](https://www.law.cornell.edu/constitution/amendmentxiv)
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
-- Pennoyer v. Neff 
+- [Pennoyer v. Neff]({{ site.baseurl }}/cases/Pennoyer)
 
 #### October 5, 7, & 9
 
 ### Specific Jurisdiction Based on Minimum Contacts 
 
-- International Shoe, World Wide Volkswagen, 
+- [International Shoe Co. v. Washington]({{ site.baseurl }}/cases/IntlShoe)
+- [World Wide Volkswagen Corp. v. Woodson]({{ site.baseurl }}/cases/Volkswagen)
+- [Bristol-Meyers Squibb Co. v. Superior Court of California]({{ site.baseurl }}/cases/Bristol-Meyers)
 
 #### October 12
 
 ### General Jurisdiction 
 
-- CASES
+- [Daimler A.G. v. Bauman]({{ site.baseurl }}/cases/Daimler)
 
 #### October 14 
 
@@ -133,14 +139,14 @@ title: Schedule & Assignments
 
 ### Claim Preclusion 
 
-- [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
+- [Restatement (2d) of Judgments, §§ 13-26]({{ site.baseurl }}/statutes/Rest_Judgments)
 - CASES 
 
 #### October 21 & 23 
 
 ### Issue Preclusion 
 
-- [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
+- [Restatement (2d) of Judgments, §§ 27-29]({{ site.baseurl }}/statutes/Rest_Judgments)
 - CASES
 
 ##### Quiz: Preclusion (Due October 25)
@@ -159,14 +165,16 @@ title: Schedule & Assignments
 ### Complaints 
 
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
-- Twombly, Iqbal, 
+- [Bell Atlantic Corp. v. Twombly]({{ site.baseurl }}/cases/Twombly)
+- [Ashcroft v. Iqbal]({{ site.baseurl }}/cases/Iqbal)
 
 #### November 2
 
 ### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
-- CASES
+- [Zielinski v. Philadelphia Piers, Inc.]({{ site.baseurl }}/cases/Zielinski)
+- [Beeck v. Aquaslide 'n' Dive Corp.]({{ site.baseurl }}/cases/Aquaslide)
 
 #### November 4
 
@@ -188,14 +196,17 @@ title: Schedule & Assignments
 ### The Rules of Decision Act 
 
 - [Rules of Decision Act, 28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
-- CASES: Erie, Byrd, 
+- [Erie R.R. Co. v. Tompkins]({{ site.baseurl }}/cases/Erie)
+- [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.]({{ site.baseurl }}/cases/Byrd)
+- Brian L. Frye, [The Ballad of Harry James Tompkins]({{ site.baseurl }}/readings/Frye-Tompkins.pdf), 52 Akron Law Review 531 (2019)
 
 #### November 13
 
 ### The Rules Enabling Act 
 
 - [Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
-- CASES: Hanna, 
+- [Hanna v. Plumer]({{ site.baseurl }}/cases/Hanna)
+- [Shady Grove Orthopedic Associates v. Allstate Insurance Co.]({{ site.baseurl }}/cases/ShadyGrove)
 
 #### November 16
 

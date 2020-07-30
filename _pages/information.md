@@ -23,7 +23,7 @@ All other assigned reading (cases, statutes, rules, etc.) are available online v
 
 Your final grade for the term will be based on review quizzes (40% total) and a final exam (60%). 
 
-- The review quizzes will consist of multiple choice questions and will be open-book/open-notes. You will take the quizzes outside of class on Click to Learn, as indicated in the Course Schedule section below.
+- The review quizzes will consist of short-format questions (multiple choice, true/false, etc.) from Click & Learn: Civil Procedure. You will complete the questions for each unit outside of class by the dates indicated in the Schedule & Assignments section of the syllabus. 
 - The final exam will consist of short-answer and essay questions and will be closed-book/closed-notes. You will take the exam online during the exam period. 
 
 ### Class Preparation, Attendance, & Participation
