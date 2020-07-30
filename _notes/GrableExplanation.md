@@ -1,13 +1,11 @@
 ---
-layout: post
-date: 2020-05-27T22:29:30-04:00
+layout: note
 
 course: Civil Procedure 
-title: 'Subject Matter Jurisdiction: Understanding Grable'
+title: 'Subject Matter Jurisdiction'
+subtitle: 'Understanding Grable'
 author: Prof. Fink
 affiliation: Elon Law School 
-
-tags: subject-matter-jurisdiction
    
 ---
 
@@ -23,13 +21,15 @@ But it is an exception to the Holmes “creation test". Even though state law cr
 
 A state-law claim raises a federal question, sufficient to confer jurisdiction under §1331, where,
  
-1. The federal issue forms an “essential” part of plaintiff’s claim (not a defense) that is actually disputed, and  
+1. The federal issue forms an _essential part of plaintiff’s claim_ (not a defense) that is _actually disputed_, and  
 
-2. There is a substantial federal interest at stake. 
+2. There is a _substantial federal interest_ at stake. 
 
 ### 1. Essential Federal Issue  
 
-The federal issue is “essential” where the plaintiff’s “right to relief depends upon the construction or application of the Constitution or laws of the United States.” *Smith v. Kansas City Title & Trust Co*. (US 1921). This requirement will generally be satisfied where the plaintiff relies on federal law to establish a right, interest, or duty at issue in the case:
+The federal issue is “essential” where the plaintiff’s “right to relief depends upon the construction or application of the Constitution or laws of the United States.” *Smith v. Kansas City Title & Trust Co*. (US 1921). This requirement will generally be satisfied where the plaintiff relies on federal law to establish a right, interest, or duty at issue in the case. 
+
+But if there is no dispute between the parties over the federal issue as it arises in the case, there is no need for the court to resolve the issue and thus no reason to confer federal subject matter jurisdiction based on that issue. 
 
 ### 2. Substantial Federal Interest 
 
@@ -48,9 +48,11 @@ In assessing whether there is a “substantial federal interest", the Supreme Co
 *Grable*
 
 - Grable brought a state-law “quiet title” claim against Darue, which purchased property that the IRS had seized from Grable in satisfaction of a tax delinquency.
-- Under state law, Grable was required to specify “the facts establishing the superiority of [its] claim” to the property
-- Grable relied on a federal statute to establish that the seizure and sale of the property were invalid, and that Grable, not Darue, was therefore still the rightful owner. 
-- Grable’s right to relief under state law thus depended on the construction and applicability of federal law (i.e. the statute governing property seizures by the IRS) 
+- Under state law, Grable was required to specify “the facts establishing the superiority of [its] claim” to the property.
+- Under the federal statute governing the sale of property to satisfy tax delinquencies, the IRS was supposed to give Grable written notice of the seizure. The IRS sent Grable notice of the seizure by certified mail, but Grable contended that the statute required personal service of the notice. 
+- Grable argued that failure to satisfy the federal statutory notice requirement rendered the sale of the property to Darue invalid. 
+- Darue argued that, since Grable did receive actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, its purchase of the property was valid. 
+- Grable’s right to relief under state law thus depended on the construction and applicability of federal law (i.e. whether service of the IRS notice by certified mail satisfied the federal statute the lack of notice in the form specified by federal law rendered the sale of the property void).
 
 #### Not Essential
 
