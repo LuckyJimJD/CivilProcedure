@@ -63,7 +63,7 @@ title: Schedule & Assignments
 
 ### Joinder Review 
 
-##### Quiz: Joinder (Due September 15)
+##### Click & Learn: Joinder (Due September 15)
 
 ## Subject Matter Jurisdiction 
 
@@ -101,7 +101,7 @@ title: Schedule & Assignments
 
 ### Subject Matter Jurisdiction Review 
 
-##### Quiz: Subject Matter Jurisdiction (Due October 1)
+##### Click & Learn: Subject Matter Jurisdiction (Due October 1)
 
 ## Personal Jurisdiction 
 
@@ -131,7 +131,7 @@ title: Schedule & Assignments
 
 ### Personal Jurisdiction Review 
 
-##### Quiz: Personal Jurisdiction (Due Otober 15)
+##### Click & Learn: Personal Jurisdiction (Due Otober 15)
 
 ## Preclusion
 
@@ -149,7 +149,7 @@ title: Schedule & Assignments
 - [Restatement (2d) of Judgments, §§ 27-29]({{ site.baseurl }}/statutes/Rest_Judgments)
 - CASES
 
-##### Quiz: Preclusion (Due October 25)
+##### Click & Learn: Preclusion (Due October 25)
 
 ## Pleading 
 
@@ -187,9 +187,9 @@ title: Schedule & Assignments
 
 ### Pleadings Review 
 
-##### Quiz: Pleadings (Due November 8)
+##### Click & Learn: Pleadings (Due November 8)
 
-## The Erie Doctrine 
+## Choice of Law in Federal Court (Erie Doctrine)
 
 #### November 9 & 11 
 
@@ -212,7 +212,7 @@ title: Schedule & Assignments
 
 ### Erie Doctrine Review 
 
-##### Quiz: Erie Doctrine (Due November 17)
+##### Click & Learn: Erie Doctrine (Due November 17)
 
 ## Summary Judgment
 
@@ -230,6 +230,6 @@ title: Schedule & Assignments
 - [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
 - CASES
 
-##### Quiz: Summary Judgment (Due November 22)
+##### Click & Learn: Summary Judgment (Due November 22)
 
 ##### Final Exam (Date)

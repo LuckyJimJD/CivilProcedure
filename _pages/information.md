@@ -7,24 +7,24 @@ title: Course Information
 
 # Description
 
-In this course, you will learn about the procedures for civil suits. You will also learn how to understand and use primary legal texts (constitutions, statutes, rules, & judicial opinions) as tools for analyzing legal problems and making legal arguments. While the course will focus on federal courts, the rules of civil procedure in many states (including North Carolina) are similar. 
+In this course, you will learn about the procedures for civil suits. Topics to be covered include the scope of a lawsuit, selection of an appropriate forum, presentation of claims and defenses, choice of applicable law, disposition without a trial, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. While the course will focus on federal courts, the rules of civil procedure in many states (including North Carolina) are similar. 
 
-Topics to be covered include the scope of a lawsuit, selection of an appropriate forum, presentation of claims and defenses, choice of applicable law, disposition without a trial, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. 
+This course is intended to prepare you for legal practice by developing the knowledge and skill required to recognize and analyze procedural issues, advise clients on those issues and the available options, and to draft pleadings and pre-trial motions. 
 
 # Required Materials
 
-Click & Learn: Civil Procedure (Carolina Academic Press)
+Cases, statutes, rules, and other assigned readings (see "Schedule & Assignments") are available online via the course site [`emfink.net/CivilProcedure`](https://www.emfink.net/CivilProcedure). The course site also has subject outlines, visual aids, review problems, past exam questions, and links to other useful resources.
 
-All other assigned reading (cases, statutes, rules, etc.) are available online via the course site, [`emfink.net/CivilProcedure`](https://www.emfink.net/CivilProcedure). The course site also has subject outlines, visual aids, review problems, and past exam questions.
+[Click & Learn: Civil Procedure](https://clickandlearnguide.com/) (Carolina Academic Press). This is an online interactive resource that will help you review and master the legal principles covered in the course. 
 
 # Policies 
 
 ### Grading
 
-Your final grade for the term will be based on review quizzes (40% total) and a final exam (60%). 
+Your final grade for the term will be based on the assigned Click & Learn review questions (40% total) and a final exam (60%). 
 
-- The review quizzes will consist of short-format questions (multiple choice, true/false, etc.) from Click & Learn: Civil Procedure. You will complete the questions for each unit outside of class by the dates indicated in the Schedule & Assignments section of the syllabus. 
-- The final exam will consist of short-answer and essay questions and will be closed-book/closed-notes. You will take the exam online during the exam period. 
+- You will complete the assigned Click & Learn questions outside of class. You should complete the questions for each unit of the course by the dates indicated in the Schedule & Assignments section of the syllabus. 
+- The final exam will consist of essay and short-answer questions and will be administered during the Fall term exam period, as scheduled by the Law School Registrar. 
 
 ### Class Preparation, Attendance, & Participation
 
