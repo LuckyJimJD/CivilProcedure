@@ -2,10 +2,10 @@
 layout: note
 
 course: 'Civil Procedure'
-title: 'Civil Action Flowchart'
+title: 'Counterclaims'
 author: Prof. Fink 
 affiliation: Elon Law School 
   
 ---
 
-![Civil Action Flowchart](../assets/img/introduction/CivilAction.png)
+![Civil Action Flowchart](../assets/img/joinder/Counterclaims.png)

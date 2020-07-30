@@ -237,17 +237,6 @@ No aggregation of claims against multiple defendants.
   - Court raised issue *sua sponte*
 - Court found, based on evidence of Plaintiff's demands and settlement offers, that plaintiff sought more than $75,000 in lost salary/commissions 
 
-### Class Actions
-
-##### CAFA: § 1332(d)(2)
-
-- Total amount sought by all plaintiffs exceeds $5 million 
-
-##### Non-CAFA 
-
-- Named plaintiff must satisfy normal amount in controversy requirement ($75,000)
-- Court may exercise supplemental jurisdiction over claims by additional class members, regardless of amount. *Exxon Mobil Corp. v. Allapattah Servs., Inc*., 545 U.S. 546 (2005)
-
 # Federal Question Jurisdiction
 
 ## Constitutional Basis
@@ -508,8 +497,93 @@ No aggregation of claims against multiple defendants.
 ## Limitations: §1367(b)
 
 - Restricts use of supplemental jurisdiction where diversity is the sole basis for federal subject matter jurisdiction. 
-  - Prevent parties from using supplemental jurisdiction to evade the complete diversity requirement. 
-- We will return to §1367(b) as part of Joinder. 
+  - Prevent parties from using supplemental jurisdiction to evade the complete diversity requirement under § 1332 through clever joinder. 
+
+### Application of §1367(b)
+
+- Applies only if diversity jurisdiction is the sole basis for the court's original jurisdiction, _and_
+- Applies only to claims by/against parties joined under certain rules ("yellow flag" claims): 
+	- Claims _by a plaintiff_ (i.e. someone who was initially named as a plaintiff in the original complaint) _against persons joined_ under  Rule 14, 19, 20, or 24
+	- Claims _by persons joined as plaintiffs_ (i.e. after the original complaint) under Rule 19 or intervening as plaintiffs under Rule 24
+- Court may not exercise Supplemental jurisdiction over such claims if doing so "would be inconsistent with the jurisdictional requirements of section 1332"
+
+#### Guaranteed Systems, Inc. v. American Nat. Can Co. (MDNC 1994)
+
+##### Procedural History
+
+- Guaranteed (NC) sued National Can (DE) in NC state court for breach of contract (failure to pay for construction work) and National Can removed to federal court on basis of diversity. 
+- After removal, National Can asserted counterclaim against Guaranteed for negligence in performance of construction job.
+- Guaranteed sought to implead its sub-contractor, HydroVac. Svcs. (NC), under Rule 14(b).
+
+##### Issue
+
+- Whether plaintiff may join a non-diverse third-party defendant in response to defendant’s counterclaim.
+  - Rule 14 itself allows such joinder. 
+  - But the court must have SMJ over the third-party claim. 
+	- Guaranteed & HydroVac are both citizens of NC, so no diversity jurisdiction.
+	- Guaranteed relies on §1367
+		- Indemnification & contribution claim against 3rd-party defendant satisfies §1367(a)
+
+##### Holding & Analysis
+
+- § 1367(b) precludes the exercise of supplemental jurisdiction over a claim by a plaintiff against a non-diverse third-party defendant in response to defendant’s counterclaim. 
+- Restriction under §1367(b) explicitly applies to “claims by plaintiffs against persons made parties under Rule 14”
+- Court explains that it might be reasonable to treat Guaranteed as a “defendant” with respect to the counterclaim, for purposes of supplemental jurisdiction
+	- Allowing plaintiff to do so in this posture would not run afoul of the policy concern behind §1367 (i.e. that plaintiffs might use supplemental jurisdiction to assert claims against non-diverse defendants, evading the complete diversity requirement under §1332). 
+		- Guaranteed sued in state court, and the case got to federal court on removal.
+		- Guaranteed had no reason to assert any claim against HydroVac until National Can asserted its counterclaim
+	- Disallowing joinder leaves Guaranteed in an unfair position, and is counter to efficiency and judicial economy
+	- Court cites _Owen Equip. v. Kroger_ (US 1978) in support of that analysis
+- But “plain terms of the statute” preclude that outcome: "claims by a plaintiff" means "a party who was named as a plaintiff in the initial complaint". 
+  - For purposes of §1367(b), a party's initial designation as a "plaintiff" doesn't change just because another party asserts a counterclaim or crossclaim against them. 
+  - By the same reasoning, a party's initial designation as a "defendant" doesn't change just because they assert a counterclaim or crossclaim against another party. 
+
+##### Questions
+
+- Is the court right in construing § 1367 to preclude joinder of the third-party defendant here?
+- It’s merely fortuitous that Guaranteed brought its claim first; had National Can sued first, there’s no question that Guaranteed could have impleaded HydroVac. Should this accident of timing really matter under § 1367(b)?
+- Does it matter that the counterclaim here is compulsory, rather than permissive?
+	- i.e. if the counterclaim were merely permissive, might the court be on firmer ground in treating the original plaintiff as a “defendant” for purposes of § 1367(b)?
+
+
+#### Exxon Mobil Corp. v. Allapattah Servs., Inc., 545 U.S. 546 (2005)
+
+##### Procedural History
+
+- Beatriz Blanco-Ortega (9 years old) was seriously injured by a sharp edge on a can of tuna fish manufactured and sold by StarKist. She sued (represented by her parents as legal guardians) in federal court, seeking more than $75,000 in damages. 
+- The parents also joined as co-plaintiffs under Rule 20, asserting claims on behalf of themselves and other family members (all domiciled in Puerto Rico) for emotional distress and medical expenses, seeking less than $75,000 in damages.  
+- There was complete diversity of citizenship betsween the plaintiffs (all domiciled in Puerto Rico) and StarKist (Delaware corp. with HQ in Pennsylvania). 
+- The amount in controversy on the child's claims exceeded $75,000 but the amount in controversy on the family's claims did not. 
+
+##### Issue 
+
+- Whether the federal court could exercise supplemental jurisdiction over the family's claims, where their joinder did not destroy complete diversity but the amount in controversy on their claims did not exceed $75,000. 
+
+##### Holding & Analysis 
+
+- The family's claims and the child's claims all arose from the same operative facts, i.e. the child's injury, satisfying the requirement for supplemental jurisdiction under sec. 1367(a). 
+- The sole basis for original jurisdiction over the child's claims was diversity, but the limitations on supplemental jurisdiction under sec. 1367(b) do not apply to claims by co-plaintiffs joined under Rule 20. 
+- Joinder of the family as co-plaintiffs did not destroy complete diversity. 
+- Under these circumstances, as long as one plaintiff, on their own, satisfies the amount in controversy requirement for diversity jurisdiction, the court may exercise supplemental jurisdiction over the additional plaintiffs' claims, without regard to the amount in controversy. 
+	- Unlike incomplete diversity, the amount in controversy on the co-plaintiffs' claims does not affect the court's original jurisdiction over the "anchor" plaintiff's claims. 
+
+##### Question 
+
+What about claims by a plaintiff against co-defendants joined under Rule 20?
+
+- § 1367(b) applies to such claims (assuming diversity is the only basis for federal jurisdiction to begin with). 
+- If joinder of a co-defendant destroys complete diversity, supplemental jurisdiction is certainly not allowed (because this would deprive the court of diversity jurisdiction over the "anchor" plaintiff's claim). 
+- But where complete diversity is unaffected, it's unclear whether the claims identified in § 1367(b) must also satisfy the amount in controversy requirement. 
+	- This wouldn't make sense, because if these claims independently satisfy both the complete diversity and amount in controversy requirements, the court would have diversity jurisdiction over them and there would be no need for supplemental jurisdition at all. 
+	- But the final clause implies that supplemental jurisdiction over such claims is allowed, as long as it isn't "inconsistent with the jurisdictional requirements of section 1332." 
+	- The seeming paradox is resolved if § 1367(b) is understood to mean that a court may not exercise supplemental jurisdiction over "yellow flag" claims if doing to would be inconsistent _with the court's underlying diversity jurisdiction over the "anchor" claim_. 
+- Example:
+![Civil Action Flowchart](../assets/img/subject-matter-jurisdiction/1367b_Co-Defendants.png)
+	- The court has original jurisdiction over the claim by Parsons against DeLeon, based on diversity of citizenship. 
+	- If Parsons joins Flynn as a co-defendant, there is still complete diversity of citizenship. 
+	- The exercise of supplemental jurisdiction over the claim against Flynn would not be inconsistent with the requirements of diversity jurisdiction over the claim against DeLeon (which is unaffected by the amount in controversy between Parsons and Flynn). 
+	- If that's what the last clause of § 1367(b) means, then supplemental jurisdiction should be allowed in this case. 
+- The Supreme Court hasn't addressed this issue. 
 
 # Removal Jurisdiction
 
