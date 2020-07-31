@@ -12,19 +12,36 @@ title: Study Aids
     </p>
   {% endfor %}
 
-<h1>Problems</h1>
+<h1>Review Problems</h1>
 
   {% for problem in site.problems %}
-    <p><a href="{{ site.baseurl }}{{ problem.url }}">{{ problem.title }}</a>
+    <p><a href="{{ site.baseurl }}{{ problem.url }}">{{ problem.subtitle }}</a>
     </p>
   {% endfor %}
 
 <h1>Visuals</h1>
 
-  {% for visual in site.visuals %}
-    <p><a href="{{ site.baseurl }}{{ visual.url }}">{{ visual.title }}</a>
-    </p>
-  {% endfor %}
+<h2>Introduction</h2>
+
+<p><a href="{{ site.baseurl }}{{ visual.url }}">{{ visual.title }}</a>
+</p>
+
+<h2>Joinder</h2>
+
+<h2>Subject Matter Jurisdiction</h2>
+
+<h2>Personal Jurisdiction</h2>
+
+<h2>Preclusion</h2>
+
+<h2>Pleadings</h2>
+
+<h2>Erie Doctrine</h2>
+
+<h2>Summary Judgment</h2>
+
+
+
 
 <h1>Practice Exam Questions</h1>
 
