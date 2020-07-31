@@ -42,7 +42,7 @@ title: Study Aids
 
 [Supplemental Jurisdiction under § 1367]({{ site.baseurl }}/assets/img/subject-matter-jurisdiction/1367.png)
 
-[§ 1367(b) Illustration]({{ site.baseurl }}/assets/img/subject-matter-jurisdiction/1367.png)
+[§ 1367(b) Illustration]({{ site.baseurl }}/assets/img/subject-matter-jurisdiction/1367b_Illustration.png)
 
 ## Personal Jurisdiction
 
