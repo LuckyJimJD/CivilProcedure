@@ -27,12 +27,13 @@ title: Study Aids
 
 [Federal District Courts in North Carolina]({{ site.baseurl }}/assets/img/introduction/NC_FedCourts.png)
 
-
 ## Joinder
 
 [Counterclaims]({{ site.baseurl }}/assets/img/joinder/Counterclaims.png)
 
 [Third Party Claims]({{ site.baseurl }}/assets/img/joinder/Rule14.png)
+
+[Sample Motion to Intervene]()
 
 [Joinder Review Problem]({{ site.baseurl }}/assets/img/joinder/NightAtTheOpera.png)
 
@@ -60,9 +61,23 @@ title: Study Aids
 
 [Claim & Issue Preclusion]({{ site.baseurl }}/assets/img/preclusion/PreclusionSummaryChart.png)
 
+## Pleadings 
+
+[Sample Complaint 1]()
+
+[Sample Complaint 2]()
+
+[Sample 12(b)(6) Motion]()
+
+[Sample Answer]()
+
 ## Erie Doctrine
 
 [Erie-Hanna Decision Tree]({{ site.baseurl }}/assets/img/choice-of-law/ErieHanna.png)
+
+## Summary Judgment 
+
+[Sample Motion for Summary Judgment]()
 
 # Practice Exam Questions
 
