@@ -10,7 +10,7 @@ title: Links
 
 [Federal Judicial Statutes](https://www.law.cornell.edu/uscode/text/28)
 
-[Federal Rules of Civil Procedure)](https://www.law.cornell.edu/rules/frcp)
+[Federal Rules of Civil Procedure](https://www.law.cornell.edu/rules/frcp)
 
 ## State
 
