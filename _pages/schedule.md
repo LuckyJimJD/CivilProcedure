@@ -214,7 +214,7 @@ title: Schedule & Assignments
 
 ### The Rules of Decision Act 
 
-- [Rules of Decision Act, 28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
+- Rules of Decision Act, [28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
 - [Erie R.R. Co. v. Tompkins]({{ site.baseurl }}/cases/Erie)
 - [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.]({{ site.baseurl }}/cases/Byrd)
 - Brian L. Frye, [The Ballad of Harry James Tompkins]({{ site.baseurl }}/readings/Frye-Tompkins.pdf), 52 Akron Law Review 531 (2019)
@@ -223,7 +223,7 @@ title: Schedule & Assignments
 
 ### The Rules Enabling Act 
 
-- [Rules Enabling Act, 28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
+- Rules Enabling Act, [28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
 - [Hanna v. Plumer]({{ site.baseurl }}/cases/Hanna)
 - [Shady Grove Orthopedic Associates v. Allstate Insurance Co.]({{ site.baseurl }}/cases/ShadyGrove)
 
