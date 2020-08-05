@@ -33,8 +33,6 @@ title: Study Aids
 
 [Third Party Claims]({{ site.baseurl }}/assets/materials/joinder/Rule14.png)
 
-[Sample Motion to Intervene]()
-
 [Joinder Review Problem]({{ site.baseurl }}/assets/materials/joinder/NightAtTheOpera.png)
 
 ## Subject Matter Jurisdiction
