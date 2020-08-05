@@ -206,9 +206,9 @@ No aggregation of claims against multiple defendants.
 - Example: Same as above, but P seeks $76,000 in damages against D1 and $30,000 against D2 
   - The amount in controversy requirement is satisfied for D1, but not for D2 
   - It's unclear whether the court may exercise supplemental jurisdiction over the claim against D2 (assuming the "same case or controversy"/CNOF requirement is satisfied)
-    - Where the sole basis for federal jurisdiction over any claim is diversity, § 1367(b) prohibits supplemental jurisdiction over a claim by a plaintiff against a person joined as a co-defendant under Rule 20, if doing so would be inconsistent with the jurisdictional requirements of § 1332. 
+    - Where the sole basis for federal jurisdiction over any claim is diversity, §  1367(b) prohibits supplemental jurisdiction over a claim by a plaintiff against a person joined as a co-defendant under Rule 20, if doing so would be inconsistent with the jurisdictional requirements of §  1332. 
     - A strict reading of the statute would suggest that this means the claim against the Rule 20 co-defendant must satisfy both complete diversity and the amount in controversy requirement. 
-    - But that reading would make the last clause of § 1367(b) superfluous (i.e. because if both requirements of § 1332 are satisfied, then there would be no need for supplemental jurisdiction anyway). 
+    - But that reading would make the last clause of §  1367(b) superfluous (i.e. because if both requirements of §  1332 are satisfied, then there would be no need for supplemental jurisdiction anyway). 
     - The Supreme Court has not addressed this question. 
 
 *Alternative Liability*: P alleges that either D1 or D2 is liable. 
@@ -482,7 +482,7 @@ No aggregation of claims against multiple defendants.
 - A federal court must have subject matter jurisdiction over each claim in a suit.
 - Where a suit includes both jurisdictional and non-jurisdictional claims, supplemental jurisdiction may allow a federal court to hear the entire suit.
 
-## Requirements: §1367(a)
+## Requirements: § 1367(a)
 
 - Codifies the Gibbs test (“same case or controversy”)
   - Congress adopted the statute to address the problem identified in Aldinger and Finley
@@ -494,18 +494,61 @@ No aggregation of claims against multiple defendants.
   - A federal court would have federal question jurisdiction over the federal civil rights claim, but would have neither federal question nor diversity jurisdiction over the state-law contract claim on its own. 
   - The court may exercise supplemental jurisdiction over the contract claim, because it arises from the same set of facts (the firing) as the federal civil rights claim. 
 
-## Limitations: §1367(b)
+## Limitations: § 1367(b)
 
 - Restricts use of supplemental jurisdiction where diversity is the sole basis for federal subject matter jurisdiction. 
   - Prevent parties from using supplemental jurisdiction to evade the complete diversity requirement under § 1332 through clever joinder. 
 
-### Application of §1367(b)
+### Application of § 1367(b)
 
 - Applies only if diversity jurisdiction is the sole basis for the court's original jurisdiction, _and_
 - Applies only to claims by/against parties joined under certain rules ("yellow flag" claims): 
 	- Claims _by a plaintiff_ (i.e. someone who was initially named as a plaintiff in the original complaint) _against persons joined_ under  Rule 14, 19, 20, or 24
 	- Claims _by persons joined as plaintiffs_ (i.e. after the original complaint) under Rule 19 or intervening as plaintiffs under Rule 24
 - Court may not exercise Supplemental jurisdiction over such claims if doing so "would be inconsistent with the jurisdictional requirements of section 1332"
+
+
+### Supplemental Jurisdiction Over Counterclaims, Crossclaims, & Third-Party Claims
+
+1. Supplemental jurisdiction is always allowed over compulsory counterclaims and over crossclaims between co-defendants. 
+
+- Compulsory counterclaims and crossclaims arise from the same T/O as an existing claim against the claimant. See Rule 13(a) & (g). 
+- The federal courts are unanimous in agreeing that claims arising from the same T/O for joinder purposes also satisfy the "same case or controversy" requirement under § 1367(a).
+- Even if diversity is the sole basis for SMJ over the original claim, the limitation on supplemental jurisdiction under § 1367(b) don't apply to claims by defendants. 
+
+2. Crossclaims between co-plaintiffs ("claims by plaintiffs against persons made parties under Rule … 20") are subject to the limitation under § 1367(b). So, where diversity is the sole basis for SMJ over the original claim, supplemental jurisdiction will be allowed only if the co-plaintiffs are citizens of different states.
+
+3. There is some disagreement among the federal courts as to whether supplemental jurisdiction is ever allowed over permissive counterclaims. 
+
+- Some courts have taken the view that at least some permissive counterclaims may have a sufficient factual relationship to satisfy the "same case or controversy" requirement under § 1367(a). 
+	- See Global NAPS, Inc. v. Verizon New England Inc., 603 F.3d 71, 87 (1st Cir. 2010); Jones v. Ford Motor Credit Co., 358 F.3d 205 (2d Cir. 2004); Channell v. Citicorp Nat. Servs., Inc., 89 F.3d 379 (7th Cir. 1996); Bates v. American Credit Acceptance, No. 16-12239 (E.D. Mich. 2016); Hunt v. 21st Mortg. Corp., No. 2:12–CV–381–RDP (N.D. Ala. 2012); Bakewell v. Federal Financial Group, Inc., No. 1:04-CV-3538-JOF (N.D. Ga. 2006); Campos v. Western Dental Services, Inc., 404 F.Supp.2d 1164 (N.D. Cal. 2005)
+	- Even under this view, a court might decline to exercise supplemental jurisdiction, based on the factors in § 1367(c).
+- Other courts have adhered to the view that supplemental jurisdiction is never allowed over permissive counterclaims, in effect treating "same case or controversy" under § 1367(b) and "same T/O" under Rule 13(a). 
+	- See Ginwright v. Exeter Finance Corp., No. TDC-16-0565 (D. Md. 2016)
+
+The question really comes down to how close of a factual connection is required for claims to arise from the same T/O for joinder purposes. 
+
+4. Supplemental jurisdiction is always permitted over a defendant's claim against a third-party defendant under Rule 14(a)(1)
+
+A claim for indemnification or contribution, by definition, arises from the same T/O as the underlying claim against the defendant, which also satisfies the same case or controversy requirement under § 1367(a). Even if diversity is the sole basis for SMJ over the underlying claim against the defendant, the limitation on supplemental jurisdiction under § 1367(b) does not apply to claims by a defendant. 
+
+For the same reason, supplemental jurisdiction is also always permitted over these claims involving third-party defendants: 
+
+- Compulsory counterclaims by a third-party defendant against the defendant/third-party plaintiff, under Rule 14(a)(2)(B),
+- Claims by a third-party defendant against a plaintiff, under Rule 14(a)(2)(D), and 
+- Compulsory counterclaims by a third-party defendant against a plaintiff, under Rule 14(a)(3). 
+
+
+5. Supplemental jurisdiction is not always allowed over claims by a plaintiff against a third-party defendant under Rule 14(a)(3)
+
+These claims must arise from the same T/O as the plaintiff's underlying claim against the original defendant (a.k.a. third-party plaintiff). But the limitation on supplemental jurisdiction under § 1367(b) applies to "claims by plaintiffs against persons made parties under Rule 14". If diversity is the sole underlying basis for SMJ, supplemental jurisdiction is not allowed if the plaintiff and third-party defendant are citizens of the same state. 
+
+Note the lack of symmetry here: 
+
+- § 1367(b) doesn't apply to claims by a third-party defendant against a plaintiff (or against anyone else), but does apply to claims by a plaintiff against a third-party defendant. 
+- This might seem to put the plaintiff at a disadvantage, forcing them (but not the third-party defendant) to bring a separate action. 
+- The rationale is that § 1367(b) is intended to prevent plaintiffs from evading the complete diversity requirement through creative joinder (i.e. suing one defendant in the expectation that the defendant will implead an additional defendant whose initial joinder by the plaintiff under Rule 20 would have destroyed diversity). 
+	- Claims by defendants and third-party defendants don't raise this same concern, and requiring them to bring their claims in separate actions would be unfair (since they didn't choose the forum initially) and inefficient. 
 
 #### Guaranteed Systems, Inc. v. American Nat. Can Co. (MDNC 1994)
 
@@ -521,21 +564,21 @@ No aggregation of claims against multiple defendants.
   - Rule 14 itself allows such joinder. 
   - But the court must have SMJ over the third-party claim. 
 	- Guaranteed & HydroVac are both citizens of NC, so no diversity jurisdiction.
-	- Guaranteed relies on §1367
-		- Indemnification & contribution claim against 3rd-party defendant satisfies §1367(a)
+	- Guaranteed relies on § 1367
+		- Indemnification & contribution claim against 3rd-party defendant satisfies § 1367(a)
 
 ##### Holding & Analysis
 
 - § 1367(b) precludes the exercise of supplemental jurisdiction over a claim by a plaintiff against a non-diverse third-party defendant in response to defendant’s counterclaim. 
-- Restriction under §1367(b) explicitly applies to “claims by plaintiffs against persons made parties under Rule 14”
+- Restriction under § 1367(b) explicitly applies to “claims by plaintiffs against persons made parties under Rule 14”
 - Court explains that it might be reasonable to treat Guaranteed as a “defendant” with respect to the counterclaim, for purposes of supplemental jurisdiction
-	- Allowing plaintiff to do so in this posture would not run afoul of the policy concern behind §1367 (i.e. that plaintiffs might use supplemental jurisdiction to assert claims against non-diverse defendants, evading the complete diversity requirement under §1332). 
+	- Allowing plaintiff to do so in this posture would not run afoul of the policy concern behind § 1367 (i.e. that plaintiffs might use supplemental jurisdiction to assert claims against non-diverse defendants, evading the complete diversity requirement under § 1332). 
 		- Guaranteed sued in state court, and the case got to federal court on removal.
 		- Guaranteed had no reason to assert any claim against HydroVac until National Can asserted its counterclaim
 	- Disallowing joinder leaves Guaranteed in an unfair position, and is counter to efficiency and judicial economy
 	- Court cites _Owen Equip. v. Kroger_ (US 1978) in support of that analysis
 - But “plain terms of the statute” preclude that outcome: "claims by a plaintiff" means "a party who was named as a plaintiff in the initial complaint". 
-  - For purposes of §1367(b), a party's initial designation as a "plaintiff" doesn't change just because another party asserts a counterclaim or crossclaim against them. 
+  - For purposes of § 1367(b), a party's initial designation as a "plaintiff" doesn't change just because another party asserts a counterclaim or crossclaim against them. 
   - By the same reasoning, a party's initial designation as a "defendant" doesn't change just because they assert a counterclaim or crossclaim against another party. 
 
 ##### Questions
@@ -613,7 +656,7 @@ What about claims by a plaintiff against co-defendants joined under Rule 20?
 
 ## Limit on Removal 
 
-#### 28 U.S.C. § 1441(b)
+#### 28 U.S.C. §  1441(b)
 
 ##### "Forum defendant rule"
 
@@ -627,7 +670,7 @@ What about claims by a plaintiff against co-defendants joined under Rule 20?
 
 ## Procedure for Removal & Remand
 
-#### 28 U.S.C. § 1446
+#### 28 U.S.C. §  1446
 
 ##### Notice of Removal
 
@@ -643,7 +686,7 @@ What about claims by a plaintiff against co-defendants joined under Rule 20?
 
 - The suit is automatically removed from state to federal court upon filing of the notice. 
 
-#### 28 U.S.C. § 1447(c)
+#### 28 U.S.C. §  1447(c)
 
 ##### Remand
 

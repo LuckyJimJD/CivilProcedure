@@ -87,7 +87,7 @@ Rule 20 defines when multiple plaintiffs and/or defendants _may be joined_ in a 
   - Why did plaintiffs want to join cases?
   - Why did GM want to sever cases?
 
-# Counterclaims
+# Rule 13 
 
 ## Compulsory Counterclaims
 
@@ -136,36 +136,6 @@ _Moore v. NY Cotton Exchange_ (US 1926) (applying pre-FRCP compulsory countercla
   - But defendant does not need a compulsory (related) counterclaim to assert a permissive (unrelated) counterclaim.
 	- Cf. Crossclaims 
 
-### Subject Matter Jurisdiction Over Permissive Counterclaims 
-
-- Permissive counterclaims need an independent basis for SMJ (federal question or diversity). 
-  - No supplemental jurisdiction, because if no common T/O, then no CNOF. 
-
-#### Pace v. Timmermann’s Ranch & Saddle Shop (7th Cir. 2015)
-
-##### Facts & Procedural History
-
-- Pace sued Timmermann’s (her former employer) and its employees for abuse of process, false arrest, intentional infliction of emotional distress, and related tort claims. 
-- Timmermann’s had previously sued Pace for conversion and other claims based on her alleged theft of merchandise and cash.
-- District court dismissed all of Pace’s claims, concluding that she should have asserted them as compulsory counterclaims in the previous suit.
-- Pace appealed the dismissal of her claims against the individual defendants and the dismissal of her abuse of process claim against Timmermann's.
-  - She conceded that her other claims against Timmermann's were properly dismissed as unasserted compulsory counterclaims in the prior suit. 
-
-##### Issue
-
-- Whether the abuse of process claim against Timmermann’s was a compulsory counterclaim that should have been asserted in the company’s suit?
-- Whether claims against the individual defendants were compulsory counterclaims that should have been asserted in the company’s suit?
-
-##### Holding & Analysis
-
-- Pace’s abuse of process claim against Timmerman’s was a compulsory counterclaim, 
-  - It arose from the same events as the prior suit by Timmermann's against Pace. 
-  - The court rejected Pace's argument that this claim did not come into existence until she was criminally charged with theft, which didn't happen until after Timmermann's brought its prior suit against her.
-    - Under the applicable law, an indictment was not a necessary element of the abuse of process claim. 
-    - All the facts necessary to establish the elements of that claim occured (and were known to Pace) before Timmermann's commenced its prior suit. 
-- Pace’s claims against the individual defendants were not compulsory counterclaims, because they were not parties to the prior suit.
-  - Neither Rule 13(a) nor Rule 20 requires joinder of additional parties.
-
 ## Counterclaim Problems
 
 1. Dana is employed by Crimson Permanent Assurance Co. as a sales agent. Under the terms of her employment contract, she earns a commission on all insurance policy sales she generates. The contract states that, in the event Dana’s employment terminates, she is entitled to collect earned but unpaid commissions, unless she was fired for cause. The contract also contains a non-compete clause, providing that if Dana voluntarily quits her job, she may not go to work for any competing insurance company for one year. Having become dissatisfied with her job at Crimson, Dana quits and goes to work for Scarlet Everlasting Assurance Co., one of Crimson’s competitors. Crimson sues Dana and Scarlet in federal court (assume diversity jurisdiction is satisfied), asserting the following claims:
@@ -199,7 +169,7 @@ _Moore v. NY Cotton Exchange_ (US 1926) (applying pre-FRCP compulsory countercla
      - Debtor’s FDCPA claim arises out of the defendant’s collection efforts, and does not depend on the validity of the debt.
    - Most courts have accepted the second view in this scenario. 
 
-# Crossclaims
+## Crossclaims
 
 #### Rule 13(g)
 
@@ -262,20 +232,116 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
   - D2 denies stealing the painting and instead contends it was a gift from P. D2 also alleges they did not sell or give the painting to D1 but merely left it with D1 for cleaning and reframing. 
   - D2 may assert a crossclaim against D1 for return of the painting. 
 
+## Counterclaims & Crossclaims
+
+### Assigned Cases 
+
+#### Jones v. Ford Motor Credit Co. (2d Cir 2004) 
+
+#### Ginwright v. Exeter Finance Corp. (D. Md. 2016)
+
+### Additional Cases 
+
+#### Pace v. Timmermann’s Ranch & Saddle Shop (7th Cir. 2015)
+
+##### Facts & Procedural History
+
+- Pace sued Timmermann’s (her former employer) and its employees for abuse of process, false arrest, intentional infliction of emotional distress, and related tort claims. 
+- Timmermann’s had previously sued Pace for conversion and other claims based on her alleged theft of merchandise and cash.
+- District court dismissed all of Pace’s claims, concluding that she should have asserted them as compulsory counterclaims in the previous suit.
+- Pace appealed the dismissal of her claims against the individual defendants and the dismissal of her abuse of process claim against Timmermann's.
+  - She conceded that her other claims against Timmermann's were properly dismissed as unasserted compulsory counterclaims in the prior suit. 
+
+##### Issue
+
+- Whether the abuse of process claim against Timmermann’s was a compulsory counterclaim that should have been asserted in the company’s suit?
+- Whether claims against the individual defendants were compulsory counterclaims that should have been asserted in the company’s suit?
+
+##### Holding & Analysis
+
+- Pace’s abuse of process claim against Timmerman’s was a compulsory counterclaim, 
+  - It arose from the same events as the prior suit by Timmermann's against Pace. 
+  - The court rejected Pace's argument that this claim did not come into existence until she was criminally charged with theft, which didn't happen until after Timmermann's brought its prior suit against her.
+    - Under the applicable law, an indictment was not a necessary element of the abuse of process claim. 
+    - All the facts necessary to establish the elements of that claim occured (and were known to Pace) before Timmermann's commenced its prior suit. 
+- Pace’s claims against the individual defendants were not compulsory counterclaims, because they were not parties to the prior suit.
+  - Neither Rule 13(a) nor Rule 20 requires joinder of additional parties.
+
+#### Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P. (D. Hawaii 1994)
+
+![]({{ site.baseurl }}/assets/img/joinder/Rainbow_Atlantis.png)
+
+##### Facts & Procedural History
+
+- A boat operated by Rainbow Management collided with a boat operated by Haydu. 
+	- Haydu's boat was destroyed and his passengers were injured. 
+	- Rainbow's boat was damaged and repaired. 
+	- At the time, Rainbow's boat was carrying passengers who were boarding a submarine operated by Atlantis. 
+- Berry, one of the passengers injured in the collision, sued Rainbow & Atlantis, alleging their negligence was responsible for the collision and his resulting injuries. 
+	- Atlantis & Rainbow asserted crossclaims against each other for contribution and indemnification on Berry's claim. 
+	- Atlantis & Rainbow also asserted third-party claims against Haydyu for indemnification and contribution on Berry's claim. 
+	- Haydu filed counterclaims against Atlantis & Rainbow for the damage to his boat. 
+	- Rainbow did not assert any claims against Atlantis or Haydu for the damage to its boat. 
+- While Berry's suit was pending, Rainbow filed a separate suit against Atlantis & Hayduk, alleging their negligence was responsible for the collision and the resulting damage to Rainbow's boat. 
+	- Rainbow's motion to consolidate its suit with Berry was denied, based on delay and prejudice to the other parties. 
+- A settlement in the Berry suit disposed of all claims involving Atlantis & Rainbow.  
+- Atlantis moved for summary judgment in the Rainbow suit, asserting that Rainbow should have asserted its property damage claims as a compulsory counterclaim in the Berry suit (triggered by Atlantis's crossclaim against Rainbow for contribution and indemnification), and that it was now barred. 
+
+##### Holding & Analysis 
+
+- Rule 13 permits, but does not require, co-defendants to assert crossclaims against one another arising from the same T/O as the plaintiff's claims against them. 
+- Once Atlantis asserted a crossclaim against Rainbow for indemnification & contribution in that prior suit, Rainbow's claim against Atlantis arising out of the accident became compulsory counterclaims. 
+- By asserting its claim against Atlantis for contribution and indemnification on Berry's claim, but not its claim for damage to its boat, Rainbow waived the latter claim and was barred from asserting it in a subsequent suit. 
+
 # Third-Party Claims (Impleader)
 
-#### Rule 14(a)(1): Requirements for Impleader
+## Rule 14 
+
+### Requirements for Impleader: Rule 14(a)(1)
 
 > (1) Timing of the Summons and Complaint. A defending party may, as third-party plaintiff, serve a summons and complaint on a nonparty who is or may be liable to it for all or part of the claim against it. But the third-party plaintiff must, by motion, obtain the court's leave if it files the third-party complaint more than 14 days after serving its original answer.
 
-- Impleader under Rule 14 is _limited to claims for contribution or indemnification._ 
-  - In cases where the plaintiff has sued some, but not all, potential joint tortfeasors, Rule 14 allows the named defendant(s) to bring in the other potential joint tortfeasors for the purpose of asserting a right of contribution. 
-  - In cases where a defendant claims a (common law, statutory, or contractual) right to indemnification from a third-party (who may or may not also be directly liable to the plaintiff), Rule 14 allows the defendant to bring in the third-party for that purpose. 
-  - Under FRCP Rule 14, a defendant may not implead a third-party to assert a claim for the third-party's liability to the defendant. 
-    - But once a defendant properly impleads a third-party under Rule 14, Rule 18 then allows the defendant to assert any other claims it has against the third-party defendant. 
-    - Some state rules permit joinder of a third-party defendant to assert a claim for the third-party defendant's liability to the defendant/third-party plaintiff, even without a claim for contribution/indemnification. 
+Impleader under Rule 14 is limited to [claims for contribution or indemnification]({{ site.baseurl }}/notes/Contribution_Indemnification). 
 
-#### Rule 14(a)(2): Third-Party Defendant's Claims and Defenses 
+- In cases where the plaintiff has sued some, but not all, potential joint tortfeasors, Rule 14 allows the named defendant(s) to bring in the other potential joint tortfeasors for the purpose of asserting a right of contribution. 
+- In cases where a defendant claims a (common law, statutory, or contractual) right to indemnification from a third-party (who may or may not also be directly liable to the plaintiff), Rule 14 allows the defendant to bring in the third-party for that purpose. 
+- Under FRCP Rule 14, a defendant may not implead a third-partie to assert only a claim for the third-party's liability to the defendant. 
+	- But once a defendant properly impleads a third-party under Rule 14, Rule 18 then allows the defendant to assert any other claims it has against the third-party defendant. See Lehman v. Revolution Portfolio LLC (1st Cir. 1999)
+	- Some state rules permit joinder of a third-party defendant to assert a claim for the third-party defendant's liability to the defendant/third-party plaintiff (arising from the same T/O as an underlying claim against the defendant/third-party plaintiff), even without a claim for contribution or indemnification. 
+
+#### Lehman v. Revolution Portfolio LLC (1st Cir. 1999)
+
+![]({{ site.baseurl }}/assets/img/joinder/Lehman_Revolution.png)
+
+##### Facts & Procedural History
+
+- Trust borrows $2.8 million from bank
+- Lehman & Roffman, co-beneficiaries of trust, each guarantee loan
+- Trust defaults
+- Bank forecloses on Lehman’s property
+- Lehman sues Bank in state court to stop sale of his property, claiming Roffman had perpetrated a fraud, and Bank failed to exercise due diligence
+- Bank is placed in receivership and FDIC, as receiver, substituted as defendant in place of Bank
+	- FDIC removes to federal court
+	- Asserts counterclaim against Lehman for outstanding loan balance
+	- Asserts third-party claims against Roffman, seeking indemnification & contribution on Lehman’s claims
+	- Also seeks recovery of outstanding loan balance from Roffman as guarantor
+- Action stayed when Lehman files for bankruptcy
+	- Court eventually allows FDIC to proceed with third-party claims against Roffman
+	- FDIC moves to substitute Revolution as defendant
+		- FDIC had assigned its interests to Revolution
+
+##### Issue 
+
+- Was joinder of Roffman as third-party defendant proper
+
+##### Analysis
+
+- Third-party claim against Roffman for contribution & indemnification is proper
+  - Roffman & Bank were allegedly joint tortfeasers on Lehman’s claim arising from Roffman’s fraud & Bank’s negligence
+  - Even though Lehman only sought to stop the sale of his property, and not money damages, he might have been awarded damages, so FDIC could implead against that possibility
+- Rule 18(a) then permitted FDIC to assert any other claim it had against Roffman (provided there is jurisdiction)
+
+### Third-Party Defendant's Claims and Defenses: Rule 14(a)(2)
 
 > The person served with the summons and third-party complaint—the “third-party defendant”:
 > 
@@ -287,38 +353,11 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
 > 
 > > (D) may also assert against the plaintiff any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff.
 
-The limitation on supplemental jurisdiction under § 1367(b) _does not apply_ to claims by third-party defendants joined under Rule 14. Supplemental jursidiction is allowed over such claims, even if the third-party defendant and the party against whom the third-party defendant asserts a claim are citizens of the same state. 
-
-#### Rule 14(a)(3): Plaintiff’s Claims Against a Third-Party Defendant
+### Plaintiff’s Claims Against a Third-Party Defendant: Rule 14(a)(3)
 
 > The plaintiff may assert against the third-party defendant any claim arising out of the transaction or occurrence that is the subject matter of the plaintiff's claim against the third-party plaintiff. The third-party defendant must then assert any defense under Rule 12 and any counterclaim under Rule 13(a), and may assert any counterclaim under Rule 13(b) or any crossclaim under Rule 13(g).
 
-
-### Third-Party Claims & Subject Matter Jurisdiction 
-
-Supplemental jurisdiction is always permitted over these claims: 
-
-- Claims by a defendant against a third-party defendant
-- Compulsory counterclaims by a third-party defendant against the defendant/third-party plaintiff under Rule 14(a)(2)(B), 
-- Claims by a third-party defendant against a plaintiff under Rule 14(a)(2)(D), and 
-- Compulsory counterclaims by a third-party defendant against a plaintiff under Rule 14(a)(3). 
-
-Since these claims arise out of the same transaction/occurrence as the underlying plaintiff's claims, they satisfy the CNOF requirement under § 1367(a)
-- The limitation on supplemental jurisdiction under § 1367(b) _does not apply_ to these claims. 
-
-But supplemental jurisdiction is not always allowed over _claims by a plaintiff against a third-party defendant_ under Rule 14(a)(3)
-
-- These claims must arise from the same transaction/occurrence as the underlying plaintiff's claims.
-- But the limitation on supplemental jurisdiction under § 1367(b) _does apply_ to these claims.
-  - If diversity is the sole underlying basis for subject matter jurisdiction, supplemental jurisdiction is not allowed if the plaintiff and third-party defendant are citizens of the same state. 
-
-Note the lack of symmetry here: 
-
-- § 1367(b) doesn't apply to claims by a third-party defendant against a plaintiff (or against anyone else), but does apply to claims by a plaintiff against a third-party defendant. 
-- The rationale is that § 1367(b) is intended to prevent plaintiffs from evading the complete diversity requirement through creative joinder. 
-  - But claims by defendants and third-party defendants don't raise this same concern, and requiring them to bring their claims in separate actions would be unfair (since they didn't choose the forum initially) and inefficient. 
-
-#### Rule 14(b): Impleader by a Plaintiff 
+### Impleader by a Plaintiff: Rule 14(b)
 
 > When a claim is asserted against a plaintiff, the plaintiff may bring in a third party if this rule would allow a defendant to do so.
 
@@ -347,40 +386,7 @@ Again, the limitation on supplemental jurisdiction under § 1367(b) applies to c
 		- Parties act independently of one another, but their actions combine to cause a single injury
   - Doesn’t matter whether theory of liability is different for each tortfeasor (e.g. strict liability v. negligence)
 
-#### Lehman v. Revolution Portfolio LLC (1st Cir. 1999)
 
-Illustrates interaction of Rules 14 & 18
-
-##### Facts & Procedural History
-
-- Trust borrows $2.8 million from bank
-- Lehman & Roffman, co-beneficiaries of trust, each guarantee loan
-- Trust defaults
-- Bank forecloses on Lehman’s property
-- Lehman sues Bank in state court to stop sale of his property
-	- claimed Roffman had perpetrated a fraud, and Bank failed to exercise due diligence
-- Bank fails 
-	- FDIC, as receiver, substituted as defendant in place of Bank
-		- Removes to federal court
-		- Asserts counterclaim against Lehman for outstanding loan balance
-		- Asserts third-party claims against Roffman
-		- Seeks indemnification & contribution on Lehman’s claims
-		- Also seeks recovery of outstanding loan balance from Roffman as guarantor
-- Action stayed when Lehman files for bankruptcy
-	- Court eventually allows FDIC to proceed with third-party claims against Roffman
-	- FDIC moves to substitute Revolution as defendant
-		- FDIC had assigned its interests to Revolution
-
-##### Issue 
-
-- Was joinder of Roffman as third-party defendant proper
-
-##### Analysis
-
-- Third-party claim against Roffman for contribution & indemnification is proper
-  - Roffman & Bank were allegedly joint tortfeasers on Lehman’s claim arising from Roffman’s fraud & Bank’s negligence
-  - Even though Lehman only sought to stop the sale of his property, and not money damages, he might have been awarded damages, so FDIC could implead against that possibility
-- Rule 18(a) then permitted FDIC to assert any other claim it had against Roffman (provided there is jurisdiction)
 
 
 ## Misjoinder, Separate Trials, & Other Case-Management Measures  

@@ -29,28 +29,20 @@ title: Schedule & Assignments
 - [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
 - [Mosley v. General Motors Co.]({{ site.baseurl }}/cases/Mosley)
 
-#### September 4
+#### September 4 & 7
 
-### Counterclaims 
+### Counterclaims & Crossclaims 
 
-- [FRCP Rule 13(a) & (b)](https://www.law.cornell.edu/rules/frcp)
-
+- [FRCP Rule 13](https://www.law.cornell.edu/rules/frcp)
 - [Jones v. Ford Motor Credit Co.]({{ site.baseurl }}/cases/FordMotorCredit1)
 - [Ginwright v. Exeter Finance Corp.]({{ site.baseurl }}/cases/Ginwright1)
-
-#### September 7
-
-### Crossclaims 
-
-- [FRCP Rule 13(g)](https://www.law.cornell.edu/rules/frcp)
-- CASES 
 
 #### September 9
 
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- CASES 
+- [Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii]({{ site.baseurl }}/cases/Rainbow_Atlantis)
 
 #### September 11
 
