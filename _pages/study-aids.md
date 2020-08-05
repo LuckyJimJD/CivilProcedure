@@ -61,9 +61,7 @@ title: Study Aids
 
 ## Pleadings 
 
-[Sample Complaint 1]()
-
-[Sample Complaint 2]()
+[Sample Complaint]()
 
 [Sample 12(b)(6) Motion]()
 
