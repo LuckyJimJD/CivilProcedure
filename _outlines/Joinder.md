@@ -382,7 +382,120 @@ Again, the limitation on supplemental jurisdiction under § 1367(b) applies to c
 		- Parties act independently of one another, but their actions combine to cause a single injury
   - Doesn’t matter whether theory of liability is different for each tortfeasor (e.g. strict liability v. negligence)
 
-## Misjoinder, Separate Trials, & Other Case-Management Measures  
+
+# Complex Joinder: Required Parties, Interpleder, & Intervetion 
+
+## Required Parties 
+
+#### CASE 
+
+
+## Interpleader 
+
+### Rule Interpleader: FRCP Rule 22 
+
+> (a) Grounds.
+
+> > (1) By a Plaintiff. Persons with claims that may expose a plaintiff to double or multiple liability may be joined as defendants and required to interplead. Joinder for interpleader is proper even though:
+> > 
+> > > (A) the claims of the several claimants, or the titles on which their claims depend, lack a common origin or are adverse and independent rather than identical; or
+> > > 
+> > > (B) the plaintiff denies liability in whole or in part to any or all of the claimants.
+> > > 
+> > (2) By a Defendant. A defendant exposed to similar liability may seek interpleader through a crossclaim or counterclaim.
+
+### Statutory Interpleader: 28 U.S.C. § 1335
+
+> (a) The district courts shall have original jurisdiction of any civil action of interpleader or in the nature of interpleader filed by any person, firm, or corporation, association, or society having in his or its custody or possession money or property of the value of $500 or more, or having issued a note, bond, certificate, policy of insurance, or other instrument of value or amount of $500 or more, or providing for the delivery or payment or the loan of money or property of such amount or value, or being under any obligation written or unwritten to the amount of $500 or more, if
+> 
+> > (1) Two or more adverse claimants, of diverse citizenship as defined in subsection (a) or (d) of section 1332 of this title, are claiming or may claim to be entitled to such money or property, or to any one or more of the benefits arising by virtue of any note, bond, certificate, policy or other instrument, or arising by virtue of any such obligation; and if (2) the plaintiff has deposited such money or property or has paid the amount of or the loan or other value of such instrument or the amount due under such obligation into the registry of the court, there to abide the judgment of the court, or has given bond payable to the clerk of the court in such amount and with such surety as the court or judge may deem proper, conditioned upon the compliance by the plaintiff with the future order or judgment of the court with respect to the subject matter of the controversy.
+> 
+> (b) Such an action may be entertained although the titles or claims of the conflicting claimants do not have a common origin, or are not identical, but are adverse to and independent of one another.
+
+### Rule v. Statutory Interpleader 
+
+Rule 22 & § 1335 are alternative ways to bring an interpleader action in federal court. They share two basic elements: 
+
+- There are multiple adverse claimants to some property in the possession or custody of the party bringing the action (the interpleader plaintiff). 
+- The interpleader plaintiff may face multiple liability if the adverse claims are not adjudicated in a single action. 
+	- This is because a judgment in an action involving only some of the competing claimants would not be binding on other (actual or potential) claimants who were not joined as parties. 
+	- This is a matter of [claim and issue preclusion](({{ site.baseurl }}/outlines/Preclusion)). 
+
+The differences between Rule and Statutory Interpleader are procedural: 
+
+1. Subject Matter Jurisdiction
+
+- The interpleader statute, § 1335, establishes a relaxed standard for diversity jurisdiction (minimal diversity among the claimants and an amount in controversy of only $500). 
+- Interpleader actions under Rule 22 must meet the ordinary standards for diveresity jurisdiction (complete diversity between the plaintiff and defendants and an amount in controversy exceeding $75,000).
+
+2. Other Procedural Requirements 
+
+- In an interpleader action under § 1335, the interpleader plaintiff must deposit the property with the court (or pay a security bond), pending the outcome. 
+	- This is not required in an interpleader action under Rule 22. 
+- There are special relaxed provisions for venue & service of process in statutory interpleader actions. 28 U.S.C. § 1397 (venue); § 2361 (process)
+	- In rule interpleader actions, the ordinary standards for venue and service of process appy. 28 U.S.C. § 1391 (venue); Rule 4(k) (territorial limits of service)
+- In a statutory interpleader action, a court may issue an injunction prohibiting the claimants from instituting or proceeding with other actions affecting the property. 28 U.S.C. § 2361 
+	- In a rule interpleader action, the ordinary provisions for injunctions apply. Rule 65 (procedures for injunctions & restraining orders); 28 U.S.C. § 2283 (Anti-Injunction Act)
+
+[Diagram of Claims]({{ site.baseurl }}/assets/materials/joinder/interpleader.png)
+
+#### Deutsch v. Schoelkopf (W.D. Wash. 2016)
+
+##### Facts & Procedural History
+
+- Deutsch, an art deal, was in possession of a sculpture by artist John Storrs. 
+- At some point before 1977, after Storrs' death, his estate placed the sculpture on consignment with the Schoelkopf Gallery. In 1977, the Schoelkopf Gallery informed the Storrs estate that the sculpture had been stolen. The Schoelkopf Gallery paid the Storrs estate $2,250 (the amount the estate would have received from the sale of the sculpture) in compensation. 
+- At some point after the reported theft, Deutsch's father, who owned an art gallery, came into possession of the sculpture. Deutsch inherited the sculpture after her father's death. 
+- In an effort by Deutsch to sell the sculpture, Valerie Carberry contacted Monique Storrs Booz, Storrs's sister and sole remaining heir. They concluded that the sculpture belonged to Andrew Schoelkopf (son and heir to the Schoelkopf Gallery's owner) by virtue of the $2,250 payment to the Storrs estate after the reported theft. Carberry and Schoelkpf each wrote to Deutsch, confirming their belief that Schoelkopf was the rightful owner of the sculpture. 
+- Deutsch asserted that she was the rightful owner of the sculpture, because the reported theft had not been conclusively established. 
+- Deutsch brought an interpleader action against Schoelkopf, Storrs Booz, Carberry, and other defendants to resolve the competing interests. 
+
+##### Holding & Rationale 
+
+- The court granted the defendants' motion to dismiss on the grounds that Deutsch had not asserted a proper interpleader action under Rule 22 or § 1335. 
+- An interpleader action must involve "multiple adverse claims or potential adverse claims … to th[e] same property," and "the plaintiff stakeholder must have a reasonable fear of multiple liability."
+- Deutsch could not satisfy these criteria, because the only defendant to claim an interest in the sculpture was Schoelkopf. 
+	- The only other potential claimants (Storrs Booz and the other heirs to the Scholkopf estate) all renounced any claims to the sculpture. 
+
+## Intervention 
+
+### FRCP Rule 24
+
+> (a) Intervention of Right. On timely motion, the court must permit anyone to intervene who:
+> 
+> > (1) is given an unconditional right to intervene by a federal statute; or
+> > 
+> > (2) claims an interest relating to the property or transaction that is the subject of the action, and is so situated that disposing of the action may as a practical matter impair or impede the movant's ability to protect its interest, unless existing parties adequately represent that interest.
+> > 
+> (b) Permissive Intervention.
+> 
+> > (1) In General. On timely motion, the court may permit anyone to intervene who:
+> > 
+> > > (A) is given a conditional right to intervene by a federal statute; or
+
+> > > (B) has a claim or defense that shares with the main action a common question of law or fact.
+> > 
+> > (2) By a Government Officer or Agency. [ * * * ]
+> > 
+> > (3) Delay or Prejudice. In exercising its discretion, the court must consider whether the intervention will unduly delay or prejudice the adjudication of the original parties’ rights.
+
+#### Sevier v. Lowenthal (D.D.C. 2018)
+
+##### Facts & Procedural History
+
+- Sevier sued four members of Congress, alleging that the display of Gay Pride flags outside their offices in the U.S. Capitol violated the Establishment clause of the 1st Amendment. 
+- Three others, "self-identified polygamists", sought to intervene as plaintiffs, asserting similar Constitutional claims. 
+
+##### Holding & Rationale 
+
+- The court denied the motion to intervene. 
+- The allegations of the proposed intervenors did not show any injury sufficient to establish standing to sue, which is a prerequisite for intervention as of right (and possibly also for permissive intervention). 
+- The intervenors failed to establish that Sevier would not adequately represent their interests, as required for intervention as of right. 
+- Courts have "wide latitude" in deciding whether to allow permissive intervention. 
+- While the intervenors' claims shared questions of law and fact with Sevier's nearly-identical claims, they were facially baseless. 
+	- In the same opinion, the court also granted the defendants' Rule 12(b)(6) motion to dismiss, holding that Sevier's allegations were legally insufficient to state an Establishment Clause, Equal Protection Clause, or Due Process Clause claim. 
+
+# Misjoinder, Separate Trials, & Other Case-Management Measures  
 
 #### Rule 20
 
@@ -407,7 +520,7 @@ Again, the limitation on supplemental jurisdiction under § 1367(b) applies to c
 These rules give courts broad discretion in case management to promote goals of efficiency & consistency (consolidation) or to avoid confusion & prejudice (severance & separate trials). 
 
 
-# Review Problem 
+# Joinder Review Problem 
 
 [Claypool v. Gottlieb & Dritwood]({{ site.baseurl }}/problems/JoinderProblem/NightAtTheOpera.png)
 

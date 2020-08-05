@@ -52,6 +52,7 @@ title: Schedule & Assignments
 
 - [FRCP Rules 19, 22, & 24](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1335](https://www.law.cornell.edu/uscode/text/28/1335)
+- [Camacho v. Major League Baseball]({{ site.baseurl }}/cases/Camacho_MLB)
 - [Deutsch v. Schoelkopf]({{ site.baseurl }}/cases/Deutsch_Schoelkopf)
 - [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal)
 - [Motion to Intervene]({{ site.baseurl }}/assets/materials/joinder/SCV_UNC_Intervention.pdf) in North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, No. 19-CVS-1579 (N.C. Super. Ct., filed Dec. 13, 2019 )
