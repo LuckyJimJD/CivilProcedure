@@ -284,7 +284,7 @@ In some states (e.g. NY), judges on some courts are elected while others are app
 
 # Outline of a Civil Action
 
-![Civil Action Flowchart](../../assets/img/introduction/CivilAction.png)
+![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/introduction/CivilAction.png)
 
 ## Precipitating incident
 

@@ -232,17 +232,13 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
   - D2 denies stealing the painting and instead contends it was a gift from P. D2 also alleges they did not sell or give the painting to D1 but merely left it with D1 for cleaning and reframing. 
   - D2 may assert a crossclaim against D1 for return of the painting. 
 
-## Counterclaims & Crossclaims
-
-### Assigned Cases 
+## Counterclaims & Crossclaims: Cases
 
 #### Jones v. Ford Motor Credit Co. (2d Cir 2004) 
 
 #### Ginwright v. Exeter Finance Corp. (D. Md. 2016)
 
-### Additional Cases 
-
-#### Pace v. Timmermann’s Ranch & Saddle Shop (7th Cir. 2015)
+#### Pace v. Timmermann’s Ranch & Saddle Shop, Inc. (7th Cir. 2015)
 
 ##### Facts & Procedural History
 
@@ -269,7 +265,7 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
 
 #### Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P. (D. Hawaii 1994)
 
-![]({{ site.baseurl }}/assets/img/joinder/Rainbow_Atlantis.png)
+![]({{ site.baseurl }}/assets/materials/joinder/Rainbow_Atlantis.png)
 
 ##### Facts & Procedural History
 
@@ -311,7 +307,7 @@ Impleader under Rule 14 is limited to [claims for contribution or indemnificatio
 
 #### Lehman v. Revolution Portfolio LLC (1st Cir. 1999)
 
-![]({{ site.baseurl }}/assets/img/joinder/Lehman_Revolution.png)
+![]({{ site.baseurl }}/assets/materials/joinder/Lehman_Revolution.png)
 
 ##### Facts & Procedural History
 
@@ -337,9 +333,9 @@ Impleader under Rule 14 is limited to [claims for contribution or indemnificatio
 ##### Analysis
 
 - Third-party claim against Roffman for contribution & indemnification is proper
-  - Roffman & Bank were allegedly joint tortfeasers on Lehman’s claim arising from Roffman’s fraud & Bank’s negligence
-  - Even though Lehman only sought to stop the sale of his property, and not money damages, he might have been awarded damages, so FDIC could implead against that possibility
-- Rule 18(a) then permitted FDIC to assert any other claim it had against Roffman (provided there is jurisdiction)
+  - Roffman & Bank were allegedly joint tortfeasers on Lehman’s claim arising from Roffman’s fraud & Bank’s negligence.
+  - Even though Lehman only sought to stop the sale of his property, and not money damages, he might have been awarded damages, so FDIC could implead against that possibility.
+- Rule 18(a) then permitted FDIC to assert any other claim it had against Roffman (provided there is jurisdiction).
 
 ### Third-Party Defendant's Claims and Defenses: Rule 14(a)(2)
 
@@ -385,9 +381,6 @@ Again, the limitation on supplemental jurisdiction under § 1367(b) applies to c
 		- Parties act together in causing injury, _or_
 		- Parties act independently of one another, but their actions combine to cause a single injury
   - Doesn’t matter whether theory of liability is different for each tortfeasor (e.g. strict liability v. negligence)
-
-
-
 
 ## Misjoinder, Separate Trials, & Other Case-Management Measures  
 

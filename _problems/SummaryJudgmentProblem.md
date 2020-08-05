@@ -46,7 +46,7 @@ Milo Mebelmacher, founder and president of Mebelmacher Designs, testified in his
 
 The chair consists of a “tub” seat attached to a plywood base in a manner that permits the “tub” to tilt and swivel. A chrome veneer, about one-sixteenth of an inch thick, is affixed to the outside of the base. The diameter of the base is about two inches less than the diameter of the tub, and the bottom of the tub is about three inches off the floor. (_See_ Mebelmacher Deposition, Exhibit A)
 
-![Tub Chair](../../assets/img/summary-judgment/TubChair.jpg)
+![Tub Chair](../../assets/materials/summary-judgment/TubChair.jpg)
 
 The chair was designed for residential use. Mebelmacher assumes that people commonly walk barefoot in their homes. Nonetheless, he never anticipated that someone might put their foot in the area between the tub seat and the top of the base. 
 

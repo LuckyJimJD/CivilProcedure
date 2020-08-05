@@ -21,7 +21,7 @@ Guy Mackendrick was injured while attending a party at the office of Sterling Co
 
 As a result of this incident, Mackendrick has lost all of the toes on his left foot. He will require reconstructive surgery and extensive physical therapy. He has also experienced recurring nightmares about the incident, and has developed a morbid fear of garden tools, leaving him unable to enjoy his previous hobby of gardening. 
 
-Mackendrick hires you to represent him in a suit over his injury. Draft a complaint (using [this form]({{ site.baseurl }}/assets/pleadings/Complaint_Form.docx)) asserting the following claims: 
+Mackendrick hires you to represent him in a suit over his injury. Draft a complaint (using [this form]({{ site.baseurl }}/assets/materials/pleadings/Complaint_Form.docx)) asserting the following claims: 
 
 a. A claim against Sadler for her negligence in operating the mower. 
 

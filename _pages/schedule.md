@@ -25,7 +25,6 @@ title: Schedule & Assignments
 
 ### Basic Claim & Party Joinder  
 
-
 - [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
 - [Mosley v. General Motors Co.]({{ site.baseurl }}/cases/Mosley)
 
@@ -36,20 +35,22 @@ title: Schedule & Assignments
 - [FRCP Rule 13](https://www.law.cornell.edu/rules/frcp)
 - [Jones v. Ford Motor Credit Co.]({{ site.baseurl }}/cases/FordMotorCredit1)
 - [Ginwright v. Exeter Finance Corp.]({{ site.baseurl }}/cases/Ginwright1)
+- [Pace v. Timmermann’s Ranch & Saddle Shop, Inc. ]({{ site.baseurl }}/cases/Pace_Timmermans)
 
 #### September 9
 
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- [Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii]({{ site.baseurl }}/cases/Rainbow_Atlantis)
+- [Lehman v. Revolution Portfolio LLC]({{ site.baseurl }}/cases/Lehman_Revolution)
 
 #### September 11
 
-### Required Parties & Intervention 
+### Required Parties, Interpleader, & Intervention 
 
-- [FRCP Rules 19 & 24](https://www.law.cornell.edu/rules/frcp)
-- CASES
+- [FRCP Rules 19, 22, & 24](https://www.law.cornell.edu/rules/frcp)
+- [28 U.S.C. § 1335](https://www.law.cornell.edu/uscode/text/28/1335)
+- [Motion to Intervene]({{ site.baseurl }}/assets/materials/joinder/SCV_UNC_Intervention.pdf) in North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, No. 19-CVS-1579 (N.C. Super. Ct., filed Dec. 13, 2019 )
 
 #### September 14
 

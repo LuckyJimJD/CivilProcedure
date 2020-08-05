@@ -21,45 +21,45 @@ title: Study Aids
 
 ## Introduction
 
-[Civil Action Flowchart]({{ site.baseurl }}/assets/img/introduction/CivilAction.png)
+[Civil Action Flowchart]({{ site.baseurl }}/assets/materials/introduction/CivilAction.png)
 
-[Federal Courts]({{ site.baseurl }}/assets/img/introduction/FedCourts.png)
+[Federal Courts]({{ site.baseurl }}/assets/materials/introduction/FedCourts.png)
 
-[Federal District Courts in North Carolina]({{ site.baseurl }}/assets/img/introduction/NC_FedCourts.png)
+[Federal District Courts in North Carolina]({{ site.baseurl }}/assets/materials/introduction/NC_FedCourts.png)
 
 ## Joinder
 
-[Counterclaims]({{ site.baseurl }}/assets/img/joinder/Counterclaims.png)
+[Counterclaims]({{ site.baseurl }}/assets/materials/joinder/Counterclaims.png)
 
-[Third Party Claims]({{ site.baseurl }}/assets/img/joinder/Rule14.png)
+[Third Party Claims]({{ site.baseurl }}/assets/materials/joinder/Rule14.png)
 
 [Sample Motion to Intervene]()
 
-[Joinder Review Problem]({{ site.baseurl }}/assets/img/joinder/NightAtTheOpera.png)
+[Joinder Review Problem]({{ site.baseurl }}/assets/materials/joinder/NightAtTheOpera.png)
 
 ## Subject Matter Jurisdiction
 
-[Joinder & Subject Matter Jurisdiction]({{ site.baseurl }}/assets/img/joinder/Joinder-SMJ.png)
+[Joinder & Subject Matter Jurisdiction]({{ site.baseurl }}/assets/materials/joinder/Joinder-SMJ.png)
 
-[Supplemental Jurisdiction under § 1367]({{ site.baseurl }}/assets/img/subject-matter-jurisdiction/1367.png)
+[Supplemental Jurisdiction under § 1367]({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/1367.png)
 
-[§ 1367(b) Illustration]({{ site.baseurl }}/assets/img/subject-matter-jurisdiction/1367b_Illustration.png)
+[§ 1367(b) Illustration]({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/1367b_Illustration.png)
 
 ## Personal Jurisdiction
 
-[World Wide Volkswagen]({{ site.baseurl }}/assets/img/personal-jurisdiction/WWVW.png)
+[World Wide Volkswagen]({{ site.baseurl }}/assets/materials/personal-jurisdiction/WWVW.png)
 
-[Asahi Metal]({{ site.baseurl }}/assets/img/personal-jurisdiction/Asahi.png)
+[Asahi Metal]({{ site.baseurl }}/assets/materials/personal-jurisdiction/Asahi.png)
 
-[Personal Jurisdiction Flowchart]({{ site.baseurl }}/assets/img/personal-jurisdiction/PersonalJurisdictionFlowchart.png)
+[Personal Jurisdiction Flowchart]({{ site.baseurl }}/assets/materials/personal-jurisdiction/PersonalJurisdictionFlowchart.png)
 
-[Personal Jurisdiction Review Problem]({{ site.baseurl }}/assets/img/personal-jurisdiction/GreedyHeir.png)
+[Personal Jurisdiction Review Problem]({{ site.baseurl }}/assets/materials/personal-jurisdiction/GreedyHeir.png)
 
-[Finding an Appropriate Forum: Personal Jurisdiction, Subject Matter Jurisdiction, & Venue]({{ site.baseurl }}/assets/img/personal-jurisdiction/PJ-SMJ-Venue.png)
+[Finding an Appropriate Forum: Personal Jurisdiction, Subject Matter Jurisdiction, & Venue]({{ site.baseurl }}/assets/materials/personal-jurisdiction/PJ-SMJ-Venue.png)
 
 ## Preclusion
 
-[Claim & Issue Preclusion]({{ site.baseurl }}/assets/img/preclusion/PreclusionSummaryChart.png)
+[Claim & Issue Preclusion]({{ site.baseurl }}/assets/materials/preclusion/PreclusionSummaryChart.png)
 
 ## Pleadings 
 
@@ -73,7 +73,7 @@ title: Study Aids
 
 ## Erie Doctrine
 
-[Erie-Hanna Decision Tree]({{ site.baseurl }}/assets/img/choice-of-law/ErieHanna.png)
+[Erie-Hanna Decision Tree]({{ site.baseurl }}/assets/materials/choice-of-law/ErieHanna.png)
 
 ## Summary Judgment 
 
