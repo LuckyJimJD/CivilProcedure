@@ -50,7 +50,6 @@ For each of the following additional claims, explain whether joinder is proper u
 
 11. A claim by Claypool against Baroni for battery, based on his pelting her with rotten tomatoes in retaliation for her statement. 
 
-
 # Model Answer 
 
 ## Part A: Joinder of Gottlieb and Driftwood as co-defendants

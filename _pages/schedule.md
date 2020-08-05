@@ -33,6 +33,7 @@ title: Schedule & Assignments
 ### Counterclaims & Crossclaims 
 
 - [FRCP Rule 13](https://www.law.cornell.edu/rules/frcp)
+- [Counterclaims]({{ site.baseurl }}/assets/materials/joinder/Counterclaims.png)
 - [Jones v. Ford Motor Credit Co.]({{ site.baseurl }}/cases/FordMotorCredit1)
 - [Ginwright v. Exeter Finance Corp.]({{ site.baseurl }}/cases/Ginwright1)
 - [Pace v. Timmermann’s Ranch & Saddle Shop, Inc. ]({{ site.baseurl }}/cases/Pace_Timmermans)
@@ -42,6 +43,7 @@ title: Schedule & Assignments
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
+- [Third Party Claims]({{ site.baseurl }}/assets/materials/joinder/Rule14.png)
 - [Lehman v. Revolution Portfolio LLC]({{ site.baseurl }}/cases/Lehman_Revolution)
 
 #### September 11
@@ -50,6 +52,8 @@ title: Schedule & Assignments
 
 - [FRCP Rules 19, 22, & 24](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1335](https://www.law.cornell.edu/uscode/text/28/1335)
+- [Deutsch v. Schoelkopf]({{ site.baseurl }}/cases/Deutsch_Schoelkopf)
+- [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal)
 - [Motion to Intervene]({{ site.baseurl }}/assets/materials/joinder/SCV_UNC_Intervention.pdf) in North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, No. 19-CVS-1579 (N.C. Super. Ct., filed Dec. 13, 2019 )
 
 #### September 14

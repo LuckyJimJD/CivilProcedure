@@ -5,21 +5,22 @@ title: Study Aids
 
 ---
 
-# Outlines
+
+## Outlines
 
 {% for outline in site.outlines %}
 <p><a href="{{ site.baseurl }}{{ outline.url }}">{{ outline.title }}</a></p>
 {% endfor %}
 
-# Review Problems
+## Review Problems
 
 {% for problem in site.problems %}
 <p><a href="{{ site.baseurl }}{{ problem.url }}">{{ problem.subtitle }}</a></p>
 {% endfor %}
 
-# Visuals
+## Visuals
 
-## Introduction
+### Introduction
 
 [Civil Action Flowchart]({{ site.baseurl }}/assets/materials/introduction/CivilAction.png)
 
@@ -27,15 +28,13 @@ title: Study Aids
 
 [Federal District Courts in North Carolina]({{ site.baseurl }}/assets/materials/introduction/NC_FedCourts.png)
 
-## Joinder
+### Joinder
 
-[Counterclaims]({{ site.baseurl }}/assets/materials/joinder/Counterclaims.png)
 
-[Third Party Claims]({{ site.baseurl }}/assets/materials/joinder/Rule14.png)
 
-[Joinder Review Problem]({{ site.baseurl }}/assets/materials/joinder/NightAtTheOpera.png)
 
-## Subject Matter Jurisdiction
+
+### Subject Matter Jurisdiction
 
 [Joinder & Subject Matter Jurisdiction]({{ site.baseurl }}/assets/materials/joinder/Joinder-SMJ.png)
 
@@ -43,7 +42,7 @@ title: Study Aids
 
 [§ 1367(b) Illustration]({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/1367b_Illustration.png)
 
-## Personal Jurisdiction
+### Personal Jurisdiction
 
 [World Wide Volkswagen]({{ site.baseurl }}/assets/materials/personal-jurisdiction/WWVW.png)
 
@@ -55,11 +54,11 @@ title: Study Aids
 
 [Finding an Appropriate Forum: Personal Jurisdiction, Subject Matter Jurisdiction, & Venue]({{ site.baseurl }}/assets/materials/personal-jurisdiction/PJ-SMJ-Venue.png)
 
-## Preclusion
+### Preclusion
 
 [Claim & Issue Preclusion]({{ site.baseurl }}/assets/materials/preclusion/PreclusionSummaryChart.png)
 
-## Pleadings 
+### Pleadings 
 
 [Sample Complaint]()
 
@@ -67,11 +66,11 @@ title: Study Aids
 
 [Sample Answer]()
 
-## Erie Doctrine
+### Erie Doctrine
 
 [Erie-Hanna Decision Tree]({{ site.baseurl }}/assets/materials/choice-of-law/ErieHanna.png)
 
-## Summary Judgment 
+### Summary Judgment 
 
 [Sample Motion for Summary Judgment]()
 

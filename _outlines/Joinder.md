@@ -407,3 +407,8 @@ Again, the limitation on supplemental jurisdiction under § 1367(b) applies to c
 These rules give courts broad discretion in case management to promote goals of efficiency & consistency (consolidation) or to avoid confusion & prejudice (severance & separate trials). 
 
 
+# Review Problem 
+
+[Claypool v. Gottlieb & Dritwood]({{ site.baseurl }}/problems/JoinderProblem/NightAtTheOpera.png)
+
+[Diagram of Claims]({{ site.baseurl }}/assets/materials/joinder/NightAtTheOpera.png)
