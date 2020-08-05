@@ -179,7 +179,7 @@ title: Schedule & Assignments
 ### Truthfulness & Good Faith in Pleadings 
 
 - [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
-- CASES
+- [Washington v. Alaimo]({{ site.baseurl }}/cases/Washington_Alaimo)
 
 #### November 6
 
