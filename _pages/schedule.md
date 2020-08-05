@@ -61,6 +61,9 @@ title: Schedule & Assignments
 
 ### Joinder Review 
 
+- [Review Problem]({{ site.baseurl }}/problems/JoinderProblem)
+- [Review Problem Diagram]({{ site.baseurl }}/assets/materials/joinder/NightAtTheOpera.png)
+
 ##### Click & Learn: Joinder (Due September 15)
 
 ## Subject Matter Jurisdiction 
@@ -99,6 +102,9 @@ title: Schedule & Assignments
 
 ### Subject Matter Jurisdiction Review 
 
+- [Review Problems]({{ site.baseurl }}/problems/SMJProblems)
+
+
 ##### Click & Learn: Subject Matter Jurisdiction (Due October 1)
 
 ## Personal Jurisdiction 
@@ -129,6 +135,8 @@ title: Schedule & Assignments
 
 ### Personal Jurisdiction Review 
 
+- [Review Problems]({{ site.baseurl }}/problems/PersonalJurisdictionProblems)
+
 ##### Click & Learn: Personal Jurisdiction (Due Otober 15)
 
 ## Preclusion
@@ -139,6 +147,7 @@ title: Schedule & Assignments
 
 - [Restatement (2d) of Judgments, §§ 13-26]({{ site.baseurl }}/statutes/Rest_Judgments)
 - CASES 
+- [Review Problem 1]({{ site.baseurl }}/problems/PreclusionProblems)
 
 #### October 21 & 23 
 
@@ -146,6 +155,7 @@ title: Schedule & Assignments
 
 - [Restatement (2d) of Judgments, §§ 27-29]({{ site.baseurl }}/statutes/Rest_Judgments)
 - CASES
+- [Review Problem 2]({{ site.baseurl }}/problems/PreclusionProblems)
 
 ##### Click & Learn: Preclusion (Due October 25)
 
@@ -185,6 +195,8 @@ title: Schedule & Assignments
 
 ### Pleadings Review 
 
+- [Review Problems]({{ site.baseurl }}/problems/PleadingsProblems)
+
 ##### Click & Learn: Pleadings (Due November 8)
 
 ## Choice of Law in Federal Court (Erie Doctrine)
@@ -209,6 +221,8 @@ title: Schedule & Assignments
 #### November 16
 
 ### Erie Doctrine Review 
+
+- [Review Problems]({{ site.baseurl }}/problems/ErieProblems)
 
 ##### Click & Learn: Erie Doctrine (Due November 17)
 
