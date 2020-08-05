@@ -14,6 +14,9 @@ title: Schedule & Assignments
 - [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
+- [Civil Action Flowchart]({{ site.baseurl }}/assets/materials/introduction/CivilAction.png)
+- [Federal Courts]({{ site.baseurl }}/assets/materials/introduction/FedCourts.png)
+- [Federal District Courts in North Carolina]({{ site.baseurl }}/assets/materials/introduction/NC_FedCourts.png)
 
 ### Civil Action Overview 
 
@@ -55,7 +58,7 @@ title: Schedule & Assignments
 - [Camacho v. Major League Baseball]({{ site.baseurl }}/cases/Camacho_MLB)
 - [Deutsch v. Schoelkopf]({{ site.baseurl }}/cases/Deutsch_Schoelkopf)
 - [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal)
-- [Motion to Intervene]({{ site.baseurl }}/assets/materials/joinder/SCV_UNC_Intervention.pdf) in North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, No. 19-CVS-1579 (N.C. Super. Ct., filed Dec. 13, 2019 )
+- [Motion to Intervene]({{ site.baseurl }}/assets/materials/joinder/SCV_UNC_Intervention.pdf) in North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, No. 19-CVS-1579 (N.C. Super. Ct., Dec. 13, 2019 )
 
 #### September 14
 
@@ -93,6 +96,8 @@ title: Schedule & Assignments
 ### Supplemental Jurisdiction 
 
 - [28 U.S.C. § 1367](https://www.law.cornell.edu/uscode/text/28/1367)
+- [Supplemental Jurisdiction under § 1367]({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/1367.png)
+- [§ 1367(b) Illustration]({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/1367b_Illustration.png)
 - [United Mine Workers of America v. Gibbs]({{ site.baseurl }}/cases/Gibbs)
 - [Jones v. Ford Motor Credit Co.]({{ site.baseurl }}/cases/FordMotorCredit2)
 - [Ginwright v. Exeter Finance Corp.]({{ site.baseurl }}/cases/Ginwright2)
@@ -103,6 +108,7 @@ title: Schedule & Assignments
 ### Subject Matter Jurisdiction Review 
 
 - [Review Problems]({{ site.baseurl }}/problems/SMJProblems)
+- [Joinder & Subject Matter Jurisdiction]({{ site.baseurl }}/assets/materials/joinder/Joinder-SMJ.png)
 
 
 ##### Click & Learn: Subject Matter Jurisdiction (Due October 1)
@@ -136,6 +142,8 @@ title: Schedule & Assignments
 ### Personal Jurisdiction Review 
 
 - [Review Problems]({{ site.baseurl }}/problems/PersonalJurisdictionProblems)
+- [Review Problem 1 Diagram]({{ site.baseurl }}/assets/materials/personal-jurisdiction/GreedyHeir.png)
+- [Personal Jurisdiction Flowchart]({{ site.baseurl }}/assets/materials/personal-jurisdiction/PersonalJurisdictionFlowchart.png)
 
 ##### Click & Learn: Personal Jurisdiction (Due Otober 15)
 
@@ -156,6 +164,7 @@ title: Schedule & Assignments
 - [Restatement (2d) of Judgments, §§ 27-29]({{ site.baseurl }}/statutes/Rest_Judgments)
 - CASES
 - [Review Problem 2]({{ site.baseurl }}/problems/PreclusionProblems)
+- [Claim & Issue Preclusion]({{ site.baseurl }}/assets/materials/preclusion/PreclusionSummaryChart.png)
 
 ##### Click & Learn: Preclusion (Due October 25)
 
@@ -223,6 +232,7 @@ title: Schedule & Assignments
 ### Erie Doctrine Review 
 
 - [Review Problems]({{ site.baseurl }}/problems/ErieProblems)
+- [Erie-Hanna Diagram]({{ site.baseurl }}/assets/materials/choice-of-law/ErieHanna.png)
 
 ##### Click & Learn: Erie Doctrine (Due November 17)
 
@@ -233,14 +243,16 @@ title: Schedule & Assignments
 ### Standard for Summary Judgment 
 
 - [FRCP Rules 56(a)](https://www.law.cornell.edu/rules/frcp)
-- CASES
+- [Scott v. Harris]({{ site.baseurl }}/cases/Scott_Harris)
+- [Motion for Summary Judgment]({{ site.baseurl }}/assets/materials/summary-judgment/DallasMavericksMSJ.pdf) in Hillwood Investment Properties III v. Radical Mavericks Management, Ltd., No. 10-05639 (Tex. Dist. Ct. June 22, 2011)
 
 #### November 20
 
 ### Burden of Production 
 
 - [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
-- CASES
+- [Slavin v. City of Salem]({{ site.baseurl }}/cases/Slavin)
+- [Review Problem]({{ site.baseurl }}/problems/SummaryJudgmentProblem)
 
 ##### Click & Learn: Summary Judgment (Due November 22)
 
