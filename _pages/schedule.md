@@ -46,7 +46,7 @@ title: Schedule & Assignments
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- [Third Party Claims]({{ site.baseurl }}/assets/materials/joinder/Rule14.png)
+- [Third Party Claims Diagram]({{ site.baseurl }}/assets/materials/joinder/Rule14.png)
 - [Lehman v. Revolution Portfolio LLC]({{ site.baseurl }}/cases/Lehman_Revolution)
 
 #### September 11
@@ -108,7 +108,7 @@ title: Schedule & Assignments
 ### Subject Matter Jurisdiction Review 
 
 - [Review Problems]({{ site.baseurl }}/problems/SMJProblems)
-- [Joinder & Subject Matter Jurisdiction]({{ site.baseurl }}/assets/materials/joinder/Joinder-SMJ.png)
+- [Joinder & Subject Matter Jurisdiction Diagram]({{ site.baseurl }}/assets/materials/joinder/Joinder-SMJ.png)
 
 
 ##### Click & Learn: Subject Matter Jurisdiction (Due October 1)
