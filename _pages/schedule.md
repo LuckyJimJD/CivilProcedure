@@ -57,7 +57,7 @@ title: Schedule & Assignments
 - [28 U.S.C. § 1335](https://www.law.cornell.edu/uscode/text/28/1335)
 - [Camacho v. Major League Baseball]({{ site.baseurl }}/cases/Camacho_MLB)
 - [Deutsch v. Schoelkopf]({{ site.baseurl }}/cases/Deutsch_Schoelkopf)
-- [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal)
+- [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal_Intervention)
 - [Motion to Intervene]({{ site.baseurl }}/assets/materials/joinder/SCV_UNC_Intervention.pdf) in North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, No. 19-CVS-1579 (N.C. Super. Ct., Dec. 13, 2019 )
 
 #### September 14
@@ -136,7 +136,7 @@ title: Schedule & Assignments
 
 ### General Jurisdiction 
 
-- [Daimler A.G. v. Bauman]({{ site.baseurl }}/cases/Daimler)
+- [Daimler A.G. v. Bauman](https://scholar.google.com/scholar_case?case=1929137067016164680)
 
 #### October 14 
 
@@ -155,7 +155,7 @@ title: Schedule & Assignments
 ### Claim Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 13-26]({{ site.baseurl }}/statutes/Rest_Judgments)
-- CASES 
+- [Whole Woman's Health v. Hellerstedt](https://scholar.google.com/scholar_case?case=12719084930434459940)
 - [Review Problem 1]({{ site.baseurl }}/problems/PreclusionProblems)
 
 #### October 21 & 23 
@@ -163,7 +163,7 @@ title: Schedule & Assignments
 ### Issue Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 27-29]({{ site.baseurl }}/statutes/Rest_Judgments)
-- CASES
+- [Parklane Hosiery Co., Inc. v. Shore](https://scholar.google.com/scholar_case?case=7479573211945418487)
 - [Review Problem 2]({{ site.baseurl }}/problems/PreclusionProblems)
 - [Claim & Issue Preclusion]({{ site.baseurl }}/assets/materials/preclusion/PreclusionSummaryChart.png)
 
@@ -176,7 +176,6 @@ title: Schedule & Assignments
 ### Pleading Under the Federal Rules 
 
 - [FRCP Rules 3, 7-12, 15](https://www.law.cornell.edu/rules/frcp)
-- CASES
 
 #### October 28 & 30
 
@@ -185,14 +184,15 @@ title: Schedule & Assignments
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
 - [Bell Atlantic Corp. v. Twombly]({{ site.baseurl }}/cases/Twombly)
 - [Ashcroft v. Iqbal]({{ site.baseurl }}/cases/Iqbal)
+- [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal_Dismissal)
 
 #### November 2
 
 ### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
-- [Zielinski v. Philadelphia Piers, Inc.]({{ site.baseurl }}/cases/Zielinski)
-- [Beeck v. Aquaslide 'n' Dive Corp.]({{ site.baseurl }}/cases/Aquaslide)
+- [Zielinski v. Philadelphia Piers, Inc.](https://scholar.google.com/scholar_case?case=6925145899226984414)
+- [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
 
 #### November 4
 
@@ -216,8 +216,8 @@ title: Schedule & Assignments
 ### The Rules of Decision Act 
 
 - Rules of Decision Act, [28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
-- [Erie R.R. Co. v. Tompkins]({{ site.baseurl }}/cases/Erie)
-- [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.]({{ site.baseurl }}/cases/Byrd)
+- [Erie R.R. Co. v. Tompkins](https://scholar.google.com/scholar_case?case=4671607337309792720)
+- [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.](https://scholar.google.com/scholar_case?case=9475547876856228277)
 - Brian L. Frye, [The Ballad of Harry James Tompkins]({{ site.baseurl }}/readings/Frye-Tompkins.pdf), 52 Akron Law Review 531 (2019)
 
 #### November 13
@@ -225,8 +225,8 @@ title: Schedule & Assignments
 ### The Rules Enabling Act 
 
 - Rules Enabling Act, [28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
-- [Hanna v. Plumer]({{ site.baseurl }}/cases/Hanna)
-- [Shady Grove Orthopedic Associates v. Allstate Insurance Co.]({{ site.baseurl }}/cases/ShadyGrove)
+- [Hanna v. Plumer](https://scholar.google.com/scholar_case?case=12605767878314119086)
+- [Shady Grove Orthopedic Associates v. Allstate Insurance Co.](https://scholar.google.com/scholar_case?case=7067599661351323973)
 
 #### November 16
 
@@ -252,7 +252,7 @@ title: Schedule & Assignments
 ### Burden of Production 
 
 - [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
-- [Slavin v. City of Salem]({{ site.baseurl }}/cases/Slavin)
+- [Slaven v. City of Salem](https://scholar.google.com/scholar_case?case=9307637031918953284)
 - [Review Problem]({{ site.baseurl }}/problems/SummaryJudgmentProblem)
 
 ##### Click & Learn: Summary Judgment (Due November 22)

@@ -63,6 +63,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 # Schedule & Assignments 
 
+
 ## Introduction 
 
 #### August 31
@@ -115,7 +116,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [28 U.S.C. § 1335](https://www.law.cornell.edu/uscode/text/28/1335)
 - [Camacho v. Major League Baseball]({{ site.baseurl }}/cases/Camacho_MLB)
 - [Deutsch v. Schoelkopf]({{ site.baseurl }}/cases/Deutsch_Schoelkopf)
-- [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal)
+- [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal_Intervention)
 - [Motion to Intervene]({{ site.baseurl }}/assets/materials/joinder/SCV_UNC_Intervention.pdf) in North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, No. 19-CVS-1579 (N.C. Super. Ct., Dec. 13, 2019 )
 
 #### September 14
@@ -136,18 +137,19 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii)
 - [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
-- [Louisville & Nashville R.R. Co. v. Mottley]({{ site.baseurl }}/cases/Mottley)
-- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing]({{ site.baseurl }}/cases/Grable)
-- [Gunn v. Minton]({{ site.baseurl }}/cases/Gunn)
+- [Louisville & Nashville R.R. Co. v. Mottley](https://scholar.google.com/scholar_case?case=16126924466507693953)
+- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://scholar.google.com/scholar_case?case=8325291807154614921)
 
 #### September 21 & 23 
 
 ### Diversity Jurisdiction 
 
 - [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
-- [Mas v. Perry]({{ site.baseurl }}/cases/Mas)
-- [Carroll v. Stryker Corp.]({{ site.baseurl }}/cases/Carroll)
-- [Linck v. Tayler]({{ site.baseurl }}/cases/Linck)
+- [Mas v. Perry](https://scholar.google.com/scholar_case?case=9590836077135550876)
+- [Ottawa Township Board of Trustees v. New Par (I)]({{ site.baseurl }}/cases/OttowaTwp_NewPar_I)
+- [Ottawa Township Board of Trustees v. New Par (II)]({{ site.baseurl }}/cases/OttowaTwp_NewPar_II)
+- [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://scholar.google.com/scholar_case?case=9907889190574227365)
+
 
 #### September 25 & 28
 
@@ -168,7 +170,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Review Problems]({{ site.baseurl }}/problems/SMJProblems)
 - [Joinder & Subject Matter Jurisdiction Diagram]({{ site.baseurl }}/assets/materials/joinder/Joinder-SMJ.png)
 
-
 ##### Click & Learn: Subject Matter Jurisdiction (Due October 1)
 
 ## Personal Jurisdiction 
@@ -179,21 +180,22 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - U.S. Constitution, [5th Amendment](https://www.law.cornell.edu/constitution/billofrights#amendmentv) & [14th Amendment, § 1](https://www.law.cornell.edu/constitution/amendmentxiv)
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
-- [Pennoyer v. Neff]({{ site.baseurl }}/cases/Pennoyer)
+- [Pennoyer v. Neff](https://scholar.google.com/scholar_case?case=13333263776496540273)
 
 #### October 5, 7, & 9
 
 ### Specific Jurisdiction Based on Minimum Contacts 
 
-- [International Shoe Co. v. Washington]({{ site.baseurl }}/cases/IntlShoe)
-- [World Wide Volkswagen Corp. v. Woodson]({{ site.baseurl }}/cases/Volkswagen)
-- [Bristol-Meyers Squibb Co. v. Superior Court of California]({{ site.baseurl }}/cases/Bristol-Meyers)
+- [International Shoe Co. v. Washington](https://scholar.google.com/scholar_case?case=5514563780081607825)
+- [World Wide Volkswagen Corp. v. Woodson](https://scholar.google.com/scholar_case?case=2649456870546423871)
+- [Keeton v. Hustler Magazine, Inc.](https://scholar.google.com/scholar_case?case=3371406121479205546)
+- [J. McIntyre Machinery, Ltd. v. Nicastro](https://scholar.google.com/scholar_case?case=9763892474923808631)
 
 #### October 12
 
 ### General Jurisdiction 
 
-- [Daimler A.G. v. Bauman]({{ site.baseurl }}/cases/Daimler)
+- [Daimler A.G. v. Bauman](https://scholar.google.com/scholar_case?case=1929137067016164680)
 
 #### October 14 
 
@@ -212,7 +214,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Claim Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 13-26]({{ site.baseurl }}/statutes/Rest_Judgments)
-- CASES 
+- [Whole Woman's Health v. Hellerstedt](https://scholar.google.com/scholar_case?case=12719084930434459940)
 - [Review Problem 1]({{ site.baseurl }}/problems/PreclusionProblems)
 
 #### October 21 & 23 
@@ -220,7 +222,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Issue Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 27-29]({{ site.baseurl }}/statutes/Rest_Judgments)
-- CASES
+- [Parklane Hosiery Co., Inc. v. Shore](https://scholar.google.com/scholar_case?case=7479573211945418487)
 - [Review Problem 2]({{ site.baseurl }}/problems/PreclusionProblems)
 - [Claim & Issue Preclusion]({{ site.baseurl }}/assets/materials/preclusion/PreclusionSummaryChart.png)
 
@@ -233,7 +235,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Pleading Under the Federal Rules 
 
 - [FRCP Rules 3, 7-12, 15](https://www.law.cornell.edu/rules/frcp)
-- CASES
 
 #### October 28 & 30
 
@@ -242,14 +243,15 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
 - [Bell Atlantic Corp. v. Twombly]({{ site.baseurl }}/cases/Twombly)
 - [Ashcroft v. Iqbal]({{ site.baseurl }}/cases/Iqbal)
+- [Sevier v. Lowenthal]({{ site.baseurl }}/cases/Sevier_Lowenthal_Dismissal)
 
 #### November 2
 
 ### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
-- [Zielinski v. Philadelphia Piers, Inc.]({{ site.baseurl }}/cases/Zielinski)
-- [Beeck v. Aquaslide 'n' Dive Corp.]({{ site.baseurl }}/cases/Aquaslide)
+- [Zielinski v. Philadelphia Piers, Inc.](https://scholar.google.com/scholar_case?case=6925145899226984414)
+- [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
 
 #### November 4
 
@@ -273,8 +275,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### The Rules of Decision Act 
 
 - Rules of Decision Act, [28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
-- [Erie R.R. Co. v. Tompkins]({{ site.baseurl }}/cases/Erie)
-- [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.]({{ site.baseurl }}/cases/Byrd)
+- [Erie R.R. Co. v. Tompkins](https://scholar.google.com/scholar_case?case=4671607337309792720)
+- [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.](https://scholar.google.com/scholar_case?case=9475547876856228277)
 - Brian L. Frye, [The Ballad of Harry James Tompkins]({{ site.baseurl }}/readings/Frye-Tompkins.pdf), 52 Akron Law Review 531 (2019)
 
 #### November 13
@@ -282,8 +284,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### The Rules Enabling Act 
 
 - Rules Enabling Act, [28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
-- [Hanna v. Plumer]({{ site.baseurl }}/cases/Hanna)
-- [Shady Grove Orthopedic Associates v. Allstate Insurance Co.]({{ site.baseurl }}/cases/ShadyGrove)
+- [Hanna v. Plumer](https://scholar.google.com/scholar_case?case=12605767878314119086)
+- [Shady Grove Orthopedic Associates v. Allstate Insurance Co.](https://scholar.google.com/scholar_case?case=7067599661351323973)
 
 #### November 16
 
@@ -309,7 +311,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Burden of Production 
 
 - [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
-- [Slavin v. City of Salem]({{ site.baseurl }}/cases/Slavin)
+- [Slaven v. City of Salem](https://scholar.google.com/scholar_case?case=9307637031918953284)
 - [Review Problem]({{ site.baseurl }}/problems/SummaryJudgmentProblem)
 
 ##### Click & Learn: Summary Judgment (Due November 22)
