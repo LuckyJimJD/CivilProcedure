@@ -13,9 +13,9 @@ published: '2018'
 
 ## RANDOLPH D. MOSS, United States District Judge.
 
-Plaintiff Chris Sevier,[^1] proceeding _pro se,_ seeks the removal of "the Gay Pride Rainbow Colored Flag" from "the halls and public access way[s] of Federal legislative buildings." "[H]omosexuality," he says, "is a religion," which the public display of the gay pride flag impermissibly favors. According to Sevier, display of the flag violates the Establishment Clause, discourages him from lobbying Congress, and violates his rights to equal protection and substantive due process. Sevier has made similar claims in, by his count, "more than [fifteen]" other lawsuits.[^2] In addition, Sevier asks that the Court "declare that the holdings in _United States v. Windsor,_ ... and _Obergefell v. Hodges,_ ... are intellectually dishonest and amount to acts of judicial tyranny and judicial malpractice." 
+Plaintiff Chris Sevier,[^1] proceeding _pro se,_ seeks the removal of "the Gay Pride Rainbow Colored Flag" from "the halls and public access way[s] of Federal legislative buildings." "[H]omosexuality," he says, "is a religion," which the public display of the gay pride flag impermissibly favors. According to Sevier, display of the flag violates the Establishment Clause, discourages him from lobbying Congress, and violates his rights to equal protection and substantive due process. Sevier has made similar claims in, by his count, "more than [fifteen]" other lawsuits. In addition, Sevier asks that the Court "declare that the holdings in _United States v. Windsor,_ ... and _Obergefell v. Hodges,_ ... are intellectually dishonest and amount to acts of judicial tyranny and judicial malpractice." 
 
-Currently pending before the Court are Defendants' motion to dismiss,[^2}] Sevier's motion for leave to amend his complaint, a motion to intervene, and numerous other motions. For the reasons explained below, the Court [ … ] will DENY the motion to intervene [ … ].
+Currently pending before the Court are Defendants' motion to dismiss,[^2] Sevier's motion for leave to amend his complaint, a motion to intervene, and numerous other motions. For the reasons explained below, the Court [ … ] will DENY the motion to intervene [ … ].
 
 ## I. BACKGROUND
 
