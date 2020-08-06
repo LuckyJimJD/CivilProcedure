@@ -277,7 +277,7 @@ No aggregation of claims against multiple defendants.
 
 >The district courts shall have original jurisdiction of all civil actions arising under the Constitution, laws, or treaties of the United States.
 
-#### *Louisville & Nashville RR v. Mottley* (US 1908) 
+#### Louisville & Nashville RR v. Mottley (US 1908) 
 
 ##### Issue
 
@@ -311,6 +311,20 @@ No aggregation of claims against multiple defendants.
   - What if applicable state law required plaintiff, in breach of contract case, to plead and prove legality of the contract as an element of the claim?
     - See “essential federal element” cases, below.
 
+##### Postscript 
+
+Following the Supreme Court's decision, the Mottleys filed a new suit in Kentucky state court, which ruled in favor of the Mottleys and ordered the Railroad to continue honoring the free passes. The Kentucky Court of Appeals (at that time the state's highest court), concluding that the 1906 federal statute did not nullify the existing contract between the Mottleys and the Railroad, affirmed the judgment. [Louisville & Nashville R. Co. v. Mottley,  133 Ky. 652 (1909)]({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/Mottley_KyCtApp_1909.pdf).
+
+The Railroad again appealed to the U.S. Supreme Court. The issue on appeal was whether the Kentucky court erred in holding that the 1906 federal statute did not apply to the contract. [_Louisville & Nashville R. Co. v. Mottley_, 219 US 467 (1911)](https://scholar.google.com/scholar_case?case=15541627978206243212). The case thus fell within the Court's appellate jurisdiction over cases involving the interpretation or validity of federal law. Unlike the original jurisdiction of the U.S. District Court's under § 1331, the Supreme Court's appellate jurisdiction over cases involving a federal question does not depend on whether that issue arose as part of the plaintiff's claim or as part of a defense. 
+
+This time, the Court held that the 1906 statute did apply to the Mottleys' free passes.  Because the Kentucky court's judgment—which ordered specific performance of the contractual promise of free transportation—conflicted with federal law,[^1] the Court reversed. The Court raised the possibility that on remand the Mottleys might still obtain some remedy from the state court: 
+
+> Whether, without enforcing the contract in suit, the defendants in error may, by some form of proceeding against the railroad company, recover or restore the rights they had when the railroad collision occurred is a question not before us, and we express no opinion on it.
+
+219 U.S. at 272. It is not clear what, if anything, happened next. 
+
+[^1]: Under the Supremacy Clause, [U.S. Constit., Art. IV](https://www.law.cornell.edu/constitution/articlevi), federal law takes precedence over state law where they conflict. 
+
 ##### Effect of Mottley
 
 - Term “arising under” has narrower meaning in sec. 1331 than in Art. III, § 2
@@ -320,6 +334,11 @@ No aggregation of claims against multiple defendants.
   - Well-pleaded = sufficient to state a claim under applicable pleading standards and substantive law
     - i.e. contains sufficient allegations to make out prima facie case given elements of claim
     - Ignore anything that is not part of prima facie claim
+
+##### Additional Background 
+
+- [Complaint in Mottley v. Louisville & Nashville Railroad Co.](({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/Mottley_Complaint.pdf))
+- [Erasmus L. Mottley](({{ site.baseurl }}/notes/Mottley_Note)
 
 ## Federal Pre-emption and Exclusive Jurisdiction
 

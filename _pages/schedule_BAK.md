@@ -78,19 +78,18 @@ title: Schedule & Assignments
 - [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii)
 - [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
-- [Louisville & Nashville R.R. Co. v. Mottley](https://scholar.google.com/scholar_case?case=16126924466507693953)
-- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://scholar.google.com/scholar_case?case=8325291807154614921)
+- [Louisville & Nashville R.R. Co. v. Mottley]({{ site.baseurl }}/cases/Mottley)
+- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing]({{ site.baseurl }}/cases/Grable)
+- [Gunn v. Minton]({{ site.baseurl }}/cases/Gunn)
 
 #### September 21 & 23 
 
 ### Diversity Jurisdiction 
 
 - [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
-- [Mas v. Perry](https://scholar.google.com/scholar_case?case=9590836077135550876)
-- [Ottawa Township Board of Trustees v. New Par (I)]({{ site.baseurl }}/cases/OttowaTwp_NewPar_I)
-- [Ottawa Township Board of Trustees v. New Par (II)]({{ site.baseurl }}/cases/OttowaTwp_NewPar_II)
-- [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://scholar.google.com/scholar_case?case=9907889190574227365)
-
+- [Mas v. Perry]({{ site.baseurl }}/cases/Mas)
+- [Carroll v. Stryker Corp.]({{ site.baseurl }}/cases/Carroll)
+- [Linck v. Tayler]({{ site.baseurl }}/cases/Linck)
 
 #### September 25 & 28
 
@@ -111,6 +110,7 @@ title: Schedule & Assignments
 - [Review Problems]({{ site.baseurl }}/problems/SMJProblems)
 - [Joinder & Subject Matter Jurisdiction Diagram]({{ site.baseurl }}/assets/materials/joinder/Joinder-SMJ.png)
 
+
 ##### Click & Learn: Subject Matter Jurisdiction (Due October 1)
 
 ## Personal Jurisdiction 
@@ -121,16 +121,15 @@ title: Schedule & Assignments
 
 - U.S. Constitution, [5th Amendment](https://www.law.cornell.edu/constitution/billofrights#amendmentv) & [14th Amendment, § 1](https://www.law.cornell.edu/constitution/amendmentxiv)
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
-- [Pennoyer v. Neff](https://scholar.google.com/scholar_case?case=13333263776496540273)
+- [Pennoyer v. Neff]({{ site.baseurl }}/cases/Pennoyer)
 
 #### October 5, 7, & 9
 
 ### Specific Jurisdiction Based on Minimum Contacts 
 
-- [International Shoe Co. v. Washington](https://scholar.google.com/scholar_case?case=5514563780081607825)
-- [World Wide Volkswagen Corp. v. Woodson](https://scholar.google.com/scholar_case?case=2649456870546423871)
-- [Keeton v. Hustler Magazine, Inc.](https://scholar.google.com/scholar_case?case=3371406121479205546)
-- [J. McIntyre Machinery, Ltd. v. Nicastro](https://scholar.google.com/scholar_case?case=9763892474923808631)
+- [International Shoe Co. v. Washington]({{ site.baseurl }}/cases/IntlShoe)
+- [World Wide Volkswagen Corp. v. Woodson]({{ site.baseurl }}/cases/Volkswagen)
+- [Bristol-Meyers Squibb Co. v. Superior Court of California]({{ site.baseurl }}/cases/Bristol-Meyers)
 
 #### October 12
 
