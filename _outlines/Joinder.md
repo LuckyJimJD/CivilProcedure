@@ -10,13 +10,17 @@ affiliation: Elon Law School
     
 ---
 
+# Joinder, Jurisdiction, & Preclusion 
+
+The joinder rules are only one factor in determining which parties and claims may (or must) be included in a single lawsuit. Joinder of parties is subject to the limits of [personal jurisdiction]({{ site.baseurl }}/outlines/Personal_Jurisdiction). Joinder of claims is subject to the limits of [subject matter jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction). Even where joinder of a claim is merely permissive under the FRCP, [claim and issue preclusion]({{ site.baseurl }}/outlines/Preclusion) may compel a party to join the claim or risk losing it. 
+
 # Basic Joinder 
 
 ## Permissive Joinder of Claims
 
 #### Rule 18
 
-Broad scope
+Broad scope:
 
 - Any claims, whether related or unrelated
 	- But must satisfy subject-matter jurisdiction for each claim
@@ -24,6 +28,10 @@ Broad scope
 		- Supplemental Jursidiction, if claims are related
 - No distinction between “compulsory” and “permissive” claims 
 	- But claim preclusion will apply to claims arising out of the same T/O 
+
+Rule 18 is the Pandora's Box of the joinder rules. To open the box, a party must have a key, i.e. at least one claim against a party. For any party other than an initial plaintiff (who, by definition, begins with at least one claim against one opposing party), another joinder rule must provide the key (e.g. counterclaims & crossclaims under Rule 13; third-party claims under Rule 14). Once the box is opened, Rule 18 permits joinder of unlimited additional claims against the same opposing party. 
+
+Other parts of the FRCP provide safeguards against the pandemonium that Rule 18 might unleash. [Rule 21](https://www.law.cornell.edu/rules/frcp/rule_21) allows the court to drop (or add) parties and sever claims. [Rule 42](https://www.law.cornell.edu/rules/frcp/rule_42) allows a court, "[f]or convenience, to avoid prejudice, or to expedite and economize," to order separate trials on any claims. In addition, the limits of federal [subject matter jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction) will restrict the joinder of some claims that Rule 18 (or other joinder rules) would permit. 
 
 ## Permissive Joinder of Parties
 
@@ -112,14 +120,14 @@ _Moore v. NY Cotton Exchange_ (US 1926) (applying pre-FRCP compulsory countercla
 
 ### Subject Matter Jurisdiction Over Compulsory Counterclaims 
 
-- Compulsory counterclaim will _always_ satisfy [supplemental jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction). 
+Compulsory counterclaim will _always_ satisfy [supplemental jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction). 
 
 ### Consequences of Omitting a Compulsory Counterclaim 
 
-- Preclusion
-  - If defendant fails to assert a compulsory counterclaim, they may not assert that claim later in a separate action. 
-    - Not [_res judicata_]({{ site.baseurl }}/outlines/Preclusion), because defendant who asserts no counterclaim is not a “claimant”. 
-    - Purpose of compulsory counterclaim rule is to place defendant and plaintiff on even footing with regard to which claims they must assert in the same action. 
+If defendant fails to assert a compulsory counterclaim, they may not assert that claim later in a separate action. 
+
+- Not [_res judicata_]({{ site.baseurl }}/outlines/Preclusion), because defendant who asserts no counterclaim is not a “claimant”. 
+- Purpose of compulsory counterclaim rule is to place defendant and plaintiff on even footing with regard to which claims they must assert in the same action. 
 
 ## Permissive Counterclaims
 
@@ -127,11 +135,10 @@ _Moore v. NY Cotton Exchange_ (US 1926) (applying pre-FRCP compulsory countercla
 
 > A pleading may state as a counterclaim against an opposing party any claim that is not compulsory.
 
-- All other claims by defendant against plaintiff
-	- i.e. not arising from same T/O
-- Similar to joinder of claims under Rule 18.
-  - But defendant does not need a compulsory (related) counterclaim to assert a permissive (unrelated) counterclaim.
-	- Cf. Crossclaims 
+A defendant does not need a compulsory (related) counterclaim to assert a permissive (unrelated) counterclaim.
+
+- Cf. Crossclaims: Limited to claims arising from same T/O.
+	- But once a co-party asserts a valid crossclaim against another co-party, Rule 18 then permits them to join any other (unrelated) claims as well. 
 
 ## Counterclaim Problems
 
@@ -178,7 +185,7 @@ _Moore v. NY Cotton Exchange_ (US 1926) (applying pre-FRCP compulsory countercla
   - Cf. Counterclaims, which may be related (compulsory) or unrelated (permissive) to the underlying plaintiff's claims. 
 - Crossclaims are permissive (i.e. they may be asserted in the same action or in a separate action). 
   - Cf. Compulsory counterclaims. 
-  - But if a party brings any crossclaim against a co-party, they must then bring all related claims against that party (because claim prelusion will then apply). 
+  - But if a party brings any crossclaim against a co-party, they must then bring _all related claims_ against that party (because [claim prelusion]({{ site.baseurl }}/outlines/Preclusion) will then apply). 
 
 ### Indemnification and Contribution 
 
