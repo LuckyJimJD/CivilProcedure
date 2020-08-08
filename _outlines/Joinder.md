@@ -31,7 +31,7 @@ Broad scope:
 
 Rule 18 is the Pandora's Box of the joinder rules. To open the box, a party must have a key, i.e. at least one claim against a party. For any party other than an initial plaintiff (who, by definition, begins with at least one claim against one opposing party), another joinder rule must provide the key (e.g. counterclaims & crossclaims under Rule 13; third-party claims under Rule 14). Once the box is opened, Rule 18 permits joinder of unlimited additional claims against the same opposing party. 
 
-Other parts of the FRCP provide safeguards against the pandemonium that Rule 18 might unleash. [Rule 21](https://www.law.cornell.edu/rules/frcp/rule_21) allows the court to drop (or add) parties and sever claims. [Rule 42](https://www.law.cornell.edu/rules/frcp/rule_42) allows a court, "[f]or convenience, to avoid prejudice, or to expedite and economize," to order separate trials on any claims. In addition, the limits of federal [subject matter jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction) will restrict the joinder of some claims that Rule 18 (or other joinder rules) would permit. 
+Other parts of the FRCP provide safeguards against the pandemonium that Rule 18 might unleash. [Rule 20](https://www.law.cornell.edu/rules/frcp/rule_42) and [Rule 42](https://www.law.cornell.edu/rules/frcp/rule_42) allow a court to order separate trials for some parties or claims. In addition, the limits of federal [subject matter jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction) will restrict the joinder of some claims that Rule 18 (or other joinder rules) would permit. 
 
 ## Permissive Joinder of Parties
 
@@ -502,7 +502,6 @@ The differences between Rule and Statutory Interpleader are procedural:
 > (b) Separate Trials. For convenience, to avoid prejudice, or to expedite and economize, the court may order a separate trial of one or more separate issues, claims, crossclaims, counterclaims, or third-party claims. When ordering a separate trial, the court must preserve any federal right to a jury trial.
 
 These rules give courts broad discretion in case management to promote goals of efficiency & consistency (consolidation) or to avoid confusion & prejudice (severance & separate trials). 
-
 
 # Joinder Review Problem 
 
