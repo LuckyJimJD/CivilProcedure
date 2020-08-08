@@ -144,7 +144,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
 - [Mas v. Perry](https://scholar.google.com/scholar_case?case=9590836077135550876)
-- Ottawa Township Board of Trustees v. New Par: [Decision & Order I](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_I); [Decision & Order 2](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_II)
+- Ottawa Township Board of Trustees v. New Par: [Decision & Order 1](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_I); [Decision & Order 2](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_II)
 - [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://scholar.google.com/scholar_case?case=9907889190574227365)
 
 
