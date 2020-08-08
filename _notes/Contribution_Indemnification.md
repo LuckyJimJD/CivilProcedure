@@ -3,13 +3,15 @@ layout: note
 
 course: Civil Procedure 
 title: Joinder 
-subtitle: "Indemnification & Contribution Under Rules 13(g) & (14(a)"
+subtitle: "Indemnification & Contribution Claims Under Rules 13(g) & (14(a)"
 author: Prof. Fink
 affiliation: Elon Law School 
     
 ---
 
-FRCP Rules 13(g) and 14(a) contain similar language about claims by a party seeking to hold someone else liable for all or part of a claim against them: 
+# Joinder of Indemnification & Contribution Claims 
+
+FRCP Rules 13(g) and 14(a) both permit joinder of claims by a party seeking to hold someone else liable for all or part of a claim against them: 
 
 ### Rule 13(g)
 
@@ -24,6 +26,10 @@ These provisions refer to claims for _indemnification_ and _contribution_. These
 Where a party seeks indemnification or contribution from a co-party already in the case, the claim is joined as a crossclaim under Rule 13(g). 
 
 Where a party seeks indemnification or contribution from someone who is not already a party in the case, the additional party and the claim against them are joined under Rule 14(a). The newly-added party is referred to as a _third-party defendant_, and the party asserting the indemnification or contribution claim (who may have entered the case originally as either a defendant or as a plaintiff against whom another party has asserted a counterclaim or crossclaim) as the _third-party plaintiff_. 
+
+Under the FRCP, neither crossclaims and third-party claims are compulsory. Conseuently, a party with a potential contribution or indemnification claim (whether against a co-party or potential third-party) may opt to wait until the outcome of the suit and then bring the contribution/indemnification claim in a subsequent action. 
+
+# Basis of Indemnification & Contribution Claims
 
 Rules 13(g) and 14(a) do not establish a right to indemnification or contribution. That is a matter of substantive law (tort, contract, or statute). These Rules simply govern the procedure for joining such claims where they have some basis in substantive law. 
 

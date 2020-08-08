@@ -112,16 +112,13 @@ _Moore v. NY Cotton Exchange_ (US 1926) (applying pre-FRCP compulsory countercla
 
 ### Subject Matter Jurisdiction Over Compulsory Counterclaims 
 
-- Compulsory counterclaim will _always_ satisfy supplemental jurisdiction.
-  - Courts treat "same T/O" under joinder rules as functionally equivalent to "same case or controversy"/CNOF requirement for supplemental jurisdiction. 
-  - Courts sometimes assess whether a counterclaim is compulsory by first assessing whether supplemental jurisdiction over that claim is proper. 
-  - Note that counterclaims (claims by a defendant against a plaintiff) are not among the "yellow flag" claims under § 1367(b). 
+- Compulsory counterclaim will _always_ satisfy [supplemental jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction). 
 
 ### Consequences of Omitting a Compulsory Counterclaim 
 
 - Preclusion
   - If defendant fails to assert a compulsory counterclaim, they may not assert that claim later in a separate action. 
-    - Not _res judicata_, because defendant who asserts no counterclaim is not a “claimant”. 
+    - Not [_res judicata_]({{ site.baseurl }}/outlines/Preclusion), because defendant who asserts no counterclaim is not a “claimant”. 
     - Purpose of compulsory counterclaim rule is to place defendant and plaintiff on even footing with regard to which claims they must assert in the same action. 
 
 ## Permissive Counterclaims
@@ -185,31 +182,11 @@ _Moore v. NY Cotton Exchange_ (US 1926) (applying pre-FRCP compulsory countercla
 
 ### Indemnification and Contribution 
 
-The last clause of Rule 13(g) ("a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant") describes claims for _contribution_ and _indemnification_. 
+The last clause of Rule 13(g) ("a claim that the coparty is or may be liable to the crossclaimant for all or part of a claim asserted in the action against the crossclaimant") describes claims for [_contribution_ and _indemnification_]({{ site.baseurl }}/notes/Contribution_Indemnification). 
 
-##### Contribution
+FRCP Rule 13(g) permits (but does not compel) co-parties to assert claims for indemnification/contribution as crossclaims. These claims are contingent on the outcome of the underlying claim against the party asserting a right of indemnification/contribution. The court may opt to defer adjudication of such a crossclaim until the underlying claim has been decided. If the party asserting a contribution/indemnification crossclaim is not found liable, then the crossclaim is dismissed. 
 
-Allows a joint tortfeasor who pays damages beyond their proportionate share of fault (e.g. under joint and several liability) to seek reimbursement from other joint tortfeasors for their proportionate shares. 
-
-The right of contribution is governed by state law (statute or common law).  
-
-##### Indemnification
-
-Allows a defendant to recover the full amount of a judgment (and sometimes defense costs) from another person. 
-
-- The common law right of indemnification applies where a defendant was not actually at fault, but is liable to the plaintiff based on the other person's conduct. 
-  - Example:  At common law, if an employer was held vicariously liable for an employee's negligence, the employer had a right to sue the employee for indemnification. 
-    - In some states this particular right has been abrogated by judicial opinion or statute. 
-- Statutory indemnification may codify the common law right or impose a duty to indemnify where it would not apply under common law. 
-  - Example: In some states, an employer has a statutory duty to indemnify an employee for any civil liability (including the cost of defense) arising from the employee's negligence in the course of employment. See, e.g., Cal. Labor Code § 2802(a) .  
-- Contractual indemnification agreements allow parties to shift ultimate responsibility for judgments, without regard to which one is at fault. 
-  - Example: University places students in internships with businesses and other organizations. The University may agree to indemnify the organizations for any civil liability the organizations incur as a result of the student's conduct. 
-  - Liability insurance is a common type of contractual indemnification agreement.
-
-FRCP Rule 13(g) permits co-defendants to assert claims for contributions as crossclaims, in which case their claims are contingent on the outcome of the underlying plaintiff's claim. The court may opt to defer adjudication of such a crossclaim until the underlying plaintiff's claim has been decided. If the defendant asserting a contribution/indemnification crossclaim is not found liable, then the crossclaim is dismissed. 
-
-- Rule 14 (see below) also permits a party to join an additional "third-party" defendant to assert a claim for contribution or indemnification. 
-- Because crossclaims and third-party claims are not compulsory, a party with a potential contribution or indemnification claim (whether against a co-party or potential third-party) may opt to wait until the outcome of the suit and then bring the contribution/indemnification claim in a subsequent action. 
+- Rule 14 (see below) permits a party to join an additional "third-party" defendant to assert a claim for contribution or indemnification.  
 
 ### Unrelated claims between co-parties
 
