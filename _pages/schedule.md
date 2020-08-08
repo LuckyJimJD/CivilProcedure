@@ -58,7 +58,7 @@ title: Schedule & Assignments
 - [Camacho v. Major League Baseball](https://www.emfink.net/CivilProcedure/cases/Camacho_MLB)
 - [Deutsch v. Schoelkopf](https://www.emfink.net/CivilProcedure/cases/Deutsch_Schoelkopf)
 - [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Intervention)
-- [Motion to Intervene](https://www.emfink.net/CivilProcedure/assets/materials/joinder/SCV_UNC_Intervention.pdf) in North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, No. 19-CVS-1579 (N.C. Super. Ct., Dec. 13, 2019 )
+- North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, [Motion to Intervene](https://www.emfink.net/CivilProcedure/assets/materials/joinder/SCV_UNC_Intervention.pdf)
 
 #### September 14
 
