@@ -53,47 +53,42 @@ Other parts of the FRCP provide safeguards against the pandemonium that Rule 18 
 
 ### Same Transaction or Occurrence
 
-- “Logical relationship” standard
-	- “... the essential facts of the various claims are so logically connected that considerations of judicial economy and fairness dictate that all issues be resolved in one lawsuit.” _Harris v. Steinem_ (2d Cir. 1978) (interpreting similar "transaction or occurrence" provision for compulsory counterclaims under Rule 13(a))
+“Logical relationship” standard
+
+- “... the essential facts of the various claims are so logically connected that considerations of judicial economy and fairness dictate that all issues be resolved in one lawsuit.” _Harris v. Steinem_ (2d Cir. 1978) (interpreting similar "transaction or occurrence" provision for compulsory counterclaims under Rule 13(a))
 	- “Absolute identity of all events is unnecessary”. _Mosley v. General Motors_ (8th Cir. 1974)
 
 ### Common Question of Law or Fact
 
-- _At least one_ common question of law _or_ fact 
-  - This is almost always true where claims arise out of the same T/O
-- Does not require identical injuries. _Mosley v. General Motors_. 
+_Only one_ common question of law _or_ fact is needed to satisfy this requirement. 
+
+- In practice, there will inevitably be at least one such common question (and usually more) where claims arise out of the same T/O.
+	- Does not require identical injuries. _Mosley v. General Motors_. 
 
 ### Permissive 
 
 Rule 20 defines when multiple plaintiffs and/or defendants _may be joined_ in a single action. But joinder under Rule 20 is not compulsory. 
 
-- Rule 19 _requires_ joinder of additional parties in special circumstances:
-  - Court cannot grant complete relief without the absent party, 
-  - Absent party's interest may be impaired, or 
-  - Existing party would face multiple or inconsistent obligations without the absent party. 
-- Examples: 
-  - Parties to contract, where suit seeks to void the contract. 
-  - Joint owners of property in dispute. 
-  - Third-persons whose interest would be adversely affected by an injunction. 
+Rule 19 _requires_ joinder of additional parties in certain circumstances.
 
 #### Mosley v. General Motors Corp. (8th Cir. 1974)
 
 ##### Facts & Procedural History
 
 - 10 plaintiffs sue GM & UAW for employment discrimination (Title VII &  § 1981). 
-  - 8 plaintiffs worked for GM's Chevrolet Division. 
-  - 2 plaintiffs worked for GM's Fisher Body division. 
-  - All plaintiffs asserted the same legal theory and alleged similar facts about the nature of the discrimination. 
+	- 8 plaintiffs worked for GM's Chevrolet Division. 
+	- 2 plaintiffs worked for GM's Fisher Body division. 
+	- All plaintiffs asserted the same legal theory and alleged similar facts about the nature of the discrimination. 
 - District court severed on motion by GM. 
 
 ##### Holding & Analysis
 
 - Joinder was proper, and trial court erred in severing actions, where plaintiffs asserted transactionally-related claims sharing common issues of law and fact.
 - Logical relationship standard is satisfied where plaintiffs allege defendant(s) acted as part of a company-wide system or policy
-  - Fact that plaintiffs worked in different locations for different corporate sub-divisions does not negate commonality. 
+	- Fact that plaintiffs worked in different locations for different corporate sub-divisions does not negate commonality. 
 - Practical lawyering issue
-  - Why did plaintiffs want to join cases?
-  - Why did GM want to sever cases?
+	- Why did plaintiffs want to join cases?
+	- Why did GM want to sever cases?
 
 # Rule 13 
 
@@ -154,7 +149,7 @@ A defendant does not need a compulsory (related) counterclaim to assert a permis
 2. Same facts. Which of these counterclaims would be compulsory under Rule 13(a)?
 
 	a) A claim by Dana for breach of contract, alleging that Crimson failed to pay commissions, as provided under her employment contract, on sales she generated before she quit.
-	    - Probably not. Crimson’s claim against Dana arises out of her quitting and going to work for Scarlet. Dana’s counterclaim arises from work she performed while employed at Crimson. A court will most likely regard these as distinct transactions/occurrences.
+	  	- Probably not. Crimson’s claim against Dana arises out of her quitting and going to work for Scarlet. Dana’s counterclaim arises from work she performed while employed at Crimson. A court will most likely regard these as distinct transactions/occurrences.
     	- Even under the broad "logical relationship" standard, the fact that Crimson’s non-compete claim and Dana’s breach of contract claim both arise from the same employment relation and contract is probably not enough to satisfy the same T/O requirement.
 
 	b) A claim by Dana for defamation, alleging that Crimson falsely told its customers that Dana was fired for embezzlement.
@@ -167,11 +162,11 @@ A defendant does not need a compulsory (related) counterclaim to assert a permis
 
 	Is Debtor’s FDCPA claim against Collection Agency a compulsory counterclaim?
 
-   - _Argument in favor_: Both claims arise from the same underlying transaction, i.e. the debt.
-   - _Argument against_: The two claims are logically independent and do not arise from the same T/O: 
-     - Collection Agency’s claim arises out of the underlying debt, and depends on the validity of that debt. 
-     - Debtor’s FDCPA claim arises out of the defendant’s collection efforts, and does not depend on the validity of the debt.
-   - Most courts have accepted the second view in this scenario. 
+ 	- _Argument in favor_: Both claims arise from the same underlying transaction, i.e. the debt.
+ 	- _Argument against_: The two claims are logically independent and do not arise from the same T/O: 
+   	- Collection Agency’s claim arises out of the underlying debt, and depends on the validity of that debt. 
+   	- Debtor’s FDCPA claim arises out of the defendant’s collection efforts, and does not depend on the validity of the debt.
+ 	- Most courts have accepted the second view in this scenario. 
 
 ## Crossclaims
 
@@ -182,10 +177,10 @@ A defendant does not need a compulsory (related) counterclaim to assert a permis
 ### Contrast with Counterclaims 
 
 - Crossclaims must arise from the same transaction/occurrence as the underlying plaintiff's claims.
-  - Cf. Counterclaims, which may be related (compulsory) or unrelated (permissive) to the underlying plaintiff's claims. 
+	- Cf. Counterclaims, which may be related (compulsory) or unrelated (permissive) to the underlying plaintiff's claims. 
 - Crossclaims are permissive (i.e. they may be asserted in the same action or in a separate action). 
-  - Cf. Compulsory counterclaims. 
-  - But if a party brings any crossclaim against a co-party, they must then bring _all related claims_ against that party (because [claim prelusion]({{ site.baseurl }}/outlines/Preclusion) will then apply). 
+	- Cf. Compulsory counterclaims. 
+	- But if a party brings any crossclaim against a co-party, they must then bring _all related claims_ against that party (because [claim prelusion]({{ site.baseurl }}/outlines/Preclusion) will then apply). 
 
 ### Indemnification and Contribution 
 
@@ -201,20 +196,20 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
 
 - Cf. Counterclaims: Defendant may assert a permissive (unrelated) counterclaim, even without a compulsory (related) counterclaim.   
 - But, as with permissive counterclaims, unrelated Rule 18 claim(s) require an independent basis for SMJ. 
-  - No supplemental jurisdiction, because different T/O = no CNOF
+	- No supplemental jurisdiction, because different T/O = no CNOF
 
 ### Crossclaim Examples
 
 - P1 (driver) and P2 (passenger in P1's car) sue D for negligence arising out of car accident. 
-  - P2 may also assert a crossclaim against P1 alleging that P1's negligence caused P2's injuries. 
+	- P2 may also assert a crossclaim against P1 alleging that P1's negligence caused P2's injuries. 
 - P sues D1 and D2 for breach of contract arising out of a transaction among P, D1, & D2 
-  - D1 may assert a crossclaim against D2 for breach of contract arising out of the same transaction. 
-  - D1 may assert a crossclaim against D2 asserting that D2 has a duty to indemnify D1 in the event D1 is found liable to P. 
-    - D2's duty to indemnify may be based on (the same or separate) contract, or may be imposed by law. 
+	- D1 may assert a crossclaim against D2 for breach of contract arising out of the same transaction. 
+	- D1 may assert a crossclaim against D2 asserting that D2 has a duty to indemnify D1 in the event D1 is found liable to P. 
+  	- D2's duty to indemnify may be based on (the same or separate) contract, or may be imposed by law. 
 - P alleges that a painting in D1's possession really belongs to P and that D1 acquired the painting from D2, who stole it from P. P files a suit, joining D1 and D2 as co-defendant under Rule 20. 
-  - P seeks an order compelling D1 to return the painting to P or, in the alternative, damages against D2 for the value of the painting. 
-  - D2 denies stealing the painting and instead contends it was a gift from P. D2 also alleges they did not sell or give the painting to D1 but merely left it with D1 for cleaning and reframing. 
-  - D2 may assert a crossclaim against D1 for return of the painting. 
+	- P seeks an order compelling D1 to return the painting to P or, in the alternative, damages against D2 for the value of the painting. 
+	- D2 denies stealing the painting and instead contends it was a gift from P. D2 also alleges they did not sell or give the painting to D1 but merely left it with D1 for cleaning and reframing. 
+	- D2 may assert a crossclaim against D1 for return of the painting. 
 
 ## Counterclaims & Crossclaims: Cases
 
@@ -230,7 +225,7 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
 - Timmermann’s had previously sued Pace for conversion and other claims based on her alleged theft of merchandise and cash.
 - District court dismissed all of Pace’s claims, concluding that she should have asserted them as compulsory counterclaims in the previous suit.
 - Pace appealed the dismissal of her claims against the individual defendants and the dismissal of her abuse of process claim against Timmermann's.
-  - She conceded that her other claims against Timmermann's were properly dismissed as unasserted compulsory counterclaims in the prior suit. 
+	- She conceded that her other claims against Timmermann's were properly dismissed as unasserted compulsory counterclaims in the prior suit. 
 
 ##### Issue
 
@@ -240,12 +235,12 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
 ##### Holding & Analysis
 
 - Pace’s abuse of process claim against Timmerman’s was a compulsory counterclaim, 
-  - It arose from the same events as the prior suit by Timmermann's against Pace. 
-  - The court rejected Pace's argument that this claim did not come into existence until she was criminally charged with theft, which didn't happen until after Timmermann's brought its prior suit against her.
-    - Under the applicable law, an indictment was not a necessary element of the abuse of process claim. 
-    - All the facts necessary to establish the elements of that claim occured (and were known to Pace) before Timmermann's commenced its prior suit. 
+	- It arose from the same events as the prior suit by Timmermann's against Pace. 
+	- The court rejected Pace's argument that this claim did not come into existence until she was criminally charged with theft, which didn't happen until after Timmermann's brought its prior suit against her.
+  	- Under the applicable law, an indictment was not a necessary element of the abuse of process claim. 
+  	- All the facts necessary to establish the elements of that claim occured (and were known to Pace) before Timmermann's commenced its prior suit. 
 - Pace’s claims against the individual defendants were not compulsory counterclaims, because they were not parties to the prior suit.
-  - Neither Rule 13(a) nor Rule 20 requires joinder of additional parties.
+	- Neither Rule 13(a) nor Rule 20 requires joinder of additional parties.
 
 #### Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P. (D. Hawaii 1994)
 
@@ -317,8 +312,8 @@ Impleader under Rule 14 is limited to [claims for contribution or indemnificatio
 ##### Analysis
 
 - Third-party claim against Roffman for contribution & indemnification is proper
-  - Roffman & Bank were allegedly joint tortfeasers on Lehman’s claim arising from Roffman’s fraud & Bank’s negligence.
-  - Even though Lehman only sought to stop the sale of his property, and not money damages, he might have been awarded damages, so FDIC could implead against that possibility.
+	- Roffman & Bank were allegedly joint tortfeasers on Lehman’s claim arising from Roffman’s fraud & Bank’s negligence.
+	- Even though Lehman only sought to stop the sale of his property, and not money damages, he might have been awarded damages, so FDIC could implead against that possibility.
 - Rule 18(a) then permitted FDIC to assert any other claim it had against Roffman (provided there is jurisdiction).
 
 ### Third-Party Defendant's Claims and Defenses: Rule 14(a)(2)
@@ -350,28 +345,66 @@ Again, the limitation on supplemental jurisdiction under § 1367(b) applies to c
 - Erkins died while operating a backhoe.
 - Estate sued manufacturer of backhoe (Case) in strict liability for failure to warn.
 - Case sought to implead the contractors responsible for the job (Fitzpatrick & ECRACOM), alleging accident resulted from their failure to conduct safety meetings.
-  - Why didn't Erkins sue the contractors in the first place? 
+	- Why didn't Erkins sue the contractors in the first place? 
 		- Possibly because of workers compensation bar (Erkins worked for subcontractor of Fitzpatrick and ERACOM).
 
 ##### Issue
 
 - Whether Rule 14 allows defendant to implead joint tortfeasers.
-  - Turns on whether NJ law provides a right of contribution among joint tortfeasers in this case.
+	- Turns on whether NJ law provides a right of contribution among joint tortfeasers in this case.
 
 ##### Analysis
 
 - NJ law provides right of recovery against joint tortfeasers. 
-  - Defines “joint tortfeasers” as “two or more persons jointly or severally liabile in tort for the same injury to person or property”. 
+	- Defines “joint tortfeasers” as “two or more persons jointly or severally liabile in tort for the same injury to person or property”. 
 		- Parties act together in causing injury, _or_
 		- Parties act independently of one another, but their actions combine to cause a single injury
-  - Doesn’t matter whether theory of liability is different for each tortfeasor (e.g. strict liability v. negligence)
+	- Doesn’t matter whether theory of liability is different for each tortfeasor (e.g. strict liability v. negligence)
 
 
 # Complex Joinder: Required Parties, Interpleder, & Intervetion 
 
-## Required Parties 
+## Required Joinder of Parties 
 
-#### CASE 
+### Rule 19(a): Persons Required to Be Joined if Feasible 
+
+> 1) Required Party. A person who is subject to service of process and whose joinder will not deprive the court of subject-matter jurisdiction must be joined as a party if:
+> 
+> > (A) in that person’s absence, the court cannot accord complete relief among existing parties; or
+> > 
+> > (B) that person claims an interest relating to the subject of the action and is so situated that disposing of the action in the person’s absence may:
+> > 
+> > > (i) as a practical matter impair or impede the person’s ability to protect the interest; or
+> > > 
+> > > (ii) leave an existing party subject to a substantial risk of incurring double, multiple, or otherwise inconsistent obligations because of the interest.
+
+Examples: 
+
+- Parties to contract, where suit seeks to void the contract. 
+- Joint owners of property in dispute. 
+- Third-persons whose interest would be adversely affected by an injunction.
+
+### Rule 19(b): When Joinder is Not Feasible 
+
+> If a person who is required to be joined if feasible cannot be joined, the court must determine whether, in equity and good conscience, the action should proceed among the existing parties or should be dismissed. The factors for the court to consider include:
+> 
+> > (1) the extent to which a judgment rendered in the person’s absence might prejudice that person or the existing parties;
+> > 
+> > (2) the extent to which any prejudice could be lessened or avoided by:
+> > 
+> > > (A) protective provisions in the judgment;
+> > > 
+> > > (B) shaping the relief; or
+> > > 
+> > > (C) other measures;
+> > 
+> > (3) whether a judgment rendered in the person’s absence would be adequate; and
+> > 
+> > (4) whether the plaintiff would have an adequate remedy if the action were dismissed for nonjoinder.
+
+The primary reason that joinder would not be feasible is where the party to be joined is not within the reach of the court's personal jurisdiction, or where the claim to be asserted against that party is not within the court's subject matter jurisdiction. Another reason that sometimes arises is sovereign immunity. See, e.g., [_Dine Citizens Against Ruining our Environment v. Bureau of Indian Affairs_](https://scholar.google.com/scholar_case?case=2017644198425024634), (9th Cir. 2019) (dismissing case where Navajo Nation had an interest making it a party required to be joined under Rule 19(a), but where joinder was not feasible because of tribal sovereign immunity)
+
+#### Camacho v. Major League Baseball (S.D. Cal. 2013) 
 
 
 ## Interpleader 
