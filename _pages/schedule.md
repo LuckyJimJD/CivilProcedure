@@ -78,17 +78,17 @@ title: Schedule & Assignments
 - [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii)
 - [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
-- [Louisville & Nashville R.R. Co. v. Mottley](https://scholar.google.com/scholar_case?case=16126924466507693953)
-- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://scholar.google.com/scholar_case?case=8325291807154614921)
+- [Louisville & Nashville R.R. Co. v. Mottley(https://www.emfink.net/CivilProcedure/cases/Mottley)
+- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://www.emfink.net/CivilProcedure/cases/Grable)
 
 #### September 21 & 23 
 
 ### Diversity Jurisdiction 
 
 - [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
-- [Mas v. Perry](https://scholar.google.com/scholar_case?case=9590836077135550876)
+- [Mas v. Perry](https://www.emfink.net/CivilProcedure/cases/Mas_Perry)
 - Ottawa Township Board of Trustees v. New Par: [Decision & Order 1](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_I); [Decision & Order 2](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_II)
-- [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://scholar.google.com/scholar_case?case=9907889190574227365)
+- [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://www.emfink.net/CivilProcedure/cases/AnniesPoochPops)
 
 
 #### September 25 & 28

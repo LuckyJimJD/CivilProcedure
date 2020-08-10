@@ -274,4 +274,4 @@ Briefs of _amici curiae_ urging affirmance in No. 04-70 were filed for the Unite
 
 --- 
 
-[^1]: _Editor's Note:_ In this opinion, the Court decided two cases presenting the same issue. The first case was a class action suit by gas station owners who alleged that Exxon Mobil had overcharged them for fuel purchases. That portion of the decision is omitted here. 
+[^1]: Editor's Note: In this opinion, the Court decided two cases presenting the same issue. The first case was a class action suit by gas station owners who alleged that Exxon Mobil had overcharged them for fuel purchases. That portion of the decision is omitted here. 
