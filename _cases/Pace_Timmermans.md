@@ -21,12 +21,9 @@ Ms. Pace filed a motion to consolidate these two actions. The court granted the 
 
 We hold that Ms. Pace's claims against parties other than Timmermann's were not compulsory counterclaims because Federal Rules of Civil Procedure 13 and 20, in combination, do not compel a litigant to join additional parties to bring what would otherwise be a compulsory counterclaim. We also hold that because Ms. Pace's claim for abuse of process against Timmermann's arose prior to the filing of her counterclaim, it was a mandatory counterclaim. We therefore affirm in part and reverse in part the judgment of the district court and remand the case for further proceedings.
 
-
 ## I
 
-
 ## BACKGROUND
-
 
 ## A.
 
@@ -50,7 +47,6 @@ According to Ms. Pace's complaint, on February 14, 2011, Dale Timmermann called 
 
 Following her release from custody, the individual defendants continued to provide the Sherriff's Office with information about Ms. Pace's allegedly unlawful conduct. On March 13, 2012, the State's Attorney brought charges against Ms. Pace premised on the information provided by the company's employees. Ms. Pace was charged with theft, forgery, and unlawful use of a credit card.
 
-
 ## B.
 
 We turn now to the procedural history of this litigation in the district court, a history that produced the situation before us today.
@@ -72,7 +68,6 @@ In December 2013, the district court granted the company's motion to dismiss. Th
 The Paces now appeal the dismissal of the 2013 action. They concede that Ms. Pace's false arrest and emotional distress claims against Timmermann's were compulsory counterclaims and therefore properly dismissed. They contend, however, that Ms. Pace's claims against the individual defendants and Mr. Pace's claims for loss of consortium were not compulsory counterclaims. They also submit that Ms. Pace's abuse of process claim against Timmermann's did not "exist" when the 2011 action was filed and therefore could not have been a compulsory counterclaim.
 
 [ * * * ]
-
 
 ## A.
 
