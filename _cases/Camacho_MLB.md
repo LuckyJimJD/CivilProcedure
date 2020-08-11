@@ -13,11 +13,11 @@ published: '2013'
 
 ## M. JAMES LORENZ, District Judge.
 
-On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pesqueira commenced this tort action against multiple defendants.[^1] This action arises from allegations that Major League Baseball conspired with the Mexican Major Leagues to prevent baseball prospect Daniel Pesqueira from playing baseball in the United States. Pending before the Court is the Office of the Commissioner of Baseball (d/b/a Major League Baseball), Major League Baseball Enterprises, Inc., and Major League Baseball Properties, Inc.'s motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(7). Plaintiffs oppose the motion.
+On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pesqueira commenced this tort action against multiple defendants. This action arises from allegations that Major League Baseball conspired with the Mexican Major Leagues to prevent baseball prospect Daniel Pesqueira from playing baseball in the United States. Pending before the Court is the Office of the Commissioner of Baseball (d/b/a Major League Baseball), Major League Baseball Enterprises, Inc., and Major League Baseball Properties, Inc.'s motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(7). Plaintiffs oppose the motion.
 
 The Court found this motion suitable for determination on the papers submitted and without oral argument. For the following reasons, the Court GRANTS Defendants' motion to dismiss.
 
-## I. [BACKGROUND][3]
+## I. [BACKGROUND][^3]
 
 Mr. Gonzalez is a citizen of Mexico, "who is domiciled and does business in the City of Tijuana . . . in the country of Mexico, and who does business and resides in the County of San Diego, California, USA." He is and was "engaged in the training, support, promotion and representation of young, talented and high caliber Mexican baseball players for eventual placement in international major and minor leagues, including Major and Minor League baseball conducted in the United States[.]" Mr. Pesqueira is a citizen of Mexico who resides in Tijuana, Mexico. 
 
@@ -82,7 +82,7 @@ If the necessary party cannot be joined, the court must then determine whether t
 
 Plaintiffs' primary arguments addressing indispensability are: (1) Defendants fail to meet their burden, in part, because all of the cases cited are distinguishable, and (2) in equity and good conscience, this case should be allowed to proceed regardless of whether the Red Devils and the Mexican League are indispensable. The Court rejects these arguments. Plaintiffs either misread or misunderstand the cited case law, and they also fail to provide any law themselves that provides an avenue for this Court to bypass Rules 12(b)(7) and 19 and all of the related case law as they implore the Court do.
 
-Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, under _Lomayaktewa,_ the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, [strike three—out.][a]
+Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, under _Lomayaktewa,_ the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, strike three—out.
 
 ## IV. CONCLUSION & ORDER
 
@@ -90,9 +90,5 @@ In light of the foregoing, the Court GRANTS Defendants' motion to dismiss under 
 
 IT IS SO ORDERED.
 
-[3]: In the complaint, David Gonzalez Camacho is referred to as "Gonzalez," and Daniel Arrellano Pesqueira, who is also once mentioned as "Daniel Pesqueira Arellano," is referred to as "Pesqueira." The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
+[^3]: [Note 3 in Opinion.] In the complaint, David Gonzalez Camacho is referred to as "Gonzalez," and Daniel Arrellano Pesqueira, who is also once mentioned as "Daniel Pesqueira Arellano," is referred to as "Pesqueira." The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
 
---- 
-#### Editor's Notes
-
-[a]: Mr. Pesqueira also struck out in his goal of playing Major League Baseball. In 2018, he played for "Papas & Team" of the Liga de Baseball Maquiladoras Tijuana, a development league. 
