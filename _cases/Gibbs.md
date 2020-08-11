@@ -51,6 +51,4 @@ It is true that the § 303 claims ultimately failed and that the only recovery a
 
 --- 
 
-[^1]: 
-
-	Editor's Note: Section 303 of the Labor Management Relations Act ("LMRA"), [29 U.S.C. § 187](https://www.law.cornell.edu/uscode/text/29/187), authorizes suits to recover damages for injury to business or property resulting from a labor union's unfair labor practice under Section 8(b)(4) of the National Labor Relations Act, [29 U.S.C. § 158(b)(4)](https://www.law.cornell.edu/uscode/text/29/158#b_4). Gibbs contended that the activity by Local 5881 amounted to a "secondary boycott" (labor activity directed at one persion, i.e. Gibbs, for the purpose of forcing another employer, i.e. Consolidated, to recognize and bargain with the union), which is an unfair labor practice under § 8(b)(4). 
+[^1]: Editor's Note: Section 303 of the Labor Management Relations Act ("LMRA"), [29 U.S.C. § 187](https://www.law.cornell.edu/uscode/text/29/187), authorizes suits to recover damages for injury to business or property resulting from a labor union's unfair labor practice under Section 8(b)(4) of the National Labor Relations Act, [29 U.S.C. § 158(b)(4)](https://www.law.cornell.edu/uscode/text/29/158#b_4). Gibbs contended that the activity by Local 5881 amounted to a "secondary boycott" (labor activity directed at one persion, i.e. Gibbs, for the purpose of forcing another employer, i.e. Consolidated, to recognize and bargain with the union), which is an unfair labor practice under § 8(b)(4). 
