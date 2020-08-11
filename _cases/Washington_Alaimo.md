@@ -72,5 +72,3 @@ The Clerk is DIRECTED to return any complaint from Plaintiff not in compliance w
 This Court is quite sure that, if the villagers who heard the boy cry "wolf" one time too many had some form of reassurance that the boy's last cry was sincere, they would have responded appropriately and he would be alive instead of being dinner for the ravenous canine. If anything, that story teaches that repetitious tomfoolery can result in disaster for the knave. This Court will not turn a deaf ear to Plaintiff's future cries. However, it will require Plaintiff to structure his pleas for help in a more sincere manner so that the energies of the villagers are not wasted on the repeated runs up the grassy hill atop which the mischievous boy sits laughing.
 
 SO ORDERED.
-
-
