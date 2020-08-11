@@ -86,8 +86,6 @@ For the foregoing reasons, defendant’s motion for summary judgment is GRANTED.
 
 IT IS SO ORDERED.
 
---- 
-
 [^1]: In its pleadings, RMG incorrectly identified its claim against Haydu as a counterclaim.
 
 [^2]: RMG filed its motion for consolidation several months after the deadline for amended pleadings set by the Rule 16 scheduling order, after discovery was closed and approximately one and one-half months before the trial date.
