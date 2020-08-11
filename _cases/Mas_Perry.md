@@ -51,4 +51,4 @@ Affirmed.
 
 --- 
 
-[^1]: Editor's Note: The Constitution and the § 1332 also give the federal courts jurisdiction over suits "between citizens of a State and citizens or subjects of a foreign state". Under the current version of § 1332, a foreign citizen who is a lawful permanent resident of the U.S. is treated as a citizen of the state in which they are domiciled for purposes of diversity jurisdiction. However, that was not true at the time of this case, so Mr. Mas would have been treated as a citizen of France even if his domicile had been in Louisiana or some other U.S. state. 
+[^1]: Editor's Note: Under the current version of § 1332, a foreign citizen who is a lawful permanent resident of the U.S. is treated as a citizen of the state in which they are domiciled for purposes of diversity jurisdiction. However, that was not true at the time of this case, so Mr. Mas was treated as a citizen of France, regardless of his domicile. 
