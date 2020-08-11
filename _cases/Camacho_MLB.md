@@ -13,13 +13,13 @@ published: '2013'
 
 ## M. JAMES LORENZ, District Judge.
 
-On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pesqueira commenced this tort action against multiple defendants. This action arises from allegations that Major League Baseball conspired with the Mexican Major Leagues to prevent baseball prospect Daniel Pesqueira from playing baseball in the United States. Pending before the Court is the Office of the Commissioner of Baseball (d/b/a Major League Baseball), Major League Baseball Enterprises, Inc., and Major League Baseball Properties, Inc.'s motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(7). Plaintiffs oppose the motion.
+On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pesqueira commenced this tort action against multiple defendants.[^1] This action arises from allegations that Major League Baseball conspired with the Mexican Major Leagues to prevent baseball prospect Daniel Pesqueira from playing baseball in the United States. Pending before the Court is the Office of the Commissioner of Baseball (d/b/a Major League Baseball), Major League Baseball Enterprises, Inc., and Major League Baseball Properties, Inc.'s motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(7). Plaintiffs oppose the motion.
 
 The Court found this motion suitable for determination on the papers submitted and without oral argument. For the following reasons, the Court GRANTS Defendants' motion to dismiss.
 
 ## I. BACKGROUND
 
-Mr. Gonzalez[^1] is a citizen of Mexico, "who is domiciled and does business in the City of Tijuana . . . in the country of Mexico, and who does business and resides in the County of San Diego, California, USA." He is and was "engaged in the training, support, promotion and representation of young, talented and high caliber Mexican baseball players for eventual placement in international major and minor leagues, including Major and Minor League baseball conducted in the United States[.]" Mr. Pesqueira is a citizen of Mexico who resides in Tijuana, Mexico. 
+Mr. Gonzalez is a citizen of Mexico, "who is domiciled and does business in the City of Tijuana . . . in the country of Mexico, and who does business and resides in the County of San Diego, California, USA." He is and was "engaged in the training, support, promotion and representation of young, talented and high caliber Mexican baseball players for eventual placement in international major and minor leagues, including Major and Minor League baseball conducted in the United States[.]" Mr. Pesqueira is a citizen of Mexico who resides in Tijuana, Mexico. 
 
 On April 1, 2010, Mr. Gonzalez entered into an "Exclusive Agency Contract" with Mr. Pesqueira's parents on behalf of Mr. Pesqueira, who was a minor at the time. Under the agency contract, Mr. Pesqueira provided Mr. Gonzalez with, among other things, the "exclusive rights to represent Pesqueira in the negotiation for and contracting of any and all services of Pesqueira as a baseball player for any club in the major and/or minor leagues of any and all countries at any level of play; and Plaintiff Pesqueira agreed that Plaintiff Gonzalez would receive a 30% commission on any and all receipts and entitlements of Pesqueira for his services as a baseball player for a three year term." Plaintiffs allege that Mr. Pesqueira is "a young, talented, and burgeoning Mexican baseball player who at all times relevant was and is a formidable left handed pitcher." And pursuant to the terms of the contract, Mr. Gonzalez began to train and promote Mr. Pesqueira, eventually garnering the interest of talent scouts.
 
@@ -95,4 +95,4 @@ IT IS SO ORDERED.
 
 --- 
 
-[^1]: Editor's Note: The court follows Spanish language convention in referring to David Gonzalez Camacho as Mr. Gonzalez and Daniel Arrellano Pesqueira as Mr. Pesqueira. 
+[^1]: The defendants in this action are Major League Baseball, Major League Baseball Enterprises, Inc., Major League Baseball Properties, Inc., Office of the Commissioner of Baseball, National Association of Professional Baseball Leagues, National Association of Professional Baseball Leagues, Inc., and Minor League Baseball.
