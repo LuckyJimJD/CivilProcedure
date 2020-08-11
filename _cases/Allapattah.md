@@ -8,7 +8,7 @@ published: '2005'
     
 ---
 
-## JUSTICE KENNEDY delivered the opinion of the Court.
+## JUSTICE KENNEDY delivered the opinion of the Court. {#top}
 
 These [consolidated cases](#editors-note) present the question whether a federal court in a diversity action may exercise supplemental jurisdiction over additional plaintiffs whose claims do not satisfy the minimum amount-in-controversy requirement, provided the claims are part of the same case or controversy as the claims of plaintiffs who do allege a sufficient amount in controversy. Our decision turns on the correct interpretation of 28 U.S.C. § 1367. The question has divided the Courts of Appeals, and we granted certiorari to resolve the conflict.
 
@@ -85,6 +85,6 @@ _It is so ordered._
 
 ### Editor's Note {#editors-note}
 
-The Court's opinion involved two cases raising the same issue under 28 U.S.C. § 1367. One case, _Rosario Ortega v. Star-Kist Foods, Inc._ (Case No. 04-79 referenced in the introduction to the opinion), involved a young girl who was severely injured by a sharp edge on a tuna fish can. The other, _Allapattah Services, Inc. v. Exxon Corp._ (Case No. 04-70 referenced in the introduction to the opinion), was a class action suit by gas station owners who alleged that Exxon Corp. had breached their dealer agreements by overcharging them for fuel purchases. That portion of the opinion is omitted here. 
+The Court's opinion involved two cases raising the same issue under 28 U.S.C. § 1367. One case, _Rosario Ortega v. Star-Kist Foods, Inc._ (Case No. 04-79 referenced in the introduction to the opinion), involved a young girl who was severely injured by a sharp edge on a tuna fish can. The other, _Allapattah Services, Inc. v. Exxon Corp._ (Case No. 04-70 referenced in the introduction to the opinion), was a class action suit by gas station owners who alleged that Exxon Corp. had breached their dealer agreements by overcharging them for fuel purchases. That portion of the opinion is omitted here. [Return to text.](#top)
 
 
