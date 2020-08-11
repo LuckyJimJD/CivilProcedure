@@ -18,9 +18,9 @@ THIS MATTER is before the Court on Defendants' Motion to Dismiss Plaintiff Deuts
 
 ## BACKGROUND
 
-Deutsch seeks to interplead a sculpture—_Industrial Forms_ (aka _Auto Tower_)—by well known American artist John Storrs. She received the sculpture from the estate of her father who previously owned an art gallery in New York City. The ownership history of sculpture, while somewhat circuitous, is relevant to the motion.
+Deutsch seeks to interplead a sculpture—[_Industrial Forms_ (aka _Auto Tower_)](https://www.nga.gov/collection/art-object-page.141426.html)—by well known American artist John Storrs. She received the sculpture from the estate of her father who previously owned an art gallery in New York City. The ownership history of sculpture, while somewhat circuitous, is relevant to the motion.
 
-In the late 1970's, John Storrs' estate (represented by his daughter, Monique Storrs Booz) consigned _Industrial Forms_ to the Robert Schoelkopf Gallery in New York City. The Schoelkopf Gallery maintained a long-term business relationship with the Storrs estate through this period, selling several of the artist's works.
+In the late 1970's,[^1] John Storrs' estate (represented by his daughter, Monique Storrs Booz) consigned _Industrial Forms_ to the Robert Schoelkopf Gallery in New York City. The Schoelkopf Gallery maintained a long-term business relationship with the Storrs estate through this period, selling several of the artist's works.
 
 In the summer of 1977, the Schoelkopf Gallery sent a letter to Monique Storrs Booz informing her that _Industrial Forms_ had been stolen. Schoelkpf enclosed payment for $2,250, the amount she would have received had the sculpture been sold (list price minus gallery commission). Records submitted to the Smithsonian Archives of American Art for preservation by the Schoelkopf Gallery show _Industrial Forms_ labeled as "stolen." In 1991, Robert Schoelkopf passed away, the Schoelkopf Gallery closed, and Andrew Schoelkopf—Robert's son—assumed control of the Gallery's outstanding art interests.
 
@@ -30,7 +30,6 @@ In October 2015, Carberry wrote a letter to Deutsch on behalf of the Storrs Esta
 
 
 ## DISCUSSION
-
 
 ## a. Standard of Review
 
@@ -58,3 +57,4 @@ Therefore, defendants' motion is GRANTED and plaintiff's complaint and request f
 
 IT IS SO ORDERED.
 
+[^1]: Editor's Note: This appears to be a clerical error. The [Complaint](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Deutsch_Schoelkopf_complaint.pdf)  indicates that the consignment was made in 1969. 
