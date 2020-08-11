@@ -17,7 +17,7 @@ On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pes
 
 The Court found this motion suitable for determination on the papers submitted and without oral argument. For the following reasons, the Court GRANTS Defendants' motion to dismiss.
 
-## I. BACKGROUND
+## I. [BACKGROUND][3]
 
 Mr. Gonzalez is a citizen of Mexico, "who is domiciled and does business in the City of Tijuana . . . in the country of Mexico, and who does business and resides in the County of San Diego, California, USA." He is and was "engaged in the training, support, promotion and representation of young, talented and high caliber Mexican baseball players for eventual placement in international major and minor leagues, including Major and Minor League baseball conducted in the United States[.]" Mr. Pesqueira is a citizen of Mexico who resides in Tijuana, Mexico. 
 
@@ -70,13 +70,11 @@ Defendants argue that "the Red Devils could still sue others in the Mexican cour
 
 Swing and a miss—strike one.
 
-
 ## B. Joining the Red Devils and the Mexican League Is Not Feasible.
 
 "If an absentee is a necessary party under Rule 19(a), the second stage is for the court to determine whether it is feasible to order that the absentee be joined." _Equal Emp't Opportunity Comm'n v. Peabody W. Coal Co.,_ 400 F.3d 774, 779 (9th Cir. 2005). Rule 19(a) sets forth three circumstances in which joinder is not feasible: (1) when venue is improper; (2) when the absentee is not subject to personal jurisdiction; and (3) when joinder would destroy subject matter jurisdiction. 
 
 Defendants argue that "[t]he Red Devils and the Mexican League cannot be joined both because their joinder would destroy this Court's subject-matter jurisdiction, and because Plaintiffs cannot establish personal jurisdiction over them in this Court." Plaintiffs do not address feasibility in their opposition brief. In fact, the words "feasible" and "feasibility" do not appear anywhere in their brief. Consequently, Plaintiffs concede that joining the Red Devils and the Mexican League is not feasible under the second and third circumstances that Rule 19 enumerates. They took this pitch and it went right down the middle—strike two.
-
 
 ## C. The Red Devils and Mexican League Are Indispensable Parties.
 
@@ -84,8 +82,7 @@ If the necessary party cannot be joined, the court must then determine whether t
 
 Plaintiffs' primary arguments addressing indispensability are: (1) Defendants fail to meet their burden, in part, because all of the cases cited are distinguishable, and (2) in equity and good conscience, this case should be allowed to proceed regardless of whether the Red Devils and the Mexican League are indispensable. The Court rejects these arguments. Plaintiffs either misread or misunderstand the cited case law, and they also fail to provide any law themselves that provides an avenue for this Court to bypass Rules 12(b)(7) and 19 and all of the related case law as they implore the Court do.
 
-Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, under _Lomayaktewa,_ the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, strike three—out.
-
+Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, under _Lomayaktewa,_ the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, [strike three—out.][a]
 
 ## IV. CONCLUSION & ORDER
 
@@ -93,6 +90,9 @@ In light of the foregoing, the Court GRANTS Defendants' motion to dismiss under 
 
 IT IS SO ORDERED.
 
---- 
+[3]: In the complaint, David Gonzalez Camacho is referred to as "Gonzalez," and Daniel Arrellano Pesqueira, who is also once mentioned as "Daniel Pesqueira Arellano," is referred to as "Pesqueira." The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
 
-[^1]: The defendants in this action are Major League Baseball, Major League Baseball Enterprises, Inc., Major League Baseball Properties, Inc., Office of the Commissioner of Baseball, National Association of Professional Baseball Leagues, National Association of Professional Baseball Leagues, Inc., and Minor League Baseball.
+--- 
+#### Editor's Notes
+
+[a]: Mr. Pesqueira also struck out in his goal of playing Major League Baseball. In 2018, he played for "Papas & Team" of the Liga de Baseball Maquiladoras Tijuana, a development league. 
