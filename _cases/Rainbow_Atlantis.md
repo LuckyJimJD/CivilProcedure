@@ -11,7 +11,7 @@ published: '1994'
 
 ## ORDER GRANTING DEFENDANT’S MOTION FOR SUMMARY JUDGMENT
 
-## FONG, District Judge.
+## Fong, District Judge.
 
 On November 7, 1994, the court heard defendant Atlantis Submarines Hawaii, L.P.’s motion for summary judgment. For the reasons detailed below, the court GRANTS the motion.
 

@@ -9,7 +9,7 @@ published: '2020'
     
 ---
 
-## GENE E.K. PRATTER, District Judge.
+## Gene E.K. Pratter, District Judge.
 
 
 ## INTRODUCTION

@@ -11,7 +11,7 @@ published: 'July 10, 2017'
 
 ## ORDER
 
-## James G. Carr, Sr. U.S. District Judge
+## James G. Carr, Senior U.S. District Judge
 
 This state-law declaratory-judgment action tests whether the construction of a new cell tower must comply with an Ohio township’s zoning regulations.
 

@@ -11,7 +11,7 @@ published: '2016'
 
 ## ORDER GRANTING MOTION TO DISMISS 
 
-## RONALD B. LEIGHTON, District Judge.
+## Ronald B. Leighton, District Judge.
 
 THIS MATTER is before the Court on Defendants' Motion to Dismiss Plaintiff Deutsch's Interpleader Action. Deutsch is currently in possession of a valuable sculpture and seeks equitable relief to determine ownership of the artwork. Defendants seek dismissal claiming an Interpleader Action is improper because the complaint fails to name two or more adverse claimants and this Court does not otherwise have jurisdiction.
 

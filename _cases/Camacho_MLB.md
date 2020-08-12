@@ -11,7 +11,7 @@ published: '2013'
 
 ## ORDER GRANTING DEFENDANTS' MOTION TO DISMISS 
 
-## M. JAMES LORENZ, District Judge.
+## M. James Lorenz, District Judge.
 
 On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pesqueira commenced this tort action against multiple defendants. This action arises from allegations that Major League Baseball conspired with the Mexican Major Leagues to prevent baseball prospect Daniel Pesqueira from playing baseball in the United States. Pending before the Court is the Office of the Commissioner of Baseball (d/b/a Major League Baseball), Major League Baseball Enterprises, Inc., and Major League Baseball Properties, Inc.'s motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(7). Plaintiffs oppose the motion.
 
