@@ -10,16 +10,16 @@ affiliation: Elon Law School
 
 ## Friedman-Shelby Shoe Company (Branch of International Shoe Co.), 1938-39 Catalog
 
-![]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-1.png)
+![Shoe Catalog 1]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-1.jpg)
 
-![]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-2.png)
+![Shoe Catalog 1]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-2.jpg)
 
-![]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-3.png)
+![Shoe Catalog 1]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-3.jpg)
 
-![]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-4.png)
+![Shoe Catalog 1]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-4.jpg)
 
-![]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-5.png)
+![Shoe Catalog 1]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-5.jpg)
 
-![]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-6.png)
+![Shoe Catalog 1]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-6.jpg)
 
-![]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-7.png)
+![Shoe Catalog 1]({{ site.baseurl }}/assets/materials/personal-jurisdiction/1938-39-Friedman-Shelby-Catalog-7.jpg)
