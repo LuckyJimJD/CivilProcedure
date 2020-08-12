@@ -8,4 +8,4 @@ affiliation: Elon Law School
   
 ---
 
-![Civil Action Flowchart](../assets/img/subject-matter-jurisdiction/1367b_illustration.png)
+![Civil Action Flowchart](../assets/materials/subject-matter-jurisdiction/1367b_illustration.png)
