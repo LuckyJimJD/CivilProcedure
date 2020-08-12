@@ -127,7 +127,7 @@ title: Schedule & Assignments
 ### Specific Jurisdiction Based on Minimum Contacts 
 
 - [International Shoe Co. v. Washington](https://www.emfink.net/CivilProcedure/cases/Shoe)
-- [World Wide Volkswagen Corp. v. Woodson](https://scholar.google.com/scholar_case?case=2649456870546423871)
+- [World Wide Volkswagen Corp. v. Woodson](https://www.emfink.net/CivilProcedure/cases/Volkswagen)
 - [Keeton v. Hustler Magazine, Inc.](https://scholar.google.com/scholar_case?case=3371406121479205546)
 - [J. McIntyre Machinery, Ltd. v. Nicastro](https://scholar.google.com/scholar_case?case=9763892474923808631)
 
