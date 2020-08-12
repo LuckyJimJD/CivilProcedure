@@ -120,7 +120,7 @@ title: Schedule & Assignments
 
 - U.S. Constitution, [5th Amendment](https://www.law.cornell.edu/constitution/billofrights#amendmentv) & [14th Amendment, § 1](https://www.law.cornell.edu/constitution/amendmentxiv)
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
-- [Pennoyer v. Neff](https://scholar.google.com/scholar_case?case=13333263776496540273)
+- [Pennoyer v. Neff](https://www.emfink.net/CivilProcedure/cases/Pennoyer)
 
 #### October 5, 7, & 9
 
