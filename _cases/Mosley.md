@@ -10,7 +10,7 @@ published: '1974'
 ---
 ## Before Ross AND Stephenson, Circuit Judges, and Van Pelt, Senior District Judge (sitting by designation).
 
-## OPINION 
+## Opinion 
 
 ## Ross, Circuit Judge.
 

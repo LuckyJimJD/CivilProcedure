@@ -64,5 +64,5 @@ As already indicated, however, a comparable analysis yields a different jurisdic
 
 The judgment of the Court of Appeals, upholding federal jurisdiction over Grable's quiet title action, is affirmed.
 
-_It is so ordered._
+It is so ordered.
 

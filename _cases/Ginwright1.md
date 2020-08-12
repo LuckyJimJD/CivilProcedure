@@ -9,7 +9,7 @@ published: '2016'
     
 ---
 
-## MEMORANDUM OPINION
+## Memorandum Opinion
 
 ## Theodore D. Chuang, District Judge.
 

@@ -9,7 +9,7 @@ published: '2018'
     
 ---
 
-## MEMORANDUM OPINION
+## Memorandum Opinion 
 
 ## Randolph D. Moss, United States District Judge.
 

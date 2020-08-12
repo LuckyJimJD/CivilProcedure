@@ -9,7 +9,7 @@ published: '2013'
     
 ---
 
-## ORDER GRANTING DEFENDANTS' MOTION TO DISMISS 
+## Order Granding Defendants' Motion to Dismiss
 
 ## M. James Lorenz, District Judge.
 
@@ -88,7 +88,7 @@ Rather, in seeking a determination that the Red Devils contracts are invalid, Pl
 
 In light of the foregoing, the Court GRANTS Defendants' motion to dismiss under Rule 12(b)(7) and DISMISSES this action in its entirety.
 
-IT IS SO ORDERED.
+It is so ordered. 
 
 [^3]: [Note 3 in Opinion.] In the complaint, David Gonzalez Camacho is referred to as "Gonzalez," and Daniel Arrellano Pesqueira, who is also once mentioned as "Daniel Pesqueira Arellano," is referred to as "Pesqueira." The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
 

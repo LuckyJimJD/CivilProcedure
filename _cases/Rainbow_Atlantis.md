@@ -9,7 +9,7 @@ published: '1994'
     
 ---
 
-## ORDER GRANTING DEFENDANT’S MOTION FOR SUMMARY JUDGMENT
+## Order Granting Defendant's Motion for Summary Judgment
 
 ## Fong, District Judge.
 
@@ -84,7 +84,7 @@ CONCLUSION
 
 For the foregoing reasons, defendant’s motion for summary judgment is GRANTED.
 
-IT IS SO ORDERED.
+It is so ordered.
 
 [^1]: In its pleadings, RMG incorrectly identified its claim against Haydu as a counterclaim.
 

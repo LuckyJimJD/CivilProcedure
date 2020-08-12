@@ -67,7 +67,7 @@ Second, we are loath to lay down a rule requiring the police to allow fleeing su
 
 The car chase that respondent initiated in this case posed a substantial and immediate risk of serious physical injury to others; no reasonable jury could conclude otherwise. Scott's attempt to terminate the chase by forcing respondent off the road was reasonable, and Scott is entitled to summary judgment. The Court of Appeals' judgment to the contrary is reversed.
 
-_It is so ordered._
+It is so ordered.
 
 
 ## Justice STEVENS, dissenting.

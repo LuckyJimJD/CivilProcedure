@@ -9,7 +9,7 @@ published: 'Oct. 10, 2017'
     
 ---
 
-## ORDER
+## Order
 
 ## James G. Carr, Senior U.S. District Judge
 

@@ -54,4 +54,4 @@ We share the view that section 1367 has displaced, rather than codified, whateve
 
 ## Conclusion
 
-The judgment dismissing Ford Credit's counterclaims is vacated, and the case is remanded for further proceedings consistent with this opinion. No costs.
+The judgment dismissing Ford Credit's counterclaims is vacated, and the case is remanded for further proceedings consistent with this opinion. [ … ]

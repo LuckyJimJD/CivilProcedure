@@ -53,4 +53,4 @@ There is, moreover, a broader point. A district court must oversee third-party p
 
 [ * * * ]
 
-_Affirmed. Costs in favor of Revolution Portfolio LLC._
+Affirmed. [ … ]

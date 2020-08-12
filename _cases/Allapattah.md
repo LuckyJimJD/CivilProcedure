@@ -78,7 +78,7 @@ It follows from this conclusion that the threshold requirement of § 1367(a) is 
 
 The judgment of the Court of Appeals for the Eleventh Circuit is affirmed. The judgment of the Court of Appeals for the First Circuit is reversed, and the case is remanded for proceedings consistent with this opinion.
 
-_It is so ordered._
+It is so ordered.
 
 
 --- 

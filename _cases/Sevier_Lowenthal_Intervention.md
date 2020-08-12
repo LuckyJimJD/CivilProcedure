@@ -9,7 +9,7 @@ published: '2018'
     
 ---
 
-## MEMORANDUM OPINION
+## Memorandum Opinion 
 
 ## Randolph D. Moss, United States District Judge.
 
@@ -67,7 +67,7 @@ That leaves the question whether permissive intervention is appropriate. "It rem
 
 ## CONCLUSION
 
-For these reasons, the Court will [ * * * ] DENY the motion to intervene [ * * * ].
+For these reasons, the Court will [ … ] deny the motion to intervene [ … ].
 
 A separate order will issue.
 

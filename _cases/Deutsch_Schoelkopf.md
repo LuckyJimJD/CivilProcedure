@@ -9,7 +9,7 @@ published: '2016'
     
 ---
 
-## ORDER GRANTING MOTION TO DISMISS 
+## Order Granding Motion to Dismiss
 
 ## Ronald B. Leighton, District Judge.
 
@@ -55,6 +55,6 @@ In an effort to save her interpleader claim in the face of overwhelming evidence
 
 Therefore, defendants' motion is GRANTED and plaintiff's complaint and request for deposit is DISMISSED without prejudice.
 
-IT IS SO ORDERED.
+It is so ordered. 
 
 [^1]: Editor's Note: This appears to be a clerical error. The [Complaint](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Deutsch_Schoelkopf_complaint.pdf)  indicates that the consignment was made in 1969. 

@@ -26,9 +26,7 @@ There was no diversity of citizenship and it is not and cannot be suggested that
 
 The application of this rule to the case at bar is decisive against the jurisdiction of the Circuit Court.
 
-It is ordered that the
-
-_Judgment be reversed and the case remitted to the Circuit Court with instructions to dismiss the suit for want of jurisdiction._[^1]
+It is ordered that the Judgment be reversed and the case remitted to the Circuit Court with instructions to dismiss the suit for want of jurisdiction.[^1]
 
 --- 
 
