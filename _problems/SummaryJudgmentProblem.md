@@ -1,6 +1,6 @@
 ---
-layout: post 
-date: 2020-05-28T07:00:00
+layout: page 
+date: 2020-08-12T07:00:00
 
 term: Fall 2020
 course: Civil Procedure 
@@ -8,9 +8,6 @@ title: Review Problem
 subtitle: Summary Judgment 
 author: Prof. Fink
 affiliation: Elon Law School 
-
-categories: problems 
-tags: summary-judgment
   
 ---
 
