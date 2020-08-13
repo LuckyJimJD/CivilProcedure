@@ -20,7 +20,7 @@ title: Schedule & Assignments
 ### Civil Action Overview 
 
 - William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.emfink.net/CivilProcedure/readings/Felstiner_Abel_Sarat), 15 Law & Society Review 630 (1981)
-- [Civil Action Flowchart](https://www.emfink.net/CivilProcedure/assets/materials/introduction/CivilAction.png)
+- [Civil Action Flowchart](https://www.emfink.net/CivilProcedure/visuals/civil_action)
 
 ## Joinder
 
