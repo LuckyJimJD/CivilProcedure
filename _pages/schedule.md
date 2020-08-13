@@ -36,7 +36,7 @@ title: Schedule & Assignments
 ### Counterclaims & Crossclaims 
 
 - [FRCP Rule 13](https://www.law.cornell.edu/rules/frcp)
-- [Counterclaims](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Counterclaims.png)
+- [Counterclaims Diagram](https://www.emfink.net/CivilProcedure/visuals/counterclaims)
 - [Jones v. Ford Motor Credit Co.](https://www.emfink.net/CivilProcedure/cases/FordMotorCredit1)
 - [Ginwright v. Exeter Finance Corp.](https://www.emfink.net/CivilProcedure/cases/Ginwright1)
 - [Pace v. Timmermann’s Ranch & Saddle Shop, Inc. ](https://www.emfink.net/CivilProcedure/cases/Pace_Timmermans)
@@ -46,7 +46,7 @@ title: Schedule & Assignments
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- [Third Party Claims Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Rule14.png)
+- [Third Party Claims Diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
 - [Lehman v. Revolution Portfolio LLC](https://www.emfink.net/CivilProcedure/cases/Lehman_Revolution)
 
 #### September 11
@@ -96,8 +96,8 @@ title: Schedule & Assignments
 ### Supplemental Jurisdiction 
 
 - [28 U.S.C. § 1367](https://www.law.cornell.edu/uscode/text/28/1367)
-- [Supplemental Jurisdiction under § 1367](https://www.emfink.net/CivilProcedure/assets/materials/subject-matter-jurisdiction/1367.png)
-- [§ 1367(b) Illustration](https://www.emfink.net/CivilProcedure/assets/materials/subject-matter-jurisdiction/1367b_Illustration.png)
+- [Supplemental Jurisdiction under § 1367](https://www.emfink.net/CivilProcedure/visuals/1367)
+- [§ 1367(b) Illustration](https://www.emfink.net/CivilProcedure/visuals/1367b_example)
 - [United Mine Workers of America v. Gibbs](https://www.emfink.net/CivilProcedure/cases/Gibbs)
 - [Jones v. Ford Motor Credit Co.](https://www.emfink.net/CivilProcedure/cases/FordMotorCredit2)
 - [Ginwright v. Exeter Finance Corp.](https://www.emfink.net/CivilProcedure/cases/Ginwright2)
