@@ -22,7 +22,19 @@ title: Schedule & Assignments
 - William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.emfink.net/CivilProcedure/readings/Felstiner_Abel_Sarat), 15 Law & Society Review 630 (1981)
 - [Civil Action Flowchart](https://www.emfink.net/CivilProcedure/visuals/civil_action)
 
+#### Due 
+### Click & Learn: Basic Skills & Fundamentals (Due )
+
+- Part 1 Civil Lawsuits & the Federal Court System
+- Part 2: Federal Rules of Civil Procedure
+
 ## Joinder
+
+#### Click & Learn: Joinder of Claims & Parties
+
+- Part 1: Big Picture 
+- Part 2: Claim Joinder 
+- Part 3: Party Joinder 
 
 #### September 2
 
@@ -67,7 +79,6 @@ title: Schedule & Assignments
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/JoinderProblem)
 - [Review Problem Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/NightAtTheOpera.png)
 
-##### Click & Learn: Joinder (Due September 15)
 
 ## Subject Matter Jurisdiction 
 
@@ -110,7 +121,16 @@ title: Schedule & Assignments
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/SMJProblems)
 - [Joinder & Subject Matter Jurisdiction Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Joinder-SMJ.png)
 
-##### Click & Learn: Subject Matter Jurisdiction (Due October 1)
+#### Due October 1
+
+### Click & Learn: Subject Matter Jurisdiction
+
+- Part 1: Introduction
+- Part 2: Constitutional Overview
+- Part 3: Federal Question Jurisdiction
+- Part 4: Diversity Jurisdiction
+- Part 6: Supplemental Jurisdiction
+
 
 ## Personal Jurisdiction 
 
@@ -145,7 +165,7 @@ title: Schedule & Assignments
 - [Review Problem 1 Diagram](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/GreedyHeir.png)
 - [Personal Jurisdiction Flowchart](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/PersonalJurisdictionFlowchart.png)
 
-##### Click & Learn: Personal Jurisdiction (Due Otober 15)
+#### Click & Learn: Personal Jurisdiction (Due Otober 15)
 
 ## Preclusion
 
@@ -166,7 +186,7 @@ title: Schedule & Assignments
 - [Review Problem 2](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 - [Claim & Issue Preclusion](https://www.emfink.net/CivilProcedure/assets/materials/preclusion/PreclusionSummaryChart.png)
 
-##### Click & Learn: Preclusion (Due October 25)
+#### Click & Learn: Preclusion (Due October 25)
 
 ## Pleading 
 
@@ -206,7 +226,7 @@ title: Schedule & Assignments
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/PleadingsProblems)
 
-##### Click & Learn: Pleadings (Due November 8)
+#### Click & Learn: Pleadings (Due November 8)
 
 ## Choice of Law in Federal Court (Erie Doctrine)
 
@@ -234,7 +254,7 @@ title: Schedule & Assignments
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/ErieProblems)
 - [Erie-Hanna Diagram](https://www.emfink.net/CivilProcedure/assets/materials/choice-of-law/ErieHanna.png)
 
-##### Click & Learn: Erie Doctrine (Due November 17)
+#### Click & Learn: Erie Doctrine (Due November 17)
 
 ## Summary Judgment
 
@@ -254,6 +274,11 @@ title: Schedule & Assignments
 - [Slaven v. City of Salem](https://scholar.google.com/scholar_case?case=9307637031918953284)
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/SummaryJudgmentProblem)
 
-##### Click & Learn: Summary Judgment (Due November 22)
+#### Due November 22 
 
-##### Final Exam (Date)
+### Click & Learn: Summary Judgment 
+
+
+#### December 2 
+
+## Final Exam 

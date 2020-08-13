@@ -21,27 +21,27 @@ Cases, statutes, rules, and other assigned readings (see "Schedule & Assignments
 
 ### Grading
 
-Your final grade for the term will be based on the assigned Click & Learn review questions (40% total) and a final exam (60%). 
+Your final grade for the term will be based on the assigned Click & Learn lessons (40% total) and a final exam (60%). 
 
-- You will complete the assigned Click & Learn questions outside of class. You should complete the questions for each unit of the course by the dates indicated in the Schedule & Assignments section of the syllabus. 
+- You will complete the Click & Learn lessons outside of class by the applicable due dates. 
+	- The assigned Click & Learn lessons & due dates for each unit of the course are identified in the [Schedule & Assignments]({{ site.baseurl }}/schedule) portion of the syllabus. 
+	- Other Click & Learn lessons are optional but may be helpful in reinforcing your understanding and preparing for the final exam. 
 - The final exam will consist of essay and short-answer questions and will be administered during the Fall term exam period, as scheduled by the Law School Registrar. 
 
-### Class Preparation, Attendance, & Participation
+### Class Preparation, Attenance, & Participation 
 
-Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. 
+Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction. 
 
-Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction. 
-
-Elon Law School has adopted the following attendance policy for all courses: 
+Elon Law School has adopted the following attendance policy for all courses:
 
 > The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences; imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class; and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
->
+>   
 > In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
 
-### Disability Accommodations 
+### Disability Accommodations
 
-For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).  
+For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).
 
-### Honor Code 
+### Honor Code
 
-The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
+The Law School honor code applies to all activities related to your law school study, including conduct during class and examinations.
