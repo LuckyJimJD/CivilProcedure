@@ -315,11 +315,29 @@ Majority view: Twombly/Iqbal does not apply to answers/defenses
 
 Party may amend, without consent of opposing party or court, one time
 
-- Only allowed one time 
-- Must be within 21 days of 
-  - service of the pleading to be amended, _or_
-  - service of a responsive pleading or Rule 12(b)/(e)/(f) motion
-    - i.e. responsive pleading or motion resets the 21 day clock
+Only allowed one time.
+
+Must be within 21 days of:
+
+- service of the pleading to be amended, _or_
+- service of a responsive pleading or Rule 12(b)/(e)/(f) motion, if pleading to be amended requires a response 
+
+Note that the time limit for amending under Rule 15(a)(1) depends on whether the pleading to be amended is one that requires a response under the FRCP. 
+
+- A complaint always requires a response (either an Answer or a Motion under Rule 12)
+- An answer does not require a response, unless it also asserts a counterclaim, crossclaim, or third-party claim. 
+
+If the pleading requires a response, the 21 day clock does not start running until the response is served. 
+
+_Example 1:_ Plaintiff files & serves a complaint on September 1. Plaintiff may amend the complaint, as a matter of course, at any time before Defendant serves an answer or motion under Rule 12(b), (e), or (f), _even if more than 21 days have passed since Plaintiff served the complaint_. 
+
+- A defendant must normally serve an answer or motion within 21 days from service of the complaint. Rule 12(a)(1)(A)(i). But if the defendant agrees to waive formal service, the deadline is 60 days (90 days if the defendant is outside the US) after the request for waiver. Parties may also agree to additional time. 
+
+_Example 2:_ Plaintiff files & serves a complaint on September 1. Defendant files an answer or motion under Rule 12(b), (e), or (f) on September 5. Plaintiff has until September 26 to amend the complaint as a matter of course.  Rule 15(a)(1)(B). 
+
+_Example 3:_ Plaintiff files & serves a complaint on September 1. Defendant files an answer or motion under Rule 12(b), (e), or (f) on September 5. Defendant has until September 26 to amend the complaint as a matter of course. Rule 15(a)(1)(A).
+
+![Rule 15(a)]({{ site.baseurl }}/assets/materials/pleadings/Rule15a.png)
 
 ## Amendment by Leave of Court
 
@@ -353,7 +371,6 @@ Subsequent amendments, or any amendent after the 21 day time limit, requires eit
 	- Arson provides complete defense to plaintiff’s claims.
 	- Amendment is futile only if “clearly insufficient or frivolous on its face"
 
-
 #### Beeck v. Aquaslide 'n' Dive Corp.
 
 ##### Facts & Procedural History 
@@ -380,8 +397,6 @@ Subsequent amendments, or any amendent after the 21 day time limit, requires eit
 - No prejudice to plaintiff where “the amendment would merely allow the defendant to contest a disputed factual issue at trial".
 - Denial of leave to amend would prejudice defendant.
 	- They shouldn't be stuck admitting a disputed fact, where their initial mistake was reasonable.
-
-
 
 ## Relation Back
 

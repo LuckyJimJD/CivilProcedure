@@ -22,19 +22,11 @@ title: Schedule & Assignments
 - William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.emfink.net/CivilProcedure/readings/Felstiner_Abel_Sarat), 15 Law & Society Review 630 (1981)
 - [Civil Action Flowchart](https://www.emfink.net/CivilProcedure/visuals/civil_action)
 
-#### Due 
-### Click & Learn: Basic Skills & Fundamentals (Due )
+#### Due September 2
 
-- Part 1 Civil Lawsuits & the Federal Court System
-- Part 2: Federal Rules of Civil Procedure
+### Click & Learn: Basic Skills & Fundamentals (Parts 1 & 2)
 
 ## Joinder
-
-#### Click & Learn: Joinder of Claims & Parties
-
-- Part 1: Big Picture 
-- Part 2: Claim Joinder 
-- Part 3: Party Joinder 
 
 #### September 2
 
@@ -79,6 +71,9 @@ title: Schedule & Assignments
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/JoinderProblem)
 - [Review Problem Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/NightAtTheOpera.png)
 
+#### Due September 16
+
+##### Click & Learn: Joinder (Unit 6, Parts 1, 2, & 3)
 
 ## Subject Matter Jurisdiction 
 
@@ -101,7 +96,6 @@ title: Schedule & Assignments
 - Ottawa Township Board of Trustees v. New Par: [Decision & Order 1](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_I); [Decision & Order 2](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_II)
 - [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://www.emfink.net/CivilProcedure/cases/AnniesPoochPops)
 
-
 #### September 25 & 28
 
 ### Supplemental Jurisdiction 
@@ -121,16 +115,9 @@ title: Schedule & Assignments
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/SMJProblems)
 - [Joinder & Subject Matter Jurisdiction Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Joinder-SMJ.png)
 
-#### Due October 1
+#### Due October 2
 
-### Click & Learn: Subject Matter Jurisdiction
-
-- Part 1: Introduction
-- Part 2: Constitutional Overview
-- Part 3: Federal Question Jurisdiction
-- Part 4: Diversity Jurisdiction
-- Part 6: Supplemental Jurisdiction
-
+##### Click & Learn: Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
 
 ## Personal Jurisdiction 
 
@@ -165,7 +152,9 @@ title: Schedule & Assignments
 - [Review Problem 1 Diagram](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/GreedyHeir.png)
 - [Personal Jurisdiction Flowchart](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/PersonalJurisdictionFlowchart.png)
 
-#### Click & Learn: Personal Jurisdiction (Due Otober 15)
+#### Due Otober 16
+
+##### Click & Learn: Personal Jurisdiction (Unit 1, Parts 1-7)
 
 ## Preclusion
 
@@ -186,17 +175,13 @@ title: Schedule & Assignments
 - [Review Problem 2](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 - [Claim & Issue Preclusion](https://www.emfink.net/CivilProcedure/assets/materials/preclusion/PreclusionSummaryChart.png)
 
-#### Click & Learn: Preclusion (Due October 25)
+#### Due October 26
+
+##### Click & Learn: Preclusion (Unit 10)
 
 ## Pleading 
 
-#### October 26
-
-### Pleading Under the Federal Rules 
-
-- [FRCP Rules 3, 7-12, 15](https://www.law.cornell.edu/rules/frcp)
-
-#### October 28 & 30
+#### October 26 & 28
 
 ### Complaints 
 
@@ -205,19 +190,30 @@ title: Schedule & Assignments
 - [Ashcroft v. Iqbal](https://www.emfink.net/CivilProcedure/cases/Iqbal)
 - [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Dismissal)
 
-#### November 2
+#### October 30
 
 ### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
 - [Zielinski v. Philadelphia Piers, Inc.](https://scholar.google.com/scholar_case?case=6925145899226984414)
+
+#### November 2
+
+### Amendments 
+
+- [FRCP Rule 15)](https://www.law.cornell.edu/rules/frcp)
+- [FRCP Rule 15(a) Diagram]({{ site.baseurl }}/assets/materials/pleadings/Rule15a.png)
+- [FRCP Rule 15(c) Diagram]({{ site.baseurl }}/assets/materials/pleadings/Rule15c.png)
 - [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
+- [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
+
 
 #### November 4
 
 ### Truthfulness & Good Faith in Pleadings 
 
 - [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
+- [In re Kunstler](https://www.emfink.net/CivilProcedure/cases/InReKunstler)
 - [Washington v. Alaimo](https://www.emfink.net/CivilProcedure/cases/Washington_Alaimo)
 
 #### November 6
@@ -226,7 +222,9 @@ title: Schedule & Assignments
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/PleadingsProblems)
 
-#### Click & Learn: Pleadings (Due November 8)
+#### Due November 9
+
+##### Click & Learn: Pleadings (Unit 5, Parts 1-5)
 
 ## Choice of Law in Federal Court (Erie Doctrine)
 
@@ -254,7 +252,9 @@ title: Schedule & Assignments
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/ErieProblems)
 - [Erie-Hanna Diagram](https://www.emfink.net/CivilProcedure/assets/materials/choice-of-law/ErieHanna.png)
 
-#### Click & Learn: Erie Doctrine (Due November 17)
+#### Due November 18
+
+##### Click & Learn: Erie Doctrine (Unit 9)
 
 ## Summary Judgment
 
@@ -276,7 +276,7 @@ title: Schedule & Assignments
 
 #### Due November 22 
 
-### Click & Learn: Summary Judgment 
+### Click & Learn: Summary Judgment (Unit 8, Part I, sec. III)
 
 
 #### December 2 
