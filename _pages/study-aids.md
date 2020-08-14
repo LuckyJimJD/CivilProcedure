@@ -17,7 +17,7 @@ title: Study Aids
 <p><a href="{{ site.baseurl }}{{ problem.url }}">{{ problem.subtitle }}</a></p>
 {% endfor %}
 
-# Practice Exam Questions
+## Practice Exam Questions
 
 {% for exam in site.exams %}
 <p><a href="{{ site.baseurl }}{{ exam.url }}">{{ exam.title }}</a></p>
