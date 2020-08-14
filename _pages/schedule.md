@@ -214,6 +214,7 @@ title: Schedule & Assignments
 ### Truthfulness & Good Faith in Pleadings 
 
 - [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
+- [NC Rules of Professional Conduct, Rules 3.1, 3.2, & 3.3](https://www.emfink.net/ProfessionalResponsibility/rules_statutes/NC_RCP_Part3)
 - [In re Kunstler](https://www.emfink.net/CivilProcedure/cases/InReKunstler)
 - [Washington v. Alaimo](https://www.emfink.net/CivilProcedure/cases/Washington_Alaimo)
 
