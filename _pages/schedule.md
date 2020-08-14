@@ -14,8 +14,8 @@ title: Schedule & Assignments
 - [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
-- [Federal Courts](https://www.emfink.net/CivilProcedure/visuals/FedCourts)
-- [Federal District Courts in North Carolina](https://www.emfink.net/CivilProcedure/visuals/NC_FedCourts)
+- [Federal Courts](https://www.emfink.net/CivilProcedure/visuals/fed_courts)
+- [Federal District Courts in North Carolina](https://www.emfink.net/CivilProcedure/visuals/NC_fed_courts)
 
 ### Civil Action Overview 
 
