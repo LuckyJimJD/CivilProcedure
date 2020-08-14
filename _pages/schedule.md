@@ -203,9 +203,9 @@ title: Schedule & Assignments
 
 ### Amendments 
 
-- [FRCP Rule 15)](https://www.law.cornell.edu/rules/frcp)
+- [FRCP Rule 15](https://www.law.cornell.edu/rules/frcp)
 - [FRCP Rule 15(a) Diagram](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Rule15a.png)
-- [FRCP Rule 15(c) Diagram](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Rule15c.png)
+- [FRCP Rule 15(c)(1)(C) Diagram](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Rule15c.png)
 - [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
 - [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
 
