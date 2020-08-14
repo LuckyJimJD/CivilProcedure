@@ -187,7 +187,9 @@ title: Schedule & Assignments
 
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
 - [Bell Atlantic Corp. v. Twombly](https://www.emfink.net/CivilProcedure/cases/Twombly)
+- Bell Atlantic v. Twombly—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Twombly_complaint.pdf) 
 - [Ashcroft v. Iqbal](https://www.emfink.net/CivilProcedure/cases/Iqbal)
+- Ashcroft v. Iqbal—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Iqbal_complaint.pdf) 
 - [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Dismissal)
 
 #### October 30
@@ -202,8 +204,8 @@ title: Schedule & Assignments
 ### Amendments 
 
 - [FRCP Rule 15)](https://www.law.cornell.edu/rules/frcp)
-- [FRCP Rule 15(a) Diagram]({{ site.baseurl }}/assets/materials/pleadings/Rule15a.png)
-- [FRCP Rule 15(c) Diagram]({{ site.baseurl }}/assets/materials/pleadings/Rule15c.png)
+- [FRCP Rule 15(a) Diagram](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Rule15a.png)
+- [FRCP Rule 15(c) Diagram](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Rule15c.png)
 - [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
 - [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
 
