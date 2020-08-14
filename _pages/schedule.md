@@ -14,8 +14,8 @@ title: Schedule & Assignments
 - [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
-- [Federal Courts](https://www.emfink.net/CivilProcedure/assets/materials/introduction/FedCourts.png)
-- [Federal District Courts in North Carolina](https://www.emfink.net/CivilProcedure/assets/materials/introduction/NC_FedCourts.png)
+- [Federal Courts](https://www.emfink.net/CivilProcedure/visuals/FedCourts)
+- [Federal District Courts in North Carolina](https://www.emfink.net/CivilProcedure/visuals/NC_FedCourts)
 
 ### Civil Action Overview 
 
@@ -50,7 +50,7 @@ title: Schedule & Assignments
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- [Third Party Claims diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
+- [RUle 14 diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
 - [Lehman v. Revolution Portfolio LLC](https://www.emfink.net/CivilProcedure/cases/Lehman_Revolution)
 
 #### September 11
@@ -69,7 +69,7 @@ title: Schedule & Assignments
 ### Joinder Review 
 
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/JoinderProblem)
-- [Review Problem diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/NightAtTheOpera.png)
+- [Review Problem diagram](https://www.emfink.net/CivilProcedure/visuals/Night_at_the_Opera)
 
 #### Due September 16
 
@@ -113,7 +113,7 @@ title: Schedule & Assignments
 ### Subject Matter Jurisdiction Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/SMJProblems)
-- [Joinder & Subject Matter Jurisdiction diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Joinder-SMJ.png)
+- [Joinder & Subject Matter Jurisdiction diagram](https://www.emfink.net/CivilProcedure/visuals/joinder-smj)
 
 #### Due October 2
 
@@ -149,8 +149,8 @@ title: Schedule & Assignments
 ### Personal Jurisdiction Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/PersonalJurisdictionProblems)
-- [Review Problem 1 diagram](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/GreedyHeir.png)
-- [Personal Jurisdiction Flowchart](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/PersonalJurisdictionFlowchart.png)
+- [Review Problem 1 diagram](https://www.emfink.net/CivilProcedure/visuals/greedy_heir)
+- [Personal Jurisdiction Flowchart](https://www.emfink.net/CivilProcedure/visuals/personal_jurisdiction)
 
 #### Due Otober 16
 
@@ -173,7 +173,6 @@ title: Schedule & Assignments
 - [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
 - [Parklane Hosiery Co., Inc. v. Shore](https://scholar.google.com/scholar_case?case=7479573211945418487)
 - [Review Problem 2](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
-- [Claim & Issue Preclusion](https://www.emfink.net/CivilProcedure/assets/materials/preclusion/PreclusionSummaryChart.png)
 
 #### Due October 26
 
@@ -204,8 +203,8 @@ title: Schedule & Assignments
 ### Amendments 
 
 - [FRCP Rule 15](https://www.law.cornell.edu/rules/frcp)
-- [FRCP Rule 15(a)(1) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15a1.png)
-- [FRCP Rule 15(c)(1)(C) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15c1C.png)
+- [FRCP Rule 15(a)(1) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15a1)
+- [FRCP Rule 15(c)(1)(C) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15c1C)
 - [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
 - [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
 
@@ -252,7 +251,7 @@ title: Schedule & Assignments
 ### Erie Doctrine Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/ErieProblems)
-- [Erie-Hanna diagram](https://www.emfink.net/CivilProcedure/assets/materials/choice-of-law/ErieHanna.png)
+- [Erie-Hanna diagram](https://www.emfink.net/CivilProcedure/visuals/Erie_Hanna)
 
 #### Due November 18
 
