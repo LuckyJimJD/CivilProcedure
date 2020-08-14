@@ -24,7 +24,7 @@ title: Schedule & Assignments
 
 #### Due September 2
 
-### Click & Learn: Basic Skills & Fundamentals (Parts 1 & 2)
+##### Click & Learn: Basic Skills & Fundamentals (Parts 1 & 2)
 
 ## Joinder
 
@@ -73,7 +73,7 @@ title: Schedule & Assignments
 
 #### Due September 16
 
-##### Click & Learn: Joinder (Unit 6, Parts 1, 2, & 3)
+####### Click & Learn: Joinder (Unit 6, Parts 1, 2, & 3)
 
 ## Subject Matter Jurisdiction 
 
@@ -84,7 +84,7 @@ title: Schedule & Assignments
 - [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii)
 - [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
-- [Louisville & Nashville R.R. Co. v. Mottley(https://www.emfink.net/CivilProcedure/cases/Mottley)
+- [Louisville & Nashville R.R. Co. v. Mottley](https://www.emfink.net/CivilProcedure/cases/Mottley)
 - [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://www.emfink.net/CivilProcedure/cases/Grable)
 
 #### September 21 & 23 
@@ -117,7 +117,7 @@ title: Schedule & Assignments
 
 #### Due October 2
 
-##### Click & Learn: Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
+####### Click & Learn: Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
 
 ## Personal Jurisdiction 
 
@@ -154,7 +154,7 @@ title: Schedule & Assignments
 
 #### Due Otober 16
 
-##### Click & Learn: Personal Jurisdiction (Unit 1, Parts 1-7)
+####### Click & Learn: Personal Jurisdiction (Unit 1, Parts 1-7)
 
 ## Preclusion
 
@@ -177,7 +177,7 @@ title: Schedule & Assignments
 
 #### Due October 26
 
-##### Click & Learn: Preclusion (Unit 10)
+####### Click & Learn: Preclusion (Unit 10)
 
 ## Pleading 
 
@@ -224,7 +224,7 @@ title: Schedule & Assignments
 
 #### Due November 9
 
-##### Click & Learn: Pleadings (Unit 5, Parts 1-5)
+####### Click & Learn: Pleadings (Unit 5, Parts 1-5)
 
 ## Choice of Law in Federal Court (Erie Doctrine)
 
@@ -254,7 +254,7 @@ title: Schedule & Assignments
 
 #### Due November 18
 
-##### Click & Learn: Erie Doctrine (Unit 9)
+####### Click & Learn: Erie Doctrine (Unit 9)
 
 ## Summary Judgment
 
@@ -276,7 +276,7 @@ title: Schedule & Assignments
 
 #### Due November 22 
 
-### Click & Learn: Summary Judgment (Unit 8, Part I, sec. III)
+##### Click & Learn: Summary Judgment (Unit 8, Part I, sec. III)
 
 
 #### December 2 
