@@ -8,4 +8,4 @@ affiliation: Elon Law School
   
 ---
 
-![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/introduction/NC_FedCourts.png)
+![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/introduction/NC_fed_courts.png)
