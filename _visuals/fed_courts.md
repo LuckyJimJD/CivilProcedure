@@ -2,7 +2,7 @@
 layout: note
 
 course: 'Civil Procedure'
-title: 'The Case of the Greedy Heir'
+title: 'Federal Courts'
 author: Prof. Fink 
 affiliation: Elon Law School 
   
