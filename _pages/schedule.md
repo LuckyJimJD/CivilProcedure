@@ -40,7 +40,7 @@ title: Schedule & Assignments
 ### Counterclaims & Crossclaims 
 
 - [FRCP Rule 13](https://www.law.cornell.edu/rules/frcp)
-- [Counterclaims Diagram](https://www.emfink.net/CivilProcedure/visuals/counterclaims)
+- [Counterclaims diagram](https://www.emfink.net/CivilProcedure/visuals/counterclaims)
 - [Jones v. Ford Motor Credit Co.](https://www.emfink.net/CivilProcedure/cases/FordMotorCredit1)
 - [Ginwright v. Exeter Finance Corp.](https://www.emfink.net/CivilProcedure/cases/Ginwright1)
 - [Pace v. Timmermann’s Ranch & Saddle Shop, Inc. ](https://www.emfink.net/CivilProcedure/cases/Pace_Timmermans)
@@ -50,7 +50,7 @@ title: Schedule & Assignments
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- [Third Party Claims Diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
+- [Third Party Claims diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
 - [Lehman v. Revolution Portfolio LLC](https://www.emfink.net/CivilProcedure/cases/Lehman_Revolution)
 
 #### September 11
@@ -69,7 +69,7 @@ title: Schedule & Assignments
 ### Joinder Review 
 
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/JoinderProblem)
-- [Review Problem Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/NightAtTheOpera.png)
+- [Review Problem diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/NightAtTheOpera.png)
 
 #### Due September 16
 
@@ -113,7 +113,7 @@ title: Schedule & Assignments
 ### Subject Matter Jurisdiction Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/SMJProblems)
-- [Joinder & Subject Matter Jurisdiction Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Joinder-SMJ.png)
+- [Joinder & Subject Matter Jurisdiction diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Joinder-SMJ.png)
 
 #### Due October 2
 
@@ -149,7 +149,7 @@ title: Schedule & Assignments
 ### Personal Jurisdiction Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/PersonalJurisdictionProblems)
-- [Review Problem 1 Diagram](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/GreedyHeir.png)
+- [Review Problem 1 diagram](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/GreedyHeir.png)
 - [Personal Jurisdiction Flowchart](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/PersonalJurisdictionFlowchart.png)
 
 #### Due Otober 16
@@ -204,8 +204,8 @@ title: Schedule & Assignments
 ### Amendments 
 
 - [FRCP Rule 15](https://www.law.cornell.edu/rules/frcp)
-- [FRCP Rule 15(a) Diagram](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Rule15a.png)
-- [FRCP Rule 15(c)(1)(C) Diagram](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Rule15c.png)
+- [FRCP Rule 15(a)(1) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15a1.png)
+- [FRCP Rule 15(c)(1)(C) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15c1C.png)
 - [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
 - [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
 
@@ -252,7 +252,7 @@ title: Schedule & Assignments
 ### Erie Doctrine Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/ErieProblems)
-- [Erie-Hanna Diagram](https://www.emfink.net/CivilProcedure/assets/materials/choice-of-law/ErieHanna.png)
+- [Erie-Hanna diagram](https://www.emfink.net/CivilProcedure/assets/materials/choice-of-law/ErieHanna.png)
 
 #### Due November 18
 
