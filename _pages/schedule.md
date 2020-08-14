@@ -73,7 +73,7 @@ title: Schedule & Assignments
 
 #### Due September 16
 
-####### Click & Learn: Joinder (Unit 6, Parts 1, 2, & 3)
+##### Click & Learn: Joinder (Unit 6, Parts 1, 2, & 3)
 
 ## Subject Matter Jurisdiction 
 
@@ -117,7 +117,7 @@ title: Schedule & Assignments
 
 #### Due October 2
 
-####### Click & Learn: Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
+##### Click & Learn: Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
 
 ## Personal Jurisdiction 
 
@@ -154,7 +154,7 @@ title: Schedule & Assignments
 
 #### Due Otober 16
 
-####### Click & Learn: Personal Jurisdiction (Unit 1, Parts 1-7)
+##### Click & Learn: Personal Jurisdiction (Unit 1, Parts 1-7)
 
 ## Preclusion
 
@@ -177,7 +177,7 @@ title: Schedule & Assignments
 
 #### Due October 26
 
-####### Click & Learn: Preclusion (Unit 10)
+##### Click & Learn: Preclusion (Unit 10)
 
 ## Pleading 
 
@@ -224,7 +224,7 @@ title: Schedule & Assignments
 
 #### Due November 9
 
-####### Click & Learn: Pleadings (Unit 5, Parts 1-5)
+##### Click & Learn: Pleadings (Unit 5, Parts 1-5)
 
 ## Choice of Law in Federal Court (Erie Doctrine)
 
@@ -254,7 +254,7 @@ title: Schedule & Assignments
 
 #### Due November 18
 
-####### Click & Learn: Erie Doctrine (Unit 9)
+##### Click & Learn: Erie Doctrine (Unit 9)
 
 ## Summary Judgment
 
