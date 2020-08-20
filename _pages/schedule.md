@@ -135,7 +135,7 @@ title: Schedule & Assignments
 
 - [International Shoe Co. v. Washington](https://www.emfink.net/CivilProcedure/cases/Shoe)
 - [World Wide Volkswagen Corp. v. Woodson](https://www.emfink.net/CivilProcedure/cases/Volkswagen)
-- [Keeton v. Hustler Magazine, Inc.](https://scholar.google.com/scholar_case?case=3371406121479205546)
+- [Keeton v. Hustler Magazine, Inc.](https://www.emfink.net/CivilProcedure/cases/Keeton)
 - [J. McIntyre Machinery, Ltd. v. Nicastro](https://scholar.google.com/scholar_case?case=9763892474923808631)
 
 #### October 12
