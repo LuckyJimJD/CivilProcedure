@@ -61,7 +61,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 # Schedule & Assignments 
 
-
 ## Introduction 
 
 #### August 31
@@ -71,13 +70,17 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [U.S. Constitution, Art. III, § 1](https://www.law.cornell.edu/constitution/articleiii)
 - Russel Wheeler & Cynthia Harrison, ["Creating the Federal Judicial System"](https://www.fjc.gov/sites/default/files/2012/Creat3ed.pdf), Federal Judicial Center (3d ed. 2005)
 - Administrative Office of U.S. Courts, ["Understanding the Federal Courts"](https://www.uscourts.gov/sites/default/files/understanding-federal-courts.pdf)
-- [Federal Courts](https://www.emfink.net/CivilProcedure/assets/materials/introduction/FedCourts.png)
-- [Federal District Courts in North Carolina](https://www.emfink.net/CivilProcedure/assets/materials/introduction/NC_FedCourts.png)
+- [Federal Courts](https://www.emfink.net/CivilProcedure/visuals/fed_courts)
+- [Federal District Courts in North Carolina](https://www.emfink.net/CivilProcedure/visuals/NC_fed_courts)
 
 ### Civil Action Overview 
 
 - William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.emfink.net/CivilProcedure/readings/Felstiner_Abel_Sarat), 15 Law & Society Review 630 (1981)
-- [Civil Action Flowchart](https://www.emfink.net/CivilProcedure/assets/materials/introduction/CivilAction.png)
+- [Civil Action Flowchart](https://www.emfink.net/CivilProcedure/visuals/civil_action)
+
+#### Due September 2
+
+##### Click & Learn: Basic Skills & Fundamentals (Parts 1 & 2)
 
 ## Joinder
 
@@ -93,7 +96,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Counterclaims & Crossclaims 
 
 - [FRCP Rule 13](https://www.law.cornell.edu/rules/frcp)
-- [Counterclaims](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Counterclaims.png)
+- [Counterclaims diagram](https://www.emfink.net/CivilProcedure/visuals/counterclaims)
 - [Jones v. Ford Motor Credit Co.](https://www.emfink.net/CivilProcedure/cases/FordMotorCredit1)
 - [Ginwright v. Exeter Finance Corp.](https://www.emfink.net/CivilProcedure/cases/Ginwright1)
 - [Pace v. Timmermann’s Ranch & Saddle Shop, Inc. ](https://www.emfink.net/CivilProcedure/cases/Pace_Timmermans)
@@ -103,7 +106,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- [Third Party Claims Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Rule14.png)
+- [RUle 14 diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
 - [Lehman v. Revolution Portfolio LLC](https://www.emfink.net/CivilProcedure/cases/Lehman_Revolution)
 
 #### September 11
@@ -115,16 +118,18 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Camacho v. Major League Baseball](https://www.emfink.net/CivilProcedure/cases/Camacho_MLB)
 - [Deutsch v. Schoelkopf](https://www.emfink.net/CivilProcedure/cases/Deutsch_Schoelkopf)
 - [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Intervention)
-- North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, [Motion to Intervene](https://www.emfink.net/CivilProcedure/assets/materials/joinder/SCV_UNC_Intervention.pdf) 
+- North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, [Motion to Intervene](https://www.emfink.net/CivilProcedure/assets/materials/joinder/SCV_UNC_Intervention.pdf)
 
 #### September 14
 
 ### Joinder Review 
 
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/JoinderProblem)
-- [Review Problem Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/NightAtTheOpera.png)
+- [Review Problem diagram](https://www.emfink.net/CivilProcedure/visuals/Night_at_the_Opera)
 
-##### Click & Learn: Joinder (Due September 15)
+#### Due September 16
+
+##### Click & Learn: Joinder (Unit 6, Parts 1, 2, & 3)
 
 ## Subject Matter Jurisdiction 
 
@@ -135,26 +140,25 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [U.S. Constitution, Art. III, § 2](https://www.law.cornell.edu/constitution/articleiii)
 - [FRCP Rule 12(b)(1)](https://www.law.cornell.edu/rules/frcp)
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
-- [Louisville & Nashville R.R. Co. v. Mottley](https://scholar.google.com/scholar_case?case=16126924466507693953)
-- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://scholar.google.com/scholar_case?case=8325291807154614921)
+- [Louisville & Nashville R.R. Co. v. Mottley](https://www.emfink.net/CivilProcedure/cases/Mottley)
+- [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://www.emfink.net/CivilProcedure/cases/Grable)
 
 #### September 21 & 23 
 
 ### Diversity Jurisdiction 
 
 - [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332)
-- [Mas v. Perry](https://scholar.google.com/scholar_case?case=9590836077135550876)
+- [Mas v. Perry](https://www.emfink.net/CivilProcedure/cases/Mas_Perry)
 - Ottawa Township Board of Trustees v. New Par: [Decision & Order 1](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_I); [Decision & Order 2](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_II)
-- [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://scholar.google.com/scholar_case?case=9907889190574227365)
-
+- [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://www.emfink.net/CivilProcedure/cases/AnniesPoochPops)
 
 #### September 25 & 28
 
 ### Supplemental Jurisdiction 
 
 - [28 U.S.C. § 1367](https://www.law.cornell.edu/uscode/text/28/1367)
-- [Supplemental Jurisdiction under § 1367](https://www.emfink.net/CivilProcedure/assets/materials/subject-matter-jurisdiction/1367.png)
-- [§ 1367(b) Illustration](https://www.emfink.net/CivilProcedure/assets/materials/subject-matter-jurisdiction/1367b_Illustration.png)
+- [Supplemental Jurisdiction under § 1367](https://www.emfink.net/CivilProcedure/visuals/1367)
+- [§ 1367(b) Illustration](https://www.emfink.net/CivilProcedure/visuals/1367b_example)
 - [United Mine Workers of America v. Gibbs](https://www.emfink.net/CivilProcedure/cases/Gibbs)
 - [Jones v. Ford Motor Credit Co.](https://www.emfink.net/CivilProcedure/cases/FordMotorCredit2)
 - [Ginwright v. Exeter Finance Corp.](https://www.emfink.net/CivilProcedure/cases/Ginwright2)
@@ -165,9 +169,11 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Subject Matter Jurisdiction Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/SMJProblems)
-- [Joinder & Subject Matter Jurisdiction Diagram](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Joinder-SMJ.png)
+- [Joinder & Subject Matter Jurisdiction diagram](https://www.emfink.net/CivilProcedure/visuals/joinder-smj)
 
-##### Click & Learn: Subject Matter Jurisdiction (Due October 1)
+#### Due October 2
+
+##### Click & Learn: Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
 
 ## Personal Jurisdiction 
 
@@ -177,16 +183,16 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - U.S. Constitution, [5th Amendment](https://www.law.cornell.edu/constitution/billofrights#amendmentv) & [14th Amendment, § 1](https://www.law.cornell.edu/constitution/amendmentxiv)
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
-- [Pennoyer v. Neff](https://scholar.google.com/scholar_case?case=13333263776496540273)
+- [Pennoyer v. Neff](https://www.emfink.net/CivilProcedure/cases/Pennoyer)
 
 #### October 5, 7, & 9
 
 ### Specific Jurisdiction Based on Minimum Contacts 
 
-- [International Shoe Co. v. Washington](https://scholar.google.com/scholar_case?case=5514563780081607825)
-- [World Wide Volkswagen Corp. v. Woodson](https://scholar.google.com/scholar_case?case=2649456870546423871)
-- [Keeton v. Hustler Magazine, Inc.](https://scholar.google.com/scholar_case?case=3371406121479205546)
-- [J. McIntyre Machinery, Ltd. v. Nicastro](https://scholar.google.com/scholar_case?case=9763892474923808631)
+- [International Shoe Co. v. Washington](https://www.emfink.net/CivilProcedure/cases/Shoe)
+- [World Wide Volkswagen Corp. v. Woodson](https://www.emfink.net/CivilProcedure/cases/Volkswagen)
+- [Keeton v. Hustler Magazine, Inc.](https://www.emfink.net/CivilProcedure/cases/Keeton)
+- [J. McIntyre Machinery, Ltd. v. Nicastro](https://www.emfink.net/CivilProcedure/cases/McIntyre_Nicastro)
 
 #### October 12
 
@@ -199,10 +205,12 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Personal Jurisdiction Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/PersonalJurisdictionProblems)
-- [Review Problem 1 Diagram](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/GreedyHeir.png)
-- [Personal Jurisdiction Flowchart](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/PersonalJurisdictionFlowchart.png)
+- [Review Problem 1 diagram](https://www.emfink.net/CivilProcedure/visuals/greedy_heir)
+- [Personal Jurisdiction Flowchart](https://www.emfink.net/CivilProcedure/visuals/personal_jurisdiction)
 
-##### Click & Learn: Personal Jurisdiction (Due Otober 15)
+#### Due Otober 16
+
+##### Click & Learn: Personal Jurisdiction (Unit 1, Parts 1-7)
 
 ## Preclusion
 
@@ -221,40 +229,49 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
 - [Parklane Hosiery Co., Inc. v. Shore](https://scholar.google.com/scholar_case?case=7479573211945418487)
 - [Review Problem 2](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
-- [Claim & Issue Preclusion](https://www.emfink.net/CivilProcedure/assets/materials/preclusion/PreclusionSummaryChart.png)
 
-##### Click & Learn: Preclusion (Due October 25)
+#### Due October 26
+
+##### Click & Learn: Preclusion (Unit 10)
 
 ## Pleading 
 
-#### October 26
-
-### Pleading Under the Federal Rules 
-
-- [FRCP Rules 3, 7-12, 15](https://www.law.cornell.edu/rules/frcp)
-
-#### October 28 & 30
+#### October 26 & 28
 
 ### Complaints 
 
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
 - [Bell Atlantic Corp. v. Twombly](https://www.emfink.net/CivilProcedure/cases/Twombly)
+- Bell Atlantic v. Twombly—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Twombly_complaint.pdf) 
 - [Ashcroft v. Iqbal](https://www.emfink.net/CivilProcedure/cases/Iqbal)
+- Ashcroft v. Iqbal—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Iqbal_complaint.pdf) 
 - [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Dismissal)
 
-#### November 2
+#### October 30
 
 ### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
 - [Zielinski v. Philadelphia Piers, Inc.](https://scholar.google.com/scholar_case?case=6925145899226984414)
+
+#### November 2
+
+### Amendments 
+
+- [FRCP Rule 15](https://www.law.cornell.edu/rules/frcp)
+- [FRCP Rule 15(a)(1) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15a1)
+- [FRCP Rule 15(c)(1)(C) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15c1C)
 - [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
+- [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
+
 
 #### November 4
 
 ### Truthfulness & Good Faith in Pleadings 
 
 - [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
+- [NC Rules of Professional Conduct, Rules 3.1, 3.2, & 3.3](https://www.emfink.net/ProfessionalResponsibility/rules_statutes/NC_RCP_Part3)
+- [In re Kunstler](https://www.emfink.net/CivilProcedure/cases/InReKunstler)
 - [Washington v. Alaimo](https://www.emfink.net/CivilProcedure/cases/Washington_Alaimo)
 
 #### November 6
@@ -263,7 +280,9 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/PleadingsProblems)
 
-##### Click & Learn: Pleadings (Due November 8)
+#### Due November 9
+
+##### Click & Learn: Pleadings (Unit 5, Parts 1-5)
 
 ## Choice of Law in Federal Court (Erie Doctrine)
 
@@ -289,9 +308,11 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Erie Doctrine Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/ErieProblems)
-- [Erie-Hanna Diagram](https://www.emfink.net/CivilProcedure/assets/materials/choice-of-law/ErieHanna.png)
+- [Erie-Hanna diagram](https://www.emfink.net/CivilProcedure/visuals/Erie_Hanna)
 
-##### Click & Learn: Erie Doctrine (Due November 17)
+#### Due November 18
+
+##### Click & Learn: Erie Doctrine (Unit 9)
 
 ## Summary Judgment
 
@@ -311,6 +332,11 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Slaven v. City of Salem](https://scholar.google.com/scholar_case?case=9307637031918953284)
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/SummaryJudgmentProblem)
 
-##### Click & Learn: Summary Judgment (Due November 22)
+#### Due November 22 
 
-##### Final Exam (Date)
+##### Click & Learn: Summary Judgment (Unit 8, Part I, sec. III)
+
+
+#### December 2 
+
+## Final Exam 
