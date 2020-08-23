@@ -41,37 +41,37 @@ For the reasons that follow, I agree that the defendants’ counterclaim damages
 
 District courts have original jurisdiction over civil cases between citizens of different states where the amount in controversy, exclusive of costs and interest, exceeds $75,000. 28 U.S.C. § 1332(a)(1).
 
-In cases that a defendant has removed from state court, “[t]he existence of subject matter jurisdiction is determined by examining the complaint as it existed at the time of removal.” _Harper v. AutoAlliance Int’l, Inc._, 392 F.3d 195, 210 (6th Cir. 2004). “The burden of showing that the district court has original jurisdiction is on the party seeking removal.” _Long v. Bando Mfg. of Am., Inc._, 201 F.3d 754, 757 (6th Cir. 2000).
+In cases that a defendant has removed from state court, “[t]he existence of subject matter jurisdiction is determined by examining the complaint as it existed at the time of removal.” _Harper v. AutoAlliance Int’l, Inc.,_ 392 F.3d 195, 210 (6th Cir. 2004). “The burden of showing that the district court has original jurisdiction is on the party seeking removal.” _Long v. Bando Mfg. of Am., Inc.,_ 201 F.3d 754, 757 (6th Cir. 2000).
 
 ## A. Defendants’ Counterclaim Damages
 
-Neither the United States Supreme Court nor the United States Court of Appeals for the Sixth Circuit has decided whether a defendant’s counterclaim damages count toward the amount-in-controversy requirement. _See_ _CMS N. Am., Inc. v. De Lorenzo Marble & Tile, Inc._, 521 F. Supp. 2d 619, 622–24 (W.D. Mich. 2007) (canvassing Supreme Court and Circuit authority).
+Neither the United States Supreme Court nor the United States Court of Appeals for the Sixth Circuit has decided whether a defendant’s counterclaim damages count toward the amount-in-controversy requirement. _See_ _CMS N. Am., Inc. v. De Lorenzo Marble & Tile, Inc.,_ 521 F. Supp. 2d 619, 622–24 (W.D. Mich. 2007) (canvassing Supreme Court and Circuit authority).
 
-As some district courts have noted, however, the Sixth Circuit has “referred approvingly to the traditional rule that ‘no part of the required jurisdictional amount can be met by considering a defendant’s counterclaim to satisfy the amount in controversy requirement for removal jurisdiction purposes.’ ” _Firestone Fin. Corp. v. Syal_, 327 F. Supp. 2d 809, 811 (N.D. Ohio 2004) (Wells, J.) (_quoting_ _Sanford v. Gardenour_, 225 F.3d 659, *3 (6th Cir. 2000) (unpublished)).
+As some district courts have noted, however, the Sixth Circuit has “referred approvingly to the traditional rule that ‘no part of the required jurisdictional amount can be met by considering a defendant’s counterclaim to satisfy the amount in controversy requirement for removal jurisdiction purposes.’ ” _Firestone Fin. Corp. v. Syal,_ 327 F. Supp. 2d 809, 811 (N.D. Ohio 2004) (Wells, J.) (_quoting_ _Sanford v. Gardenour,_ 225 F.3d 659, *3 (6th Cir. 2000) (unpublished)).
 
 Ultimately, the Circuit decided the Sanford case on the ground that the plaintiffs admitted that the amount in controversy exceeded $75,000, so its endorsement in dicta of the “traditional rule” is just one piece of persuasive authority to weigh, rather than binding authority to follow.
 
-At the district-court level, “the majority of Sixth Circuit district courts to confront the question have held that counterclaims should not be considered when determining the amount in controversy for purposes of removal jurisdiction[.]” _Total Quality Logistics, LLC v. AD Maxx, Inc._, 2016 WL 6070356, *2 (S.D. Ohio) (internal quotation marks omitted).
+At the district-court level, “the majority of Sixth Circuit district courts to confront the question have held that counterclaims should not be considered when determining the amount in controversy for purposes of removal jurisdiction[.]” _Total Quality Logistics, LLC v. AD Maxx, Inc.,_ 2016 WL 6070356, *2 (S.D. Ohio) (internal quotation marks omitted).
 
 These cases make three points that persuade me that I ought not consider the defendants’ counterclaim damages in deciding the amount in controversy.
 
-First, because removal jurisdiction is a creature of statute rather than based in the Constitution, courts construe removal jurisdiction narrowly. See _Shamrock Oil Corp. v. Sheets_, 313 U.S. 100, 107–09 (1941). Such construction is necessary, in particular, to avoid impinging on the right of the State courts to adjudicate cases within their jurisdictions. _Joseph v. Baxter Int’l, Inc_., 614 F. Supp. 2d 868, 871 (N.D. Ohio 2009) (“removal jurisdiction raises significant concerns about federalism”). By excluding counterclaim damages, the class of removable cases remains smaller.
+First, because removal jurisdiction is a creature of statute rather than based in the Constitution, courts construe removal jurisdiction narrowly. See _Shamrock Oil Corp. v. Sheets,_ 313 U.S. 100, 107–09 (1941). Such construction is necessary, in particular, to avoid impinging on the right of the State courts to adjudicate cases within their jurisdictions. _Joseph v. Baxter Int’l, Inc_., 614 F. Supp. 2d 868, 871 (N.D. Ohio 2009) (“removal jurisdiction raises significant concerns about federalism”). By excluding counterclaim damages, the class of removable cases remains smaller.
 
-Second, this approach is consistent with the rule that a defendant cannot remove a case to federal court on the basis of a defense or counterclaim that arises under federal law. _Holmes Grp., Inc. v. Vornado Air Circulation Sys._, Inc., 535 U.S. 826, 830–31 & n.2 (2002).
+Second, this approach is consistent with the rule that a defendant cannot remove a case to federal court on the basis of a defense or counterclaim that arises under federal law. _Holmes Grp., Inc. v. Vornado Air Circulation Sys.,_ Inc., 535 U.S. 826, 830–31 & n.2 (2002).
 
-Third, it also comports “with the well-pleaded-complaint rule, which provides that federal jurisdiction exists only when a federal question is presented on the face of the plaintiff[’s] properly pleaded complaint. The competing approach of not requiring the jurisdictional amount to be met in the complaint flies in the face of the ... rule.” _Energy Concepts, LLC v. Direct Capital Corp._, 2015 WL 1648900, *3 (M.D. Tenn.).
+Third, it also comports “with the well-pleaded-complaint rule, which provides that federal jurisdiction exists only when a federal question is presented on the face of the plaintiff[’s] properly pleaded complaint. The competing approach of not requiring the jurisdictional amount to be met in the complaint flies in the face of the ... rule.” _Energy Concepts, LLC v. Direct Capital Corp.,_ 2015 WL 1648900, *3 (M.D. Tenn.).
 
 I therefore hold that a defendants’ counterclaim damages cannot satisfy the amount-in-controversy requirement. But even assuming that counterclaim damages could count toward the amount in controversy, I would not be able to consider STC and New Par’s damages in any event.
 
-As already noted, courts determine the existence of jurisdiction at the time of removal. _Franchise Tax Bd. v. Constr. Laborers Vacation Trust_, 463 U.S. 1, 10 (1983).
+As already noted, courts determine the existence of jurisdiction at the time of removal. _Franchise Tax Bd. v. Constr. Laborers Vacation Trust,_ 463 U.S. 1, 10 (1983).
 
-Here, STC and New Par did not file their counterclaim until after they removed the case to federal court. Accordingly, “considering the damages sought by the counterclaim ... would violate the rule that whether an action could have been brought in federal court originally is determined by the amount in controversy at the time of removal.” _CMS N. Am._, 521 F. Supp. 2d at 629 (internal quotation marks omitted).
+Here, STC and New Par did not file their counterclaim until after they removed the case to federal court. Accordingly, “considering the damages sought by the counterclaim ... would violate the rule that whether an action could have been brought in federal court originally is determined by the amount in controversy at the time of removal.” _CMS N. Am.,_ 521 F. Supp. 2d at 629 (internal quotation marks omitted).
 
 For these reasons, defendants’ counterclaim damages cannot and do not satisfy the amount-in-controversy requirement.2
 
 ## B. Value of Declaratory Relief
 
-“In actions seeking declaratory or injunctive relief, it is well established that the amount in controversy is measured by the value of the object of the litigation.” _Freeland v. Liberty Mut. Fire Ins. Co._, 632 F.3d 250, 253 (6th Cir. 2011). “[W]here a party seeks a declaratory judgment, the amount in controversy is not necessarily the money judgment sought or recovered, but rather the value of the consequences which may result from the litigation.” _Id._
+“In actions seeking declaratory or injunctive relief, it is well established that the amount in controversy is measured by the value of the object of the litigation.” _Freeland v. Liberty Mut. Fire Ins. Co.,_ 632 F.3d 250, 253 (6th Cir. 2011). “[W]here a party seeks a declaratory judgment, the amount in controversy is not necessarily the money judgment sought or recovered, but rather the value of the consequences which may result from the litigation.” _Id._
 
 The Trustees contend that their complaint “does not put any amount in controversy” because it “does not seek monetary damages.” That argument doesn’t hold much water, given cases like _Freeland_.
 
@@ -81,9 +81,9 @@ The defendants contend that “the construction of the wireless telecommunicatio
 
 This contention, which is both conclusory and non-responsive, likewise does not establish whether the amount in controversy exceeds $75,000.
 
-A defendant that removes a case to federal court ordinarily “need include only a plausible allegation that the amount in controversy exceeds the jurisdictional threshold,” but such an allegation will not suffice if “questioned by the court.” _Dart Cherokee Basin Operating Co., LLC v. Owens_, 135 S. Ct. 547, 554 (2014).
+A defendant that removes a case to federal court ordinarily “need include only a plausible allegation that the amount in controversy exceeds the jurisdictional threshold,” but such an allegation will not suffice if “questioned by the court.” _Dart Cherokee Basin Operating Co., LLC v. Owens,_ 135 S. Ct. 547, 554 (2014).
 
-“When the amount in controversy is questioned, the defendant must provide evidence to support its allegation that the lawsuit involves an amount in controversy meeting the jurisdictional threshold.” _Dykema v. Jo–Ann Stores, LLC_, 2016 WL 2752891, *2 (W.D. Mich.). The defendant must prove, by a preponderance of the evidence, that the case satisfies the amount-in-controversy requirement. _Northrup Props., Inc. v. Chesapeake Appalachia, L.L.C._, 567 F.3d 767, 769–70 (6th Cir. 2009).
+“When the amount in controversy is questioned, the defendant must provide evidence to support its allegation that the lawsuit involves an amount in controversy meeting the jurisdictional threshold.” _Dykema v. Jo–Ann Stores, LLC,_ 2016 WL 2752891, *2 (W.D. Mich.). The defendant must prove, by a preponderance of the evidence, that the case satisfies the amount-in-controversy requirement. _Northrup Props., Inc. v. Chesapeake Appalachia, L.L.C.,_ 567 F.3d 767, 769–70 (6th Cir. 2009).
 
 I question the defendants’ allegation, principally because it identifies only the value of their construction project, rather than the cost of making that project comply with the Township zoning code.
 

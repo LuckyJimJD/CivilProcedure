@@ -8,12 +8,11 @@ published: '2005'
     
 ---
 
-## Justice Kennedy delivered the opinion of the Court. {#top}
+## Justice Kennedy delivered the opinion of the Court.
 
 These consolidated cases[^1] present the question whether a federal court in a diversity action may exercise supplemental jurisdiction over additional plaintiffs whose claims do not satisfy the minimum amount-in-controversy requirement, provided the claims are part of the same case or controversy as the claims of plaintiffs who do allege a sufficient amount in controversy. Our decision turns on the correct interpretation of 28 U.S.C. § 1367. The question has divided the Courts of Appeals, and we granted certiorari to resolve the conflict.
 
 We hold that, where the other elements of jurisdiction are present and at least one named plaintiff in the action satisfies the amount-in-controversy requirement, § 1367 does authorize supplemental jurisdiction over the claims of other plaintiffs in the same Article III case or controversy, even if those claims are for less than the jurisdictional amount specified in the statute setting forth the requirements for diversity jurisdiction. We affirm the judgment of the Court of Appeals for the Eleventh Circuit in No. 04-70, and we reverse the judgment of the Court of Appeals for the First Circuit in No. 04-79.
-
 
 ## I
 

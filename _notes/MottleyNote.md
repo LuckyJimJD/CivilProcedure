@@ -19,4 +19,4 @@ affiliation: Elon Law School
 
 Source: E. Polk Johnson, A History of Kentucy & Kentuckians (1912 Lewis Publishing Co. 1912)
 
-Mottley appears to have been involved in another case just prior to his more famous suit against the Louisville & Nashville Railroad. The case involved a dispute over the priority of payments to creditors of an insolvent bank, for which an E.L. Mottley was appointed as bankruptcy trustee. _Smith v. Mottley_, 150 F. 266 (6th Cir. 1906), reversing _In re P.J. Potter's Sons_, 143 F. 407 (W.D. Ky. 1906). 
+Mottley appears to have been involved in another case just prior to his more famous suit against the Louisville & Nashville Railroad. The case involved a dispute over the priority of payments to creditors of an insolvent bank, for which an E.L. Mottley was appointed as bankruptcy trustee. _Smith v. Mottley,_ 150 F. 266 (6th Cir. 1906), reversing _In re P.J. Potter's Sons,_ 143 F. 407 (W.D. Ky. 1906). 

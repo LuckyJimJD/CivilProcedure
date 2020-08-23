@@ -142,7 +142,7 @@ title: Schedule & Assignments
 
 ### General Jurisdiction 
 
-- [Daimler A.G. v. Bauman](https://scholar.google.com/scholar_case?case=1929137067016164680)
+- [Daimler A.G. v. Bauman](https://www.emfink.net/CivilProcedure/cases/Daimler_Bauman)
 
 #### October 14 
 

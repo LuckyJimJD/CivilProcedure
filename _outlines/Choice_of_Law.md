@@ -78,7 +78,7 @@ Implications of natural law theory for understanding common law:
 	
 ##### Holding
 	
-- Following _Swift v. Tyson_, the Supreme Court held that the federal trial court properly applied "general common law" rather than following KY state court decisions. 
+- Following _Swift v. Tyson,_ the Supreme Court held that the federal trial court properly applied "general common law" rather than following KY state court decisions. 
 	
 ##### Significance 
 	
@@ -98,7 +98,7 @@ Under each scenario (i.e. the actual _Black & White Taxi_ case and the two hypot
 
 - Parties can't be sure what their legal rights and duties are until they end up in one court or the other. 
 - Some parties will be able to forum shop for more favorable law, but others won't (because of the limits of federal subject matter jurisdiction).
-  - At the time of _Black & White Taxi_, the citizenship of a corporation for diversity purposes was based only on its state of incorporation. The plaintiff corporation, Brown & Yellow, was able to create diversity, and thus sue in federal court, simply by changing its state of incorporation from KY to TN (and by joining the L&NRR as a co-defendant, rather than a co-plaintiff, which might have seemed more logical). 
+  - At the time of _Black & White Taxi,_ the citizenship of a corporation for diversity purposes was based only on its state of incorporation. The plaintiff corporation, Brown & Yellow, was able to create diversity, and thus sue in federal court, simply by changing its state of incorporation from KY to TN (and by joining the L&NRR as a co-defendant, rather than a co-plaintiff, which might have seemed more logical). 
   - The diversity jurisdiction statute now defines the citizenship of a corporation as both its state of incorporation and the state where its principle place of business is located. So the plaintiff's ruse in _Black & White Taxi_ would no longer work (because Brown & Yellow was based in Kentucky). 
   - But this does not solve the larger problem under _Swift_ of inconsistent outcomes between state and federal courts. 
 
@@ -106,11 +106,11 @@ Under each scenario (i.e. the actual _Black & White Taxi_ case and the two hypot
 
 > The common law is not a brooding omnipresence in the sky but the articulate voice of some sovereign or quasi-sovereign that can be identified; 
 
-_Southern Pac. Co. v. Jensen_, 244 US 205, 222 (1917) (Holmes, J. dissenting)
+_Southern Pac. Co. v. Jensen,_ 244 US 205, 222 (1917) (Holmes, J. dissenting)
 
 > It is very hard to resist the impression that there is one august corpus, to understand which clearly is the only task of any Court concerned. If there were such a transcendental body of law outside of any particular State but obligatory within it unless and until changed by statute, the Courts of the United States might be right in using their independent judgment as to what it was. But there is no such body of law. The fallacy and illusion that I think exist consist in supposing that there is this outside thing to be found. Law is a word used with different meanings, but law in the sense in which courts speak of it today does not exist without some definite authority behind it. The common law so far as it is enforced in a State, whether called common law or not, is not the common law generally but the law of that State existing by the authority of that State without regard to what it may have been in England or anywhere else. It may be adopted by statute in place of another system previously in force. But a general adoption of it does not prevent the State Courts from refusing to follow the English decisions upon a matter where the local conditions are different. It may be changed by statute, as is done every day. It may be departed from deliberately by judicial decisions, as with regard to water rights, in States where the common law generally prevails.… Whether and how far and in what sense a rule shall be adopted whether called common law or Kentucky law is for the State alone to decide.
 	
-_Black & White Taxicab v. Brown & Yellow Taxicab_, 276 U.S. at 533-34 (Holmes, J., dissenting)
+_Black & White Taxicab v. Brown & Yellow Taxicab,_ 276 U.S. at 533-34 (Holmes, J., dissenting)
 
 #### Erie RR Co. v. Tompkins (U.S. 1938)
 
@@ -125,7 +125,7 @@ _Black & White Taxicab v. Brown & Yellow Taxicab_, 276 U.S. at 533-34 (Holmes, J
  
 - Substantive issue: What duty of care Erie owed to Tompkins. 
   - Erie: Under PA law, as declared in decisions of the PA Supreme Court, Tompkins was a trespasser to whom Erie was not liable. 
-  - Tompkins: Under _Swift_, the federal court is not bound by PA state court decisions and under the general common law, Erie was liable for negligence. 
+  - Tompkins: Under _Swift,_ the federal court is not bound by PA state court decisions and under the general common law, Erie was liable for negligence. 
     - Tompkins also disputed that the PA Supreme Court actually supported Erie's position. 
 - Procedural issue: Whether federal court may apply "general" common law, or must follow Pennsylvania common law.
 
@@ -251,7 +251,7 @@ _Cohen v. Beneficial Indust. Loan Corp._
   - Is there an applicable FRCP provision?
     - Is there a true conflict between the FRCP provision and state law?
     - i.e. Are the requirements of the FRCP and state law inconsistent? 
-      - In _Hanna_, the manner of service was valid under FRCP, but invalid under state law. 
+      - In _Hanna,_ the manner of service was valid under FRCP, but invalid under state law. 
   - If so, 
     - Was the FRCP provision properly adopted according to the process under the REA?
     - Is the FRCP provision "rationally capable of classification" as procedural?

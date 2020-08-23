@@ -25,7 +25,7 @@ These provisions refer to claims for _indemnification_ and _contribution_. These
 
 Where a party seeks indemnification or contribution from a co-party already in the case, the claim is joined as a crossclaim under Rule 13(g). 
 
-Where a party seeks indemnification or contribution from someone who is not already a party in the case, the additional party and the claim against them are joined under Rule 14(a). The newly-added party is referred to as a _third-party defendant_, and the party asserting the indemnification or contribution claim (who may have entered the case originally as either a defendant or as a plaintiff against whom another party has asserted a counterclaim or crossclaim) as the _third-party plaintiff_. 
+Where a party seeks indemnification or contribution from someone who is not already a party in the case, the additional party and the claim against them are joined under Rule 14(a). The newly-added party is referred to as a _third-party defendant,_ and the party asserting the indemnification or contribution claim (who may have entered the case originally as either a defendant or as a plaintiff against whom another party has asserted a counterclaim or crossclaim) as the _third-party plaintiff_. 
 
 Under the FRCP, neither crossclaims and third-party claims are compulsory. Conseuently, a party with a potential contribution or indemnification claim (whether against a co-party or potential third-party) may opt to wait until the outcome of the suit and then bring the contribution/indemnification claim in a subsequent action. 
 

@@ -21,7 +21,7 @@ But it is an exception to the Holmes “creation test". Even though state law cr
 
 A state-law claim raises a federal question, sufficient to confer jurisdiction under §1331, where,
  
-1. The federal issue forms an _essential part of plaintiff’s claim_ (not a defense) that is _actually disputed_, and  
+1. The federal issue forms an _essential part of plaintiff’s claim_ (not a defense) that is _actually disputed,_ and  
 
 2. There is a _substantial federal interest_ at stake. 
 

@@ -82,7 +82,7 @@ Requirements for stating a claim:
 
 - Form 11--Complaint for Negligence
   - Compare code pleading
-    - "In an action or defense based upon negligence, it is not sufficient to allege the mere happening of an event of an injurious nature and call it negligence on the part of the party sough to be charged. This is necessarily so because negligence is not a fact in itself, but is the legal result of certain facts. Therefore, the facts which constitute the negligence charged and also the facts which establish such negligence as the proximate cause, or as one of the proximate causes, of the injury must be alleged.” _Gillespie v. Goodyear Svc. Stores_, 258 N.C. 487 (1963), quoting _Shives v. Sample_, 238 N.C. 724 (1953).^[N.B. The current NC Rules of Civil Procedure follow the FRCP model. _Gillespie_ pre-dates the adoption of these rules.]
+    - "In an action or defense based upon negligence, it is not sufficient to allege the mere happening of an event of an injurious nature and call it negligence on the part of the party sough to be charged. This is necessarily so because negligence is not a fact in itself, but is the legal result of certain facts. Therefore, the facts which constitute the negligence charged and also the facts which establish such negligence as the proximate cause, or as one of the proximate causes, of the injury must be alleged.” _Gillespie v. Goodyear Svc. Stores,_ 258 N.C. 487 (1963), quoting _Shives v. Sample,_ 238 N.C. 724 (1953).^[N.B. The current NC Rules of Civil Procedure follow the FRCP model. _Gillespie_ pre-dates the adoption of these rules.]
 
 # Motions Under Rule 12
 
@@ -517,7 +517,7 @@ Relation back is permitted if, within period for service under Rule 4(m), newly-
 ##### Question 
 
 - Does _Krupski_ alter the result in _Worthington_? 
-  - Court in _Krupski_ cites a dicitionary definition of "mistake" that includes "a wrong action or statement proceeding from faulty judgment, _inadequate knowledge_, or inattention." 
+  - Court in _Krupski_ cites a dicitionary definition of "mistake" that includes "a wrong action or statement proceeding from faulty judgment, _inadequate knowledge,_ or inattention." 
   - But Supreme Court didn't directly address the "lack of knowledge" question 
 
 
@@ -611,7 +611,7 @@ Cf. Model Rules of Professional Conduct Rule 3.1 ("Meritorious Claims and Conten
 
 ##### Issue
 
-- Whether attorney had a good faith argument for challenging the 4th Circuit’s prior decision in _Owens-Brockway Glass Container_, holding CBA applied to Title VII claims?
+- Whether attorney had a good faith argument for challenging the 4th Circuit’s prior decision in _Owens-Brockway Glass Container,_ holding CBA applied to Title VII claims?
 
 ##### Analysis
 
@@ -629,7 +629,7 @@ Cf. Model Rules of Professional Conduct Rule 3.1 ("Meritorious Claims and Conten
 
 ##### Postscript 
 
-The attorney in this case, Pamela Hunter, was censured by the NC State Bar Grievance Committee in 2010, for her conduct in connection with a medical malpractice case. _Matter of Hunter_, 10G0295 (2010)
+The attorney in this case, Pamela Hunter, was censured by the NC State Bar Grievance Committee in 2010, for her conduct in connection with a medical malpractice case. _Matter of Hunter,_ 10G0295 (2010)
 
 - The Grievance Committee found that Hunter violated Rule 3.1 by filing the suit with “no factual basis”.
 - Hunter also violated Rules 1.4 & 1.8 by dropping the suit and personally paying her client $20,000, without explaining the purpose of the payments to the client, who though the case had settled.

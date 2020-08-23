@@ -8,7 +8,7 @@ published: '1877'
     
 ---
 
-## Mr. Chief Justice  Field delivered the opinion of the court.
+## Chief Justice  Field delivered the opinion of the court.
 
 This is an action to recover the possession of a tract of land, of the alleged value of $15,000, situated in the State of Oregon. The plaintiff asserts title to the premises by a patent of the United States issued to him in 1866, under the act of Congress of Sept. 27, 1850, usually known as the Donation Law of Oregon.[^1] The defendant claims to have acquired the premises under a sheriff's deed, made upon a sale of the property on execution issued upon a judgment recovered against the plaintiff in one of the circuit courts of the State.[^2] The case turns upon the validity of this judgment.
 

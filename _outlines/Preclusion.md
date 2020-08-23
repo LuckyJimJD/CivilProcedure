@@ -78,13 +78,13 @@ This has same practical effect as full faith and credit clause
 
 - "[F]ederal common law governs the claim-preclusive effect of a dismissal by a federal court sitting in diversity."
   - The Court rejects the argument that the issue is governed by FRCP Rule 41(b), which says that an involuntary dismissal (other than for lack of jurisdiction, improper venue, or failure to join a Rule 19 party) "operates as an adjudication on the merits", unless the dismissal order says otherwise. 
-    - The Court says that the designation of a dismissal as "on the merits" under Rule 41(b) is primarily to bar the plaintiff from bringing the same claim(s) again _in the same court_, but does not necessarily mean that claim preclusion would apply. 
+    - The Court says that the designation of a dismissal as "on the merits" under Rule 41(b) is primarily to bar the plaintiff from bringing the same claim(s) again _in the same court,_ but does not necessarily mean that claim preclusion would apply. 
   - Neither the Constitution nor any federal statute governs the issue. 
     - The full faith & credit clause of the Constitution only governs the preclusive effect that one state's court must give to the prior judgment of another state's court. 
     - The federal full faith & credit statute (28 U.S.C. § 1738) only governs the preclusive effect that a federal court must give to the prior judgment of a prior state court.
   - Absent any governing Constitutonal provision, federal statute, or FRCP, it's up to the federal courts to determine the appropriate rule as a matter of federal common law. 
 - The Court "adopt[s], as the federally prescribed rule of decision, the [claim preclusion approach] that would be applied by state courts in the State in which the federal diversity court sits"
-  - This rule is consistent with the policy of _Erie_, i.e. promote consistency between federal and state courts, to avoid forum shopping and inequitable administration of the laws. 
+  - This rule is consistent with the policy of _Erie,_ i.e. promote consistency between federal and state courts, to avoid forum shopping and inequitable administration of the laws. 
   - Note that _Erie_ does not directly apply here, because the issue is what a state court, not a federal court, must do. But the same principle fits in reverse. 
 
 ##### Example

@@ -8,7 +8,7 @@ published: '2011'
     
 ---
 
-## Justice Kennedy announced the judgment of the Court and delivered an opinion, in which the Chief Justice, Justice Scalia, and Justice Thomas join.[^1]
+## Justice Kennedy announced the judgment of the Court and delivered an opinion, in which the Chief Justice, Justice Scalia, and Justice Thomas join.
 
 Whether a person or entity is subject to the jurisdiction of a state court despite not having been present in the State either at the time of suit or at the time of the alleged injury, and despite not having consented to the exercise of jurisdiction, is a question that arises with great frequency in the routine course of litigation. The rules and standards for determining when a State does or does not have jurisdiction over an absent party have been unclear because of decades-old questions left open in _Asahi Metal Industry Co. v. Superior Court of Cal., Solano Cty.,_ 480 U.S. 102 (1987).
 
@@ -66,9 +66,9 @@ Respondent has not established that J. McIntyre engaged in conduct purposefully 
 
 [ * * * ]
 
-Due process protects petitioner's right to be subject only to lawful authority. At no time did petitioner engage in any activities in New Jersey that reveal an intent to invoke or benefit from the protection of its laws. New Jersey is without power to adjudge the rights and liabilities of J. McIntyre, and its exercise of jurisdiction would violate due process. The contrary judgment of the New Jersey Supreme Court is reversed. 
+Due process protects petitioner's right to be subject only to lawful authority. At no time did petitioner engage in any activities in New Jersey that reveal an intent to invoke or benefit from the protection of its laws. New Jersey is without power to adjudge the rights and liabilities of J. McIntyre, and its exercise of jurisdiction would violate due process. The contrary judgment of the New Jersey Supreme Court is 
 
---- 
+_Reversed_. 
 
 ## Justice Breyer, with whom Justice Alito joins, concurring in the judgment.
 
@@ -78,13 +78,11 @@ In my view, the outcome of this case is determined by our precedents. Based on t
 
 [ * * * ]
 
---- 
-
 ## Justice Ginsberg, with whom Justice Sotomayor and Justice Kagan join, dissenting.
 
 A foreign industrialist seeks to develop a market in the United States for machines it manufactures. It hopes to derive substantial revenue from sales it makes to United States purchasers. Where in the United States buyers reside does not matter to this manufacturer. Its goal is simply to sell as much as it can, wherever it can. It excludes no region or State from the market it wishes to reach. But, all things considered, it prefers to avoid products liability litigation in the United States. To that end, it engages a U.S. distributor to ship its machines stateside. Has it succeeded in escaping personal jurisdiction in a State where one of its products is sold and causes injury or even death to a local user?
 
-Under this Court's pathmarking precedent in _International Shoe Co. v. Washington_ and subsequent decisions, one would expect the answer to be unequivocally, "No." But instead, six Justices of this Court, in divergent opinions, tell us that the manufacturer has avoided the jurisdiction of our state courts, except perhaps in States where its products are sold in sizeable quantities. Inconceivable as it may have seemed yesterday, the splintered majority today "turn[s] the clock back to the days before modern long-arm statutes when a manufacturer, to avoid being haled into court where a user is injured, need only Pilate-like wash its hands of a product by having independent distributors market it." Weintraub, _A Map Out of the Personal Jurisdiction Labyrinth_, 28 U.C. D. L.Rev. 531, 555 (1995).
+Under this Court's pathmarking precedent in _International Shoe Co. v. Washington_ and subsequent decisions, one would expect the answer to be unequivocally, "No." But instead, six Justices of this Court, in divergent opinions, tell us that the manufacturer has avoided the jurisdiction of our state courts, except perhaps in States where its products are sold in sizeable quantities. Inconceivable as it may have seemed yesterday, the splintered majority today "turn[s] the clock back to the days before modern long-arm statutes when a manufacturer, to avoid being haled into court where a user is injured, need only Pilate-like wash its hands of a product by having independent distributors market it." Weintraub, _A Map Out of the Personal Jurisdiction Labyrinth,_ 28 U.C. D. L.Rev. 531, 555 (1995).
 
 
 ## I

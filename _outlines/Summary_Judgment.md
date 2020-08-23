@@ -79,7 +79,7 @@ Materiality of facts depends on the substantive law governing the claim(s) or af
 - Where claim requires heightened degree of proof (e.g. clear & convincing evidence of actual malice, for defamation claim by public figure), that substantive standard applies on summary judgment.
 - Credibility is not a proper issue for summary judgment.
     - Jury question
-    - See _Nanty-Glo v. American Surety Co._, 163 A. 523 (Pa. 1932)
+    - See _Nanty-Glo v. American Surety Co.,_ 163 A. 523 (Pa. 1932)
         - No summary judgment where moving party relies exclusively upon oral testimony (affidavits or depositions) to establish the absence of a genuine issue of material fact.’" 
     - But see _Scott v. Harris_ (US 2007)
         - “When opposing parties tell two different stories, one of which is blatantly contradicted by the record, so that no reasonable jury could believe it, a court should not adopt that version of the facts for purposes of ruling on a motion for summary judgment.” 
