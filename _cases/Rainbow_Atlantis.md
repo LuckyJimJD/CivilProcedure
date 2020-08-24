@@ -11,7 +11,7 @@ published: '1994'
 
 # Order Granting Defendant's Motion for Summary Judgment
 
-# Fong, District Judge.
+#### Fong, District Judge.
 
 On November 7, 1994, the court heard defendant Atlantis Submarines Hawaii, L.P.’s motion for summary judgment. For the reasons detailed below, the court GRANTS the motion.
 
@@ -19,7 +19,7 @@ On November 7, 1994, the court heard defendant Atlantis Submarines Hawaii, L.P.�
 
 Plaintiff Rainbow Management Group (“RMG”) has sued defendants Atlantis Submarines Hawaii, L.P. (“Atlantis”) and George A. Haydu (“Haydu”) for damages to and loss of use of RMG’s vessel Elua, sustained when the Elua collided with Haydu’s vessel. Defendant Atlantis has filed the instant motion for summary judgment. Atlantis argues that RMG’s claims are barred because they were compulsory counterclaims not pleaded in previous litigation regarding the collision.
 
-## Background
+# Background
 
 Defendant Atlantis operates commercial submarine tours off-shore at Waikiki Beach. At the time of the accident, RMG was under contract with Atlantis to transport passengers back and forth from the shore to the submarine.
 
@@ -80,7 +80,7 @@ This conclusion finds support in Hall v. General Motors, 647 F.2d 175, 184 (D.C.
 
 In the instant case, Atlantis’ initial cross-claim included a claim for contribution and indemnity, as well as an additional substantive claim for breach of contract. RMG was therefore on notice that it would have to defend against claims other than its own original claim. Accordingly, under the rule adopted today, the court GRANTS Atlantis’ motion for summary judgment.
 
-CONCLUSION
+# Conclusion
 
 For the foregoing reasons, defendant’s motion for summary judgment is GRANTED.
 

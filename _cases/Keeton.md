@@ -8,7 +8,7 @@ published: '1984'
     
 ---
 
-# Justice Rehnquist delivered the opinion of the Court.
+#### Justice Rehnquist delivered the opinion of the Court.
 
 Petitioner Kathy Keeton sued respondent Hustler Magazine, Inc., and other defendants in the United States District Court for the District of New Hampshire, alleging jurisdiction over her libel complaint by reason of diversity of citizenship. The District Court dismissed her suit because it believed that the Due Process Clause of the Fourteenth Amendment to the United States Constitution forbade the application of New Hampshire's long-arm statute in order to acquire personal jurisdiction over respondent. The Court of Appeals for the First Circuit affirmed, summarizing its concerns with the statement that "the New Hampshire tail is too small to wag so large an out-of-state dog." We granted certiorari, and we now reverse.
 

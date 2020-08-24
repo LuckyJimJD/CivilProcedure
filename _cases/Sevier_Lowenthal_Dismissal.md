@@ -11,7 +11,7 @@ published: '2018'
 
 # Memorandum Opinion 
 
-# Randolph D. Moss, United States District Judge.
+#### Randolph D. Moss, United States District Judge.
 
 Plaintiff Chris Sevier, proceeding _pro se,_ seeks the removal of "the Gay Pride Rainbow Colored Flag" from "the halls and public access way[s] of Federal legislative buildings." "[H]omosexuality," he says, "is a religion," which the public display of the gay pride flag impermissibly favors. According to Sevier, display of the flag violates the Establishment Clause, discourages him from lobbying Congress, and violates his rights to equal protection and substantive due process. Sevier has made similar claims in, by his count, "more than [fifteen]" other lawsuits. In addition, Sevier asks that the Court "declare that the holdings in _United States v. Windsor,_ ... and _Obergefell v. Hodges,_ ... are intellectually dishonest and amount to acts of judicial tyranny and judicial malpractice." 
 

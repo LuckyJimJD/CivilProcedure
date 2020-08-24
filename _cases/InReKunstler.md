@@ -9,9 +9,9 @@ published: '1990'
     
 ---
 
-## Before Chapman, Wilkinson & Wilkins, Circuit Judges.
+#### Before Chapman, Wilkinson & Wilkins, Circuit Judges.
 
-# Chapman, Circuit Judge
+#### Chapman, Circuit Judge
 
 Three attorneys appeal the award of Rule 11 sanctions against them in the amount of $122,834.28. Appellants were sanctioned following the dismissal of a 42 U.S.C. § 1983 action, in which they represented certain plaintiffs seeking monetary damages and injunctive relief from the Governor of North Carolina, a number of North Carolina district attorneys, a sheriff, certain State Bureau of Investigation officers, the State Attorney General and others for an allegedly improper state criminal prosecution and harassment. We affirm in part, vacate in part, and remand with instructions.
 

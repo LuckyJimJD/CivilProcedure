@@ -8,7 +8,7 @@ published: '2005'
     
 ---
 
-# Justice Souter delivered the opinion of the Court.
+#### Justice Souter delivered the opinion of the Court.
 
 The question is whether want of a federal cause of action to try claims of title to land obtained at a federal tax sale precludes removal to federal court of a state action with nondiverse parties raising a disputed issue of federal title law. We answer no, and hold that the national interest in providing a federal forum for federal tax litigation is sufficiently substantial to support the exercise of federal-question jurisdiction over the disputed issue on removal, which would not distort any division of labor between the state and federal courts, provided or assumed by Congress.
 

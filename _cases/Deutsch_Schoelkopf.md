@@ -11,11 +11,11 @@ published: '2016'
 
 # Order Granding Motion to Dismiss
 
-# Ronald B. Leighton, District Judge.
+#### Ronald B. Leighton, District Judge.
 
 This matter is before the Court on Defendants' Motion to Dismiss Plaintiff Deutsch's Interpleader Action. Deutsch is currently in possession of a valuable sculpture and seeks equitable relief to determine ownership of the artwork. Defendants seek dismissal claiming an Interpleader Action is improper because the complaint fails to name two or more adverse claimants and this Court does not otherwise have jurisdiction.
 
-## Background
+# Background
 
 Deutsch seeks to interplead a sculpture—[_Industrial Forms_ (aka _Auto Tower_)](https://www.nga.gov/collection/art-object-page.141426.html)—by well known American artist John Storrs. She received the sculpture from the estate of her father who previously owned an art gallery in New York City. The ownership history of sculpture, while somewhat circuitous, is relevant to the motion.
 

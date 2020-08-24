@@ -163,7 +163,7 @@ title: Schedule & Assignments
 ### Claim Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
-- [Whole Woman's Health v. Hellerstedt](https://scholar.google.com/scholar_case?case=12719084930434459940)
+- [Whole Woman's Health v. Hellerstedt](https://www.emfink.net/CivilProcedure/cases/Hellerstedt)
 - [Review Problem 1](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
 #### October 21 & 23 
