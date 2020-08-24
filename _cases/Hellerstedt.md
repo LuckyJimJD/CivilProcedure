@@ -2,7 +2,7 @@
 layout: case
 
 course: Civil Procedure
-title: 'Whole Woman's Health v. Hellerstedt'
+title: "Whole Woman's Health v. Hellerstedt"
 cite: '136 S.Ct. 2292'
 published: '2016'
     
