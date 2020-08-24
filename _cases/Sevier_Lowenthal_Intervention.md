@@ -53,7 +53,7 @@ Parties seeking to intervene as of right under Federal Rule of Civil Procedure 2
 
 [ * * * ]
 
-# 1. Motion to Intervene and Motion for Summary Judgment
+### 1. Motion to Intervene and Motion for Summary Judgment
 
 A proposed intervenor under Rule 24(a) must first demonstrate Article III standing. Here, Gunter, Kohl, and Harley have primarily argued that the message of the gay pride flag is "an oppressive and offensive religious symbol," and reiterated Sevier's objections to _Obergefell_. The former is the sort of generalized offense that does not constitute an injury for purposes of an Establishment Clause claim. The latter allegations, as noted above, are unrelated to any particular injury identified by Gunter, Kohl, and Harley, and thus fail to establish standing.
 
