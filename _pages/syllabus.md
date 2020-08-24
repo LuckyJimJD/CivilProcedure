@@ -61,6 +61,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 # Schedule & Assignments 
 
+
 ## Introduction 
 
 #### August 31
@@ -106,7 +107,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- [RUle 14 diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
+- [Rule 14 diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
 - [Lehman v. Revolution Portfolio LLC](https://www.emfink.net/CivilProcedure/cases/Lehman_Revolution)
 
 #### September 11
@@ -198,7 +199,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ### General Jurisdiction 
 
-- [Daimler A.G. v. Bauman](https://scholar.google.com/scholar_case?case=1929137067016164680)
+- [Daimler A.G. v. Bauman](https://www.emfink.net/CivilProcedure/cases/Daimler_Bauman)
 
 #### October 14 
 
@@ -219,7 +220,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Claim Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
-- [Whole Woman's Health v. Hellerstedt](https://scholar.google.com/scholar_case?case=12719084930434459940)
+- [Whole Woman's Health v. Hellerstedt](https://www.emfink.net/CivilProcedure/cases/Hellerstedt)
 - [Review Problem 1](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
 #### October 21 & 23 
@@ -335,7 +336,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 #### Due November 22 
 
 ##### Click & Learn: Summary Judgment (Unit 8, Part I, sec. III)
-
 
 #### December 2 
 

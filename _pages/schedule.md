@@ -50,7 +50,7 @@ title: Schedule & Assignments
 ### Third-Party Claims 
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
-- [RUle 14 diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
+- [Rule 14 diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
 - [Lehman v. Revolution Portfolio LLC](https://www.emfink.net/CivilProcedure/cases/Lehman_Revolution)
 
 #### September 11
@@ -279,7 +279,6 @@ title: Schedule & Assignments
 #### Due November 22 
 
 ##### Click & Learn: Summary Judgment (Unit 8, Part I, sec. III)
-
 
 #### December 2 
 
