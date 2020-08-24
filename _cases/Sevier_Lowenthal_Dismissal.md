@@ -17,7 +17,7 @@ Plaintiff Chris Sevier, proceeding _pro se,_ seeks the removal of "the Gay Pride
 
 Currently pending before the Court are Defendants' motion to dismiss, Sevier's motion for leave to amend his complaint, a motion to intervene,[^1] and numerous other motions. For the reasons explained below, the Court will GRANT Defendants' motion to dismiss [ … ].
 
-# I. BACKGROUND
+# I. Background
 
 Sevier's complaint consists largely of his views regarding homosexuality and criticisms of the Supreme Court's _Obergefell_ decision. It also recounts Sevier's efforts to "put[] [_Obergefell_] to the test" by marrying inanimate objects. The present action appears to focus, however, on the following allegations: Defendants, who are four members of the U.S. House of Representatives, have allegedly "authorized and installed [one or more] Gay Pride Rainbow Colored Flag[s]" in the hallways outside their offices, which Sevier "frequently encounter[s]". Given Sevier's "religious worldview" that "homosexuality is obscene, immoral, [and] subversive to human flourishing," he "[i]s offended by [the flags'] presence". The flags, he says, make him "feel[] unwelcome[]," because he does not "adhere to [Defendants'] particular religious orthodoxy".
 
