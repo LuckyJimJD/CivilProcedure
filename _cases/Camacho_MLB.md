@@ -9,15 +9,17 @@ published: '2013'
     
 ---
 
-## Order Granding Defendants' Motion to Dismiss
+M. James Lorenz, District Judge.
 
-## M. James Lorenz, District Judge.
+# Order Granding Defendants' Motion to Dismiss
 
 On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pesqueira commenced this tort action against multiple defendants. This action arises from allegations that Major League Baseball conspired with the Mexican Major Leagues to prevent baseball prospect Daniel Pesqueira from playing baseball in the United States. Pending before the Court is the Office of the Commissioner of Baseball (d/b/a Major League Baseball), Major League Baseball Enterprises, Inc., and Major League Baseball Properties, Inc.'s motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(7). Plaintiffs oppose the motion.
 
 The Court found this motion suitable for determination on the papers submitted and without oral argument. For the following reasons, the Court GRANTS Defendants' motion to dismiss.
 
-## I. [BACKGROUND][^3]
+# I. Background[^1]
+
+[^1]: (n.3 in original) In the complaint, David Gonzalez Camacho is referred to as 'Gonzalez,' and Daniel Arrellano Pesqueira, who is also once mentioned as 'Daniel Pesqueira Arellano,' is referred to as 'Pesqueira.' The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
 
 Mr. Gonzalez is a citizen of Mexico, "who is domiciled and does business in the City of Tijuana . . . in the country of Mexico, and who does business and resides in the County of San Diego, California, USA." He is and was "engaged in the training, support, promotion and representation of young, talented and high caliber Mexican baseball players for eventual placement in international major and minor leagues, including Major and Minor League baseball conducted in the United States[.]" Mr. Pesqueira is a citizen of Mexico who resides in Tijuana, Mexico. 
 
@@ -35,15 +37,14 @@ Plaintiffs continued their investigation. Either during or after the investigati
 
 Plaintiffs commenced this action on November 30, 2012. They subsequently amended their complaint after it was dismissed without prejudice for lack of subject-matter jurisdiction. [T]hey assert the following claims against all of the defendants for: (1) intentional interference with economic relations; (2) intentional interference with prospective economic advantage; (3) negligent interference with economic relations; (4) negligent interference with prospective economic relations; (5) declaratory relief; (6) negligence; and (7) unfair business practices. Defendants now move to dismiss under Rule 12(b)(7). Plaintiffs oppose.
 
-
-## II. LEGAL STANDARD
+# II. Legal Standard
 
 A party may move to dismiss a case for "failure to join a party under Rule 19." Fed. R. Civ. P. 12(b)(7). Rule 19 imposes a three-step inquiry: (1) Is the absent party necessary (i.e., required to be joined if feasible) under Rule 19(a)?; (2) If so, is it feasible to order that absent party to be joined?; and (3) If joinder is not feasible, can the case proceed without the absent party, or is the absent party indispensable such that the action must be dismissed? The terms "necessary" and "feasible" are "terms of art in Rule 19 jurisprudence": "Necessary" refers to a party who should be joined if feasible; and "indispensable" refers to "a party whose participation is so important to the resolution of the case that, if the joinder of the party is not feasible, the suit must be dismissed." The failure to join a party under Rule 19 can only lead to dismissal of a suit where the court cannot obtain jurisdiction over the necessary party and that party is determined to be indispensable to the action. _See_ Fed. R .Civ. P. 19(a).
 
 "The Ninth Circuit has held that a court should grant a 12(b)(7) motion to dismiss only if the court determines that joinder would destroy jurisdiction and the nonjoined party is necessary and indispensable." _Biagro W. Sales Inc. v. Helena Chem. Co.,_ 160 F. Supp. 2d 1136, 1141 (E.D. Cal. 2001). "A motion to dismiss for failure to join an indispensable party requires the moving party to bear the burden in producing evidence in support of the motion." _Id._ "A Rule 12(b)(7) motion for failure to join an indispensable party demands a fact specific and practical inquiry." _Id.. "To determine whether Rule 19 requires the joinder of additional parties, the court may consider evidence outside the pleadings." _McShan v. Sherrill,_ 283 F.2d 462, 464 (9th Cir. 1960).
 
 
-## III. DISCUSSION
+# III. Discussion
 
 Defendants argue that both the Red Devils and the Mexican League are necessary parties that cannot be feasibly joined to this action because (1) a determination of the validity of Mr. Pesqueira's alleged contracts with the Red Devils is necessary, and (2) joining the parties would vitiate this Court's subject-matter jurisdiction and Plaintiffs cannot establish personal jurisdiction over these absent parties in this Court. Plaintiffs present their claims very differently in their opposition brief compared to the allegations in the complaint. In a disingenuous early-inning strategic shift, they direct the focus of this action on Mr. Gonzalez's agency contract with Mr. Pesqueira, arguing that the Red Devils and Mexican League are "joint tortfeasors" that are not necessary parties to litigate the claims asserted in this action. Plaintiffs swing for the fences, but ultimately come up short.
 
@@ -84,11 +85,8 @@ Plaintiffs' primary arguments addressing indispensability are: (1) Defendants fa
 
 Rather, in seeking a determination that the Red Devils contracts are invalid, Plaintiffs are, for all practical purposes, attempting to set aside a contract. And it is evident from the allegations in the complaint that the Red Devils, as a party to the alleged contracts, and by extension the Mexican League, are parties that will be affected by any determination regarding the validity of the contracts. If Plaintiffs want to record an earned run against the absent pitchers, Plaintiffs need to face them. Thus, under _Lomayaktewa,_ the Red Devils and the Mexican League are indispensable parties to this action. Consequently, all four of the Rule 19(b) factors weigh in favor of dismissal. And finally, strike three—out.
 
-## IV. CONCLUSION & ORDER
+# IV. Conclusion & Order
 
 In light of the foregoing, the Court GRANTS Defendants' motion to dismiss under Rule 12(b)(7) and DISMISSES this action in its entirety.
 
 It is so ordered. 
-
-[^3]: [Note 3 in Opinion.] In the complaint, David Gonzalez Camacho is referred to as "Gonzalez," and Daniel Arrellano Pesqueira, who is also once mentioned as "Daniel Pesqueira Arellano," is referred to as "Pesqueira." The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
-

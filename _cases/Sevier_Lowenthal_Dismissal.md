@@ -9,15 +9,15 @@ published: '2018'
     
 ---
 
-## Memorandum Opinion 
+# Memorandum Opinion 
 
-## Randolph D. Moss, United States District Judge.
+# Randolph D. Moss, United States District Judge.
 
 Plaintiff Chris Sevier, proceeding _pro se,_ seeks the removal of "the Gay Pride Rainbow Colored Flag" from "the halls and public access way[s] of Federal legislative buildings." "[H]omosexuality," he says, "is a religion," which the public display of the gay pride flag impermissibly favors. According to Sevier, display of the flag violates the Establishment Clause, discourages him from lobbying Congress, and violates his rights to equal protection and substantive due process. Sevier has made similar claims in, by his count, "more than [fifteen]" other lawsuits. In addition, Sevier asks that the Court "declare that the holdings in _United States v. Windsor,_ ... and _Obergefell v. Hodges,_ ... are intellectually dishonest and amount to acts of judicial tyranny and judicial malpractice." 
 
 Currently pending before the Court are Defendants' motion to dismiss, Sevier's motion for leave to amend his complaint, a motion to intervene,[^1] and numerous other motions. For the reasons explained below, the Court will GRANT Defendants' motion to dismiss [ … ].
 
-## I. BACKGROUND
+# I. BACKGROUND
 
 Sevier's complaint consists largely of his views regarding homosexuality and criticisms of the Supreme Court's _Obergefell_ decision. It also recounts Sevier's efforts to "put[] [_Obergefell_] to the test" by marrying inanimate objects. The present action appears to focus, however, on the following allegations: Defendants, who are four members of the U.S. House of Representatives, have allegedly "authorized and installed [one or more] Gay Pride Rainbow Colored Flag[s]" in the hallways outside their offices, which Sevier "frequently encounter[s]". Given Sevier's "religious worldview" that "homosexuality is obscene, immoral, [and] subversive to human flourishing," he "[i]s offended by [the flags'] presence". The flags, he says, make him "feel[] unwelcome[]," because he does not "adhere to [Defendants'] particular religious orthodoxy".
 
@@ -33,7 +33,7 @@ On September 22, 2017, Defendants—four members of the House of Representatives
 
 [ * * * ]
 
-## II. LEGAL STANDARD
+# II. Legal Standard
 
 ## A. Motion to Dismiss Under [ * * * ] 12(b)(6)
 
@@ -43,7 +43,7 @@ Defendants have also moved to dismiss under Federal Rule of Civil Procedure 12(b
 
 [ * * * ]
 
-## III. ANALYSIS
+# III. Analysis
 
 ## A. Motion to Dismiss
 

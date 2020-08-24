@@ -9,15 +9,15 @@ published: '2018'
     
 ---
 
-## Memorandum Opinion 
+# Memorandum Opinion 
 
-## Randolph D. Moss, United States District Judge.
+# Randolph D. Moss, United States District Judge.
 
 Plaintiff Chris Sevier,[^1] proceeding _pro se,_ seeks the removal of "the Gay Pride Rainbow Colored Flag" from "the halls and public access way[s] of Federal legislative buildings." "[H]omosexuality," he says, "is a religion," which the public display of the gay pride flag impermissibly favors. According to Sevier, display of the flag violates the Establishment Clause, discourages him from lobbying Congress, and violates his rights to equal protection and substantive due process. Sevier has made similar claims in, by his count, "more than [fifteen]" other lawsuits. In addition, Sevier asks that the Court "declare that the holdings in _United States v. Windsor,_ ... and _Obergefell v. Hodges,_ ... are intellectually dishonest and amount to acts of judicial tyranny and judicial malpractice." 
 
 Currently pending before the Court are Defendants' motion to dismiss,[^2] Sevier's motion for leave to amend his complaint, a motion to intervene, and numerous other motions. For the reasons explained below, the Court [ … ] will DENY the motion to intervene [ … ].
 
-## I. BACKGROUND
+# I. BACKGROUND
 
 Sevier's complaint consists largely of his views regarding homosexuality and criticisms of the Supreme Court's _Obergefell_ decision. It also recounts Sevier's efforts to "put[] [_Obergefell_] to the test" by marrying inanimate objects. The present action appears to focus, however, on the following allegations: Defendants, who are four members of the U.S. House of Representatives, have allegedly "authorized and installed [one or more] Gay Pride Rainbow Colored Flag[s]" in the hallways outside their offices, which Sevier "frequently encounter[s]". Given Sevier's "religious worldview" that "homosexuality is obscene, immoral, [and] subversive to human flourishing," he "[i]s offended by [the flags'] presence". The flags, he says, make him "feel[] unwelcome[]," because he does not "adhere to [Defendants'] particular religious orthodoxy".
 
@@ -33,7 +33,7 @@ On September 22, 2017, Defendants—four members of the House of Representatives
 
 [ * * * ]
 
-## II. LEGAL STANDARD
+# II. Legal Standard
 
 [ * * * ]
 
@@ -45,7 +45,7 @@ Parties seeking to intervene as of right under Federal Rule of Civil Procedure 2
 
 [ * * * ]
 
-## III. ANALYSIS
+# III. Analysis
 
 [ * * * ]
 
@@ -53,7 +53,7 @@ Parties seeking to intervene as of right under Federal Rule of Civil Procedure 2
 
 [ * * * ]
 
-## 1. Motion to Intervene and Motion for Summary Judgment
+# 1. Motion to Intervene and Motion for Summary Judgment
 
 A proposed intervenor under Rule 24(a) must first demonstrate Article III standing. Here, Gunter, Kohl, and Harley have primarily argued that the message of the gay pride flag is "an oppressive and offensive religious symbol," and reiterated Sevier's objections to _Obergefell_. The former is the sort of generalized offense that does not constitute an injury for purposes of an Establishment Clause claim. The latter allegations, as noted above, are unrelated to any particular injury identified by Gunter, Kohl, and Harley, and thus fail to establish standing.
 
@@ -65,7 +65,7 @@ That leaves the question whether permissive intervention is appropriate. "It rem
 
 [ * * * ]
 
-## CONCLUSION
+# Conclusion
 
 For these reasons, the Court will [ … ] deny the motion to intervene [ … ].
 

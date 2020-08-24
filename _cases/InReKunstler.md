@@ -11,12 +11,12 @@ published: '1990'
 
 ## Before Chapman, Wilkinson & Wilkins, Circuit Judges.
 
-## Chapman, Circuit Judge
+# Chapman, Circuit Judge
 
 Three attorneys appeal the award of Rule 11 sanctions against them in the amount of $122,834.28. Appellants were sanctioned following the dismissal of a 42 U.S.C. § 1983 action, in which they represented certain plaintiffs seeking monetary damages and injunctive relief from the Governor of North Carolina, a number of North Carolina district attorneys, a sheriff, certain State Bureau of Investigation officers, the State Attorney General and others for an allegedly improper state criminal prosecution and harassment. We affirm in part, vacate in part, and remand with instructions.
 
 
-## I
+# I
 
 The appellant attorneys are Barry Nakell, a professor at the University of North Carolina School of Law; Lewis Pitts, Director of the Christic Institute South, a public interest law firm in Carrboro, North Carolina; and [William Kunstler](http://archive.pov.org/disturbingtheuniverse/background/), a nationally known civil rights attorney. The § 1983 action was connected with the appellants' earlier representation of two American Indians, Eddie Hatcher and Timothy Jacobs, in a federal criminal case.
 
@@ -45,9 +45,9 @@ On June 13, 1989, the state defendants filed their Rule 11 motion, and the count
 
 [ * * * ]
 
-## III
+# III
 
-## VIOLATIONS OF RULE 11
+# Violations of Rule 11
 
 Rule 11 states, in relevant part:
 
@@ -94,7 +94,7 @@ In the present case, appellants are experienced attorneys with both the time and
 The need for discovery to complete the factual basis for alleged claims is not an excuse to allege claims with no factual basis. While we do not disagree with the result obtained in _Kraemer,_ we find that it is not applicable to the present case. A lawyer is an officer of the court, and he should never file a lawsuit without confidence that it has a reasonable basis in fact and is well grounded in law. For the purposes of Rule 11, the factual inquiry necessary to file a complaint is generally satisfied if all of the information which can be obtained prior to suit supports the allegations made, even though _further_ facts must be obtained through discovery to finally prove the claim. However, a complaint containing allegations unsupported by _any_ information obtained prior to filing, or allegations based on information which minimal factual inquiry would disprove, will subject the author to sanctions.
 
 
-## C. Well Grounded In Law
+# C. Well Grounded In Law
 
 The district court found that the complaint was not well grounded in law. We agree. Appellants contend that the strength of the legal basis of the complaint is demonstrated by their opponent's lengthy response to them, and the approval of a civil rights attorney, who reviewed and approved of, but did not sign, the complaint. The length of an opponent's response to a complaint does not validate the otherwise insubstantial claims therein, because a lengthy response may reveal less the merit of particular claims than the number of valid defenses to them. An opponent may have employed "scorched earth" tactics in composing a response far beyond what is required to oppose frivolous claims. Nor is the Rule 11 standard of whether a "reasonable attorney in like circumstances would believe his actions to be factually and legally justified" satisfied merely by having another attorney review a complaint. The reviewing attorney may be unfamiliar with the true facts of the case, the factual and legal investigation conducted, or the law relevant to the complaint.
 
@@ -109,7 +109,7 @@ The district court also noted "serious standing problems with many of the plaint
 We therefore affirm the court's findings that the complaint on the whole was not well grounded in law.
 
 
-## D. Improper Purpose
+# D. Improper Purpose
 
 Sanctions could have been imposed for the violations already discussed, but the district court also based the award of sanctions on appellants' improper purpose in filing the complaint. The type and number of Rule 11 violations are considered in determining the appropriate sanction, and it was proper for the district court to consider appellants' purpose. Although the district court first discussed "improper purpose" under Rule 11, whether or not a pleading has a foundation in fact or is well grounded in law will often influence the determination of the signer's purpose, and we suggest that a district court should consider the first two prongs of Rule 11 before making a determination of improper purpose.
 
@@ -137,9 +137,9 @@ We have affirmed the district court's conclusion that sanctions were warranted b
 
 [ * * * ]
 
-## V
+# V
 
-## AMOUNT OF SANCTION
+## Amount of Sanction
 
 [ * * * ]
 
@@ -149,9 +149,9 @@ In addition to imposing sanctions in the amount of attorney's fees claimed by th
 
 [ * * * ]
 
-## VII
+# VII
 
-## CONCLUSION
+# Conclusion
 
 In sum, we affirm the findings of the district court which led to the imposition of Rule 11 sanctions in this case against plaintiffs' attorneys. However, we vacate the sanction imposed, because it was based on improper considerations and the size of the sanction required the district court to allow sanctioned counsel an opportunity to respond, at least to the fee statements on which the sanction was based. On remand, the district court should consider the factors which we have adopted prior to determining the sanction which should be imposed.
 

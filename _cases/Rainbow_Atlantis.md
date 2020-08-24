@@ -9,17 +9,17 @@ published: '1994'
     
 ---
 
-## Order Granting Defendant's Motion for Summary Judgment
+# Order Granting Defendant's Motion for Summary Judgment
 
-## Fong, District Judge.
+# Fong, District Judge.
 
 On November 7, 1994, the court heard defendant Atlantis Submarines Hawaii, L.P.’s motion for summary judgment. For the reasons detailed below, the court GRANTS the motion.
 
-## INTRODUCTION
+# Introduction
 
 Plaintiff Rainbow Management Group (“RMG”) has sued defendants Atlantis Submarines Hawaii, L.P. (“Atlantis”) and George A. Haydu (“Haydu”) for damages to and loss of use of RMG’s vessel Elua, sustained when the Elua collided with Haydu’s vessel. Defendant Atlantis has filed the instant motion for summary judgment. Atlantis argues that RMG’s claims are barred because they were compulsory counterclaims not pleaded in previous litigation regarding the collision.
 
-## BACKGROUND
+## Background
 
 Defendant Atlantis operates commercial submarine tours off-shore at Waikiki Beach. At the time of the accident, RMG was under contract with Atlantis to transport passengers back and forth from the shore to the submarine.
 
@@ -31,7 +31,7 @@ The Elua collided with the Boston Whaler. The Boston Whaler was destroyed, and s
 
 Plaintiff RMG now seeks recovery against Atlantis for damages to Elua’s hull and the resultant loss of use of the vessel. In response, Atlantis asserts that RMG’s claim is a compulsory counterclaim that RMG should have asserted in a previous lawsuit by one of the injured Boston Whaler passengers against Atlantis, RMG, and Haydu. See Berry v. Atlantis Submarines Hawaii, L.P., Civil No. 93-00580 SPK (“Berry ”). The procedural history of Berry is set forth below.
 
-## PROCEDURAL HISTORY
+# Procedural History
 
 George Martin Berry, a passenger on the Boston Whaler on June 27,1992, was injured as a result of the collision. Berry and his wife sued Atlantis and RMG as co-defendants on July 22,1993. The complaint alleged that both Atlantis and RMG were negligent in the operation of their vessels.
 
@@ -47,7 +47,7 @@ Atlantis and RMG have settled with the parties in the Berry ease. In addition, R
 
 [ * * * ]
 
-## DISCUSSION
+# Discussion
 
 In support of the instant motion, Atlantis argues that RMG’s claims are compulsory counterclaims, barred by Fed.R.Civ.P. 13(a) because RMG failed to assert them in the Berry case. Rule 13(a) provides in pertinent part:
 

@@ -8,7 +8,7 @@ published: '1966'
     
 ---
 
-## Justice Brennan delivered the opinion of the Court.
+# Justice Brennan delivered the opinion of the Court.
 
 Respondent Paul Gibbs was awarded compensatory and punitive damages in this action against petitioner United Mine Workers of America (UMW) for alleged violations of § 303 of the Labor Management Relations Act, 1947,[^1] and of the common law of Tennessee. The case grew out of the rivalry between the United Mine Workers and the Southern Labor Union over representation of workers in the southern Appalachian coal fields. Tennessee Consolidated Coal Company, not a party here, laid off 100 miners of the UMW's Local 5881 when it closed one of its mines in southern Tennessee during the spring of 1960. Late that summer, Grundy Company, a wholly owned subsidiary of Consolidated, hired respondent as mine superintendent to attempt to open a new mine on Consolidated's property at nearby Gray's Creek through use of members of the Southern Labor Union. As part of the arrangement, Grundy also gave respondent a contract to haul the mine's coal to the nearest railroad loading point.
 
@@ -18,7 +18,7 @@ Respondent lost his job as superintendent, and never entered into performance of
 
 [ * * * ] The jury's verdict was that the UMW had violated both § 303 and state law. [ * * * ] The Court of Appeals for the Sixth Circuit affirmed. We granted certiorari. We reverse.
 
-## I.
+# I.
 
 A threshold question is whether the District Court properly entertained jurisdiction of the claim based on Tennessee law. [ * * * ]
 

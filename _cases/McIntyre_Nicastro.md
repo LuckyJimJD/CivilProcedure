@@ -8,7 +8,7 @@ published: '2011'
     
 ---
 
-## Justice Kennedy announced the judgment of the Court and delivered an opinion, in which the Chief Justice, Justice Scalia, and Justice Thomas join.
+# Justice Kennedy announced the judgment of the Court and delivered an opinion, in which the Chief Justice, Justice Scalia, and Justice Thomas join.
 
 Whether a person or entity is subject to the jurisdiction of a state court despite not having been present in the State either at the time of suit or at the time of the alleged injury, and despite not having consented to the exercise of jurisdiction, is a question that arises with great frequency in the routine course of litigation. The rules and standards for determining when a State does or does not have jurisdiction over an absent party have been unclear because of decades-old questions left open in _Asahi Metal Industry Co. v. Superior Court of Cal., Solano Cty.,_ 480 U.S. 102 (1987).
 
@@ -16,7 +16,7 @@ Whether a person or entity is subject to the jurisdiction of a state court despi
 
 [ * * * ] Due process protects the defendant's right not to be coerced except by lawful judicial power. As a general rule, the exercise of judicial power is not lawful unless the defendant "purposefully avails itself of the privilege of conducting activities within the forum State, thus invoking the benefits and protections of its laws." _Hanson v. Denckla,_ 357 U.S. 235, 253 (1958). There may be exceptions, say, for instance, in cases involving an intentional tort. But the general rule is applicable in this products-liability case, and the so-called "stream-of-commerce" doctrine cannot displace it.
 
-## I
+# I
 
 This case arises from a products-liability suit filed in New Jersey state court. Robert Nicastro seriously injured his hand while using a metal-shearing machine manufactured by J. McIntyre Machinery, Ltd. (J. McIntyre). The accident occurred in New Jersey, but the machine was manufactured in England, where J. McIntyre is incorporated and operates. The question here is whether the New Jersey courts have jurisdiction over J. McIntyre, notwithstanding the fact that the company at no time either marketed goods in the State or shipped them there. Nicastro was a plaintiff in the New Jersey trial court and is the respondent here; J. McIntyre was a defendant and is now the petitioner.
 
@@ -35,7 +35,7 @@ In light of these facts, the New Jersey Supreme Court concluded that New Jersey 
 Both the New Jersey Supreme Court's holding and its account of what it called "[t]he stream-of-commerce doctrine of jurisdiction," were incorrect, however. This Court's _Asahi_ decision may be responsible in part for that court's error regarding the stream of commerce, and this case presents an opportunity to provide greater clarity.
 
 
-## II
+# II
 
 The Due Process Clause protects an individual's right to be deprived of life, liberty, or property only by the exercise of lawful power. This is no less true with respect to the power of a sovereign to resolve disputes through judicial process than with respect to the power of a sovereign to prescribe rules of conduct for those within its sphere. [ * * * ] 
 
@@ -58,7 +58,7 @@ The second principle is a corollary of the first. Because the United States is a
 The conclusion that the authority to subject a defendant to judgment depends on purposeful availment [ … ] does not by itself resolve many difficult questions of jurisdiction that will arise in particular cases. The defendant's conduct and the economic realities of the market the defendant seeks to serve will differ across cases, and judicial exposition will, in common-law fashion, clarify the contours of that principle.
 
 
-## III
+# III
 
 In this case, petitioner directed marketing and sales efforts at the United States. [ * * * ] Here the question concerns the authority of a New Jersey state court to exercise jurisdiction, so it is petitioner's purposeful contacts with New Jersey, not with the United States, that alone are relevant.
 
@@ -70,7 +70,7 @@ Due process protects petitioner's right to be subject only to lawful authority. 
 
 _Reversed_. 
 
-## Justice Breyer, with whom Justice Alito joins, concurring in the judgment.
+# Justice Breyer, with whom Justice Alito joins, concurring in the judgment.
 
 The Supreme Court of New Jersey adopted a broad understanding of the scope of personal jurisdiction based on its view that "[t]he increasingly fast-paced globalization of the world economy has removed national borders as barriers to trade." I do not doubt that there have been many recent changes in commerce and communication, many of which are not anticipated by our precedents. But this case does not present any of those issues. So I think it unwise to announce a rule of broad applicability without full consideration of the modern-day consequences.
 
@@ -78,14 +78,14 @@ In my view, the outcome of this case is determined by our precedents. Based on t
 
 [ * * * ]
 
-## Justice Ginsberg, with whom Justice Sotomayor and Justice Kagan join, dissenting.
+# Justice Ginsberg, with whom Justice Sotomayor and Justice Kagan join, dissenting.
 
 A foreign industrialist seeks to develop a market in the United States for machines it manufactures. It hopes to derive substantial revenue from sales it makes to United States purchasers. Where in the United States buyers reside does not matter to this manufacturer. Its goal is simply to sell as much as it can, wherever it can. It excludes no region or State from the market it wishes to reach. But, all things considered, it prefers to avoid products liability litigation in the United States. To that end, it engages a U.S. distributor to ship its machines stateside. Has it succeeded in escaping personal jurisdiction in a State where one of its products is sold and causes injury or even death to a local user?
 
 Under this Court's pathmarking precedent in _International Shoe Co. v. Washington_ and subsequent decisions, one would expect the answer to be unequivocally, "No." But instead, six Justices of this Court, in divergent opinions, tell us that the manufacturer has avoided the jurisdiction of our state courts, except perhaps in States where its products are sold in sizeable quantities. Inconceivable as it may have seemed yesterday, the splintered majority today "turn[s] the clock back to the days before modern long-arm statutes when a manufacturer, to avoid being haled into court where a user is injured, need only Pilate-like wash its hands of a product by having independent distributors market it." Weintraub, _A Map Out of the Personal Jurisdiction Labyrinth,_ 28 U.C. D. L.Rev. 531, 555 (1995).
 
 
-## I
+# I
 
 On October 11, 2001, a three-ton metal shearing machine severed four fingers on Robert Nicastro's right hand. Alleging that the machine was a dangerous product defectively made, Nicastro sought compensation from the machine's manufacturer, J. McIntyre Machinery, Ltd. (McIntyre UK). [ * * * ]
 
@@ -95,7 +95,7 @@ In sum, McIntyre UK's regular attendance and exhibitions at ISRI conventions was
 
 [ * * * ]
 
-## III
+# III
 
 This case is illustrative of marketing arrangements for sales in the United States common in today's commercial world. A foreign-country manufacturer engages a U.S. company to promote and distribute the manufacturer's products, not in any particular State, but anywhere and everywhere in the United States the distributor can attract purchasers. The product proves defective and injures a user in the State where the user lives or works. Often, as here, the manufacturer will have liability insurance covering personal injuries caused by its products. 
 
@@ -112,7 +112,7 @@ Courts, both state and federal, confronting facts similar to those here, have ri
 
 [ * * * ]
 
-## V
+# V
 
 [ * * * ]
 

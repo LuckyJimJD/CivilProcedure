@@ -8,11 +8,11 @@ published: '1980'
     
 ---
 
-## Justice White delivered the opinion of the Court.
+# Justice White delivered the opinion of the Court.
 
 The issue before us is whether, consistently with the Due Process Clause of the Fourteenth Amendment, an Oklahoma court may exercise _in personam_ jurisdiction over a nonresident automobile retailer and its wholesale distributor in a products-liability action, when the defendants' only connection with Oklahoma is the fact that an automobile sold in New York to New York residents became involved in an accident in Oklahoma.
 
-## I
+# I
 
 Respondents Harry and Kay Robinson purchased a new Audi automobile from petitioner Seaway Volkswagen, Inc. (Seaway), in Massena, N. Y., in 1976. The following year the Robinson family, who resided in New York, left that State for a new home in Arizona. As they passed through the State of Oklahoma, another car struck their Audi in the rear, causing a fire which severely burned Kay Robinson and her two children.
 
@@ -23,7 +23,7 @@ The facts presented to the District Court showed that World-Wide is incorporated
 [ * * * ]
 
 
-## II
+# II
 
 The Due Process Clause of the Fourteenth Amendment limits the power of a state court to render a valid personal judgment against a nonresident defendant. A judgment rendered in violation of due process is void in the rendering State and is not entitled to full faith and credit elsewhere. Due process requires that the defendant be given adequate notice of the suit, and be subject to the personal jurisdiction of the court, In the present case, [ … ] the only question is whether these particular petitioners were subject to the jurisdiction of the Oklahoma courts.
 
@@ -46,7 +46,7 @@ Hence, even while abandoning the shibboleth that "[t]he authority of every tribu
 Thus, the Due Process Clause "does not contemplate that a state may make binding a judgment _in personam_ against an individual or corporate defendant with which the state has no contacts, ties, or relations." _International Shoe Co._ Even if the defendant would suffer minimal or no inconvenience from being forced to litigate before the tribunals of another State; even if the forum State has a strong interest in applying its law to the controversy; even if the forum State is the most convenient location for litigation, the Due Process Clause, acting as an instrument of interstate federalism, may sometimes act to divest the State of its power to render a valid judgment.
 
 
-## III
+# III
 
 Applying these principles to the case at hand,we find in the record before us a total absence of those affiliating circumstances that are a necessary predicate to any exercise of state-court jurisdiction. Petitioners carry on no activity whatsoever in Oklahoma. They close no sales and perform no services there. They avail themselves of none of the privileges and benefits of Oklahoma law. They solicit no business there either through salespersons or through advertising reasonably calculated to reach the State. Nor does the record show that they regularly sell cars at wholesale or retail to Oklahoma customers or residents or that they indirectly, through others, serve or seek to serve the Oklahoma market. In short, respondents seek to base jurisdiction on one, isolated occurrence and whatever inferences can be drawn therefrom: the fortuitous circumstance that a single Audi automobile, sold in New York to New York residents, happened to suffer an accident while passing through Oklahoma.
 
@@ -66,11 +66,11 @@ Because we find that petitioners have no "contacts, ties, or relations" with the
 
 _Reversed_.
 
-## Mr. Justice Brennan, dissenting.
+# Mr. Justice Brennan, dissenting.
 
 The Court holds that the Due Process Clause of the Fourteenth Amendment bars the States from asserting jurisdiction over the defendants in these two cases. In each case the Court so decides because it fails to find the "minimum contacts" that have been required since _International Shoe Co. v. Washington_. Because I believe that the Court reads _International Shoe_ and its progeny too narrowly, and because I believe that the standards enunciated by those cases may already be obsolete as constitutional boundaries, I dissent.
 
-## I
+# I
 
 The Court's opinions focus tightly on the existence of contacts between the forum and the defendant. In so doing, they accord too little weight to the strength of the forum State's interest in the case and fail to explore whether there would be any actual inconvenience to the defendant. The essential inquiry in locating the constitutional limits on state-court jurisdiction over absent defendants is whether the particular exercise of jurisdiction offends "`traditional notions of fair play and substantial justice.'" _International Shoe_. The clear focus in _International Shoe_ was on fairness and reasonableness. The Court specifically declined to establish a mechanical test based on the quantum of contacts between a State and the defendant:
 
@@ -88,7 +88,7 @@ Another consideration is the actual burden a defendant must bear in defending th
 
 That considerations other than contacts between the forum and the defendant are relevant necessarily means that the Constitution does not require that trial be held in the State which has the "best contacts" with the defendant.The defendant has no constitutional entitlement to the best forum or, for that matter, to any particular forum. [ * * * ] We need only determine whether the forum States in these cases satisfy the constitutional minimum.
 
-## II
+# II
 
 [ * * * ]
 
@@ -108,7 +108,7 @@ Furthermore, an automobile seller derives substantial benefits from States other
 
 Thus, the Court errs in its conclusion that "petitioners have _no_ contacts, ties, or relations'" with Oklahoma. There obviously are contacts, and, given Oklahoma's connection to the litigation, the contacts are sufficiently significant to make it fair and reasonable for the petitioners to submit to Oklahoma's jurisdiction.
 
-## III
+# III
 
 _International Shoe_ inherited its defendant focus from _Pennoyer v. Neff,_ and represented the last major step this Court has taken in the long process of liberalizing the doctrine of personal jurisdiction. Though its flexible approach represented a major advance, the structure of our society has changed in many significant ways since _International Shoe_ was decided in 1945. Mr. Justice Black, writing for the Court in _McGee v. International Life Ins. Co.,_  220, 222 (1957), recognized that "a trend is clearly discernible toward expanding the permissible scope of state jurisdiction over foreign corporations and other nonresidents." He explained the trend as follows:
 
@@ -123,7 +123,7 @@ In answering the question whether or not it is fair and reasonable to allow a pa
 The conclusion I draw is that constitutional concepts of fairness no longer require the extreme concern for defendants that was once necessary. Rather, [ … ] minimum contacts must exist "among the _parties,_ the contested transaction, and the forum State." The contacts between any two of these should not be determinate. [ * * * ] 
 
 
-## Mr. Justice Blackmun, dissenting.
+# Mr. Justice Blackmun, dissenting.
 
 I confess that I am somewhat puzzled why the plaintiffs in this litigation are so insistent that the regional distributor and the retail dealer, the petitioners here, who handled the ill-fated Audi automobile involved in this litigation, be named defendants. It would appear that the manufacturer and the importer, whose subjectability to Oklahoma jurisdiction is not challenged before this Court, ought not to be judgment-proof. It may, of course, ultimately amount to a contest between insurance companies that, once begun, is not easily brought to a termination. Having made this much of an observation, I pursue it no further.
 

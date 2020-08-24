@@ -9,9 +9,9 @@ published: 'Oct. 10, 2017'
     
 ---
 
-## Order
+# Order
 
-## James G. Carr, Senior U.S. District Judge
+# James G. Carr, Senior U.S. District Judge
 
 This is a state-law declaratory-judgment case.
 

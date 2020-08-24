@@ -9,9 +9,9 @@ published: 'July 10, 2017'
     
 ---
 
-## Order 
+# Order 
 
-## James G. Carr, Senior U.S. District Judge
+# James G. Carr, Senior U.S. District Judge
 
 This state-law declaratory-judgment action tests whether the construction of a new cell tower must comply with an Ohio township’s zoning regulations.
 
@@ -35,7 +35,7 @@ They contend that the case does not satisfy the amount-in-controversy requiremen
 
 For the reasons that follow, I agree that the defendants’ counterclaim damages do not count toward the amount-in-controversy requirement. But the record is currently insufficient to determine whether the value of the declaratory relief that the Trustees seek exceeds $75,000. Accordingly, I will hold the remainder of the motion in abeyance pending further submissions from the parties.
 
-## Discussion
+# Discussion
 
 “[A]ny civil action brought in a State court of which the district courts of the United States have original jurisdiction, may be removed by the defendant or the defendants, to the district court of the United States for the district and division embracing the place where such action is pending.” 28 U.S.C. § 1441(a).
 
@@ -91,7 +91,7 @@ The Trustees seek a declaratory judgment that the defendants must construct the 
 
 Because the record is silent on these issues, the parties must submit additional briefs and supporting evidence so that I can determine whether this court has subject-matter jurisdiction.
 
-## Conclusion
+# Conclusion
 
 It is, therefore,
 

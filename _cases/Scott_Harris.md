@@ -8,12 +8,12 @@ published: '2007'
     
 ---
 
-## Justice Scalia delivered the opinion of the Court.
+# Justice Scalia delivered the opinion of the Court.
 
 We consider whether a law enforcement official can, consistent with the Fourth Amendment, attempt to stop a fleeing motorist from continuing his public-endangering flight by ramming the motorist's car from behind. Put another way: Can an officer take actions that place a fleeing motorist at risk of serious injury or death in order to stop the motorist's flight from endangering the lives of innocent bystanders?
 
 
-## I
+# I
 
 In March 2001, a Georgia county deputy clocked respondent's vehicle traveling at 73 miles per hour on a road with a 55-mile-per-hour speed limit. The deputy activated his blue flashing lights indicating that respondent should pull over. Instead, respondent sped away, initiating a chase down what is in most portions a two-lane road, at speeds exceeding 85 miles per hour. The deputy radioed his dispatch to report that he was pursuing a fleeing vehicle, and broadcast its license plate number. Petitioner, Deputy Timothy Scott, heard the radio communication and joined the pursuit along with other officers. In the midst of the chase, respondent pulled into the parking lot of a shopping center and was nearly boxed in by the various police vehicles. Respondent evaded the trap by making a sharp turn, colliding with Scott's police car, exiting the parking lot, and speeding off once again down a two-lane highway.
 
@@ -24,12 +24,12 @@ Respondent filed suit against Deputy Scott and others under Rev. Stat. § 1979, 
 Accordingly, a reasonable jury could find that Scott violated [respondent's] Fourth Amendment rights." The Court of Appeals further concluded that "the law as it existed [at the time of the incident], was sufficiently clear to give reasonable law enforcement officers 'fair notice' that ramming a vehicle under these circumstances was unlawful." The Court of Appeals thus concluded that Scott was not entitled to qualified immunity. We granted certiorari and now reverse.
 
 
-## II
+# II
 
 In resolving questions of qualified immunity, courts are required to resolve a "threshold question: Taken in the light most favorable to the party asserting the injury, do the facts alleged show the officer's conduct violated a constitutional right? This must be the initial inquiry." _Saucier v. Katz,_ 533 U.S. 194, 201 (2001). If, and only if, the court finds a violation of a constitutional right, "the next, sequential step is to ask whether the right was clearly established ... in light of the specific context of the case." _Ibid._ [ * * * ] We therefore turn to the threshold inquiry: whether Deputy Scott's actions violated the Fourth Amendment.
 
 
-## III
+# III
 
 
 ## A
@@ -54,7 +54,7 @@ Judging the matter on that basis, we think it is quite clear that Deputy Scott d
 
 [ * * * ]
 
-## 2
+# 2
 
 In determining the reasonableness of the manner in which a seizure is effected, "[w]e must balance the nature and quality of the intrusion on the individual's Fourth Amendment interests against the importance of the governmental interests alleged to justify the intrusion." _United States v. Place,_ 462 U.S. 696, 703 (1983). Scott defends his actions by pointing to the paramount governmental interest in ensuring public safety, and respondent nowhere suggests this was not the purpose motivating Scott's behavior. Thus, in judging whether Scott's actions were reasonable, we must consider the risk of bodily harm that Scott's actions posed to respondent in light of the threat to the public that Scott was trying to eliminate. Although there is no obvious way to quantify the risks on either side, it is clear from the videotape that respondent posed an actual and imminent threat to the lives of any pedestrians who might have been present, to other civilian motorists, and to the officers involved in the chase. It is equally clear that Scott's actions posed a high likelihood of serious injury or death to respondent — though not the near _certainty_ of death posed by, say, shooting a fleeing felon in the back of the head, or pulling alongside a fleeing motorist's car and shooting the motorist. So how does a court go about weighing the perhaps lesser probability of injuring or killing numerous bystanders against the perhaps larger probability of injuring or killing a single person? We think it appropriate in this process to take into account not only the number of lives at risk, but also their relative culpability. It was respondent, after all, who intentionally placed himself and the public in danger by unlawfully engaging in the reckless, high-speed flight that ultimately produced the choice between two evils that Scott confronted. Multiple police cars, with blue lights flashing and sirens blaring, had been chasing respondent for nearly 10 miles, but he ignored their warning to stop. By contrast, those who might have been harmed had Scott not taken the action he did were entirely innocent. We have little difficulty in concluding it was reasonable for Scott to take the action that he did.
 
@@ -70,7 +70,7 @@ The car chase that respondent initiated in this case posed a substantial and imm
 It is so ordered.
 
 
-## Justice STEVENS, dissenting.
+# Justice STEVENS, dissenting.
 
 Today, the Court asks whether an officer may "take actions that place a fleeing motorist at risk of serious injury or death in order to stop the motorist's flight from endangering the lives of innocent bystanders." Depending on the circumstances, the answer may be an obvious "yes," an obvious "no," or sufficiently doubtful that the question of the reasonableness of the officer's actions should be decided by a jury, after a review of the degree of danger and the alternatives available to the officer. A high-speed chase in a desert in Nevada is, after all, quite different from one that travels through the heart of Las Vegas.
 

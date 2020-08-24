@@ -8,7 +8,7 @@ published: '2014'
     
 ---
 
-## Justice Gisburg delivered the opinion of the Court.
+# Justice Gisburg delivered the opinion of the Court.
 
 This case concerns the authority of a court in the United States to entertain a claim brought by foreign plaintiffs against a foreign defendant based on events occurring entirely outside the United States. The litigation commenced in 2004, when twenty-two Argentinian residents filed a complaint in the United States District Court for the Northern District of California against DaimlerChrysler Aktiengesellschaft a German public stock company, headquartered in Stuttgart, that manufactures Mercedes-Benz vehicles in Germany. The complaint alleged that during Argentina's 1976-1983 "Dirty War," Daimler's Argentinian subsidiary, Mercedes-Benz Argentina (MB Argentina) collaborated with state security forces to kidnap, detain, torture, and kill certain MB Argentina workers, among them, plaintiffs or persons closely related to plaintiffs. Damages for the alleged human-rights violations were sought from Daimler under the laws of the United States, California, and Argentina. Jurisdiction over the lawsuit was predicated on the California contacts of Mercedes-Benz USA, LLC (MBUSA), a subsidiary of Daimler incorporated in Delaware with its principal place of business in New Jersey. MBUSA distributes Daimler-manufactured vehicles to independent dealerships throughout the United States, including California.
 
@@ -17,7 +17,7 @@ The question presented is whether the Due Process Clause of the Fourteenth Amend
 In _Goodyear Dunlop Tires Operations, S.A. v. Brown,_ 564 U.S. 915, 131 S.Ct. 2846 (2011), we addressed the distinction between general or all-purpose jurisdiction, and specific or conduct-linked jurisdiction. As to the former, we held that a court may assert jurisdiction over a foreign corporation "to hear any and all claims against [it]" only when the corporation's affiliations with the State in which suit is brought are so constant and pervasive "as to render [it] essentially at home in the forum State." 131 S.Ct. at 2851. Instructed by _Goodyear,_ we conclude Daimler is not "at home" in California, and cannot be sued there for injuries plaintiffs attribute to MB Argentina's conduct in Argentina.
 
 
-## I
+# I
 
 In 2004, plaintiffs (respondents here) filed suit in the United States District Court for the Northern District of California, alleging that MB Argentina collaborated with Argentinian state security forces to kidnap, detain, torture, and kill plaintiffs and their relatives during the military dictatorship in place there from 1976 through 1983, a period known as Argentina's "Dirty War." Based on those allegations, plaintiffs asserted claims under the Alien Tort Statute, 28 U.S.C. § 1350, and the Torture Victim Protection Act of 1991, 106 Stat. 73,[^1] as well as claims for wrongful death and intentional infliction of emotional distress under the laws of California and Argentina. The incidents recounted in the complaint center on MB Argentina's plant in Gonzalez Catan, Argentina; no part of MB Argentina's alleged collaboration with Argentinian authorities took place in California or anywhere else in the United States.
 
@@ -34,11 +34,11 @@ The relationship between Daimler and MBUSA is delineated in a General Distributo
 We granted certiorari to decide whether, consistent with the Due Process Clause of the Fourteenth Amendment, Daimler is amenable to suit in California courts for claims involving only foreign plaintiffs and conduct occurring entirely abroad.
 
 
-## II
+# II
 
 Federal courts ordinarily follow state law in determining the bounds of their jurisdiction over persons. See Fed. Rule Civ. Proc. 4(k)(1)(A) [ … ]. Under California's long-arm statute, California state courts may exercise personal jurisdiction "on any basis not inconsistent with the Constitution of this state or of the United States." California's long-arm statute allows the exercise of personal jurisdiction to the full extent permissible under the U.S. Constitution. We therefore inquire whether the Ninth Circuit's holding comports with the limits imposed by federal due process. 
 
-## III
+# III
 
 In _Pennoyer v. Neff,_ decided shortly after the enactment of the Fourteenth Amendment, the Court held that a tribunal's jurisdiction over persons reaches no farther than the geographic bounds of the forum. In time, however, that strict territorial approach yielded to a less rigid understanding, spurred by "changes in the technology of transportation and communication, and the tremendous growth of interstate business activity." _Burnham v. Superior Court of Cal.,_ 495 U.S. 604, 617 (1990) (opinion of Scalia, J.).
 
@@ -61,7 +61,7 @@ We reversed, observing that the North Carolina court's analysis "elided the esse
 As is evident from _Perkins, Helicopteros,_ and _Goodyear,_ general and specific jurisdiction have followed markedly different trajectories post-_International Shoe._ Specific jurisdiction has been cut loose from _Pennoyer's_ sway, but we have declined to stretch general jurisdiction beyond limits traditionally recognized. As this Court has increasingly trained on the "relationship among the defendant, the forum, and the litigation," _Shaffer,_ 433 U.S. at 204, _i.e.,_ specific jurisdiction, general jurisdiction has come to occupy a less dominant place in the contemporary scheme.
 
 
-## IV
+# IV
 
 With this background, we turn directly to the question whether Daimler's affiliations with California are sufficient to subject it to the general (all-purpose) personal jurisdiction of that State's courts. In the proceedings below, the parties agreed on, or failed to contest, certain points we now take as given. Plaintiffs have never attempted to fit this case into the _specific_ jurisdiction category. Nor did plaintiffs challenge on appeal the District Court's holding that Daimler's own contacts with California were, by themselves, too sporadic to justify the exercise of general jurisdiction. While plaintiffs ultimately persuaded the Ninth Circuit to impute MBUSA's California contacts to Daimler on an agency theory, at no point have they maintained that MBUSA is an alter ego of Daimler.
 
@@ -89,7 +89,7 @@ Here, neither Daimler nor MBUSA is incorporated in California, nor does either e
 
 It was therefore error for the Ninth Circuit to conclude that Daimler, even with MBUSA's contacts attributed to it, was at home in California, and hence subject to suit there on claims by foreign plaintiffs having nothing to do with anything that occurred or had its principal impact in California.[^20]
 
-## C
+# C
 
 Finally, the transnational context of this dispute bears attention. The Court of Appeals emphasized, as supportive of the exercise of general jurisdiction, plaintiffs' assertion of claims under the Alien Tort Statute (ATS) and the Torture Victim Protection Act of 1991 (TVPA). Recent decisions of this Court, however, have rendered plaintiffs' ATS and TVPA claims infirm.
 
@@ -99,7 +99,7 @@ For the reasons stated, the judgment of the United States Court of Appeals for t
 
 _Reversed._
 
-## Justice Sotomayor, concurring in the judgment.
+# Justice Sotomayor, concurring in the judgment.
 
 I agree with the Court's conclusion that the Due Process Clause prohibits the exercise of personal jurisdiction over Daimler in light of the unique circumstances of this case. I concur only in the judgment, however, because I cannot agree with the path the Court takes to arrive at that result.
 
@@ -111,7 +111,7 @@ The Court's conclusion is wrong as a matter of both process and substance. As to
 
 Regrettably, these errors are unforced. The Court can and should decide this case on the far simpler ground that, no matter how extensive Daimler's contacts with California, that State's exercise of jurisdiction would be unreasonable given that the case involves foreign plaintiffs suing a foreign defendant based on foreign conduct, and given that a more appropriate forum is available. Because I would reverse the judgment below on this ground, I concur in the judgment only.
 
-## I
+# I
 
 I begin with the point on which the majority and I agree: The Ninth Circuit's decision should be reversed.
 

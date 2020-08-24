@@ -13,9 +13,9 @@ published: '2004'
 
 ## Before: Newman, Sotomayor, and Wesley, Circuit Judges
 
-## Opinion 
+# Opinion 
 
-## Jon O. Newman, Circuit Judge
+# Jon O. Newman, Circuit Judge
 
 This appeal concerns the availability of subject matter jurisdiction for permissive counterclaims. It also demonstrates the normal utility of early decision of a motion for class certification. Defendant-Appellant Ford Motor Credit Company ("Ford Credit") appeals from the June 14, 2002, judgment of the United States District Court for the Southern District of New York (Lawrence M. McKenna, District Judge) dismissing for lack of jurisdiction its permissive counterclaims against three of the four Plaintiffs-Appellees and its conditional counterclaims against members of the putative class that the Plaintiffs-Appellees seek to certify. We conclude that supplemental jurisdiction authorized by 28 U.S.C. § 1367 may be available for the permissive counterclaims, but that the District Court's discretion under subsection 1367(c) should not be exercised in this case until a ruling on the Plaintiffs' motion for class certification. We therefore vacate and remand.
 
@@ -33,9 +33,9 @@ To resolve his uncertainty, Judge McKenna initially ruled that the counterclaims
 
 On March 27, 2003, the District Court entered judgment pursuant to Fed.R.Civ.P. 54(b) in favor of the Plaintiffs, dismissing Ford Credit's counterclaims without prejudice. Ford Credit appeals from this decision.
 
-## Discussion
+# Discussion
 
-### II. Is There Jurisdiction over the Permissive Counterclaims?
+# II. Is There Jurisdiction over the Permissive Counterclaims?
 
 For several decades federal courts have asserted that permissive counterclaims require an independent basis of jurisdiction, _i.e_., that the counterclaim must be maintainable in a federal district court on some jurisdictional basis that would have sufficed had it been brought in a separate action. The origin of this proposition, the questioning of it before the statutory authorization of supplemental jurisdiction in section 1367, and the impact of that provision upon the proposition all merit careful consideration.
 
@@ -48,10 +48,10 @@ The explicit extension to the limit of Article III of a federal court's jurisdic
 We share the view that section 1367 has displaced, rather than codified, whatever validity inhered in the earlier view that a permissive counterclaim requires independent jurisdiction (in the sense of federal question or diversity jurisdiction). The issue in this case therefore becomes whether supplemental jurisdiction is available for Ford Credit's counterclaims.
 
 
-### III. Application of Section 1367's Standards for Supplemental Jurisdiction
+# III. Application of Section 1367's Standards for Supplemental Jurisdiction
 
 [ * * * ]
 
-## Conclusion
+# Conclusion
 
 The judgment dismissing Ford Credit's counterclaims is vacated, and the case is remanded for further proceedings consistent with this opinion. [ … ]

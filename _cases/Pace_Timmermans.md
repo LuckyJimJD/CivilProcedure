@@ -11,7 +11,7 @@ published: '2015'
 
 ## Before Ripple, Kanne, and Sykes, Circuit Judges.
 
-## Ripple, Circuit Judge.
+# Ripple, Circuit Judge.
 
 In 2011, Timmermann's Ranch and Saddle Shop ("Timmermann's") brought an action against its former employee, Jeanne Pace, for conversion, breach of fiduciary duty, fraud, and unjust enrichment. It alleged that Ms. Pace had stolen merchandise and money from the company. Ms. Pace filed her answer and a counterclaim in early 2011.
 
@@ -21,15 +21,15 @@ Ms. Pace filed a motion to consolidate these two actions. The court granted the 
 
 We hold that Ms. Pace's claims against parties other than Timmermann's were not compulsory counterclaims because Federal Rules of Civil Procedure 13 and 20, in combination, do not compel a litigant to join additional parties to bring what would otherwise be a compulsory counterclaim. We also hold that because Ms. Pace's claim for abuse of process against Timmermann's arose prior to the filing of her counterclaim, it was a mandatory counterclaim. We therefore affirm in part and reverse in part the judgment of the district court and remand the case for further proceedings.
 
-## I
+# I
 
-## BACKGROUND
+## Background
 
 ## A.
 
 The issues in this case present a somewhat complex procedural situation. For ease of reading, we first will set forth the substantive allegations of each party. Then, we will set forth the procedural history of this litigation in the district court.
 
-## 1.
+# 1.
 
 Timmermann's boards, buys, and sells horses, as well as operates both a ranch and a "saddle shop," in which it sells merchandise for owners and riders of horses. When this dispute arose, Carol and Dale Timmermann managed Timmermann's. Dawn Manley and Tammy Rigsby were employees of Timmermann's.
 
@@ -37,7 +37,7 @@ In its 2011 complaint, Timmermann's alleged that, while employed as a bookkeeper
 
 According to the complaint, in February 2011, a Timmermann's employee discovered some of the company's merchandise in Ms. Pace's car. At this point, Timmermann's fired Ms. Pace. Thereafter, during a review of its records, including the checking account maintained by Ms. Pace, Timmermann's discovered that a check that Ms. Pace had represented as being payable to a hay vendor actually had been made payable to cash. Timmermann's also discovered that, on at least eight occasions, Ms. Pace had utilized the company's business credit card to make personal purchases.
 
-## 2.
+# 2.
 
 In her 2013 complaint, Ms. Pace alleged that her conduct while working at Timmermann's was consistent with its usual course of business. She stated that Timmermann's had a practice of allowing employees to use cash to purchase merchandise at cost or, alternatively, by deducting the merchandise's value from the employee's pay. She maintains that she had purchased the company's merchandise under that established practice. She also alleged that Carol Timmermann, her supervisor, knew that she had sold the company's merchandise at flea markets and never had objected.
 
@@ -61,9 +61,9 @@ On May 2, 2013, Timmermann's and the individual defendants moved to dismiss Ms. 
 
 In December 2013, the district court granted the company's motion to dismiss. The court concluded that Ms. Pace's separate claims were barred because they were compulsory counterclaims that should have been brought in the 2011 action because the claims arose out of the same transaction or occurrence. Noting that her 2013 complaint had indicated that the fear of being indicted caused her emotional distress, the court held that Ms. Pace's claims were in existence when the 2011 action was filed; it therefore rejected Ms. Pace's argument that her abuse-of-process claim was not in existence until she was charged. In the district court's view, the absence of Mr. Pace and the individual defendants from the 2011 action did not preclude the court's conclusion that Ms. Pace's claims were compulsory counterclaims because Mr. Pace and the individual defendants could have been joined in the 2011 action under Federal Rule of Civil Procedure 20.
 
-## II
+# II
 
-## DISCUSSION
+# Discussion
 
 The Paces now appeal the dismissal of the 2013 action. They concede that Ms. Pace's false arrest and emotional distress claims against Timmermann's were compulsory counterclaims and therefore properly dismissed. They contend, however, that Ms. Pace's claims against the individual defendants and Mr. Pace's claims for loss of consortium were not compulsory counterclaims. They also submit that Ms. Pace's abuse of process claim against Timmermann's did not "exist" when the 2011 action was filed and therefore could not have been a compulsory counterclaim.
 
@@ -107,7 +107,7 @@ Indeed, in alleging an abuse of process, Ms. Pace primarily relies on her 2011 a
 
 [ * * * ]
 
-## Conclusion
+# Conclusion
 
 We conclude that the district court erred in dismissing the Paces' 2013 complaint in its entirety. Because neither Rule 13 nor Rule 20 provide for compulsory joinder, Ms. Pace's claims against the individual defendants and Mr. Pace's claims for loss of consortium were not compulsory counterclaims. Ms. Pace's abuse of process claim against Timmermann's was in existence when Ms. Pace filed her 2011 answer and counterclaim, and therefore the district court was correct to bar her subsequent abuse of process claim against Timmermann's. The judgment of the district court is therefore affirmed in part and reversed in part and the case is remanded for proceedings consistent with this opinion. Ms. Pace may recover her costs in this appeal.
 

@@ -9,14 +9,13 @@ published: '2016'
     
 ---
 
-## Order Granding Motion to Dismiss
+# Order Granding Motion to Dismiss
 
-## Ronald B. Leighton, District Judge.
+# Ronald B. Leighton, District Judge.
 
-THIS MATTER is before the Court on Defendants' Motion to Dismiss Plaintiff Deutsch's Interpleader Action. Deutsch is currently in possession of a valuable sculpture and seeks equitable relief to determine ownership of the artwork. Defendants seek dismissal claiming an Interpleader Action is improper because the complaint fails to name two or more adverse claimants and this Court does not otherwise have jurisdiction.
+This matter is before the Court on Defendants' Motion to Dismiss Plaintiff Deutsch's Interpleader Action. Deutsch is currently in possession of a valuable sculpture and seeks equitable relief to determine ownership of the artwork. Defendants seek dismissal claiming an Interpleader Action is improper because the complaint fails to name two or more adverse claimants and this Court does not otherwise have jurisdiction.
 
-
-## BACKGROUND
+## Background
 
 Deutsch seeks to interplead a sculpture—[_Industrial Forms_ (aka _Auto Tower_)](https://www.nga.gov/collection/art-object-page.141426.html)—by well known American artist John Storrs. She received the sculpture from the estate of her father who previously owned an art gallery in New York City. The ownership history of sculpture, while somewhat circuitous, is relevant to the motion.
 
@@ -29,9 +28,9 @@ Deutsch's father owned the Sid Deutsch Gallery in New York City. He passed away 
 In October 2015, Carberry wrote a letter to Deutsch on behalf of the Storrs Estate explaining that the sculpture had been previously been stolen and the Storrs Bozz family wished to restore it to the proper owners. Andrew sent Deutsch a letter confirming that Storrs Booz and Carberry agreed that he owns _Industrial Forms,_ and to make arrangements for its retrieval. Deutsch then brought this interpleader against the named defendants to resolve what she claims are competing interests. Deutsch claims she is the rightful owner of _Industrial Forms_ because there is not conclusive proof that it was stolen.
 
 
-## DISCUSSION
+# Discussion
 
-## a. Standard of Review
+## A. Standard of Review
 
 Interpleader is a procedure authorized by 28 U.S.C. §§ 1335 and Federal Rule of Civil Procedure 22 that allows a party holding property to join in a single suit two or more defendant-claimants asserting mutually exclusive claims to the property. The main purpose of interpleader is to protect the stakeholder from the expenses of multiple lawsuits and from having to contend with inconsistent or multiple determinations of liability. While rule and statutory interpleader have different requirements for subject matter jurisdiction, venue, process service, invoking either type requires meeting certain criteria. Fed. R. Civ. P. 22(a)(1); 28 USC § 1335.
 
@@ -41,7 +40,7 @@ An interpleader action proceeds in two stages. In the first stage, a court evalu
 
 During the first phase, the party seeking interpleader bears the burden of demonstrating she is or may be subject to adverse claims. Adverse claims or potentially adverse claims exist when at least two defendants lay claim to the property held by the stakeholder. Sustaining an interpleader based on potential claims requires a "real and reasonable belief" that the interpleaded parties could have a colorable claim to the stake. 
 
-## b. Deutsch has not shown sufficient adverse claims to invoke interpleader.
+## B. Deutsch has not shown sufficient adverse claims to invoke interpleader.
 
 Deutsch's interpleader action necessarily depends on her claim that all of the named defendants possess adverse claims to the sculpture. But only Andrew Schoelkopf claims any interest in _Industrial Forms_—the other defendants all agree that Andrew is the only legitimate claimant, and each affirmatively renounces any claim. This leaves Andrew as the only _actual_ claimant to the sculpture. Deutsch cannot maintain her interpleader action based on current adverse claims.
 

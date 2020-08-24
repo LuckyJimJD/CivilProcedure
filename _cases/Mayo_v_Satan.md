@@ -9,7 +9,7 @@ published: '1971'
     
 ---
 
-## Weber, District Judge
+# Weber, District Judge
 
 Plaintiff, alleging jurisdiction under [18 U.S.C. § 241](https://www.law.cornell.edu/uscode/text/18/241), [28 U.S.C. § 1343](https://www.law.cornell.edu/uscode/text/28/1343), and [42 U.S.C. § 1983](https://www.law.cornell.edu/uscode/text/42/1983) prays for leave to file a complaint for violation of his civil rights [_in forma pauperis_](https://www.law.cornell.edu/rules/frap/rule_24). He alleges that Satan has on numerous occasions caused plaintiff misery and unwarranted threats, against the will of plaintiff, that Satan has placed deliberate obstacles in his path and has caused plaintiff's downfall.
 

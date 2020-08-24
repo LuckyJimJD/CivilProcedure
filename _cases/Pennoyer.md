@@ -8,7 +8,7 @@ published: '1877'
     
 ---
 
-## Chief Justice  Field delivered the opinion of the court.
+# Chief Justice  Field delivered the opinion of the court.
 
 This is an action to recover the possession of a tract of land, of the alleged value of $15,000, situated in the State of Oregon. The plaintiff asserts title to the premises by a patent of the United States issued to him in 1866, under the act of Congress of Sept. 27, 1850, usually known as the Donation Law of Oregon.[^1] The defendant claims to have acquired the premises under a sheriff's deed, made upon a sale of the property on execution issued upon a judgment recovered against the plaintiff in one of the circuit courts of the State.[^2] The case turns upon the validity of this judgment.
 
@@ -54,7 +54,7 @@ Judgment affirmed.
 
 --- 
 
-### Editor's Notes
+# Editor's Notes
 
 [^1]: The [Donation Land Claims Act of 1850](https://www.historylink.org/File/9501) was instrumental in the settlement of the Pacific Northwest. [Under the Act](https://pages.uoregon.edu/mjdennis/courses/hst469_donation.htm), white male U.S. citizens could claim 320 acres of land (640 acres for a married couple) in the Oregon Territory (which also encompassed the present-day States of Washington and Idaho, along with parts of Montana and Wyoming). The Act gave legal imprimatur to the dispossesson of Native people from their lands, and [bolstered white supremacy in the territory](https://www.oregonhumanities.org/rll/magazine/owe-spring-2018/white-mans-territory-kenneth-r-coleman/), which had already enacted [legislation excluding Black people](https://www.oregonhumanities.org/rll/magazine/skin-summer-2013/dangerous-subjects/). 
 

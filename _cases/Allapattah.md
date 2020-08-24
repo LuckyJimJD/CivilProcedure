@@ -8,13 +8,15 @@ published: '2005'
     
 ---
 
-## Justice Kennedy delivered the opinion of the Court.
+#### Justice Kennedy delivered the opinion of the Court.
 
 These consolidated cases[^1] present the question whether a federal court in a diversity action may exercise supplemental jurisdiction over additional plaintiffs whose claims do not satisfy the minimum amount-in-controversy requirement, provided the claims are part of the same case or controversy as the claims of plaintiffs who do allege a sufficient amount in controversy. Our decision turns on the correct interpretation of 28 U.S.C. § 1367. The question has divided the Courts of Appeals, and we granted certiorari to resolve the conflict.
 
+[^1]: The Court's opinion involved two cases raising the same issue under 28 U.S.C. § 1367. One case, _Rosario Ortega v. Star-Kist Foods, Inc._ (Case No. 04-79 referenced in the introduction to the opinion), involved a young girl who was severely injured by a sharp edge on a tuna fish can. The other, _Allapattah Services, Inc. v. Exxon Corp._ (Case No. 04-70 referenced in the introduction to the opinion), was a class action suit by gas station owners who alleged that Exxon Corp. had breached their dealer agreements by overcharging them for fuel purchases. That portion of the opinion is omitted here.
+
 We hold that, where the other elements of jurisdiction are present and at least one named plaintiff in the action satisfies the amount-in-controversy requirement, § 1367 does authorize supplemental jurisdiction over the claims of other plaintiffs in the same Article III case or controversy, even if those claims are for less than the jurisdictional amount specified in the statute setting forth the requirements for diversity jurisdiction. We affirm the judgment of the Court of Appeals for the Eleventh Circuit in No. 04-70, and we reverse the judgment of the Court of Appeals for the First Circuit in No. 04-79.
 
-## I
+# I
 
 [ * * * ]
 
@@ -23,7 +25,7 @@ In the other case now before us the Court of Appeals for the First Circuit took 
 The Court of Appeals then addressed whether, in light of the fact that one plaintiff met the requirements for original jurisdiction, supplemental jurisdiction over the remaining plaintiffs' claims was proper under § 1367. The court held that § 1367 authorizes supplemental jurisdiction only when the district court has original jurisdiction over the action, and that in a diversity case original jurisdiction is lacking if one plaintiff fails to satisfy the amount-in-controversy requirement. [ * * * ]
 
 
-## II
+# II
 
 ## A
 
@@ -78,9 +80,3 @@ It follows from this conclusion that the threshold requirement of § 1367(a) is 
 The judgment of the Court of Appeals for the Eleventh Circuit is affirmed. The judgment of the Court of Appeals for the First Circuit is reversed, and the case is remanded for proceedings consistent with this opinion.
 
 It is so ordered.
-
-
---- 
-
-[^1]: Editor's Note: The Court's opinion involved two cases raising the same issue under 28 U.S.C. § 1367. One case, _Rosario Ortega v. Star-Kist Foods, Inc._ (Case No. 04-79 referenced in the introduction to the opinion), involved a young girl who was severely injured by a sharp edge on a tuna fish can. The other, _Allapattah Services, Inc. v. Exxon Corp._ (Case No. 04-70 referenced in the introduction to the opinion), was a class action suit by gas station owners who alleged that Exxon Corp. had breached their dealer agreements by overcharging them for fuel purchases. That portion of the opinion is omitted here. 
-

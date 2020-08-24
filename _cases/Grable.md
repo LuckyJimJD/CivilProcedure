@@ -8,11 +8,11 @@ published: '2005'
     
 ---
 
-## Justice Souter delivered the opinion of the Court.
+# Justice Souter delivered the opinion of the Court.
 
 The question is whether want of a federal cause of action to try claims of title to land obtained at a federal tax sale precludes removal to federal court of a state action with nondiverse parties raising a disputed issue of federal title law. We answer no, and hold that the national interest in providing a federal forum for federal tax litigation is sufficiently substantial to support the exercise of federal-question jurisdiction over the disputed issue on removal, which would not distort any division of labor between the state and federal courts, provided or assumed by Congress.
 
-## I
+# I
 
 In 1994, the Internal Revenue Service seized Michigan real property belonging to petitioner Grable & Sons Metal Products, Inc., to satisfy Grable's federal tax delinquency. Title 26 U.S.C. § 6335 required the IRS to give notice of the seizure, and there is no dispute that Grable received actual notice by certified mail before the IRS sold the property to respondent Darue Engineering & Manufacturing. Although Grable also received notice of the sale itself, it did not exercise its statutory right to redeem the property within 180 days of the sale, § 6337(b)(1), and after that period had passed, the Government gave Darue a quitclaim deed, § 6339.
 
@@ -23,7 +23,7 @@ Darue removed the case to Federal District Court as presenting a federal questio
 The Court of Appeals for the Sixth Circuit affirmed. On the jurisdictional question, the panel thought it sufficed that the title claim raised an issue of federal law that had to be resolved, and implicated a substantial federal interest (in construing federal tax law). The court went on to affirm the District Court's judgment on the merits. We granted certiorari on the jurisdictional question alone, to resolve a split within the Courts of Appeals on whether [_Merrell Dow Pharmaceuticals Inc. v. Thompson_](https://scholar.google.com/scholar_case?case=7074576791413054261), 478 U. S. 804 (1986), always requires a federal cause of action as a condition for exercising federal-question jurisdiction.We now affirm.
 
 
-## II
+# II
 
 Darue was entitled to remove the quiet title action if Grable could have brought it in federal district court originally, [28 U.S.C. § 1441(a)](https://www.law.cornell.edu/uscode/text/28/1441), as a civil action "arising under the Constitution, laws, or treaties of the United States," [§ 1331](https://www.law.cornell.edu/uscode/text/28/1331). This provision for federal-question jurisdiction is invoked by and large by plaintiffs pleading a cause of action created by federal law (_e. g.,_ claims under [42 U.S.C. § 1983](https://www.law.cornell.edu/uscode/text/42/1983)). There is, however, another longstanding, if less frequently encountered, variety of federal "arising under" jurisdiction, this Court having recognized for nearly 100 years that in certain cases federal-question jurisdiction will lie over state-law claims that implicate significant federal issues. The doctrine captures the commonsense notion that a federal court ought to be able to hear claims recognized under state law that nonetheless turn on substantial questions of federal law, and thus justify resort to the experience, solicitude, and hope of uniformity that a federal forum offers on federal issues.
 
@@ -36,7 +36,7 @@ But even when the state action discloses a contested and substantial federal que
 These considerations have kept us from stating a "single, precise, all-embracing" test for jurisdiction over federal issues embedded in state-law claims between nondiverse parties. We have not kept them out simply because they appeared in state raiment, as Justice Holmes would have done, see _Smith,_ _supra,_ at 214 (dissenting opinion), but neither have we treated "federal issue" as a password opening federal courts to any state action embracing a point of federal law. Instead, the question is, does a state-law claim necessarily raise a stated federal issue, actually disputed and substantial, which a federal forum may entertain without disturbing any congressionally approved balance of federal and state judicial responsibilities.
 
 
-## III
+# III
 
 ## A
 
@@ -60,7 +60,7 @@ Accordingly, _Merrell Dow_ should be read in its entirety as treating the absenc
 As already indicated, however, a comparable analysis yields a different jurisdictional conclusion in this case. Although Congress also indicated ambivalence in this case by providing no private right of action to Grable, it is the rare state quiet title action that involves contested issues of federal law. Consequently, jurisdiction over actions like Grable's would not materially affect, or threaten to affect, the normal currents of litigation. Given the absence of threatening structural consequences and the clear interest the Government, its buyers, and its delinquents have in the availability of a federal forum, there is no good reason to shirk from federal jurisdiction over the dispositive and contested federal issue at the heart of the state-law title claim.
 
 
-## IV
+# IV
 
 The judgment of the Court of Appeals, upholding federal jurisdiction over Grable's quiet title action, is affirmed.
 

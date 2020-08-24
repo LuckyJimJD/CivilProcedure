@@ -8,7 +8,7 @@ published: '1945'
     
 ---
 
-## Chief Justice Stone delivered the opinion of the Court.
+# Chief Justice Stone delivered the opinion of the Court.
 
 The questions for decision are (1) whether, within the limitations of the due process clause of the Fourteenth Amendment, appellant, a Delaware corporation, has by its activities in the State of Washington rendered itself amenable to proceedings in the courts of that state to recover unpaid contributions to the state unemployment compensation fund exacted by state statutes, and (2) whether the state can exact those contributions consistently with the due process clause of the Fourteenth Amendment.
 
