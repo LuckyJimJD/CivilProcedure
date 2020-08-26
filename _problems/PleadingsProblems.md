@@ -1,6 +1,7 @@
 ---
 layout: page
 date: 2020-08-12T05:00:00
+permalink: /problems/Pleadings/
 
 term: Fall 2020
 course: Civil Procedure 

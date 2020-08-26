@@ -1,6 +1,7 @@
 ---
 layout: outline
 date: 2020-05-28T02:00:00
+permalink: /outlines/Joinder/
 
 term: Fall 2020
 course: Civil Procedure 

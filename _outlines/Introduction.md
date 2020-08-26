@@ -1,6 +1,7 @@
 ---
 layout: outline
 date: 2020-05-28T01:00:00
+permalink: /outlines/Introduction/
 
 term: Fall 2020
 course: Civil Procedure 

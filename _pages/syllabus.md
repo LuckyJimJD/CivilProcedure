@@ -38,8 +38,8 @@ Cases, statutes, rules, and other assigned readings (see "Schedule & Assignments
 
 Your final grade for the term will be based on the assigned Click & Learn review questions (40% total) and a final exam (60%). 
 
-- You will complete the assigned Click & Learn questions outside of class. You should complete the questions for each unit of the course by the dates indicated in the Schedule & Assignments section of the syllabus. 
-- The final exam will consist of essay and short-answer questions and will be administered during the Fall term exam period, as scheduled by the Law School Registrar. 
+- You will complete the assigned Click & Learn questions (see "Schedule & Assignments") outside of class.
+- The final exam will consist of essay and short-answer questions and will be administered during the Fall term exam period. 
 
 ### Class Preparation, Attendance, & Participation
 
@@ -61,7 +61,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 # Schedule & Assignments 
 
-
 ## Introduction 
 
 #### August 31
@@ -81,7 +80,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due September 2
 
-##### Click & Learn: Basic Skills & Fundamentals (Parts 1 & 2)
+##### Click & Learn: Basic Skills & Fundamentals (Parts 1, 2, & 3)
 
 ## Joinder
 
@@ -120,6 +119,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [Deutsch v. Schoelkopf](https://www.emfink.net/CivilProcedure/cases/Deutsch_Schoelkopf)
 - [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Intervention)
 - North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, [Motion to Intervene](https://www.emfink.net/CivilProcedure/assets/materials/joinder/SCV_UNC_Intervention.pdf)
+
+\newpage 
 
 #### September 14
 
@@ -186,6 +187,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
 - [Pennoyer v. Neff](https://www.emfink.net/CivilProcedure/cases/Pennoyer)
 
+\newpage
+
 #### October 5, 7, & 9
 
 ### Specific Jurisdiction Based on Minimum Contacts 
@@ -220,6 +223,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Claim Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
+- [Johnson v. Spencer](https://www.emfink.net/CivilProcedure/cases/Johnson_Spencer)
 - [Whole Woman's Health v. Hellerstedt](https://www.emfink.net/CivilProcedure/cases/Hellerstedt)
 - [Review Problem 1](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
@@ -228,7 +232,9 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Issue Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
-- [Parklane Hosiery Co., Inc. v. Shore](https://scholar.google.com/scholar_case?case=7479573211945418487)
+- [Sandy Lake Band of Mississippi Chippewa v. US](https://www.emfink.net/CivilProcedure/cases/SandyLake)
+- [Janjua v. Neufeld](https://www.emfink.net/CivilProcedure/cases/Janjua_Neufeld)
+- [Parklane Hosiery Co., Inc. v. Shore](https://www.emfink.net/CivilProcedure/cases/Parklane_Shore)
 - [Review Problem 2](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
 #### Due October 26
@@ -246,6 +252,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - Bell Atlantic v. Twombly—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Twombly_complaint.pdf) 
 - [Ashcroft v. Iqbal](https://www.emfink.net/CivilProcedure/cases/Iqbal)
 - Ashcroft v. Iqbal—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Iqbal_complaint.pdf) 
+- [Ang v. Whitewave Foods Company](https://www.emfink.net/CivilProcedure/cases/Ang_Whitewave)
 - [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Dismissal)
 
 #### October 30
@@ -264,7 +271,6 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 - [FRCP Rule 15(c)(1)(C) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15c1C)
 - [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
 - [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
-
 
 #### November 4
 
@@ -314,6 +320,8 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 #### Due November 18
 
 ##### Click & Learn: Erie Doctrine (Unit 9)
+
+\newpage
 
 ## Summary Judgment
 

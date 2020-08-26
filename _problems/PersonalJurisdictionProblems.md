@@ -1,6 +1,7 @@
 ---
 layout: page
 date: 2020-08-12T03:00:00
+permalink: /problems/PersonalJurisdiction/
 
 term: Fall 2020
 course: Civil Procedure 

@@ -24,7 +24,7 @@ title: Schedule & Assignments
 
 #### Due September 2
 
-##### Click & Learn: Basic Skills & Fundamentals (Parts 1 & 2)
+##### Click & Learn: Basic Skills & Fundamentals (Parts 1, 2, & 3)
 
 ## Joinder
 
@@ -163,6 +163,7 @@ title: Schedule & Assignments
 ### Claim Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 13-26](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
+- [Johnson v. Spencer](https://www.emfink.net/CivilProcedure/cases/Johnson_Spencer)
 - [Whole Woman's Health v. Hellerstedt](https://www.emfink.net/CivilProcedure/cases/Hellerstedt)
 - [Review Problem 1](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
@@ -171,7 +172,9 @@ title: Schedule & Assignments
 ### Issue Preclusion 
 
 - [Restatement (2d) of Judgments, §§ 27-29](https://www.emfink.net/CivilProcedure/statutes/Rest_Judgments)
-- [Parklane Hosiery Co., Inc. v. Shore](https://scholar.google.com/scholar_case?case=7479573211945418487)
+- [Sandy Lake Band of Mississippi Chippewa v. US](https://www.emfink.net/CivilProcedure/cases/SandyLake)
+- [Janjua v. Neufeld](https://www.emfink.net/CivilProcedure/cases/Janjua_Neufeld)
+- [Parklane Hosiery Co., Inc. v. Shore](https://www.emfink.net/CivilProcedure/cases/Parklane_Shore)
 - [Review Problem 2](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
 #### Due October 26
@@ -189,6 +192,7 @@ title: Schedule & Assignments
 - Bell Atlantic v. Twombly—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Twombly_complaint.pdf) 
 - [Ashcroft v. Iqbal](https://www.emfink.net/CivilProcedure/cases/Iqbal)
 - Ashcroft v. Iqbal—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Iqbal_complaint.pdf) 
+- [Ang v. Whitewave Foods Company](https://www.emfink.net/CivilProcedure/cases/Ang_Whitewave)
 - [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Dismissal)
 
 #### October 30

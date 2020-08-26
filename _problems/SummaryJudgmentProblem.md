@@ -1,6 +1,7 @@
 ---
 layout: page 
 date: 2020-08-12T07:00:00
+permalink: /problems/SummaryJudgment/
 
 term: Fall 2020
 course: Civil Procedure 
