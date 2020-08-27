@@ -80,7 +80,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due September 2
 
-##### Click & Learn: Basic Skills & Fundamentals (Parts 1, 2, & 3)
+##### [Click & Learn](https://clickandlearnguide.com/): Basic Skills & Fundamentals (Parts 1, 2, & 3)
 
 ## Joinder
 
@@ -131,7 +131,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due September 16
 
-##### Click & Learn: Joinder (Unit 6, Parts 1, 2, & 3)
+##### [Click & Learn](https://clickandlearnguide.com/): Joinder (Unit 6, Parts 1, 2, & 3)
 
 ## Subject Matter Jurisdiction 
 
@@ -175,7 +175,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due October 2
 
-##### Click & Learn: Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
+##### [Click & Learn](https://clickandlearnguide.com/): Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
 
 ## Personal Jurisdiction 
 
@@ -214,7 +214,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due Otober 16
 
-##### Click & Learn: Personal Jurisdiction (Unit 1, Parts 1-7)
+##### [Click & Learn](https://clickandlearnguide.com/): Personal Jurisdiction (Unit 1, Parts 1-7)
 
 ## Preclusion
 
@@ -239,7 +239,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due October 26
 
-##### Click & Learn: Preclusion (Unit 10)
+##### [Click & Learn](https://clickandlearnguide.com/): Preclusion (Unit 10)
 
 ## Pleading 
 
@@ -289,7 +289,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due November 9
 
-##### Click & Learn: Pleadings (Unit 5, Parts 1-5)
+##### [Click & Learn](https://clickandlearnguide.com/): Pleadings (Unit 5, Parts 1-5)
 
 ## Choice of Law in Federal Court (Erie Doctrine)
 
@@ -319,7 +319,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due November 18
 
-##### Click & Learn: Erie Doctrine (Unit 9)
+##### [Click & Learn](https://clickandlearnguide.com/): Erie Doctrine (Unit 9)
 
 \newpage
 
@@ -343,7 +343,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### Due November 22 
 
-##### Click & Learn: Summary Judgment (Unit 8, Part I, sec. III)
+##### [Click & Learn](https://clickandlearnguide.com/): Summary Judgment (Unit 8, Part I, sec. III)
 
 #### December 2 
 
