@@ -1,0 +1,196 @@
+/* TYPE SIZES */
+
+h1 { 
+	font-family: $heading-font;
+	font-weight: $normal-weight;
+	line-height: $short-line-height;
+	margin-top: 1.5em;
+	margin-bottom: 1.5rem;
+	font-size: $h1;
+}
+
+h2 {
+	font-family: $heading-font;
+	font-style: normal;
+	font-weight: $normal-weight;
+	line-height: $short-line-height;
+	margin-top: 2rem;
+	margin-bottom: 0;
+	font-size: $h2; 
+}
+
+h3 {
+	font-family: $heading-font;
+	font-style: normal;
+	font-weight: $normal-weight;
+	line-height: $short-line-height;
+	font-size: $h3;
+	margin-top: 2rem;
+	margin-bottom: 0;
+}
+
+h4 {
+	font-family: $serif-font;
+	font-style: normal;
+	font-weight: $medium-weight;
+	line-height: $short-line-height;
+	font-size: $h4;
+	margin-top: 2rem;
+	margin-bottom: 0;
+}
+
+h5 {
+	font-family: $serif-font;
+	font-style: normal;
+	font-weight: $medium-weight;
+	line-height: $short-line-height;
+	font-size: $h5;
+	margin-top: 2rem;
+	margin-bottom: 0;
+}
+
+h6 {
+	font-family: $serif-font;
+	font-style: normal;
+	font-weight: $medium-weight;
+	line-height: $short-line-height;
+	font-size: $h6;
+	margin-top: 2rem;
+	margin-bottom: 0;
+}
+
+p { 
+	font-size: $body-size; 
+	line-height: $line-height; 
+	vertical-align: baseline; 
+	margin-top: 1rem; 
+	margin-bottom: 1rem; 
+}
+
+
+/* LISTS */
+
+ol, ul { 
+	font-size: $body-size; 
+	margin-top: .5rem; 
+	margin-bottom: .5rem; 
+	max-width: 40rem;
+	-webkit-padding-start: 5%;
+	-webkit-padding-end: 5%;
+}
+
+li {
+	line-height: $line-height;
+	margin-top: .2rem;
+	vertical-align: baseline; 
+}
+
+/* LINKS */
+
+a {
+    color: $theme-color;
+    text-decoration: none;
+    &:hover {
+		color:darken($theme-color, 20%);
+    }
+}
+
+
+/* LINKS */
+
+
+article a, .news a {
+    color: $theme-color;
+    text-decoration: none;
+    &:hover {
+		color:darken($theme-color, 50%);
+    }
+}
+
+.social a {
+    color: $white;
+    &:hover {
+		color:$theme-color;
+	}
+}
+
+/* BLOCKQUOTES */
+
+blockquote { 
+	font-size: $small-size; 
+	display: block; 
+	border-left: 4px solid #b03a2e; 
+	padding: 0 0 0 1rem; 
+	margin-top: 2rem; 
+	margin-bottom: 2rem; 
+	margin-left: 1rem; 
+	margin-right: 0; 
+	position: relative; 
+}
+
+blockquote blockquote { 
+	border: none; 
+	margin-top: .5rem; 
+	margin-bottom: .5rem; 
+	margin-left: .5rem; 
+}
+
+blockquote p { 
+	font-size: $small-size; 
+	font-style: italic; 
+	margin-top: .5rem; 
+	margin-bottom: .8rem; 
+	max-width: 30rem; 
+	line-height: $short-line-height; 
+}
+
+/* BUTTON */
+
+button {
+    display: inline-block;
+	border: 0;
+	border-radius:4px;
+	outline: 0;
+    padding: .5rem .5rem;
+    margin: 0;
+    text-decoration: none;
+    background: $theme-color;
+    color: $off-white;
+    font-family: $sans-font;
+    font-size: $medium-size;
+    cursor: pointer;
+    text-align: center;
+	&:hover{
+		background:darken($theme-color, 20%)
+	}
+}
+
+/* MISC */
+
+.contrast {
+	color: $contrast-color;
+}
+
+.small {
+	font-size: #small-size;
+}
+
+.smaller {
+	font-size: #smaller-size;
+}
+
+.full-width article p {
+	width: 90%;
+}
+
+article { 
+	position: relative;
+	padding: 0 0 0 0; 
+} 
+
+section {
+	padding-top: 1rem;
+	padding-bottom: 1rem; 
+}
+
+
