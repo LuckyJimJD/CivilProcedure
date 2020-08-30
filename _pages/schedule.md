@@ -232,7 +232,7 @@ title: Schedule & Assignments
 
 ##### [Click & Learn](https://clickandlearnguide.com/): Pleadings (Unit 5, Parts 1-5)
 
-## Choice of Law in Federal Court (Erie Doctrine)
+## Erie Doctrine
 
 #### November 9 & 11 
 
