@@ -1,8 +1,9 @@
 url: https://www.emfink.net
-baseurl: /CivPro
-title: Civil Procedure
+baseurl: /akademicky
+title: Akademický
 description:  # leave blank if you don't want to display a description 
 name: Eric M. Fink
+course:   # enter course name to display on home page 
 
 last_updated: 29 August 2020 # leave blank if you don't want to display last updated
 
@@ -41,6 +42,11 @@ collections:
 # -----------------------------------------------------------------------------
 
 # Build settings
+
+# deployment
+host: localhost
+port: 4000
+
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"

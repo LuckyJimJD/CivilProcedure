@@ -10,7 +10,7 @@ This theme is designed for use as a simple personal or course website. It is bas
 
 #### Personal site with pages for publications and courses taught
 
-[![demo 1](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://LuckyJimJD.github.io/Elon/)
+[![demo 1](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://LuckyJimJD.github.io/ELonLaw/)
 
 #### Course site with pages for syllabus, course materials, and links to external resources
 
