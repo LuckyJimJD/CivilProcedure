@@ -1,12 +1,13 @@
----
-url: https://www.emfink.net 
-baseurl: /CivilProcedure 
-title: Civil Procedure 
-description:  # leave blank for no description 
-last_updated: 23 August 2020
+url: https://www.emfink.net
+baseurl: /CivPro
+title: Civil Procedure
+description:  # leave blank if you don't want to display a description 
+name: Eric M. Fink
 
-name: Civil Procedure 
-author: Eric M. Fink 
+last_updated: 29 August 2020 # leave blank if you don't want to display last updated
+
+author: Eric M. Fink
+position: Associate Professor
 institution: Elon Law School
 street: 201 North Greene Street
 city: Greensboro
@@ -35,23 +36,33 @@ collections:
   visuals:
     output: true
 
-
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
 
 # Build settings
+
 markdown: kramdown
-remote_theme: luckyjimjd/lj-folio
-
-# Includes & excludes
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+permalink: /articles/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 include: ['_pages']
-exclude: [vendor]
-
-# Plug-ins
-plugins:
-    - jekyll-paginate
-    - jemoji
+exclude: ['Gemfile.lock']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+editor: atom
+git:
+  branch: master
+transfer:
+  command: rsync
+  settings: -av
+  source: _site/
+  destination: ~/Git/LuckyJimJD.github.com/
 
 # -----------------------------------------------------------------------------
 # Other settings

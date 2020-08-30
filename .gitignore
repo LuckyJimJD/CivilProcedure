@@ -1,8 +1,6 @@
 _site
 .sass-cache
-.jekyll-metadata
-.DS_store
-.ruby-version
-Gemfile.lock
+.jekyll-cache
+.DS\_Store
+config.codekit
 admin
-

@@ -3,11 +3,8 @@ layout: outline
 date: 2020-05-28T01:00:00
 permalink: /outlines/Introduction/
 
-term: Fall 2020
 course: Civil Procedure 
 title: Introduction
-author: Prof. Fink
-affiliation: Elon Law School 
   
 ---
 
@@ -17,23 +14,20 @@ affiliation: Elon Law School
 
 ##### Outcome determination
 
-But many cases are won or lost on procedure, not substance
+- But many cases are won or lost on procedure, not substance
 
 ##### Primary rights
 
-Substance: Rules determining underlying rights and obligations in dispute
-
-Procedure: Rules determining how the court manages the dispute
-	
-- But procedural rules may also be rooted in fundamental rights, especially Due Process
+- Substance: Rules determining underlying rights and obligations in dispute
+- Procedure: Rules determining how the court manages the dispute
+	- But procedural rules may also be rooted in fundamental rights, especially Due Process
 
 ## Procedure as Aspect of Due Process
 
 ##### Constitutional requirement
  
-5th Amendment: applies to federal government
-
-14th Amendment: applies to state government 
+- 5th Amendment: applies to federal government
+- 14th Amendment: applies to state government 
 
 ##### Elements
 
@@ -44,7 +38,7 @@ Procedure: Rules determining how the court manages the dispute
 
 ## The Judicial Process
 
-Wigmore, The Judicial Function, in Science of Legal Method at xxviii (1921):
+Wigmore, "The Judicial Function", in _Science of Legal Method_ at xxviii (1921):
 
 > [The] process .. of deciding, by an agent of state power, a controversy existing between two individuals (or the State and an individual), by rational (not merely personal) considerations, purporting to rest on justice and law (i.e. the community’s general sense of order).
 
@@ -77,13 +71,11 @@ Felstiner, Abel, & Sarat, The Emergence and Transformation of Disputes: Naming, 
 
 ### Multiple legalities
 
-Multiple, co-existing, sources of law
-
-May be in tension or conflict
-
-- Sometimes one may over-ride or limit another
-	- Example: Internal rules of a private organization (corporation, labor union, social club, homeowners’ association, etc.) may be subject to requirements or limitations under state or federal law.
-- Applicability may depend on time/place/activity/dispute
+- Multiple, co-existing, sources of law
+- May be in tension or conflict
+	- Sometimes one may over-ride or limit another
+		- Example: Internal rules of a private organization (corporation, labor union, social club, homeowners’ association, etc.) may be subject to requirements or limitations under state or federal law.
+	- Applicability may depend on time/place/activity/dispute
 
 ##### Example
 
@@ -242,9 +234,7 @@ In other states, there are multiple intermediate-level appellate courts
 - Geographic division (e.g. NY & CA)
 	- Multiple intermediate appellate courts each covering a geographical territory (similar to the U.S. Courts of Appeal)
 - Subject Matter division 
-	- e.g. PA
-		- Superior Court: hears most appeals; 
-		- Commonwealth Court: hears appeals in which the state is a party, and cases under certain state laws
+	- e.g. PA: _Superior Court_: hears most appeals; _Commonwealth Court_: hears appeals in which the state is a party, and cases under certain state laws
 
 ##### Supreme Court
 

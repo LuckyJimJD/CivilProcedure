@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: page
 
 course: Civil Procedure 
 title: Practice Exam Question 1
