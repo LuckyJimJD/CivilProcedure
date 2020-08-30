@@ -175,7 +175,7 @@ title: Schedule & Assignments
 - [Sandy Lake Band of Mississippi Chippewa v. US](https://www.emfink.net/CivilProcedure/cases/SandyLake)
 - [Janjua v. Neufeld](https://www.emfink.net/CivilProcedure/cases/Janjua_Neufeld)
 - [Parklane Hosiery Co., Inc. v. Shore](https://www.emfink.net/CivilProcedure/cases/Parklane_Shore)
-- [Review Problem 2](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
+- [Review Problems](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
 #### Due October 26
 

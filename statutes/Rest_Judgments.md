@@ -1,6 +1,5 @@
 ---
 layout: statute
-permalink: /statutes/RestJudgments/
 
 title: 'Restatement (2d) of Judgments'
 subtitle: 'Chapter 3. Former Adjudication: the Effects of a Judicial Judgment'
