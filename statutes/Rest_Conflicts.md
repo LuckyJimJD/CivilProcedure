@@ -1,7 +1,6 @@
 ---
 layout: statute 
 
-course: Civil Procedure
 title: 'Restatement (2d) of Conflicts of Law'
 
 ---

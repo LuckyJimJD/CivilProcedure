@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: visual
 
 course: 'Civil Procedure'
 title: 'The Case of the Greedy Heir'
- 
-
+path: "materials/introduction/greedy_heir.png"
   
 ---
-
-![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/personal-jurisdiction/greedy_heir.png)

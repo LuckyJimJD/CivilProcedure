@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: visual
 
 course: 'Civil Procedure'
 title: 'Counterclaims'
- 
-
+path: "materials/introduction/Counterclaims.png"
   
 ---
-
-![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/joinder/Counterclaims.png)

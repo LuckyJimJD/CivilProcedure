@@ -1,7 +1,6 @@
 ---
 layout: statute
 
-course: Civil Procedure
 title: Federal Rules of Civil Procedure
 
 ---

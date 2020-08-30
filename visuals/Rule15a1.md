@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: visual
 
 course: 'Civil Procedure'
 title: 'Amendments Under Rule 15(a)(1)'
- 
-
+path: "materials/introduction/Rule15a1.png"
   
 ---
-
-![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/joinder/Rule15a1.png)

@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: visual
 
 course: 'Civil Procedure'
-title: 'The Case of the Greedy Heir'
- 
-
+title: 'Erie/Hanna Decision Tree'
+path: "materials/introduction/Erie_Hanna.png"
   
 ---
-
-![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/choice-of-law/Erie_Hanna.png)

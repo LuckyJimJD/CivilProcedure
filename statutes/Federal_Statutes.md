@@ -1,7 +1,6 @@
 ---
 layout: statute
 
-course: 'Civil Procedure'
 title: 'Federal Judicial Statutes'
 cite: 'U.S. Code, Title 28 '
   

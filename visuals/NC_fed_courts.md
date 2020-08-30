@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: visual
 
 course: 'Civil Procedure'
-title: 'NC Federal Court Districts'
- 
+title: 'U.S. District Courts in N.C.'
+path: "materials/introduction/NC_fed_courts.png"
 
-  
 ---
-
-![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/introduction/NC_fed_courts.png)

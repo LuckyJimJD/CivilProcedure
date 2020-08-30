@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: visual
 
 course: 'Civil Procedure'
 title: 'Federal Courts'
- 
+path: "materials/introduction/fed_courts.png"
 
-  
 ---
-
-![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/introduction/fed_courts.png)

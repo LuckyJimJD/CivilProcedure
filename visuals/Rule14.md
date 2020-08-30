@@ -1,11 +1,8 @@
 ---
-layout: page
+layout: visual
 
 course: 'Civil Procedure'
 title: 'Joinder Under Rule 14'
- 
-
+path: "materials/introduction/Rule14.png"
   
 ---
-
-![Civil Action Flowchart]({{ site.baseurl }}/assets/materials/joinder/Rule14.png)
