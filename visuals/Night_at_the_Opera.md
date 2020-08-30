@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: visual
 
 course: 'Civil Procedure'
 title: 'Civil Action Flowchart'
