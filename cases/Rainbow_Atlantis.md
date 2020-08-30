@@ -6,12 +6,11 @@ title: 'Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P.'
 cite: '158 F.R.D. 656'
 court: 'D. Hawaii'
 published: '1994'
+judge: "Fong, District Judge"
     
 ---
 
 # Order Granting Defendant's Motion for Summary Judgment
-
-#### Fong, District Judge.
 
 On November 7, 1994, the court heard defendant Atlantis Submarines Hawaii, L.P.’s motion for summary judgment. For the reasons detailed below, the court GRANTS the motion.
 

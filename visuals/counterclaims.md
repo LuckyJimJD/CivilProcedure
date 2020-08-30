@@ -1,10 +1,10 @@
 ---
-layout: note
+layout: page
 
 course: 'Civil Procedure'
 title: 'Counterclaims'
-author: Prof. Fink 
-affiliation: Elon Law School 
+ 
+
   
 ---
 

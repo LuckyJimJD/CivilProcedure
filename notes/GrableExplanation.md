@@ -1,11 +1,9 @@
 ---
-layout: note
+layout: page
 
 course: Civil Procedure 
 title: 'Subject Matter Jurisdiction'
 subtitle: 'Understanding Grable'
-author: Prof. Fink
-affiliation: Elon Law School 
    
 ---
 

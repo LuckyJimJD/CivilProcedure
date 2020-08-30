@@ -3,9 +3,6 @@ layout: page
 
 course: Civil Procedure 
 title: Practice Exam Question 1
-author: Prof. Fink
-affiliation: Elon Law School 
-
 ---
 
 ## Part A

@@ -5,10 +5,10 @@ course: Civil Procedure
 title: "Whole Woman's Health v. Hellerstedt"
 cite: '136 S.Ct. 2292'
 published: '2016'
+judge: "Justice Breyer delivered the opinion of the Court."
     
 ---
 
-#### Justice Breyer delivered the opinion of the Court.
 
 In _Planned Parenthood of Southeastern Pa. v. Casey_, 505 U.S. 833, 878, 112 S.Ct. 2791, 120 L.Ed.2d 674 (1992), a plurality of the Court concluded that there "exists" an "undue burden" on a woman's right to decide to have an abortion, and consequently a provision of law is constitutionally invalid, if the "_purpose or effect_" of the provision "_is to place a substantial obstacle_ in the path of a woman seeking an abortion before the fetus attains viability." (Emphasis added.) The plurality added that "[u]nnecessary health regulations that have the purpose or effect of presenting a substantial obstacle to a woman seeking an abortion impose an undue burden on the right." _Ibid._
 

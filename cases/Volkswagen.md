@@ -5,10 +5,9 @@ course: Civil Procedure
 title: 'World-Wide Volkswagen Corp. v. Woodson'
 cite: '444 U.S. 286'
 published: '1980'
+judge: "Justice White delivered the opinion of the Court."
     
 ---
-
-#### Justice White delivered the opinion of the Court.
 
 The issue before us is whether, consistently with the Due Process Clause of the Fourteenth Amendment, an Oklahoma court may exercise _in personam_ jurisdiction over a nonresident automobile retailer and its wholesale distributor in a products-liability action, when the defendants' only connection with Oklahoma is the fact that an automobile sold in New York to New York residents became involved in an accident in Oklahoma.
 

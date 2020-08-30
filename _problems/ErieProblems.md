@@ -1,7 +1,6 @@
 ---
 layout: page
 date: 2020-08-12T06:00:00
-permalink: /problems/Erie/
 
 course: Civil Procedure 
 title: Review Problems

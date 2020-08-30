@@ -5,10 +5,9 @@ course: Civil Procedure
 title: 'Exxon Mobile Corp. v. Allapattah Services, Inc.'
 cite: '545 U.S. 546'
 published: '2005'
+judge: "Justice Kennedy delivered the opinion of the Court."
     
 ---
-
-#### Justice Kennedy delivered the opinion of the Court.
 
 These consolidated cases[^1] present the question whether a federal court in a diversity action may exercise supplemental jurisdiction over additional plaintiffs whose claims do not satisfy the minimum amount-in-controversy requirement, provided the claims are part of the same case or controversy as the claims of plaintiffs who do allege a sufficient amount in controversy. Our decision turns on the correct interpretation of 28 U.S.C. § 1367. The question has divided the Courts of Appeals, and we granted certiorari to resolve the conflict.
 

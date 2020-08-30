@@ -1,13 +1,9 @@
 ---
 layout: outline
 date: 2020-05-28T05:00:00
-permalink: /outlines/Preclusion/
 
-term: Fall 2020
 course: Civil Procedure 
 title: Preclusion 
-author: Prof. Fink
-affiliation: Elon Law School 
     
 ---
 

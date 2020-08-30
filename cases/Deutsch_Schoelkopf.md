@@ -6,12 +6,11 @@ title: 'Deutsch v. Schoelkopf'
 cite: 'No. 3:16-CV-05561-RBL'
 court: 'W.D. Wash.'
 published: '2016'
+judge: "Ronald B. Leighton, District Judge."
     
 ---
 
 # Order Granding Motion to Dismiss
-
-#### Ronald B. Leighton, District Judge.
 
 This matter is before the Court on Defendants' Motion to Dismiss Plaintiff Deutsch's Interpleader Action. Deutsch is currently in possession of a valuable sculpture and seeks equitable relief to determine ownership of the artwork. Defendants seek dismissal claiming an Interpleader Action is improper because the complaint fails to name two or more adverse claimants and this Court does not otherwise have jurisdiction.
 

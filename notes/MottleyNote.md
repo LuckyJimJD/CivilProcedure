@@ -1,11 +1,9 @@
 ---
-layout: note
+layout: page
 
 course: Civil Procedure 
 title: 'Subject Matter Jurisdiction'
-subtitle: 'Background on Louisville & Nashville Railroad v. Mottley'
-author: Prof. Fink
-affiliation: Elon Law School 
+subtitle: "Background on Louisville & Nashville Railroad v. Mottley"
    
 ---
 

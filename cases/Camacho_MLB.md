@@ -6,10 +6,10 @@ title: 'Camacho v. Major League Baseball'
 cite: '297 F.R.D. 457'
 court: 'S.D. Cal.'
 published: '2013'
+judge: "M. James Lorenz, District Judge"
     
 ---
 
-#### M. James Lorenz, District Judge.
 
 # Order Granding Defendants' Motion to Dismiss
 

@@ -1,13 +1,9 @@
 ---
 layout: outline
 date: 2020-05-28T04:00:00
-permalink: /outlines/PersonalJurisdiction/
 
-term: Fall 2020
 course: Civil Procedure 
 title: Personal Jurisdiction
-author: Prof. Fink
-affiliation: Elon Law School 
     
 ---
 

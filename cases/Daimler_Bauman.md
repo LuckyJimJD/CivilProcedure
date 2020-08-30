@@ -5,10 +5,10 @@ course: Civil Procedure
 title: 'Daimler AG v. Bauman'
 cite: '571 U.S. 117'
 published: '2014'
+judge: "Justice Gisburg delivered the opinion of the Court."
     
 ---
 
-#### Justice Gisburg delivered the opinion of the Court.
 
 This case concerns the authority of a court in the United States to entertain a claim brought by foreign plaintiffs against a foreign defendant based on events occurring entirely outside the United States. The litigation commenced in 2004, when twenty-two Argentinian residents filed a complaint in the United States District Court for the Northern District of California against DaimlerChrysler Aktiengesellschaft a German public stock company, headquartered in Stuttgart, that manufactures Mercedes-Benz vehicles in Germany. The complaint alleged that during Argentina's 1976-1983 "Dirty War," Daimler's Argentinian subsidiary, Mercedes-Benz Argentina (MB Argentina) collaborated with state security forces to kidnap, detain, torture, and kill certain MB Argentina workers, among them, plaintiffs or persons closely related to plaintiffs. Damages for the alleged human-rights violations were sought from Daimler under the laws of the United States, California, and Argentina. Jurisdiction over the lawsuit was predicated on the California contacts of Mercedes-Benz USA, LLC (MBUSA), a subsidiary of Daimler incorporated in Delaware with its principal place of business in New Jersey. MBUSA distributes Daimler-manufactured vehicles to independent dealerships throughout the United States, including California.
 

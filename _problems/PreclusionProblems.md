@@ -1,14 +1,10 @@
 ---
 layout: page
 date: 2020-08-12T04:00:00
-permalink: /problems/Preclusion/
 
-term: Fall 2020
 course: Civil Procedure 
 title: Review Problems
 subtitle: Preclusion 
-author: Prof. Fink
-affiliation: Elon Law School 
   
 ---
 

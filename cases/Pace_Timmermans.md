@@ -6,12 +6,10 @@ title: 'Pace v. Timmermann’s Ranch & Saddle Shop, Inc.'
 cite: '795 F.3d 748'
 court: '7th Cir.'
 published: '2015'
+panel: "Before Ripple, Kanne, and Sykes, Circuit Judges."
+judge: "Ripple, Circuit Judge"
     
 ---
-
-#### Before Ripple, Kanne, and Sykes, Circuit Judges.
-
-#### Ripple, Circuit Judge.
 
 In 2011, Timmermann's Ranch and Saddle Shop ("Timmermann's") brought an action against its former employee, Jeanne Pace, for conversion, breach of fiduciary duty, fraud, and unjust enrichment. It alleged that Ms. Pace had stolen merchandise and money from the company. Ms. Pace filed her answer and a counterclaim in early 2011.
 

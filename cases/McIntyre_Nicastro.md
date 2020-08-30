@@ -5,10 +5,9 @@ course: Civil Procedure
 title: 'J. McIntyre Machinery, Ltd. v. Nicastro'
 cite: '564 U.S. 873'
 published: '2011'
+judge: "Justice Kennedy announced the judgment of the Court and delivered an opinion, in which the Chief Justice, Justice Scalia, and Justice Thomas join."
     
 ---
-
-#### Justice Kennedy announced the judgment of the Court and delivered an opinion, in which the Chief Justice, Justice Scalia, and Justice Thomas join.
 
 Whether a person or entity is subject to the jurisdiction of a state court despite not having been present in the State either at the time of suit or at the time of the alleged injury, and despite not having consented to the exercise of jurisdiction, is a question that arises with great frequency in the routine course of litigation. The rules and standards for determining when a State does or does not have jurisdiction over an absent party have been unclear because of decades-old questions left open in _Asahi Metal Industry Co. v. Superior Court of Cal., Solano Cty.,_ 480 U.S. 102 (1987).
 

@@ -6,12 +6,11 @@ title: 'Washington v. Alaimo'
 cite: '934 F.Supp. 1395'
 court: 'S.D. Ga.'
 published: '1996'
+judge: "William T. Moore, Jr., District Judge"
     
 ---
 
 # Order
-
-#### William T. Moore, Jr., District Judge.
 
 On April 5, 1996, this Court ordered Plaintiff to show cause why this Court should not impose Rule 11 sanctions upon him for filing a motion for improper purposes. The motion which Plaintiff filed was entitled "Motion to Kiss My Ass" (Doc. 107) in which he moved "all Americans at large and one corrupt Judge Smith [to] kiss my got [sic] damn ass sorry mother fucker you." This Court gave Plaintiff until April 25, 1996, to respond and specifically warned: "Failure to comply with this Order will result in dismissal of this case." Plaintiff has appealed the show-cause order to the United States Court of Appeals for the Eleventh Circuit. As the April 5 Order was not a final order, Plaintiff's appeal is an interlocutory appeal and, as such, this Court retains jurisdiction over the parties and matters in this case. 28 U.S.C. § 1292(b). As of the date indicated below, Plaintiff has not responded to the show-cause order. Therefore, this Court DISMISSES WITH PREJUDICE the above-captioned case for Plaintiff's complete disregard of and noncompliance with an explicit court order. All outstanding motions are hereby rendered MOOT.
 

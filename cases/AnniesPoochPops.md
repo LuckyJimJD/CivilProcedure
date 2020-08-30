@@ -6,10 +6,9 @@ title: "Complete Business Solutions, Inc. v. Annie's Pooch Pops"
 cite: 'No. 20-724'
 court: 'E.D. Pa.'
 published: '2020'
+judge: "Gene E.K. Pratter, District Judge"
         
 ---
-
-#### Gene E.K. Pratter, District Judge.
 
 # Introduction
 

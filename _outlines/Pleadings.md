@@ -1,13 +1,9 @@
 ---
 layout: outline
 date: 2020-05-28T06:00:00
-permalink: /outlines/Pleadings/
 
-term: Fall 2020
 course: Civil Procedure 
 title: Pleadings
-author: Prof. Fink
-affiliation: Elon Law School 
     
 ---
 

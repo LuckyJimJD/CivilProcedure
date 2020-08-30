@@ -1,13 +1,9 @@
 ---
 layout: outline
 date: 2020-05-28T07:00:00
-permalink: /outlines/ChoiceOfLaw/
 
-term: Fall 2020
 course: Civil Procedure 
 title: Choice of Law
-author: Prof. Fink
-affiliation: Elon Law School 
     
 ---
 

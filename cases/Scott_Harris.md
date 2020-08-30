@@ -5,10 +5,9 @@ course: Civil Procedure
 title: 'Scott v. Harris'
 cite: '550 U.S. 372'
 published: '2007'
+judge: "Justice Scalia delivered the opinion of the Court."
     
 ---
-
-#### Justice Scalia delivered the opinion of the Court.
 
 We consider whether a law enforcement official can, consistent with the Fourth Amendment, attempt to stop a fleeing motorist from continuing his public-endangering flight by ramming the motorist's car from behind. Put another way: Can an officer take actions that place a fleeing motorist at risk of serious injury or death in order to stop the motorist's flight from endangering the lives of innocent bystanders?
 

@@ -1,13 +1,9 @@
 ---
 layout: outline
 date: 2020-05-28T08:00:00
-permalink: /outlines/SummaryJudgment/
 
-term: Fall 2020
 course: Civil Procedure 
 title: Summary Judgment 
-author: Prof. Fink
-affiliation: Elon Law School 
     
 ---
 

@@ -6,12 +6,11 @@ title: 'Mas v. Perry'
 cite: '489 F.2d 1396'
 court: '5th Cir.'
 published: '1974'
+panel: "Before Wisdom, Ainsworth and Clark, Circuit Judges"
+judge: "Ainsworth, Circuit Judge"
+
     
 ---
-
-#### Before Wisdom, Ainsworth and Clark, Circuit Judges.
-
-#### Ainsworth, Circuit Judge:
 
 This case presents questions pertaining to federal diversity jurisdiction under [28 U.S.C. § 1332](https://www.law.cornell.edu/uscode/text/28/1332), which, pursuant to [article III, section II of the Constitution](https://www.law.cornell.edu/constitution/articleiii), provides for original jurisdiction in federal district courts of all civil actions that are between, _inter alia,_ citizens of different States or citizens of a State and citizens of foreign states and in which the amount in controversy is more than $10,000.
 

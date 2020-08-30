@@ -1,7 +1,6 @@
 ---
 layout: page
 date: 2020-08-12T01:00:00
-permalink: /problems/Joinder/
 
 course: Civil Procedure 
 title: Review Problem

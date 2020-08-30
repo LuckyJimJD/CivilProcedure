@@ -6,16 +6,12 @@ title: 'Jones v. Ford Motor Credit Co.'
 cite: '358 F.3d 205'
 court: '2d Cir.'
 published: '2004'
-
+panel: "Before: Newman, Sotomayor, and Wesley, Circuit Judges"
+judge: "Jon O. Newman, Circuit Judge"
     
 ---
 
-
-#### Before: Newman, Sotomayor, and Wesley, Circuit Judges
-
 # Opinion 
-
-#### Jon O. Newman, Circuit Judge
 
 This appeal concerns the availability of subject matter jurisdiction for permissive counterclaims. It also demonstrates the normal utility of early decision of a motion for class certification. Defendant-Appellant Ford Motor Credit Company ("Ford Credit") appeals from the June 14, 2002, judgment of the United States District Court for the Southern District of New York (Lawrence M. McKenna, District Judge) dismissing for lack of jurisdiction its permissive counterclaims against three of the four Plaintiffs-Appellees and its conditional counterclaims against members of the putative class that the Plaintiffs-Appellees seek to certify. We conclude that supplemental jurisdiction authorized by 28 U.S.C. § 1367 may be available for the permissive counterclaims, but that the District Court's discretion under subsection 1367(c) should not be exercised in this case until a ruling on the Plaintiffs' motion for class certification. We therefore vacate and remand.
 

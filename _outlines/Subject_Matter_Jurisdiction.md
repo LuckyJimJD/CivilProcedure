@@ -1,13 +1,9 @@
 ---
 layout: outline
 date: 2020-05-28T03:00:00
-permalink: /outlines/SumbjectMatterJurisdiction/
 
-term: Fall 2020
 course: Civil Procedure 
 title: Subject Matter Jurisdiction 
-author: Prof. Fink
-affiliation: Elon Law School 
     
 ---
 
