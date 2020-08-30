@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure
 title: 'Lehman v. Revolution Portfolio LLC'
 cite: '166 F.3d 389'
-court: '1st Cir.'
+jurisdiction: '1st Cir.'
 published: '1999'
 panel: "Before Selya, Circuit Judge, Campbell, Senior Circuit Judge, and Lynch, Circuit Judge"
 judge: "Selya, Circuit Judge"

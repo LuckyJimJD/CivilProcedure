@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure 
 title: 'Mas v. Perry'
 cite: '489 F.2d 1396'
-court: '5th Cir.'
+jurisdiction: '5th Cir.'
 published: '1974'
 panel: "Before Wisdom, Ainsworth and Clark, Circuit Judges"
 judge: "Ainsworth, Circuit Judge"

@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure
 title: "Complete Business Solutions, Inc. v. Annie's Pooch Pops"
 cite: 'No. 20-724'
-court: 'E.D. Pa.'
+jurisdiction: 'E.D. Pa.'
 published: '2020'
 judge: "Gene E.K. Pratter, District Judge"
         

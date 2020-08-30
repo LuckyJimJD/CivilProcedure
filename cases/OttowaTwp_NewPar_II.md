@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure 
 title: 'Ottowa Township Bd. of Trustees v. New Par'
 cite: '3:17CV228, slip op.'
-court: 'N.D. Ohio'
+jurisdiction: 'N.D. Ohio'
 published: 'Oct. 10, 2017'
 judge: "James G. Carr, Senior U.S. District Judge"
     

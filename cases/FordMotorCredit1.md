@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure 
 title: 'Jones v. Ford Motor Credit Co.'
 cite: '358 F.3d 205'
-court: '2d Cir.'
+jurisdiction: '2d Cir.'
 published: '2004'
 panel: "Before: Newman, Sotomayor, and Wesley, Circuit Judges"
 judge: "Jon O. Newman, Circuit Judge"

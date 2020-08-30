@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure
 title: 'Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P.'
 cite: '158 F.R.D. 656'
-court: 'D. Hawaii'
+jurisdiction: 'D. Hawaii'
 published: '1994'
 judge: "Fong, District Judge"
     

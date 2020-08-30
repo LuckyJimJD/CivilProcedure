@@ -4,15 +4,14 @@ layout: case
 course: Civil Procedure 
 title: 'Mosley v. General Motors Corp.'
 cite: '497 F. 2d 1330'
-court: '8th Cir.'
+jurisdiction: '8th Cir.'
 published: '1974'
+panel: "Before Ross and Stephenson, Circuit Judges, and Van Pelt, Senior District Judge (sitting by designation)."
+judge: "Ross, Circuit Judge"
     
 ---
-#### Before Ross and Stephenson, Circuit Judges, and Van Pelt, Senior District Judge (sitting by designation).
 
 # Opinion 
-
-#### Ross, Circuit Judge.
 
 Nathaniel Mosley and nine other persons joined in bringing this action individually and as class representatives alleging that their rights guaranteed under 42 U.S.C. § 2000e et seq. and 42 U.S.C. § 1981 were denied by General Motors and Local 25, United Automobile, Aerospace and Agriculture Implement Workers of America [Union] by reason of their color and race. Each of the ten named plaintiffs had, prior to the filing of the complaint, filed a charge with the Equal Employment Opportunity Commission [EEOC] asserting the facts underlying these claims. Pursuant thereto, the EEOC made a reasonable cause finding that General Motors, Fisher Body Division and Chevrolet Division, and the Union had engaged in unlawful employment practices in violation of Title VII of the Civil Rights Act of 1964. Accordingly, the charging parties were notified by EEOC of their right to institute a civil action in the appropriate federal district court, pursuant to § 706(e) of Title VII, 42 U.S.C. § 2000e-5(e).
 

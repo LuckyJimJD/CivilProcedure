@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure 
 title: 'Washington v. Alaimo'
 cite: '934 F.Supp. 1395'
-court: 'S.D. Ga.'
+jurisdiction: 'S.D. Ga.'
 published: '1996'
 judge: "William T. Moore, Jr., District Judge"
     

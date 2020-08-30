@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure 
 title: 'Sevier v. Lowenthal'
 cite: '302 F.Supp.3d 312'
-court: 'D.D.C.'
+jurisdiction: 'D.D.C.'
 published: '2018'
 judge: "Randolph D. Moss, United States District Judge"
     

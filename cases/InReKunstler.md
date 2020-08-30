@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure 
 title: 'In re Kunstler'
 cite: '914 F.2d 505'
-court: '4th Cir.'
+jurisdiction: '4th Cir.'
 published: '1990'
 panel: "Before Chapman, Wilkinson & Wilkins, Circuit Judges"
 judge: "Chapman, Circuit Judge"

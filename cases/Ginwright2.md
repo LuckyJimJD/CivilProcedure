@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure 
 title: 'Ginwright v. Exeter Finance Corp.'
 cite: 'No. TDC-16-0565'
-court: D. Md. 
+jurisdiction: D. Md. 
 published: '2016'
 judge: "Theodore D. Chuang, District Judge"
 

@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure 
 title: 'Deutsch v. Schoelkopf'
 cite: 'No. 3:16-CV-05561-RBL'
-court: 'W.D. Wash.'
+jurisdiction: 'W.D. Wash.'
 published: '2016'
 judge: "Ronald B. Leighton, District Judge."
     

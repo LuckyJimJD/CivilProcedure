@@ -4,7 +4,7 @@ layout: case
 course: Civil Procedure
 title: 'Pace v. Timmermann’s Ranch & Saddle Shop, Inc.'
 cite: '795 F.3d 748'
-court: '7th Cir.'
+jurisdiction: '7th Cir.'
 published: '2015'
 panel: "Before Ripple, Kanne, and Sykes, Circuit Judges."
 judge: "Ripple, Circuit Judge"

@@ -5,10 +5,11 @@ course: Civil Procedure
 title: 'Louisville & Nashville Railroad Co. v. Mottley'
 cite: '211 U.S. 1496'
 published: '1908'
+judge: "Justice Moody [ … ] delivered the opinion of the court."
     
 ---
 
-#### Statement by Justice Moody
+# Statement by Justice Moody
 
 The appellees (husband and wife), being residents and citizens of Kentucky, brought this suit in equity in the circuit court of the United States for the western district of Kentucky against the appellant, a railroad company and a citizen of the same state. The object of the suit was to compel the specific performance of the following contract:
 
@@ -18,7 +19,7 @@ The appellees (husband and wife), being residents and citizens of Kentucky, brou
 
 The bill alleged that in September, 1871, plaintiffs, while passengers upon the defendant railroad, were injured by the defendant's negligence, and released their respective claims for damages in consideration of the agreement for transportation during their lives, expressed in the contract. It is alleged that the contract was performed by the defendant up to January 1, 1907, when the defendant declined to renew the passes. The bill then alleges that the refusal to comply with the contract was based solely upon that part of the act of Congress of June 29, 1906, which forbids the giving of free passes or free transportation. The bill further alleges: First, that the act of Congress referred to does not prohibit the giving of passes under the circumstances of this case; and, second, that, if the law is to be construed as prohibiting such passes, it is in conflict with the 5th Amendment of the Constitution, because it deprives the plaintiffs of their property without due process of law. The defendant demurred to the bill. The judge of the circuit court overruled the demurrer, entered a decree for the relief prayed for, and the defendant appealed directly to this court.
 
-#### Justice Moody [ … ] delivered the opinion of the court.
+# Opinion
 
 Two questions of law [ … ] were brought here by appeal [ … ]. They are, first, whether that part of the act of Congress of June 29, 1906, which forbids the giving of free passes or the collection of any different compensation for transportation of passengers than that specified in the tariff filed, makes it unlawful to perform a contract for transportation of persons, who in good faith, before the passage of the act, had accepted such contract in satisfaction of a valid cause of action against the railroad; and, second, whether the statute, if it should be construed to render such a contract unlawful, is in violation of the Fifth Amendment of the Constitution of the United States. We do not deem it necessary, however, to consider either of these questions, because, in our opinion, the court below was without jurisdiction of the cause. Neither party has questioned that jurisdiction, but it is the duty of this court to see to it that the jurisdiction of the Circuit Court, which is defined and limited by statute, is not exceeded. This duty we have frequently performed of our own motion. 
 
