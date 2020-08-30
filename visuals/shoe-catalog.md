@@ -3,7 +3,7 @@ layout: page
 
 course: 'Civil Procedure'
 title: 'International Shoe Co. v. Washington'
-path: "materials/introduction/CivilAction.png"
+path: "materials/personal-jurisdiction/CivilAction.png"
   
 ---
 
