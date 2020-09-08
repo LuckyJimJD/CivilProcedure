@@ -26,7 +26,9 @@ Ginwright is seeking dismissal of the counterclaim pursuant to Federal Rule of C
 
 [ * * * ]
 
-# III. Permissive Counterclaim
+## II. Supplemental Jurisdiction{% marginnote "marginnote-id" "The court's discussion of supplemental jurisdiction is [here](Ginwright2)." %} 
+
+## III. Permissive Counterclaim
 
 In assessing whether a counterclaim is compulsory or permissive, courts consider four inquiries:
 

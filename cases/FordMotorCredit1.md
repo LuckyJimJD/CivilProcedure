@@ -31,7 +31,7 @@ On March 27, 2003, the District Court entered judgment pursuant to Fed.R.Civ.P. 
 
 # Discussion
 
-# I. Are Ford Credit's Counterclaims Permissive?
+## I. Are Ford Credit's Counterclaims Permissive?
 
 Fed.R.Civ.P. 13(a) defines a compulsory counterclaim as
 
@@ -39,19 +39,13 @@ Fed.R.Civ.P. 13(a) defines a compulsory counterclaim as
 
 Such counterclaims are compulsory in the sense that if they are not raised, they are forfeited. Fed.R.Civ.P. 13(b) defines a permissive counterclaim as "any claim against an opposing party not arising out of the transaction or occurrence that is the subject matter of the opposing party's claim."
 
-Whether a counterclaim is compulsory or permissive turns on whether the counterclaim "arises out of the transaction or occurrence that is the subject matter of the opposing party's claim," and this Circuit has long considered this standard met when there is a "logical relationship" between the counterclaim and the main claim.[^1]
+Whether a counterclaim is compulsory or permissive turns on whether the counterclaim "arises out of the transaction or occurrence that is the subject matter of the opposing party's claim," and this Circuit has long considered this standard met when there is a "logical relationship" between the counterclaim and the main claim.{% sidenote "sidenote-id" "The phrase logical 'relationship,' in the context of counterclaims, was first used by the Supreme Court in _[Moore v. New York Cotton Exchange](https://scholar.google.com/scholar_case?case=3166674641492367016),_ 270 U.S. 593 (1926). Referring to a counterclaim 'arising out of the transaction which is the subject matter of the suit,' as stated in former Equity Rule 30, the Court explained: <br/><br/> _'Transaction' is a word of flexible meaning. It may comprehend a series of many occurrences, depending not so much upon the immediateness of their connection as upon their logical relationship._<br/><br/>_Id_." %}
 
 Although the "logical relationship" test does not require "an absolute identity of factual backgrounds," […] the "`essential facts of the claims [must be] so logically connected that considerations of judicial economy and fairness dictate that all the issues be resolved in one lawsuit.'" 
 
 We agree with the District Court that the debt collection counterclaims were permissive rather than compulsory. The Plaintiffs' ECOA claim centers on Ford Credit's mark-up policy, based on subjective factors, which allegedly resulted in higher finance charges on their purchase contracts than on those of similarly situated White customers. Ford Credit's debt collection counterclaims are related to those purchase contracts, but not to any particular clause or rate. Rather, the debt collection counterclaims concern the individual Plaintiffs' non-payment after the contract price was set. Thus, the relationship between the counterclaims and the ECOA claim is "logical" only in the sense that the sale, allegedly on discriminatory credit terms, was the "but for" cause of the non-payment. That is not the sort of relationship contemplated by our case law on compulsory counterclaims. The essential facts for proving the counterclaims and the ECOA claim are not so closely related that resolving both sets of issues in one lawsuit would yield judicial efficiency. Indeed, Ford Credit does not even challenge the ruling that its counterclaims are permissive.
 
+
+## II. Is There Jurisdiction over the Permissive Counterclaims?{% marginnote "marginnote-id" "The court's discussion of supplemental jurisdiction is [here](FordMotorCredit2)." %} 
+
 [ * * * ]
-
---- 
-
-[^1]: 
-    The phrase "logical relationship," in the context of counterclaims, was first used by the Supreme Court in _[Moore v. New York Cotton Exchange](https://scholar.google.com/scholar_case?case=3166674641492367016),_ 270 U.S. 593 (1926). Referring to a counterclaim "arising out of the transaction which is the subject matter of the suit," as stated in former Equity Rule 30, the Court explained:
-
-    > "Transaction" is a word of flexible meaning. It may comprehend a series of many occurrences, depending not so much upon the immediateness of their connection as upon their logical relationship.
-
-    _Id_.

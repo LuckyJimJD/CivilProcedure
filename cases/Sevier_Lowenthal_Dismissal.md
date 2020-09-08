@@ -14,7 +14,7 @@ judge: "Randolph D. Moss, United States District Judge"
 
 Plaintiff Chris Sevier, proceeding _pro se,_ seeks the removal of "the Gay Pride Rainbow Colored Flag" from "the halls and public access way[s] of Federal legislative buildings." "[H]omosexuality," he says, "is a religion," which the public display of the gay pride flag impermissibly favors. According to Sevier, display of the flag violates the Establishment Clause, discourages him from lobbying Congress, and violates his rights to equal protection and substantive due process. Sevier has made similar claims in, by his count, "more than [fifteen]" other lawsuits. In addition, Sevier asks that the Court "declare that the holdings in _United States v. Windsor,_ ... and _Obergefell v. Hodges,_ ... are intellectually dishonest and amount to acts of judicial tyranny and judicial malpractice." 
 
-Currently pending before the Court are Defendants' motion to dismiss, Sevier's motion for leave to amend his complaint, a motion to intervene,[^1] and numerous other motions. For the reasons explained below, the Court will GRANT Defendants' motion to dismiss [ … ].
+Currently pending before the Court are Defendants' motion to dismiss, Sevier's motion for leave to amend his complaint, a motion to intervene,{% marginnote "margin-note-id" "The court's discussion of the Motion to Intervene [is here](Sevier_Lowenthal_Intervention). " %} and numerous other motions. For the reasons explained below, the Court will GRANT Defendants' motion to dismiss [ … ].
 
 # I. Background
 
@@ -63,7 +63,3 @@ In short, Sevier's argument proves way too much. If the mere acceptance of homos
 Although all of Sevier's claims appear to rely on this premise, his equal protection and due process claims fail for other reasons as well. Both merely reiterate Sevier's view (expressed in other lawsuits) that the Constitution gives him the right to marry his computer. The only relevance these allegations have to his present lawsuit—which again, seeks the removal of gay pride flags—is that those flags "remind[]" him that he cannot presently marry his computer. Even without passing on Sevier's right to human-laptop marriage, it is safe to say that government activities that remind Sevier of his alleged constitutional injury do not create new constitutional injuries in their own right. These claims, accordingly, will be dismissed for lack of standing. Finally, this Court lacks jurisdiction to entertain Sevier's request for a declaratory judgment that Obergefell and Windsor amount to "acts of judicial tyranny." This claim presents no case or controversy. Opining on the judicial propriety of these cases would have no effect on any of the even potentially cognizable allegations of injury made by Sevier. It goes without saying, moreover, that it is not the role of this Court — or any lower court — to review the merits of binding Supreme Court precedent.
 
 For these reasons, the Court will grant Defendants' motion to dismiss.
-
---- 
-
-[^1]: Editor's Note: The court's discussion of the Motion to Intervene [is here]({{ site.baseurl }}/cases/Sevier_Lowenthal_Intervention). 

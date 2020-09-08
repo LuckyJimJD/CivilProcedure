@@ -1,9 +1,9 @@
 /* TYPE SIZES */
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: $body-font;
+	font-family: $serif-heading-font;
 	font-style: normal;
-	font-weight: $book-weight;
+	font-weight: $medium-weight;
 	line-height: $short-line-height;
 }
 
@@ -45,7 +45,7 @@ h6 {
 
 p { 
 	font-size: $body-size; 
-	font-weight: $light-weight;
+	font-weight: $normal-weight;
 	line-height: $line-height; 
 	vertical-align: baseline; 
 	margin-top: 1rem; 
@@ -57,7 +57,6 @@ p {
 
 ol, ul { 
 	font-size: $body-size; 
-	font-weight: $light-weight;
 	margin-top: .5rem; 
 	margin-bottom: .5rem; 
 	max-width: 40rem;
@@ -104,7 +103,6 @@ article a, .news a {
 
 blockquote { 
 	font-size: $small-size; 
-	font-weight: $thin-weight;
 	display: block; 
 	border-left: 4px solid #b03a2e; 
 	padding: 0 0 0 1rem; 
@@ -124,7 +122,6 @@ blockquote blockquote {
 
 blockquote p { 
 	font-size: $small-size; 
-	font-weight: $extra-light-weight;
 	font-style: italic; 
 	margin-top: .5rem; 
 	margin-bottom: .8rem; 

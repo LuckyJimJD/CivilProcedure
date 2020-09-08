@@ -159,11 +159,11 @@ A defendant does not need a compulsory (related) counterclaim to assert a permis
 
 	Is Debtor’s FDCPA claim against Collection Agency a compulsory counterclaim?
 
- 	- _Argument in favor_: Both claims arise from the same underlying transaction, i.e. the debt.
- 	- _Argument against_: The two claims are logically independent and do not arise from the same T/O: 
-   	- Collection Agency’s claim arises out of the underlying debt, and depends on the validity of that debt. 
-   	- Debtor’s FDCPA claim arises out of the defendant’s collection efforts, and does not depend on the validity of the debt.
- 	- Most courts have accepted the second view in this scenario. 
+	- _Argument in favor_: Both claims arise from the same underlying transaction, i.e. the debt.
+	- _Argument against_: The two claims are logically independent and do not arise from the same T/O: 
+		- Collection Agency’s claim arises out of the underlying debt, and depends on the validity of that debt. 
+		- Debtor’s FDCPA claim arises out of the defendant’s collection efforts, and does not depend on the validity of the debt.
+		- Most courts have accepted the second view in this scenario. 
 
 ## Crossclaims
 
@@ -241,8 +241,6 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
 
 #### Rainbow Management Group, Ltd. v. Atlantis Submarines Hawaii, L.P. (D. Hawaii 1994)
 
-![]({{ site.baseurl }}/assets/materials/joinder/Rainbow_Atlantis.png)
-
 ##### Facts & Procedural History
 
 - A boat operated by Rainbow Management collided with a boat operated by Haydu. 
@@ -265,6 +263,11 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
 - Once Atlantis asserted a crossclaim against Rainbow for indemnification & contribution in that prior suit, Rainbow's claim against Atlantis arising out of the accident became compulsory counterclaims. 
 - By asserting its claim against Atlantis for contribution and indemnification on Berry's claim, but not its claim for damage to its boat, Rainbow waived the latter claim and was barred from asserting it in a subsequent suit. 
 
+
+![]({{ site.baseurl }}/assets/materials/joinder/Rainbow_Atlantis.png)
+
+<a href="{{ site.baseurl }}/assets/materials/joinder/Rainbow_Atlantis.png"><button class='button smaller'>Full Size</button></a>
+
 # Third-Party Claims (Impleader)
 
 ## Rule 14 
@@ -282,8 +285,6 @@ Impleader under Rule 14 is limited to [claims for contribution or indemnificatio
 	- Some state rules permit joinder of a third-party defendant to assert a claim for the third-party defendant's liability to the defendant/third-party plaintiff (arising from the same T/O as an underlying claim against the defendant/third-party plaintiff), even without a claim for contribution or indemnification. 
 
 #### Lehman v. Revolution Portfolio LLC (1st Cir. 1999)
-
-![]({{ site.baseurl }}/assets/materials/joinder/Lehman_Revolution.png)
 
 ##### Facts & Procedural History
 
@@ -312,6 +313,11 @@ Impleader under Rule 14 is limited to [claims for contribution or indemnificatio
 	- Roffman & Bank were allegedly joint tortfeasers on Lehman’s claim arising from Roffman’s fraud & Bank’s negligence.
 	- Even though Lehman only sought to stop the sale of his property, and not money damages, he might have been awarded damages, so FDIC could implead against that possibility.
 - Rule 18(a) then permitted FDIC to assert any other claim it had against Roffman (provided there is jurisdiction).
+
+
+![]({{ site.baseurl }}/assets/materials/joinder/Lehman_Revolution.png)
+
+<a href="{{ site.baseurl }}/assets/materials/joinder/Lehman_Revolution.png"><button class='button smaller'>Full Size</button></a>
 
 ### Third-Party Defendant's Claims and Defenses: Rule 14(a)(2)
 
@@ -399,23 +405,52 @@ Examples:
 > > 
 > > (4) whether the plaintiff would have an adequate remedy if the action were dismissed for nonjoinder.
 
-The primary reason that joinder would not be feasible is where the party to be joined is not within the reach of the court's personal jurisdiction, or where the claim to be asserted against that party is not within the court's subject matter jurisdiction. Another reason that sometimes arises is sovereign immunity. See, e.g., [_Dine Citizens Against Ruining our Environment v. Bureau of Indian Affairs_](https://scholar.google.com/scholar_case?case=2017644198425024634), (9th Cir. 2019) (dismissing case where Navajo Nation had an interest making it a party required to be joined under Rule 19(a), but where joinder was not feasible because of tribal sovereign immunity)
+The primary reason that joinder would not be feasible is where the party to be joined is not within the reach of the court's personal jurisdiction, or where the claim to be asserted against that party is not within the court's subject matter jurisdiction. Another reason that sometimes arises is sovereign immunity. See, e.g., [_Dine Citizens Against Ruining our Environment v. Bureau of Indian Affairs_](https://scholar.google.com/scholar_case?case=2017644198425024634), (9th Cir. 2019) (dismissing case where Navajo Nation had an interest making it a party required to be joined under Rule 19(a), but where joinder was not feasible because of tribal sovereign immunity).
 
 #### Camacho v. Major League Baseball (S.D. Cal. 2013) 
 
+##### Facts & Procedural History
+
+- The plaintiffs, a baseball player (Pesqueira) and his agent (Gonzalez Camacho), alleged that Major League Baseball (MLB) had conspired with the Mexican Baseball League to prevent the player from signing with an MLB team. 
+	- MLB allegedly told Gonzalez Camacho that Pesqueira was ineligible because he was contractually bound to a Mexican League team, Diablos Rojos del México (Mexico City Red Devils). 
+	- Pesqueira denied signing the contract with Diabolos Rojos. 
+- The suit asserted claims against MLB for for tortious intereference with economic relations and unfair business practices. 
+	- The relief sought included "a declaration of the Court ordering that Pesqueira is free to train, to contract … and/or play with any team in the major or minor leagues in the United States, and is not beholden in any way to the Association of Professional Baseball Teams of the Mexican Leagues and the Red Devils of Mexico"
+
+##### Issue
+
+- Whether the suit should be dismissed for failure to join parties required to be joined under Rule 19, i.e. the Mexican League and Diablos Rojos.
+
+##### Holding & Analysis 
+
+- The Mexican League & Diablos Rojos were parties required to be joined if feasible, under Rule 19. 
+	- An essential issue in the case was the validity of the purported contract between Pesquiera and Diablos Rojos. 
+		- The validity of that contract was relevant to MLB's liability (because if the contract was valid, then MLB's conduct was neither tortious nor an unfair business practice). 
+		- As part of the relief sought, the plaintiffs were asking the court to declare the contract invalid. 
+	- The Meixcan League and Diablos Rojos had an interest in the contract, and a declaration that the contract was invalid would impair their interest. 
+	- There was also a risk of "multiple, or otherwise inconsistent obligations" if the Mexican League and Diablos Rojos were not bound by any judgment in the case. 
+		- Diablos Rojos might bring their own suit (in the US or Mexico) to enforce the team's interest in the contract. Because 
+		- A judgment in the Gonzalez Camacho suit would not be binding on Diablos Rojos, and thus neither claim nor issue preclusion would apply against the team in a subsequent suit, if they were not a party to that suit. 
+		- If a court in a subsequent suit held that the contract was valid and enforceable, "That would produce inconsistent obligations for all of the parties in this action in addition to the Red Devils because operating under one court's determination would then necessarily cause the parties to breach another court's determination regarding the same issue, i.e., the validity of the Red Devils contracts."
+- Joinder of the Mexican League & Diablos Rojos was not feasible. 
+	- The MLB argued that the court could not exercise personal jurisdiction over the Mexican League and Diablos Rojos and that their joinder as defendants would deprive the court of subject matter jurisdiction.
+	- Because the plaintiffs did not contest this issue, the court did not analyze the jurisdictional issues but simply accepted MLB's position. 
+- Absent joinder of the Mexican League & Diablos Rojos, the case could not proceed & must be dismissed 
+	- Any judicial determination regarding the validity of the contract would affect the interests of the Mexican League and Diablos Rojos. 
+	- The court did not analyze the options under Rule 19(b)(2) for lessenening or avoiding prejudice to the absent party. But under the facts of the case, it is unlikely any of those measures would have sufficed.  
 
 ## Interpleader 
 
 ### Rule Interpleader: FRCP Rule 22 
 
 > (a) Grounds.
-
+> 
 > > (1) By a Plaintiff. Persons with claims that may expose a plaintiff to double or multiple liability may be joined as defendants and required to interplead. Joinder for interpleader is proper even though:
 > > 
 > > > (A) the claims of the several claimants, or the titles on which their claims depend, lack a common origin or are adverse and independent rather than identical; or
 > > > 
 > > > (B) the plaintiff denies liability in whole or in part to any or all of the claimants.
-> > > 
+> > 
 > > (2) By a Defendant. A defendant exposed to similar liability may seek interpleader through a crossclaim or counterclaim.
 
 ### Statutory Interpleader: 28 U.S.C. § 1335
@@ -428,36 +463,41 @@ The primary reason that joinder would not be feasible is where the party to be j
 
 ### Rule v. Statutory Interpleader 
 
-Rule 22 & § 1335 are alternative ways to bring an interpleader action in federal court. They share two basic elements: 
+Rule 22 defines the basic elements of an interpleader action: 
 
 - There are multiple adverse claimants to some property in the possession or custody of the party bringing the action (the interpleader plaintiff). 
 - The interpleader plaintiff may face multiple liability if the adverse claims are not adjudicated in a single action. 
 	- This is because a judgment in an action involving only some of the competing claimants would not be binding on other (actual or potential) claimants who were not joined as parties. 
-	- This is a matter of [claim and issue preclusion](({{ site.baseurl }}/outlines/Preclusion)). 
+		- This is a matter of [claim and issue preclusion](({{ site.baseurl }}/outlines/Preclusion)). 
 
-The differences between Rule and Statutory Interpleader are procedural: 
+§ 1335(a)(1) echoes this definition, and grants the federal courts subject matter jurisdiction over interpleader claims that would not satisfy the usual requirements for diversity jurisdiction under § 1332:  
 
-1. Subject Matter Jurisdiction
+-  § 1335 requires only _minimal diversity_ between the interpleader plaintiff and the defendants (i.e. at least one defendant must be a citizen of a different state than the plaintiff, but other defendants may be citizens of the same state as the plaintiff). In contrast, jurisdiction under § 1335 requires _complete diversity_ between the plaintiff(s) and defendant(s) (i.e. there may not be any common state of citizenship on the opposing sides). 
+-  § 1335 requires an amount in controversy of _at least_ $500. In contrast, § 1332 requires an amount in controversy _exceeding_ $75,000. 
 
-- The interpleader statute, § 1335, establishes a relaxed standard for diversity jurisdiction (minimal diversity among the claimants and an amount in controversy of only $500). 
-- Interpleader actions under Rule 22 must meet the ordinary standards for diveresity jurisdiction (complete diversity between the plaintiff and defendants and an amount in controversy exceeding $75,000).
+Other statutes provide further procedural advantages to § 1335 interpleader action: 
 
-2. Other Procedural Requirements 
+- Nationwide service of process. [28 USC § 2361](https://www.law.cornell.edu/uscode/text/28/2361)
+	- By implication, this also means that the court may assert personal jurisdiction over defendants on a nationwide basis. _See_ FRCP 4(k)(1)(C) (providing that service of a summons authorized by federal statute establishes personal jurisdiction over a defendant); [Mudd v. Yarbrough](https://scholar.google.com/scholar_case?case=13047180743670857731), 786 F.Supp.2d 1236 (E.D. Ky. 2011)  (“Courts are clear that service of process *1373 pursuant to the Federal Interpleader Act is sufficient to establish personal jurisdiction over [the defendant]”)
+- Relaxed standard for venue. [28 USC § 1397](https://www.law.cornell.edu/uscode/text/28/1397)
+- Authorization of injunctions against other suits, whether in federal or state court, affecting the money or property that is the subject of the interpleader action. [28 USC § 2361](https://www.law.cornell.edu/uscode/text/28/2361)
+	- An interpleader action brought only under Rule 22 is subject to the normal restrictions on federal court injunctions against pending state court actions under the Anti-Injunction Act, [28 U.S. Code § 2283](https://www.law.cornell.edu/uscode/text/28/2283). 
 
-- In an interpleader action under § 1335, the interpleader plaintiff must deposit the property with the court (or pay a security bond), pending the outcome. 
-	- This is not required in an interpleader action under Rule 22. 
-- There are special relaxed provisions for venue & service of process in statutory interpleader actions. 28 U.S.C. § 1397 (venue); § 2361 (process)
-	- In rule interpleader actions, the ordinary standards for venue and service of process appy. 28 U.S.C. § 1391 (venue); Rule 4(k) (territorial limits of service)
-- In a statutory interpleader action, a court may issue an injunction prohibiting the claimants from instituting or proceeding with other actions affecting the property. 28 U.S.C. § 2361 
-	- In a rule interpleader action, the ordinary provisions for injunctions apply. Rule 65 (procedures for injunctions & restraining orders); 28 U.S.C. § 2283 (Anti-Injunction Act)
+§ 1335 requires that the plaintiff deposit the money or property at issue with the court, or pay a bond as security. 
+	- This is not required in an interpleader action brought only under Rule 22. 
+	- Consider how the deposit requirement supports the exercise of jurisdiction over the defendants, even if they do not otherwise have the degree of contacts with the forum state normally required for personal jurisdiction. In effect, an interpleader action is an _in rem_ action (i.e. a suit to establish the rights of the parties on some property). In such cases, the defendant's claimed interest in property located within the forum state will satisfy the minimum contacts requirement. 
 
-[Diagram of Claims]({{ site.baseurl }}/assets/materials/joinder/interpleader.png)
+These procedural differences will guide the decision whether to bring an interpleader action under § 1335 or under Rule 22. 
+
+![]({{ site.baseurl }}/assets/materials/joinder/Interpleader.png)
+
+<a href="{{ site.baseurl }}/assets/materials/joinder/Interpleader.png"><button class='button small' >Full-size</button></a>
 
 #### Deutsch v. Schoelkopf (W.D. Wash. 2016)
 
 ##### Facts & Procedural History
 
-- Deutsch, an art deal, was in possession of a sculpture by artist John Storrs. 
+- Deutsch, an art dealer, was in possession of a sculpture by artist John Storrs. 
 - At some point before 1977, after Storrs' death, his estate placed the sculpture on consignment with the Schoelkopf Gallery. In 1977, the Schoelkopf Gallery informed the Storrs estate that the sculpture had been stolen. The Schoelkopf Gallery paid the Storrs estate $2,250 (the amount the estate would have received from the sale of the sculpture) in compensation. 
 - At some point after the reported theft, Deutsch's father, who owned an art gallery, came into possession of the sculpture. Deutsch inherited the sculpture after her father's death. 
 - In an effort by Deutsch to sell the sculpture, Valerie Carberry contacted Monique Storrs Booz, Storrs's sister and sole remaining heir. They concluded that the sculpture belonged to Andrew Schoelkopf (son and heir to the Schoelkopf Gallery's owner) by virtue of the $2,250 payment to the Storrs estate after the reported theft. Carberry and Schoelkpf each wrote to Deutsch, confirming their belief that Schoelkopf was the rightful owner of the sculpture. 
@@ -486,7 +526,7 @@ The differences between Rule and Statutory Interpleader are procedural:
 > > (1) In General. On timely motion, the court may permit anyone to intervene who:
 > > 
 > > > (A) is given a conditional right to intervene by a federal statute; or
-
+>
 > > > (B) has a claim or defense that shares with the main action a common question of law or fact.
 > > 
 > > (2) By a Government Officer or Agency. [ * * * ]
@@ -503,7 +543,7 @@ The differences between Rule and Statutory Interpleader are procedural:
 ##### Holding & Rationale 
 
 - The court denied the motion to intervene. 
-- The allegations of the proposed intervenors did not show any injury sufficient to establish standing to sue, which is a prerequisite for intervention as of right (and possibly also for permissive intervention). 
+- The allegations of the proposed intervenors did not show any injury sufficient to establish standing to sue, which is a prerequisite for intervention. 
 - The intervenors failed to establish that Sevier would not adequately represent their interests, as required for intervention as of right. 
 - Courts have "wide latitude" in deciding whether to allow permissive intervention. 
 - While the intervenors' claims shared questions of law and fact with Sevier's nearly-identical claims, they were facially baseless. 
@@ -535,6 +575,6 @@ These rules give courts broad discretion in case management to promote goals of 
 
 # Joinder Review Problem 
 
-[Claypool v. Gottlieb & Dritwood]({{ site.baseurl }}/problems/JoinderProblem/NightAtTheOpera.png)
+[Claypool v. Gottlieb & Dritwood]({{ site.baseurl }}/problems/JoinderProblem)
 
-[Diagram of Claims]({{ site.baseurl }}/assets/materials/joinder/NightAtTheOpera.png)
+![Diagram of Claims]({{ site.baseurl }}/assets/materials/joinder/Night_at_the_Opera.png)

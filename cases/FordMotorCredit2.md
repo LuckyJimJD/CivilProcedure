@@ -31,7 +31,9 @@ On March 27, 2003, the District Court entered judgment pursuant to Fed.R.Civ.P. 
 
 # Discussion
 
-# II. Is There Jurisdiction over the Permissive Counterclaims?
+## I. Are Ford Credit's Counterclaims Permissive?{% marginnote "marginnote-id" "The court's discussion of whether the counterclaim was compulsory or permissive is [here](FordMotorCredit1)." %} 
+
+## II. Is There Jurisdiction over the Permissive Counterclaims?
 
 For several decades federal courts have asserted that permissive counterclaims require an independent basis of jurisdiction, _i.e_., that the counterclaim must be maintainable in a federal district court on some jurisdictional basis that would have sufficed had it been brought in a separate action. The origin of this proposition, the questioning of it before the statutory authorization of supplemental jurisdiction in section 1367, and the impact of that provision upon the proposition all merit careful consideration.
 
@@ -44,7 +46,31 @@ The explicit extension to the limit of Article III of a federal court's jurisdic
 We share the view that section 1367 has displaced, rather than codified, whatever validity inhered in the earlier view that a permissive counterclaim requires independent jurisdiction (in the sense of federal question or diversity jurisdiction). The issue in this case therefore becomes whether supplemental jurisdiction is available for Ford Credit's counterclaims.
 
 
-# III. Application of Section 1367's Standards for Supplemental Jurisdiction
+## III. Application of Section 1367's Standards for Supplemental Jurisdiction
+
+Whether or not the Gibbs "common nucleus" standard provides the outer limit of an Article III "case," and is therefore a requirement for entertaining a permissive counterclaim that otherwise lacks a jurisdictional basis, the facts of Ford Credit's counterclaims and those of the Plaintiffs' ECOA claims satisfy that standard, even though the relationship is not such as would make the counterclaims compulsory. The counterclaims and the underlying claim bear a sufficient factual relationship (if one is necessary) to constitute the same "case" within the meaning of Article III and hence of section 1367. Both the ECOA claim and the debt collection claims originate from the Plaintiffs' decisions to purchase Ford cars.
+
+Satisfying the constitutional "case" standard of subsection 1367(a), however, does not end the inquiry a district court is obliged to make with respect to permissive counterclaims. A trial court must consider whether any of the four grounds set out in subsection 1367(c) are present to an extent that would warrant the exercise of discretion to decline assertion of supplemental jurisdiction. Subsection 1367(c) provides:
+
+The district courts may decline to exercise supplemental jurisdiction over a claim under subsection (a) if —
+
+> (1) the claim raises a novel or complex issue of State law,
+> 
+> (2) the claim substantially predominates over the claim or claims over which the district court has original jurisdiction,
+> 
+> (3) the district court has dismissed all claims over which it has original jurisdiction, or
+> 
+> (4) in exceptional circumstances, there are other compelling reasons for declining jurisdiction.
+
+We have indicated that, where at least one of the subsection 1367(c) factors is applicable, a district court should not decline to exercise supplemental jurisdiction unless it also determines that doing so would not promote the values articulated in Gibbs: economy, convenience, fairness, and comity. 
+
+Clearly the exception set forth in subsection 1367(c)(1) does not apply since Ford Credit's counterclaims do not raise a novel or complex issue of state law, but merely a standard contract question. Nor does subsection 1367(c)(3) apply since the District Court has not dismissed all claims over which it has original jurisdiction. That leaves subsections 1367(c)(2), permitting declination of supplemental jurisdiction where "the [counter]claim substantially predominates over the claim or claims over which the district court has original jurisdiction," and 1367(c)(4), permitting declination "in exceptional circumstances, [where] there are other compelling reasons for declining jurisdiction." The District Court apparently based its decision on subsection 1367(c)(4), since it cited only that subsection in its opinion, but some of the concerns it discussed implicate the substantial predomination analysis of subsection 1367(c)(2) as well.
+
+[ * * * ]
+
+Whether Ford Credit's counterclaims "predominate[ ]" over the Plaintiffs' claims and whether there are "exceptional circumstances" for declining jurisdiction cannot properly be determined until a decision has been made on the Plaintiffs' motion for class certification. Both the applicability of subsections 1367(c)(2) and (4), and the exercise of a district court's discretion in the event either or both are ruled applicable will be significantly influenced by the existence of a large class as sought by the Plaintiffs. The District Court's conclusions that it would be "unfair and inexpedient" to require out-of-state class members to litigate Ford's state law debt claims in New York, and that allowing the counterclaims might dissuade potential plaintiffs from joining the class, were therefore premature.
+
+[ * * * ] Accordingly, we remand this case with directions to rule on the class certification motion, and then, in light of that ruling, to proceed to determine whether to exercise or decline supplemental jurisdiction.
 
 [ * * * ]
 

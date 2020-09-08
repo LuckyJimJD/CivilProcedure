@@ -10,16 +10,13 @@ judge: "M. James Lorenz, District Judge"
     
 ---
 
-
 # Order Granding Defendants' Motion to Dismiss
 
 On November 30, 2012, Plaintiffs David Gonzalez Camacho and Daniel Arrellano Pesqueira commenced this tort action against multiple defendants. This action arises from allegations that Major League Baseball conspired with the Mexican Major Leagues to prevent baseball prospect Daniel Pesqueira from playing baseball in the United States. Pending before the Court is the Office of the Commissioner of Baseball (d/b/a Major League Baseball), Major League Baseball Enterprises, Inc., and Major League Baseball Properties, Inc.'s motion to dismiss pursuant to Federal Rule of Civil Procedure 12(b)(7). Plaintiffs oppose the motion.
 
 The Court found this motion suitable for determination on the papers submitted and without oral argument. For the following reasons, the Court GRANTS Defendants' motion to dismiss.
 
-# I. Background[^1]
-
-[^1]: (n.3 in original) In the complaint, David Gonzalez Camacho is referred to as 'Gonzalez,' and Daniel Arrellano Pesqueira, who is also once mentioned as 'Daniel Pesqueira Arellano,' is referred to as 'Pesqueira.' The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira.
+# I. Background{% sidenote "sidenote-id" "(n.3 in Opinion) In the complaint, David Gonzalez Camacho is referred to as 'Gonzalez,' and Daniel Arrellano Pesqueira, who is also once mentioned as 'Daniel Pesqueira Arellano,' is referred to as 'Pesqueira.' The Court will follow the same naming convention, and refer to the plaintiffs as Mr. Gonzalez and Mr. Pesqueira." %}
 
 Mr. Gonzalez is a citizen of Mexico, "who is domiciled and does business in the City of Tijuana . . . in the country of Mexico, and who does business and resides in the County of San Diego, California, USA." He is and was "engaged in the training, support, promotion and representation of young, talented and high caliber Mexican baseball players for eventual placement in international major and minor leagues, including Major and Minor League baseball conducted in the United States[.]" Mr. Pesqueira is a citizen of Mexico who resides in Tijuana, Mexico. 
 
