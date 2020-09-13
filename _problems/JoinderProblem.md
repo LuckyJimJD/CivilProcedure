@@ -1,10 +1,8 @@
 ---
 layout: page
-date: 2020-08-12T01:00:00
 
 course: Civil Procedure 
-title: Review Problem
-subtitle: Joinder & Subject Matter Jurisdiction
+title: Practice Exam Question 7
   
 ---
 
@@ -12,15 +10,19 @@ Mrs. Claypool, an aspiring society matron, hears that the director of the New Yo
 
 Driftwood goes to meet Lassparri, intending to sign him to a contract with the Opera Company to close the deal between Claypool & Gottlieb. Along the way, he meets Fiorello, a genial con artist, who tricks Driftwood into signing Lassparri's rival, Baroni, instead. When Gottlieb discovers what has happened, he renegs on his agreement to name the Opera House after Claypool. 
 
-A furious Claypool sues Gottlieb for breach of contract, seeking restitution of the $500,000 she donated to the Opera Company. She also sues Driftwood for breach of contract & fraud over his role in the failure of the Opera Company deal, seeking $50,000 (the amount she paid Driftwood for his services as her agent) plus punitive damages. Claypool brings her suit in federal court.{% marginnote "margin-note-id" "Assume that the court would have subject matter jurisdiction over all claims and personal jurisdiction over all parties." %} 
+A furious Claypool sues Gottlieb for breach of contract, seeking restitution of the $500,000 she donated to the Opera Company. She also sues Driftwood for breach of contract & fraud over his role in the failure of the Opera Company deal, seeking $50,000 (the amount she paid Driftwood for his services as her agent) plus punitive damages. Claypool brings her suit in federal court.{% sidenote "sidenote-id" "Assume that the court would have subject matter jurisdiction over all claims and personal jurisdiction over all parties."%} 
 
 ## Part A
 
 1. Is joinder of Gottlieb and Driftwood as defendants proper under the FRCP?
 
-2. Assume that Claypool sues only Gottlieb. Gottlieb's defense is that his promise to name the Opera House after Claypool was contingent upon signing Lasparri to a contract with the Opera Company, and that Driftwood's failure to fulfil that part of the deal means that Gottlieb is not contractually obligated to honor his promise to Claypool.{% marginnote "margin-note-id" "This is a defense based on failure to satisfy a 'conditition precedent', which you will learn about in your contracts class." %} Is Driftwood a person required to be joined if feasible under the FRCP? 
+Assume that Claypool sues only Gottlieb. Gottlieb's defense is that his promise to name the Opera House after Claypool was contingent upon signing Lasparri to a contract with the Opera Company, and that Driftwood's failure to fulfil that part of the deal means that Gottlieb is not contractually obligated to honor his promise to Claypool.{% sidenote "sidenote-id" "This is a defense based on failure to satisfy a 'conditition precedent', which you will learn about in your contracts class."%} 
 
-3. Assume that Claypool sues only Dritwood. May Gottlieb intervene as a plaintiff to assert a claim against Driftwood for failure to sign Lasparri to a contract with the Opera Company? 
+2. Is Driftwood a person required to be joined if feasible under the FRCP? 
+
+Assume instead that Claypool sues only Dritwood. 
+
+3. May Gottlieb intervene as a plaintiff to assert a claim against Driftwood for failure to sign Lasparri to a contract with the Opera Company? 
 
 ## Part B 
 
