@@ -1,10 +1,8 @@
 ---
 layout: page
-date: 2020-08-12T01:00:00
 
 course: Civil Procedure 
-title: Review Problem
-subtitle: Joinder & Subject Matter Jurisdiction
+title: Practice Exam Question 7
   
 ---
 
