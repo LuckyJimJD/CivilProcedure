@@ -19,7 +19,7 @@ A furious Claypool sues Gottlieb for breach of contract, seeking restitution of 
 
 1. Is joinder of Gottlieb and Driftwood as defendants proper under the FRCP?
 
-2. Assume that Claypool sues only Gottlieb. Gottlieb's defense is that his promise to name the Opera House after Claypool was contingent upon signing Lasparri to a contract with the Opera Company, and that Driftwood's failure to fulfil that part of the deal means that Gottlieb is not contractually obligated to honor his promise to Claypool. Is Driftwood a person required to be joined if feasible under the FRCP? 
+2. Assume that Claypool sues only Gottlieb. Gottlieb's defense is that his promise to name the Opera House after Claypool was contingent upon signing Lasparri to a contract with the Opera Company, and that Driftwood's failure to fulfill that part of the deal means that Gottlieb is not contractually obligated to honor his promise to Claypool. Is Driftwood a person required to be joined if feasible under the FRCP? 
 
 3. Assume instead that Claypool sues only Dritwood. May Gottlieb intervene as a plaintiff to assert a claim against Driftwood for failure to sign Lasparri to a contract with the Opera Company? 
 
