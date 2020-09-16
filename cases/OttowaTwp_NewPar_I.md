@@ -94,14 +94,10 @@ Because the record is silent on these issues, the parties must submit additional
 
 It is, therefore,
 
-ORDERED THAT:
+ORDERED THAT: {% marginnote "margin-note-id" "After briefing by the parties, the court issued another [decision](../cases/OttowaTwp_NewPar_II) on the motion to remand." %}
 
-1. The parties are directed to submit additional briefs and supporting evidence on the question whether the value of the object of litigation exceeds $75,000;
+1. The parties are directed to submit additional briefs and supporting evidence on the question whether the value of the object of litigation exceeds $75,000; 
 2. Defendants’ submission due on or before July 31, 2017; plaintiff’s responsive submission due on or before August 21, 2017; and defendants’ reply, if any, due on or before August 31, 2017; and
 3. Further proceedings held in abeyance pending submissions from the parties and adjudication of the motion to remand.
 
-So ordered.[^1]
-
---- 
-
-[^1]: Editor's Note: After briefing by the parties, the court issued a [second decision and order]({{ site.baseurl }}/cases/OttowaTwp_NewPar_II) on the motion to remand. 
+So ordered. 
