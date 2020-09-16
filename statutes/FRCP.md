@@ -72,22 +72,39 @@ A civil action is commenced by filing a complaint with the court.
 > (1) In General. In responding to a pleading, a party must affirmatively state any avoidance or affirmative defense, including:
 >
 > • accord and satisfaction;
+> 
 > • arbitration and award;
+> 
 > • assumption of risk;
-> • contributory negligence;
+> 
 > • duress;
+> 
+> • contributory negligence;
+> 
 > • estoppel;
+> 
 > • failure of consideration;
+> 
 > • fraud;
+> 
 > • illegality;
+> 
 > • injury by fellow servant;
+> 
 > • laches;
+> 
 > • license;
+> 
 > • payment;
+> 
 > • release;
+> 
 > • res judicata;
+> 
 > • statute of frauds;
+> 
 > • statute of limitations; and
+> 
 > • waiver. 
 
 > (2) Mistaken Designation. If a party mistakenly designates a defense as a counterclaim, or a counterclaim as a defense, the court must, if justice requires, treat the pleading as though it were correctly designated, and may impose terms for doing so. 
@@ -190,8 +207,9 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 > > (B) failing to either:
 
-	> > (i) make it by motion under this rule; or
-	> > (ii) include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course. 
+> > > (i) make it by motion under this rule; or
+
+> > > (ii) include it in a responsive pleading or in an amendment allowed by Rule 15(a)(1) as a matter of course. 
 
 > (2) When to Raise Others. Failure to state a claim upon which relief can be granted, to join a person required by Rule 19(b), or to state a legal defense to a claim may be raised:
 

@@ -27,8 +27,4 @@ There was no diversity of citizenship and it is not and cannot be suggested that
 
 The application of this rule to the case at bar is decisive against the jurisdiction of the Circuit Court.
 
-It is ordered that the Judgment be reversed and the case remitted to the Circuit Court with instructions to dismiss the suit for want of jurisdiction.[^1]
-
---- 
-
-[^1]: Editor's Note: For the subsequent history of this case, see [_Louisville & Nashville R. Co. v. Mottley,_ 219 US 467 (1911)](https://scholar.google.com/scholar_case?case=15541627978206243212), reversing [133 Ky. 652 (1909)]({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/Mottley_KyCtApp_1909.pdf). 
+It is ordered{% marginnote "margin-note-id" "For the subsequent history of this case, see [_Louisville & Nashville R. Co. v. Mottley,_ 219 US 467 (1911)](https://scholar.google.com/scholar_case?case=15541627978206243212), reversing [133 Ky. 652 (1909)]({{ site.baseurl }}/assets/materials/subject-matter-jurisdiction/Mottley_KyCtApp_1909.pdf)." %} that the Judgment be reversed and the case remitted to the Circuit Court with instructions to dismiss the suit for want of jurisdiction.

@@ -15,23 +15,41 @@ The district courts shall have original jurisdiction of all civil actions arisin
 ### § 1332. Diversity of citizenship; amount in controversy; costs
 
 (a) The district courts shall have original jurisdiction of all civil actions where the matter in controversy exceeds the sum or value of $75,000, exclusive of interest and costs, and is between—
-    (1) citizens of different States;
-    (2) citizens of a State and citizens or subjects of a foreign state, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State;
-    (3) citizens of different States and in which citizens or subjects of a foreign state are additional parties; and
-    (4) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States. 
+
+> (1) citizens of different States;
+
+> (2) citizens of a State and citizens or subjects of a foreign state, except that the district courts shall not have original jurisdiction under this subsection of an action between citizens of a State and citizens or subjects of a foreign state who are lawfully admitted for permanent residence in the United States and are domiciled in the same State;
+
+> (3) citizens of different States and in which citizens or subjects of a foreign state are additional parties; and
+
+> (4) a foreign state, defined in section 1603(a) of this title, as plaintiff and citizens of a State or of different States. 
 
 (b) Except when express provision therefor is otherwise made in a statute of the United States, where the plaintiff who files the case originally in the Federal courts is finally adjudged to be entitled to recover less than the sum or value of $75,000, computed without regard to any setoff or counterclaim to which the defendant may be adjudged to be entitled, and exclusive of interest and costs, the district court may deny costs to the plaintiff and, in addition, may impose costs on the plaintiff.
 
 (c) For the purposes of this section and section 1441 of this title—
-    (1) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business, except that in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of—
-        (A) every State and foreign state of which the insured is a citizen;
-        (B) every State and foreign state by which the insurer has been incorporated; and
-        (C) the State or foreign state where the insurer has its principal place of business; and
-    (2) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
+
+> (1) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business, except that in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of—
+
+> > (A) every State and foreign state of which the insured is a citizen;
+
+> > (B) every State and foreign state by which the insurer has been incorporated; and
+
+> > (C) the State or foreign state where the insurer has its principal place of business; and
+
+> (2) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
 
 (d) [Omitted]
 
 (e) The word “States”, as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+
+### § 1335.Interpleader
+
+(a) The district courts shall have original jurisdiction of any civil action of interpleader or in the nature of interpleader filed by any person, firm, or corporation, association, or society having in his or its custody or possession money or property of the value of $500 or more, or having issued a note, bond, certificate, policy of insurance, or other instrument of value or amount of $500 or more, or providing for the delivery or payment or the loan of money or property of such amount or value, or being under any obligation written or unwritten to the amount of $500 or more, if 
+
+> (1) Two or more adverse claimants, of diverse citizenship as defined in subsection (a) or (d) of section 1332 of this title, are claiming or may claim to be entitled to such money or property, or to any one or more of the benefits arising by virtue of any note, bond, certificate, policy or other instrument, or arising by virtue of any such obligation; and if (2) the plaintiff has deposited such money or property or has paid the amount of or the loan or other value of such instrument or the amount due under such obligation into the registry of the court, there to abide the judgment of the court, or has given bond payable to the clerk of the court in such amount and with such surety as the court or judge may deem proper, conditioned upon the compliance by the plaintiff with the future order or judgment of the court with respect to the subject matter of the controversy.
+
+(b) Such an action may be entertained although the titles or claims of the conflicting claimants do not have a common origin, or are not identical, but are adverse to and independent of one another.
 
 ### § 1367. Supplemental jurisdiction
 
@@ -48,40 +66,6 @@ The district courts shall have original jurisdiction of all civil actions arisin
 (d) The period of limitations for any claim asserted under subsection (a), and for any other claim in the same action that is voluntarily dismissed at the same time as or after the dismissal of the claim under subsection (a), shall be tolled while the claim is pending and for a period of 30 days after it is dismissed unless State law provides for a longer tolling period.
 
 (e) As used in this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
-
-## Venue
-
-### § 1390. Scope
-
-(a) Venue Defined.— As used in this chapter, the term “venue” refers to the geographic specification of the proper court or courts for the litigation of a civil action that is within the subject-matter jurisdiction of the district courts in general, and does not refer to any grant or restriction of subject-matter jurisdiction providing for a civil action to be adjudicated only by the district court for a particular district or districts.
-
-(b) Exclusion of Certain Cases.— Except as otherwise provided by law, this chapter shall not govern the venue of a civil action in which the district court exercises the jurisdiction conferred by section 1333, except that such civil actions may be transferred between district courts as provided in this chapter.
-
-(c) Clarification Regarding Cases Removed From Courts.— This chapter shall not determine the district court to which a civil action pending in a State court may be removed, but shall govern the transfer of an action so removed as between districts and divisions of the United States district courts.
-
-### § 1390. Venue generally 
-
-(a) Applicability of Section.—Except as otherwise provided by law—
-    (1) this section shall govern the venue of all civil actions brought in district courts of the United States; and
-    (2) the proper venue for a civil action shall be determined without regard to whether the action is local or transitory in nature.
-
-(b) Venue in General.—A civil action may be brought in—
-    (1) a judicial district in which any defendant resides, if all defendants are residents of the State in which the district is located;
-    (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated; or
-    (3) if there is no district in which an action may otherwise be brought as provided in this section, any judicial district in which any defendant is subject to the court’s personal jurisdiction with respect to such action.
-
-(c) Residency.—For all venue purposes—
-    (1) a natural person, including an alien lawfully admitted for permanent residence in the United States, shall be deemed to reside in the judicial district in which that person is domiciled;
-    (2) an entity with the capacity to sue and be sued in its common name under applicable law, whether or not incorporated, shall be deemed to reside, if a defendant, in any judicial district in which such defendant is subject to the court’s personal jurisdiction with respect to the civil action in question and, if a plaintiff, only in the judicial district in which it maintains its principal place of business; and
-    (3) a defendant not resident in the United States may be sued in any judicial district, and the joinder of such a defendant shall be disregarded in determining where the action may be brought with respect to other defendants.
-
-(d) Residency of Corporations in With Multiple Districts.— For purposes of venue under this chapter, in a State which has more than one judicial district and in which a defendant that is a corporation is subject to personal jurisdiction at the time an action is commenced, such corporation shall be deemed to reside in any district in that State within which its contacts would be sufficient to subject it to personal jurisdiction if that district were a separate State, and, if there is no such district, the corporation shall be deemed to reside in the district within which it has the most significant contacts.
-
-(e) [Omitted]
-
-(f) [Omitted]
-
-(g) [Omitted]
 
 ## Removal
 
