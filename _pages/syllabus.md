@@ -339,7 +339,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 ### Burden of Production 
 
 - [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
-- [Slaven v. City of Salem](https://scholar.google.com/scholar_case?case=9307637031918953284)
+- [Stout v. Vincent](https://www.emfink.net/CivilProcedure/cases/Stout_Vincent)
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/SummaryJudgmentProblem)
 
 #### Due November 22 
