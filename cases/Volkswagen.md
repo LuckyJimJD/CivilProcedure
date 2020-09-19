@@ -126,6 +126,6 @@ The conclusion I draw is that constitutional concepts of fairness no longer requ
 
 I confess that I am somewhat puzzled why the plaintiffs in this litigation are so insistent that the regional distributor and the retail dealer, the petitioners here, who handled the ill-fated Audi automobile involved in this litigation, be named defendants. It would appear that the manufacturer and the importer, whose subjectability to Oklahoma jurisdiction is not challenged before this Court, ought not to be judgment-proof. It may, of course, ultimately amount to a contest between insurance companies that, once begun, is not easily brought to a termination. Having made this much of an observation, I pursue it no further.
 
-[ * * * ]
+[ * * * ] {% marginnote "margin-note-id" "Justice Marshall and Justice Black also dissented. Their opinion is omitted here." %}
 
-[Justice Marshall and Justice Black, also dissented. Their opinion is omitted here.]
+

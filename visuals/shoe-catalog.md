@@ -1,9 +1,8 @@
 ---
-layout: visual
+layout: page-centered
 
 course: 'Civil Procedure'
 title: 'International Shoe Co. v. Washington'
-path: "materials/personal-jurisdiction/CivilAction.png"
   
 ---
 
