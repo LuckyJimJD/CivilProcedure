@@ -11,7 +11,7 @@ subtitle: 'Understanding Grable'
 
 Federal courts sometimes have jurisdiction under §1331, even though the plaintiff asserts only state-law claims, where those claims entail an “essential federal element”. 
 
-This is not really an exception to the “well-pleaded complaint” rule in *Mottley*. The federal question still arises on the face of the complaint, i.e. it is part of the elements of the plaintiff's claim. 
+This is not really an exception to the “well-pleaded complaint” rule in *Mottley*. The federal question still arises on the face of the complaint, i.e. it is part of the elements of the plaintiff's claim, not a defense. 
 
 But it is an exception to the Holmes “creation test". Even though state law creates the plaintiff’s cause of action (which, for Holmes, would mean the claim did not "arise under" federal law), the presence of a federal issue as part of the claim may nonetheless confer federal jurisdiction under §1331. 
 
@@ -19,17 +19,19 @@ But it is an exception to the Holmes “creation test". Even though state law cr
 
 A state-law claim raises a federal question, sufficient to confer jurisdiction under §1331, where,
  
-1. The federal issue forms an _essential part of plaintiff’s claim_ (not a defense) that is _actually disputed,_ and  
-
-2. There is a _substantial federal interest_ at stake. 
+1. An issue of federal law forms an _essential part of plaintiff’s claim_ (not a defense),
+2. The federal issue is _actually disputed,_ and  
+3. There is a _substantial federal interest_ at stake. 
 
 ### 1. Essential Federal Issue  
 
 The federal issue is “essential” where the plaintiff’s “right to relief depends upon the construction or application of the Constitution or laws of the United States.” *Smith v. Kansas City Title & Trust Co*. (US 1921). This requirement will generally be satisfied where the plaintiff relies on federal law to establish a right, interest, or duty at issue in the case. 
 
-But if there is no dispute between the parties over the federal issue as it arises in the case, there is no need for the court to resolve the issue and thus no reason to confer federal subject matter jurisdiction based on that issue. 
+### 2. Federal Issue Is Actually Disputed 
 
-### 2. Substantial Federal Interest 
+If there is no dispute between the parties over the federal issue as it arises in the case, there is no need for the court to resolve the issue and thus no reason to confer federal subject matter jurisdiction based on that issue. 
+
+### 3. Substantial Federal Interest 
 
 In assessing whether there is a “substantial federal interest", the Supreme Court has considered these factors:
 
@@ -49,8 +51,9 @@ In assessing whether there is a “substantial federal interest", the Supreme Co
 - Under state law, Grable was required to specify “the facts establishing the superiority of [its] claim” to the property.
 - Under the federal statute governing the sale of property to satisfy tax delinquencies, the IRS was supposed to give Grable written notice of the seizure. The IRS sent Grable notice of the seizure by certified mail, but Grable contended that the statute required personal service of the notice. 
 - Grable argued that failure to satisfy the federal statutory notice requirement rendered the sale of the property to Darue invalid. 
-- Darue argued that, since Grable received actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, its purchase of the property was valid. 
-- Grable’s right to relief under state law thus depended on the construction and applicability of federal law (i.e. whether service of the IRS notice by certified mail satisfied the federal statute the lack of notice in the form specified by federal law rendered the sale of the property void).
+- Darue argued that, since Grable received actual notice of the seizure and sale, but failed to exercise its [statutory right to redeem the property](https://www.law.cornell.edu/uscode/text/26/6337) within 180 days of the sale, Darue's purchase of the property was valid. 
+- Grable’s right to relief thus depended on the construction and applicability of federal law (i.e. whether service of the IRS notice by certified mail satisfied the federal statute the lack of notice in the form specified by federal law rendered the sale of the property void). And this issue was actually in dispute between the parties. 
+- The real focus of the suit was Grable's right under federal law not to have it's property seized by the IRS without proper notice. Grable was merely using a state-law quiet title action as the means to vindicate that right (because federal law itself didn't provide a remedy). 
 
 #### Not Essential
 
@@ -60,15 +63,14 @@ In assessing whether there is a “substantial federal interest", the Supreme Co
 - The plaintiffs relied on federal statutory and regulatory requirements to satisfy the negligence element, contending that federal law required a warning, and failure to provide the warning amounted to negligence under state law.  
 - The negligence claims asserted that Merrell Dow failed to provide warnings about possible birth defects, and that this failure was negligent (i.e. that a reasonably prudent manufacturer would have included the warning).  
 - Under state tort law, one way a plaintiff could satisfy the negligence element was by showing that the defendant failed to comply with an applicable state or federal legal standard.  
-- Unlike in Grable, non-compliance with federal drug labeling requirements was only one available theory. The plaintiffs might have been able to establish negligence even if the defendant had complied with federal law. In this sense, disposition of the federal issue was not really “essential”. 
-    - There is a plausible argument that, if the plaintiffs relied on violation of the federal standard as their only argument for negligence, resolution of the federal was "essential" in their case. But the issue, under Merrell Dow & Grable, is really whether resolution of the federal issue is essential, not in one particular case, but more generally in a class of similar cases. 
+- The plaintiffs were not asserting rights under federal law. They were simply using the FDA regulations as _evidence_ of what a reasonable drug manufacturer would do, to establish negligence under state law. 
 
 *Gunn v. Minton*
 
 - Minton sued Gunn under state law for attorney malpractice. The malpractice claim was based on a previous suit in which Gunn had represented Minton as the plaintiff in a patent infringement suit (governed by federal law).   
 - Under state law, Minton was required to allege (and prove) that Gunn’s representation in the underlying suit was negligent, and that Gunn would have prevailed in that suit but for Gunn’s negligence.  
 - Minton alleged that Gunn failed to raise a certain argument in the patent infringement suit, that a competent lawyer would have raised the argument, and that Minton would have won if Gunn had raised the argument.  
-- As in Merrell Dow, the federal issue was "essential" to Minton’s malpractice claim only in the narrow sense that under the particular facts of the case, the plaintiff was using federal law as a benchmark for establishing the defendant's negligence under state law.  
+- As in Merrell Dow, the suit wasn't really about Minton's rights under federal law. The federal issue only arose as a benchmark for establishing whether Gunn's legal representation in the patent case was negligent. 
 
 ### 2. Federal Interest 
 
@@ -104,4 +106,4 @@ In assessing whether there is a “substantial federal interest", the Supreme Co
 - The federal issues arise only as counterfactual hypotheticals: what would have happened if the attorney had done something different? 
 - Uniform interpretation and application of federal patent law, in cases where rights under that law are actually at stake, is ensured by exclusive federal jurisdiction over patent claims (i.e. not only do federal courts have jurisdiction over those claims, because they arise under the federal patent statute, but state courts may not hear those claims at all).  
 - Parties asserting rights under federal patent law have a private right of action in federal court. 
-- Malpractice claims based on an attorney’s conduct in a federal patent suit don’t sufficiently implicate the rights or interests governed by federal patent law to warrant a federal forum, and allowing state courts to decide those malpractice claims won’t interfere with the exclusive federal jurisdiction over patent claims themselves. 
+- Malpractice claims based on an attorney’s conduct in a federal patent suit don’t really affect the rights or interests governed by federal patent law (Minton's patent remains invalid, regardless of what happens in the malpractice case), and allowing state courts to decide those malpractice claims won’t interfere with the exclusive federal jurisdiction over patent claims themselves. 

@@ -86,6 +86,7 @@ title: Schedule & Assignments
 - [28 U.S.C. § 1331](https://www.law.cornell.edu/uscode/text/28/1331)
 - [Louisville & Nashville R.R. Co. v. Mottley](https://www.emfink.net/CivilProcedure/cases/Mottley)
 - [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://www.emfink.net/CivilProcedure/cases/Grable)
+- [Note on Grable](https://www.emfink.net/CivilProcedure/notes/GrableExplanation)
 
 #### September 21 & 23 
 
