@@ -23,7 +23,7 @@ In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for
 
 # I. BACKGROUND
 
-# A. Factual Background
+## A. Factual Background
 
 Late one night in June 1989, Mr. Johnson ran into a female acquaintance at a bar in Cheyenne and returned with her to the apartment that she shared with her boyfriend, who was away at the time. They drank wine and smoked marijuana in her living room, and Mr. Johnson used his driver's license and picture I.D., which were enclosed in a clear plastic sleeve, to separate marijuana leaves from their stems and seeds for the joints that they smoked. Mr. Johnson and his female acquaintance then left her apartment in her car and visited multiple bars in downtown Cheyenne. Mr. Johnson, however, forgot his license and picture I.D. on the coffee table in his acquaintance's living room.
  
@@ -45,9 +45,9 @@ At trial, the acquaintance testified that Mr. Johnson broke into her apartment a
  
 Mr. Johnson remained imprisoned for twenty-four years. Then, in August 2013, he was declared actually innocent by a Wyoming court after improved DNA testing revealed that the seminal fluid samples in the acquaintance's sexual-assault kit did not match his DNA but, rather, the DNA of the acquaintance's then-boyfriend. According to Mr. Johnson, the Cheyenne Police Department should not have believed the acquaintance and her boyfriend when they told the police that the boyfriend was out of town for work on the night she was sexually assaulted.
 
-# B. Procedural Background
+## B. Procedural Background
 
-# 1. The 1991 Action
+### 1. The 1991 Action
 
 While incarcerated, Mr. Johnson filed at least two federal civil-rights actions in Wyoming federal district court against those he claimed were responsible for his conviction. The first of these actions was a suit he filed in forma pauperis in 1991 against the City of Cheyenne and Detective Stanford, among other parties. Within seven days of the filing of his original complaint, Mr. Johnson also filed a demand for a jury trial. He then amended his complaint, alleging, inter alia, that Cheyenne had failed to train its officers in proper methods of investigation and that Detective Stanford had violated his constitutional rights during the investigation by, for example, the manner in which the detective interrogated him.
  
@@ -57,7 +57,7 @@ At the beginning of the new evidentiary hearing, the magistrate judge denied the
  
 Mr. Johnson appealed, and a panel of our court entered an order and judgment affirming the district court's judgment.  [ * * * ]
 
-# 2. The 1992 Action
+### 2. The 1992 Action
 
 While his 1991 Action was pending, Mr. Johnson filed another federal civil-rights action—this time a 42 U.S.C. § 1983 suit against Officer Spencer. Mr. Johnson alleged that Officer Spencer had violated his due-process rights "by knowingly and willfully giv[ing] false testimony at [his original] jury trial" about the eyeglasses that his acquaintance said that he had worn and she had found in her bedroom. He also moved the district court for leave to proceed in forma pauperis.
  
@@ -65,7 +65,7 @@ Before Officer Spencer filed any responsive document, the district court entered
  
 On appeal, we affirmed, noting that the district court had "dismiss[ed] the action as factually frivolous under 28 U.S.C. § 1915(d)." In doing so, we stated that "Mr. Johnson's lawsuit is based upon an indisputably meritless legal theory because a testifying police officer is entitled to absolute immunity." Thus, "[d]ismissal was appropriate." 
  
-# 3. The 2017 Action
+### 3. The 2017 Action
 
 After he was exonerated, Mr. Johnson filed a third federal civil-rights action, i.e., the 2017 Action under § 1983. He alleged that Cheyenne, Detective Stanford, Officer Spencer, and unnamed members of Cheyenne's police department violated his constitutional rights. In particular, he alleged that the defendants suppressed photographs of the crime scene that would have exonerated him, failed to preserve those photographs, fabricated evidence by prompting the acquaintance to identify him as the intruder who broke into her apartment, and, as to Cheyenne, failed to have adequate policies and training for its officers.
  
@@ -85,13 +85,13 @@ The central question in this appeal is whether the judgments in the prior litiga
 
 [ * * * ]
 
-# B. The Defendants' Rule 12(b)(6) Motions in the 2017 Action
+## B. The Defendants' Rule 12(b)(6) Motions in the 2017 Action
 
 In the following discussion, we address (1) our standard of review, (2) the general framework governing claim-preclusion, and (3) how that law applies to the 1991 and 1992 Actions. We conclude that the district court correctly held that the 1991 Action has claim-preclusive effect on the 2017 Action, but erred in holding that the 1992 Action has such effect. We, thus, affirm in part and reverse in part.
 
 [ * * * ]
 
-# 2. Background Principles of Claim Preclusion
+### 2. Background Principles of Claim Preclusion
 
 Before proceeding further into our de novo review, we pause to frame the applicable claim-preclusion doctrine. "The principle underlying the rule of claim preclusion is that a party who once has had a chance to litigate a claim before an appropriate tribunal usually ought not have another chance to do so." _Lenox MacLaren Surgical_, 847 F.3d at 1239. "The preclusive effect of a federal-court judgment is determined by federal common law." _Taylor v. Sturgell_, 553 U.S. 880, 891 (2008). We require defendants to prove three elements to prevail on this defense: "(1) a [final] judgment on the merits in an earlier action; (2) identity of parties or privies in the two suits; and (3) identity of the cause of action in both suits." _Lenox MacLaren Surgical_, 847 F.3d at 1239. "In addition, even if these three elements are satisfied, there is an exception to the application of claim preclusion where the party resisting it did not have a 'full and fair opportunity to litigate' the claim in the prior action." _Id._ 
  
@@ -99,15 +99,15 @@ Although we have at times "characterized the 'full and fair opportunity to litig
  
 In this case, Mr. Johnson concedes that the district court correctly ruled that the second and third elements of claim preclusion are satisfied here. See Thus, the judgments in the 1991 and 1992 Actions will have claim-preclusive effect against Mr. Johnson so long as they were "on the merits" and he had a "full and fair opportunity to litigate." Although Mr. Johnson argues that the 1992 Action did not provide him with a "full and fair opportunity to litigate," we do not address the merits of that argument because, as explicated below, we agree with his contention that the district court erred in holding that the judgment in that action was "on the merits." The 1992 Action, accordingly, should not have been given claim-preclusive effect. As for the 1991 Action, Mr. Johnson does not argue that the district court erred in concluding that it had entered a judgment "on the merits." Consequently, we take up below solely the question of whether Mr. Johnson had a "full and fair opportunity to litigate" his claims in the 1991 Action. We conclude that he did have such an opportunity. We, thus, affirm that aspect of the district court's claim-preclusion determination.
  
-# 3. Application
+### 3. Application
 
 In the following discussion, as indicated, we focus on whether the 1991 Action provided Mr. Johnson with a "full and fair opportunity to litigate" and whether the 1992 Action was adjudicated "on the merits." As to the 1991 Action, we conclude that Mr. Johnson had a "full and fair opportunity to litigate" his claims because the decision to conduct a bench trial that ostensibly deprived him of that opportunity presented a procedural issue that he had a full and fair opportunity to litigate before the district court, but then waived on appeal, even though he could have fully and fairly litigated it there as well. As to the 1992 Action, in contrast, we conclude that Mr. Johnson correctly contends that the action was not adjudicated "on the merits" because the district court expressly dismissed it as frivolous under the then-applicable 28 U.S.C. § 1915(d). Accordingly, we affirm the district court's dismissal of the claims precluded by the 1991 Action—i.e., those against the Estate and Cheyenne—but reverse its dismissal of the claims ostensibly precluded by the 1992 Action—i.e., those against Officer Spencer.
 
-# a. The 1991 Action is entitled to claim-preclusive effect.
+### a. The 1991 Action is entitled to claim-preclusive effect.
 
 The parties dispute whether the 1991 Action is entitled to claim-preclusive effect and, more specifically, whether it constituted a "full and fair opportunity to litigate." Mr. Johnson also argues that, even if the 1991 Action might give rise to claim preclusion, Cheyenne and the Estate have failed to muster legally sufficient proof to establish this. We reject both arguments and, thus, uphold the district court's dismissal of the claims against Cheyenne and the Estate, i.e., the parties to the 1991 Action.
 
-# i. The "Full and Fair Opportunity to Litigate" Requirement
+### i. The "Full and Fair Opportunity to Litigate" Requirement
 
 The "full and fair opportunity to litigate" inquiry is a "narrow exception" that "applies only where the requirements of due process were not afforded—where a party shows 'a deficiency that would undermine the fundamental fairness of the original proceedings.'" _Lenox MacLaren Surgical_, 847 F.3d at 1243. "The fairness of the prior proceeding 'is determined by examining any procedural limitations, the party's incentive to fully litigate the claim, and whether effective litigation was limited by the nature or relationship of the parties.'" _Id._ Here, Mr. Johnson argues, [ … ] that the district court's decision in the 1991 Action to convene a bench trial instead of a jury trial was a procedural limitation that denied him a "full and fair opportunity to litigate" his claims. We disagree.
  
@@ -121,7 +121,7 @@ As in _Hanley_, so too here. Mr. Johnson had a full and fair opportunity to liti
 
 In sum, it is clear to us that Mr. Johnson cannot escape from the claim-preclusive effect of the 1991 Action based on a procedural argument that was previously litigated and adjudicated in that action and that he had an opportunity to appeal before that judgment became final. Consequently, we reject Mr. Johnson's contention that the 1991 Action did not provide him with a "full and fair opportunity to litigate."
  
-# ii. Cheyenne and the Estate carried their burden on the claim-preclusion defense.
+### ii. Cheyenne and the Estate carried their burden on the claim-preclusion defense.
 
 Mr. Johnson also contends that, even if the 1991 Action could give rise to claim preclusion, Cheyenne and the Estate have failed to muster legally sufficient proof to establish this. We reject this argument.
  
@@ -135,7 +135,7 @@ It is beyond cavil that claim preclusion is an affirmative defense, as to which 
 
 In sum, we reject Mr. Johnson's argument that Cheyenne and the Estate have failed to muster legally sufficient proof to establish claim preclusion as to the 1991 Action.
 
-# iii. Heck v. Humphrey Redux
+### iii. Heck v. Humphrey Redux
 
 Mr. Johnson also returns to an iteration of his _Heck_ argument. He argues that, under _Heck_, he could not have brought the claims in his 2017 Action until he was exonerated in 2013 and so the district court erred in deeming those claims precluded by his earlier actions. [ * * * ]
  
@@ -151,11 +151,11 @@ We, thus, reject Mr. Johnson's argument that the claims in the 2017 Action were 
 
 In sum, we hold that the claims in the 2017 Action against Cheyenne and the Estate are precluded by the 1991 Action. We, thus, affirm the dismissal of those claims.
  
-# b. The 1992 Action is not entitled to claim-preclusive effect.
+### b. The 1992 Action is not entitled to claim-preclusive effect.
 
 With respect to the 1992 Action, Mr. Johnson primarily disputes the first element of claim preclusion, i.e., whether there was "a [final] judgment on the merits." _Lenox MacLaren Surgical_, 847 F.3d at 1239. We recount the relevant procedural history before agreeing with Mr. Johnson that the 1992 Action was not adjudicated "on the merits" and, therefore, did not have claim-preclusive effect on the 2017 Action. We, thus, reverse the district court's dismissal of the claims against Officer Spencer—the only defendant in the 1992 Action—and remand for further proceedings on those claims. Because we conclude that the 1992 Action was not adjudicated "on the merits," we need not entertain Mr. Johnson's separate argument that the 1992 Action did not afford him a "full and fair opportunity to litigate."
  
-# i. Relevant Procedural History
+### i. Relevant Procedural History
 
 Mr. Johnson's 1992 Action was a § 1983 suit alleging that Officer Spencer violated his due-process rights by providing false testimony about his eyeglasses at his criminal trial. The district court dismissed the complaint sua sponte with prejudice as frivolous, (1) noting that in the 1991 Action it had "concluded there were no facts justifying the plaintiff's claims that his constitutional rights were violated" and (2) holding that "[t]he present complaint [wa]s simply another attempt by plaintiff to revisit the same claim that has previously been dismissed." The court reviewed the exhibits that Mr. Johnson had submitted with his complaint and concluded that they did not "establish[ ] even the slightest indication that [Officer Spencer] made false, or inconsistent statements at the trial." The court, in conclusion, observed that Mr. Johnson had "made no new argument in his complaint" and, thus, held that his complaint was "frivolous and completely devoid of merit." 
  
@@ -163,7 +163,7 @@ Further, the district court stated that "[e]ven assuming [Mr. Johnson's] constit
  
 On appeal from that judgment, we noted that the district court "dismiss[ed] the action as factually frivolous" and affirmed on the ground that "Mr. Johnson's lawsuit is based upon an indisputably meritless legal theory because a testifying police officer is entitled to absolute immunity." 
 
-# ii. The "On the Merits" Requirement
+### ii. The "On the Merits" Requirement
 
 As mentioned, a successful claim-preclusion defense requires "a [final] judgment on the merits in [the] earlier action." _Lenox MacLaren Surgical_, 847 F.3d at 1239. Mr. Johnson argues that the 1992 Action was not an adjudication "on the merits" because the suit was dismissed as frivolous. We agree.
  
