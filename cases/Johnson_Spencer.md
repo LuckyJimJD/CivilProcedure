@@ -16,11 +16,10 @@ judge: "Holmes, Circuit Judge"
 In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for which he was then incarcerated. In 2017, after his release, Mr. Johnson brought suit under 42 U.S.C. § 1983 against the City of Cheyenne, Wyoming ("Cheyenne"), the Estate of Detective George Stanford ("the Estate"),1 and Officer Alan Spencer alleging that they were responsible for violations of his constitutional rights that contributed to his conviction ("2017 Action"). While incarcerated, however, Mr. Johnson had unsuccessfully brought similar suits against Cheyenne and Detective Stanford in 1991 ("1991 Action") and against Officer Spencer in 1992 ("1992 Action"). The central question on appeal is what effect the judgments against Mr. Johnson in his 1991 and 1992 Actions have on his 2017 Action.
 
 [ * * * ]
- 
-[ … ] Cheyenne, the Estate, and Officer Spencer each moved the district court under Federal Rule of Civil Procedure 12(b)(6) to dismiss the 2017 Action because its claims are precluded by the judgments in the 1991 and 1992 Actions. The district court granted those motions and denied Mr. Johnson's later motions for reconsideration of and relief from that dismissal. [ * * * ] [W]e affirm in part and reverse in part the district court's dismissal of the 2017 Action. More specifically, we affirm the dismissal of the claims against Cheyenne and the Estate because the judgment in the 1991 Action—in which they were the defendants—is entitled to claim-preclusive effect. We reverse, however, the dismissal of the claims against Officer Spencer because the judgment in the 1992 Action—in which he was the defendant—was not on the merits and, thus, is not entitled to claim-preclusive effect.
- 
-[ * * * ] 
 
+[ … ] Cheyenne, the Estate, and Officer Spencer each moved the district court under Federal Rule of Civil Procedure 12(b)(6) to dismiss the 2017 Action because its claims are precluded by the judgments in the 1991 and 1992 Actions. The district court granted those motions and denied Mr. Johnson's later motions for reconsideration of and relief from that dismissal. [ * * * ] [W]e affirm in part and reverse in part the district court's dismissal of the 2017 Action. More specifically, we affirm the dismissal of the claims against Cheyenne and the Estate because the judgment in the 1991 Action—in which they were the defendants—is entitled to claim-preclusive effect. We reverse, however, the dismissal of the claims against Officer Spencer because the judgment in the 1992 Action—in which he was the defendant—was not on the merits and, thus, is not entitled to claim-preclusive effect. 
+
+[ * * * ]
 
 # I. BACKGROUND
 
@@ -81,9 +80,9 @@ In July 2017, the district court granted all three motions to dismiss. "Although
 The central question in this appeal is whether the judgments in the prior litigation concerning Mr. Johnson's conviction—i.e., the judgments in the 1991 and 1992 Actions—prevent him from bringing a new lawsuit—i.e., the 2017 Action—against the same defendants after his exoneration. The answer turns on the doctrine of claim preclusion. Claim preclusion "prevent[s] a party from litigating a legal claim that was or could have been the subject of a previously issued final judgment." _Lenox MacLaren Surgical Corp. v. Medtronic, Inc._, 847 F.3d 1221, 1239 (10th Cir. 2017). For claim preclusion to apply, "three elements must exist: (1) a [final] judgment on the merits in an earlier action; (2) identity of parties or privies in the two suits; and (3) identity of the cause of action in both suits." _Id._. "[E]ven if these three elements are satisfied, there is an exception to the application of claim preclusion where the party resisting it did not have a 'full and fair opportunity to litigate' the claim in the prior action." _Id._.
 
 [ * * * ]
- 
+
 [ … ] [w]e address in Part B whether [the judgments in the 1991 and 1992 Actions] have claim-preclusive effect on the 2017 Action. We conclude that the judgment in the 1991 Action—in which Detective Stanford and Cheyenne were defendants—has claim-preclusive effect. But we conclude that the judgment in the 1992 Action—in which Officer Spencer was the defendant—does not have claim-preclusive effect because that case was not decided "on the merits." We, thus, do the following: (1) reverse the district court's order granting Officer Spencer's Rule 12(b)(6) motion to dismiss the 2017 Action and remand for further proceedings, and (2) affirm the district court's order granting the Estate's and Cheyenne's Rule 12(b)(6) motions to dismiss the 2017 Action.
- 
+
 [ * * * ]
 
 # B. The Defendants' Rule 12(b)(6) Motions in the 2017 Action
@@ -117,9 +116,9 @@ As we mentioned, the procedural limitation at issue here—i.e., the denial of a
 As the governing authorities make clear, it is enough for full-and-fair-opportunity-to-litigate purposes that the litigant had a full and fair opportunity to contest the procedural obstacle that ostensibly barred meaningful consideration of his claims. Mr. Johnson had that opportunity here. In this regard, our decision in _Hanley v. Four Corners Vacation Properties, Inc._, is instructive. _See_ 480 F.2d 536 (10th Cir. 1973). In _Hanley_, the plaintiffs-appellants argued that a prior state judgment "was void and subject to collateral attack because of the lack of service of process." _Id._ at 538. The defendants-appellees defended the prior judgment on the ground that "the due process issue [pertaining to the alleged defect in service of process] was fully litigated [previously] in [state court,] culminating in a judgment" against the plaintiffs-appellants. _Id._ at 537. The district court "sustained the defense," holding that the prior judgment should be accorded claim-preclusive effect. _Id._ We affirmed, stating that "[i]t is ... well settled that where the issue of due process has been litigated and a final judgment entered, the determination of that issue, right or wrong, is res judicata." _Id._ at 538. In reaching that holding, we reasoned that the plaintiffs-appellants' due-process concerns were litigated in state court, where "[a]n adequate remedy was available through the state appellate process." _Id._ And we concluded that the plaintiffs-appellants "have had their day in court on these issues and a final judgment entered thereon. They cannot relitigate them in federal court." Id.
  
 As in _Hanley_, so too here. Mr. Johnson had a full and fair opportunity to litigate the alleged procedural limitation—i.e., the denial of a jury trial—before the district court in the 1991 Action, and, after the court entered judgment, he had a full and fair opportunity to challenge the court's procedures on appeal before that judgment became final. The fact that he did not present a procedural challenge on appeal does nothing to diminish the opportunity that he had to do so; he simply lost his chance. Like the plaintiffs-appellants in Hanley, Mr. Johnson "had [his] day in court on th[is] issue[ ] and a final judgment entered thereon." _Id._ The district court, therefore, properly determined that he could not "relitigate" the issue in the 2017 Action. _Id._
- 
+
 [ * * * ]
- 
+
 In sum, it is clear to us that Mr. Johnson cannot escape from the claim-preclusive effect of the 1991 Action based on a procedural argument that was previously litigated and adjudicated in that action and that he had an opportunity to appeal before that judgment became final. Consequently, we reject Mr. Johnson's contention that the 1991 Action did not provide him with a "full and fair opportunity to litigate."
  
 # ii. Cheyenne and the Estate carried their burden on the claim-preclusion defense.
@@ -133,7 +132,7 @@ That said, we recognize that Mr. Johnson's argument appears to grow out of the l
 It is beyond cavil that claim preclusion is an affirmative defense, as to which the defendant bears the burden of proof. But at least arguably in our precedential decisions, we have effectively allocated to "the party seeking to avoid preclusion" the burden of proof as to the full-and-fair-opportunity-to-litigate exception. [ * * * ] Be that as it may, we need not definitively opine here on this burden-of-proof question because the district court, in fact, placed the burden of proof for the full-and-fair-opportunity factor—including the burden of persuasion—on the defendants. Insofar as Mr. Johnson suggests that the court's observation that he "failed to rebut" the defendants' proof demonstrates that the court actually placed the burden of proof on him, we disagree. Instead of treating the full-and-fair-opportunity factor as an exception to preclusion, the district court viewed it as one of "'four' res judicata elements" that the defendants had "the burden of showing." The court, therefore, made its observation that Mr. Johnson did not rebut the defendants' proof in the context of its express statement that it had held the defendants to "the burden of showing ... that [Mr. Johnson] had a full and fair opportunity to litigate the claims in the prior suits." Accordingly, Mr. Johnson has no basis to object to the district court's allocation of the burden of proof as to the full-and-fair-opportunity-to-litigate factor because the court allocated the burden as he desired.
 
 [ * * * ]
- 
+
 In sum, we reject Mr. Johnson's argument that Cheyenne and the Estate have failed to muster legally sufficient proof to establish claim preclusion as to the 1991 Action.
 
 # iii. Heck v. Humphrey Redux
@@ -184,9 +183,8 @@ Finally, the parties dispute whether an order with two holdings, one "on the mer
  
 In sum, because it was not an adjudication on the merits, we conclude that the 1992 Action cannot operate with claim-preclusive effect on the 2017 Action. We, thus, reverse the district court's order dismissing the 2017 Action's claims against Officer Spencer. Because we reverse that order based on the "on the merits" element of claim preclusion, we need not and do not address whether the district court's order was also erroneous because it determined that the 1992 Action provided Mr. Johnson with a "full and fair opportunity to litigate."
 
-
 [ * * * ]
- 
+
 # III. CONCLUSION
 
 We acknowledge the terrible reality that Mr. Johnson must have faced during the twenty-four years that he was wrongly incarcerated. As the Supreme Court has stated, however, the doctrine of claim preclusion "serves vital public interests beyond any individual judge's ad hoc determination of the equities in a particular case." _Moitie_, 452 U.S. at 401. Thus, for the reasons we have provided, in the 2017 Action, we affirm the dismissal of the claims against the Estate and Cheyenne, but reverse the dismissal of the claims against Officer Spencer and remand for further proceedings consistent with this opinion. [ * * * ]
