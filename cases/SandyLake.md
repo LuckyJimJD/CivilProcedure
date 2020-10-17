@@ -6,7 +6,7 @@ title: "Sandy Lake Band of Mississippi Chippewa v. US"
 cite: '714 F.3d 1098'
 jurisdiction: '8th Cir.'
 published: '2013'
-panel: "Before Wollman and Colloton, Circuit Judges, and Homes, District Judge (sitting by designation)"
+panel: "Before Wollman and Colloton, Circuit Judges, and Holmes, District Judge (sitting by designation)"
 judge: "Wollman, Circuit Judge"
         
 ---
