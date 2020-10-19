@@ -6,9 +6,8 @@ title: "Ang. v. Whitewave Foods Co."
 cite: '13-cv-1953'
 jurisdiction: 'N.D. Cal.'
 published: '2013'
-panel: "Before J. Clifford Wallace, A. Wallace Tashima, and M. Margaret McKeown, Circuit Judges."
 judge: "Samuel Conti, District Judge"
-        
+
 ---
 
 # Order Granting Motion to Dismiss

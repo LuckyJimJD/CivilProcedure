@@ -13,7 +13,7 @@ judge: "Holmes, Circuit Judge"
 
 # Opinion
 
-In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for which he was then incarcerated. In 2017, after his release, Mr. Johnson brought suit under 42 U.S.C. § 1983 against the City of Cheyenne, Wyoming ("Cheyenne"), the Estate of Detective George Stanford ("the Estate"),1 and Officer Alan Spencer alleging that they were responsible for violations of his constitutional rights that contributed to his conviction ("2017 Action"). While incarcerated, however, Mr. Johnson had unsuccessfully brought similar suits against Cheyenne and Detective Stanford in 1991 ("1991 Action") and against Officer Spencer in 1992 ("1992 Action"). The central question on appeal is what effect the judgments against Mr. Johnson in his 1991 and 1992 Actions have on his 2017 Action.
+In 2013, a Wyoming court declared Andrew Johnson actually innocent of crimes for which he was then incarcerated. In 2017, after his release, Mr. Johnson brought suit under 42 U.S.C. § 1983 against the City of Cheyenne, Wyoming ("Cheyenne"), the Estate of Detective George Stanford ("the Estate"), and Officer Alan Spencer alleging that they were responsible for violations of his constitutional rights that contributed to his conviction ("2017 Action"). While incarcerated, however, Mr. Johnson had unsuccessfully brought similar suits against Cheyenne and Detective Stanford in 1991 ("1991 Action") and against Officer Spencer in 1992 ("1992 Action"). The central question on appeal is what effect the judgments against Mr. Johnson in his 1991 and 1992 Actions have on his 2017 Action.
 
 [ * * * ]
 

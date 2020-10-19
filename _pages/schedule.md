@@ -201,7 +201,7 @@ title: Schedule & Assignments
 ### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
-- [Zielinski v. Philadelphia Piers, Inc.](https://scholar.google.com/scholar_case?case=6925145899226984414)
+- [Zielinski v. Philadelphia Piers, Inc.](https://www.emfink.net/CivilProcedure/cases/Zielinski_PPI)
 
 #### November 2
 
