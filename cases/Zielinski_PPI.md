@@ -12,17 +12,17 @@ judge: "Van Dusen, District Judge"
 
 Plaintiff requests a ruling that, for the purposes of this case, the motor-driven fork lift operated by Sandy Johnson on February 9, 1953, was owned by defendant and that Sandy Johnson was its agent acting in the course of his employment on that date. The following facts are established by the pleadings, interrogatories, depositions and uncontradicted portions of affidavits:
 
-\1. Plaintiff filed his complaint on April 28, 1953, for personal injuries received on February 9, 1953, while working on Pier 96, Philadelphia, for J. A. McCarthy, as a result of a collision of two motor-driven fork lifts.
+1\. Plaintiff filed his complaint on April 28, 1953, for personal injuries received on February 9, 1953, while working on Pier 96, Philadelphia, for J. A. McCarthy, as a result of a collision of two motor-driven fork lifts.
 
-\2. Paragraph 5 of this complaint stated that "a motor-driven vehicle known as a fork lift or chisel, owned, operated and controlled by the defendant, its agents, servants and employees, was so negligently and carelessly managed * * * that the same * * * did come into contact with the plaintiff causing him to sustain the injuries more fully hereinafter set forth."
+2\. Paragraph 5 of this complaint stated that "a motor-driven vehicle known as a fork lift or chisel, owned, operated and controlled by the defendant, its agents, servants and employees, was so negligently and carelessly managed * * * that the same * * * did come into contact with the plaintiff causing him to sustain the injuries more fully hereinafter set forth."
 
-\3. The "First Defense" of the Answer stated "Defendant * * * (c) denies the averments of paragraph 5 * * *."
+3\. The "First Defense" of the Answer stated "Defendant * * * (c) denies the averments of paragraph 5 * * *."
 
-\4. The motor-driven vehicle known as a fork lift or chisel, which collided with the McCarthy fork lift on which plaintiff was riding, had on it the initials "P. P. I."
+4\. The motor-driven vehicle known as a fork lift or chisel, which collided with the McCarthy fork lift on which plaintiff was riding, had on it the initials "P. P. I."
 
-\5. On February 10, 1953, Carload Contractors, Inc. made a report of this accident to its insurance company, whose policy No. CL 3964 insured Carload Contractors, Inc. against potential liability for the negligence of its employees contributing to a collision of the type described in paragraph 2 above.
+5\. On February 10, 1953, Carload Contractors, Inc. made a report of this accident to its insurance company, whose policy No. CL 3964 insured Carload Contractors, Inc. against potential liability for the negligence of its employees contributing to a collision of the type described in paragraph 2 above.
 
-\6. By letter of April 29, 1953, the complaint served on defendant was forwarded to the above-mentioned insurance company. This letter read as follows:
+6\. By letter of April 29, 1953, the complaint served on defendant was forwarded to the above-mentioned insurance company. This letter read as follows:
 
 > "Gentlemen:
 >   
@@ -34,13 +34,13 @@ Plaintiff requests a ruling that, for the purposes of this case, the motor-drive
 >   
 > "We forward for your handling."
 
-\7. Interrogatories 1 to 5 and the answers thereto, which were sworn to by defendant's General Manager on June 12, 1953, and filed on June 22, 1953, read as follows:
+7\. Interrogatories 1 to 5 and the answers thereto, which were sworn to by defendant's General Manager on June 12, 1953, and filed on June 22, 1953, read as follows:
 
-> 1. State whether you have received any information of an injury sustained by the plaintiff on February 9, 1953, South Wharves. If so, state when and from whom you first received notice of such injury. A. We were first notified of this accident on or about February 9, 1953 by Thomas Wilson.
+> 1\. State whether you have received any information of an injury sustained by the plaintiff on February 9, 1953, South Wharves. If so, state when and from whom you first received notice of such injury. A. We were first notified of this accident on or about February 9, 1953 by Thomas Wilson.
 >   
-> 2. State whether you caused an investigation to be made of the circumstances of said injury and if so, state who made such investigation and when it was made. A. We made a very brief investigation on February 9, 1953 and turned the matter over to (our insurance company) for further investigation.
+> 2\. State whether you caused an investigation to be made of the circumstances of said injury and if so, state who made such investigation and when it was made. A. We made a very brief investigation on February 9, 1953 and turned the matter over to (our insurance company) for further investigation.
 >   
-> 3. Give the names and addresses of all persons disclosed by such investigation to have been witnesses to the aforesaid occurrence. A. The witnesses whose names we have obtained so far are:
+> 3\. Give the names and addresses of all persons disclosed by such investigation to have been witnesses to the aforesaid occurrence. A. The witnesses whose names we have obtained so far are:
 >     
 > Victor Marzo, 2005 E. Hart Lane, Philadelphia
 >   
@@ -48,27 +48,27 @@ Plaintiff requests a ruling that, for the purposes of this case, the motor-drive
 >   
 > Sandy Johnson, 1236 S. 16th Street, Philadelphia
 >   
-> 4. State whether you have obtained any written statements from such witnesses and if so, identify such statements and state when and by whom they were taken. If in writing, attach copies of same here to. A. We have obtained written statements from Victor Marzo, Thomas Wilson and Sandy Johnson and these statements are in the possession of our counsel * * *, who advises that copies need not be attached unless we are ordered by the court to do so.
+> 4\. State whether you have obtained any written statements from such witnesses and if so, identify such statements and state when and by whom they were taken. If in writing, attach copies of same here to. A. We have obtained written statements from Victor Marzo, Thomas Wilson and Sandy Johnson and these statements are in the possession of our counsel * * *, who advises that copies need not be attached unless we are ordered by the court to do so.
 >   
-> 5. Set forth the facts disclosed by such statements and investigation concerning the manner in which the accident happened. A. Sandy Johnson was moving boxes on Pier 96 and had stopped his tow-motor when a towmotor operated by an employe of McCarthy Stevedoring Company with a person on the back, apparently the plaintiff, backed into the standing towmotor, injuring the plaintiff.
+> 5\. Set forth the facts disclosed by such statements and investigation concerning the manner in which the accident happened. A. Sandy Johnson was moving boxes on Pier 96 and had stopped his tow-motor when a towmotor operated by an employe of McCarthy Stevedoring Company with a person on the back, apparently the plaintiff, backed into the standing towmotor, injuring the plaintiff.
 
-\8. At a deposition taken August 18, 1953, Sandy Johnson testified that he was the employee of defendant on February 9, 1953, and had been their employee for approximately fifteen years.
+8\. At a deposition taken August 18, 1953, Sandy Johnson testified that he was the employee of defendant on February 9, 1953, and had been their employee for approximately fifteen years.
 
-\9. At a pre-trial conference held on September 27, 1955,{% sidenote "sidenote-id" "(n.3 in opinion) The applicable statute of limitations prevented any suit against Carload Contractors, Inc. after February 9, 1955, 12 P.S. § 34." %} plaintiff first learned that over a year before February 9, 1953, the business of moving freight on piers in Philadelphia, formerly conducted by defendant, had been sold by it to Carload Contractors, Inc. and Sandy Johnson had been transferred to the payroll of this corporation without apparently realizing it, since the nature or location of his work had not changed.
+9\. At a pre-trial conference held on September 27, 1955,{% sidenote "sidenote-id" "(n.3 in opinion) The applicable statute of limitations prevented any suit against Carload Contractors, Inc. after February 9, 1955, 12 P.S. § 34." %} plaintiff first learned that over a year before February 9, 1953, the business of moving freight on piers in Philadelphia, formerly conducted by defendant, had been sold by it to Carload Contractors, Inc. and Sandy Johnson had been transferred to the payroll of this corporation without apparently realizing it, since the nature or location of his work had not changed.
 
-\10. As a result of the following answers to Supplementary Interrogatories 16 to 19, filed October 21, 1955, plaintiff learned the facts stated in paragraphs 5 and 6 above in the fall of 1955:
+10\. As a result of the following answers to Supplementary Interrogatories 16 to 19, filed October 21, 1955, plaintiff learned the facts stated in paragraphs 5 and 6 above in the fall of 1955:
 
-> 16. With reference to your answer to Interrogatory #1, state the name and address of the person employed by you who first received notice of this accident on or about February 9, 1953. A. Joseph Nolan, Office Manager.
+> 16\. With reference to your answer to Interrogatory #1, state the name and address of the person employed by you who first received notice of this accident on or about February 9, 1953. A. Joseph Nolan, Office Manager.
 >   
-> 17. With reference to your answer to Interrogatory #2, give the name and address of the person who conducted the investigation on February 9, 1953. A. Joseph Nolan, Office Manager.
+> 17\. With reference to your answer to Interrogatory #2, give the name and address of the person who conducted the investigation on February 9, 1953. A. Joseph Nolan, Office Manager.
 >   
-> 18. With reference to your answer to Interrogatory #2, state the name and address of the person who turned the matter over to (your insurance company) and state whether the matter was turned over by telephone or by letter. If by letter, attach copy of same hereto. A. Joseph Nolan gave the information to James L. Maher, Office Manager, of Carload Contractors, Inc., as a result of which the attached accident report signed by Jonathan Wainwright, Treasurer of Carload Contractors, Inc. was forwarded to (the insurance company) on February 10, 1953.
+> 18\. With reference to your answer to Interrogatory #2, state the name and address of the person who turned the matter over to (your insurance company) and state whether the matter was turned over by telephone or by letter. If by letter, attach copy of same hereto. A. Joseph Nolan gave the information to James L. Maher, Office Manager, of Carload Contractors, Inc., as a result of which the attached accident report signed by Jonathan Wainwright, Treasurer of Carload Contractors, Inc. was forwarded to (the insurance company) on February 10, 1953.
 >   
-> 19. State whether or not any person on your behalf submitted a written report of the accident to (your insurance company). If so, give the name and address of such person, the date of said written report and attach copy of same hereto. A. Yes, the attached report dated April 29, 1953, was submitted to the insurance company after suit was started."
+> 19\. State whether or not any person on your behalf submitted a written report of the accident to (your insurance company). If so, give the name and address of such person, the date of said written report and attach copy of same hereto. A. Yes, the attached report dated April 29, 1953, was submitted to the insurance company after suit was started."
 
-\11. Defendant now admits that on February 9, 1953, it owned the fork lift in the custody of Sandy Johnson and that this fork lift was leased to Carload Contractors, Inc. It is also admitted that the pier on which the accident occurred was leased by defendant.
+11\. Defendant now admits that on February 9, 1953, it owned the fork lift in the custody of Sandy Johnson and that this fork lift was leased to Carload Contractors, Inc. It is also admitted that the pier on which the accident occurred was leased by defendant.
 
-\12. There is no indication of action by either party in bad faith and there is no proof of inaccurate statements being made with intent to deceive. Because defendant made a prompt investigation of the accident (see answers to Interrogatories 1, 2, 16 and 17), its insurance company has been representing the defendant since suit was brought, and this company insures Carload Contractors, Inc. also, requiring defendant to defend this suit, will not prejudice it.
+12\. There is no indication of action by either party in bad faith and there is no proof of inaccurate statements being made with intent to deceive. Because defendant made a prompt investigation of the accident (see answers to Interrogatories 1, 2, 16 and 17), its insurance company has been representing the defendant since suit was brought, and this company insures Carload Contractors, Inc. also, requiring defendant to defend this suit, will not prejudice it.
 
 Under these circumstances, and for the purposes of this action, it is ordered that the following shall be stated to the jury at the trial:
 
@@ -76,7 +76,7 @@ Under these circumstances, and for the purposes of this action, it is ordered th
 
 This ruling is based on the following principles:
 
-\1. Under the circumstances of this case, the answer contains an ineffective denial of that part of paragraph 5 of the complaint which alleges that "a motor driven vehicle known as a fork lift or chisel (was) owned, operated and controlled by the defendant, its agents, servants and employees."
+1\. Under the circumstances of this case, the answer contains an ineffective denial of that part of paragraph 5 of the complaint which alleges that "a motor driven vehicle known as a fork lift or chisel (was) owned, operated and controlled by the defendant, its agents, servants and employees."
 
 F.R.Civ.P. 8(b) provides:
 
@@ -98,7 +98,7 @@ Under circumstances where an improper and ineffective answer has been filed, the
 
 _Boles v. Federal Electric Co._, 89 Pa.Super. 160, 163-164 (1926). 
 
-\2. Under the circumstances of this case, principles of equity require that defendant be estopped from denying agency because, otherwise, its inaccurate statements and statements in the record, which it knew (or had the means of knowing within its control) were inaccurate, will have deprived plaintiff of his right of action.
+2\. Under the circumstances of this case, principles of equity require that defendant be estopped from denying agency because, otherwise, its inaccurate statements and statements in the record, which it knew (or had the means of knowing within its control) were inaccurate, will have deprived plaintiff of his right of action.
 
 If Interrogatory 2 had been answered accurately by saying that employees of Carload Contractors, Inc. had turned the matter over to the insurance company, it seems clear that plaintiff would have realized his mistake. The fact that if Sandy Johnson had testified accurately, the plaintiff could have brought its action against the proper party defendant within the statutory period of limitations is also a factor to be considered, since defendant was represented at the deposition and received knowledge of the inaccurate testimony.
 
