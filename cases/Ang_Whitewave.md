@@ -26,11 +26,11 @@ Plaintiffs filed this suit on April 29, 2013, and assert claims for (1)-(3) unfa
 
 [ * * * ]
 
-# III. LEGAL STANDARD
+# III. Legal Standard
 
 A motion to dismiss under Federal Rule of Civil Procedure 12(b)(6) "tests the legal sufficiency of a claim." _Navarro v. Block_, 250 F.3d 729, 732 (9th Cir. 2001). "Dismissal can be based on the lack of a cognizable legal theory or the absence of sufficient facts alleged under a cognizable legal theory." _Balistreri v. Pacifica Police Dep't_, 901 F.2d 696, 699 (9th Cir. 1988). "When there are well-pleaded factual allegations, a court should assume their veracity and then determine whether they plausibly give rise to an entitlement to relief." _Ashcroft v. Iqbal_, 556 U.S. 662, 679 (2009). However, "the tenet that a court must accept as true all of the allegations contained in a complaint is inapplicable to legal conclusions. Threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice." _Id._ (citing _Bell Atl. Corp. v. Twombly_, 550 U.S. 544, 555 (2007)).
 
-# IV. DISCUSSION
+# IV. Discussion
 
 [ * * * ] Defendants argue that Plaintiffs' claims are preempted or are implausible. [ * * * ] [T]he Court finds that Plaintiffs' Milk Claims are either preempted or implausible.{% marginnote "margin-note-id" "The court found that the plaintiffs' other claims were barred by claim preclusion, based on the prior judgment in another class action suit against the same defendants. That portion of the opinion is omitted here." %}
 
