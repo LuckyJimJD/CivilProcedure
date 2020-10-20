@@ -25,6 +25,7 @@ Plaintiff requests a ruling that, for the purposes of this case, the motor-drive
 6\. By letter of April 29, 1953, the complaint served on defendant was forwarded to the above-mentioned insurance company. This letter read as follows:
 
 > "Gentlemen: 
+
    
 > "As per telephone conversation today with your office, we attach hereto 'Complaint in Trespass' as brought against Philadelphia Piers, Inc. by one Frank Zielinski for supposed injuries sustained by him on February 9, 1953. 
    
