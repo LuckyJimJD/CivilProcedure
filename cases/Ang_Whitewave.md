@@ -32,7 +32,7 @@ A motion to dismiss under Federal Rule of Civil Procedure 12(b)(6) "tests the le
 
 # IV. Discussion
 
-[ * * * ] [T]he Court finds that Plaintiffs' Milk Claims are either preempted or implausible.{% marginnote "margin-note-id" "The court found that the plaintiffs' other claims were barred by claim preclusion, based on the prior judgment in another class action suit against the same defendants. That portion of the opinion is omitted here." %}
+[ * * * ] [T]he Court finds that Plaintiffs' Milk Claims are either preempted or implausible.{% marginnote "margin-note-id" "The court also found that the plaintiffs' other claims were barred by claim preclusion, based on the prior judgment in another class action suit against the same defendants. That portion of the opinion is omitted here." %}
 
 [ * * * ]
 
