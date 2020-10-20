@@ -25,13 +25,13 @@ Plaintiff requests a ruling that, for the purposes of this case, the motor-drive
 6\. By letter of April 29, 1953, the complaint served on defendant was forwarded to the above-mentioned insurance company. This letter read as follows:
 
 > "Gentlemen: 
->   
+   
 > "As per telephone conversation today with your office, we attach hereto 'Complaint in Trespass' as brought against Philadelphia Piers, Inc. by one Frank Zielinski for supposed injuries sustained by him on February 9, 1953. 
->   
+   
 > "We find that a fork lift truck operated by an employee of Carload Contractors, Inc. also insured by yourselves was involved in an accident with another chisel truck, which, was alleged, did cause injury to Frank Zielinski, and same was reported to you by Carload Contractors, Inc. at the time, and you assigned Claim Number OL 0153-94 to this claim. 
->   
+   
 > "Should not this Complaint in Trespass be issued against Carload Contractors, Inc. and not Philadelphia Piers, Inc.? 
->   
+   
 > "We forward for your handling." 
 
 7\. Interrogatories 1 to 5 and the answers thereto, which were sworn to by defendant's General Manager on June 12, 1953, and filed on June 22, 1953, read as follows:
@@ -90,11 +90,11 @@ Under circumstances where an improper and ineffective answer has been filed, the
 
 > A general denial controverts the paragraph as a whole, and would be quite truthful, if but a fraction of the allegations answered were incorrect. 
    
-> The denial that any employe of the defendant directly or indirectly caused the injury might mean, either that the actor was not an employe of the defendant, or that, being the employe, he did not cause the injury.
+> The denial that any employe of the defendant directly or indirectly caused the injury might mean, either that the actor was not an employe of the defendant, or that, being the employe, he did not cause the injury. 
    
-> The agency, for the defendant, of the persons by whom the act was committed, that is, their employment by it was, in our opinion, properly taken by the trial Judge as an admitted fact. Of course, this carried with it no proof that these agents committed the act complained of, or that they were negligent, and the trial Judge so limited the admission, saying only that, 'The defendant, the Federal Electric Company, has admitted that it was its men who were doing this work.'
+> The agency, for the defendant, of the persons by whom the act was committed, that is, their employment by it was, in our opinion, properly taken by the trial Judge as an admitted fact. Of course, this carried with it no proof that these agents committed the act complained of, or that they were negligent, and the trial Judge so limited the admission, saying only that, 'The defendant, the Federal Electric Company, has admitted that it was its men who were doing this work.' 
    
-> Counsel for the defendant asked leave to amend 'to the effect that we were not in the premises at the time.' Passing the point that such an amendment would not have made the affidavit effective, we are of opinion that an amendment could not, with justice, have been permitted 413*413 at this late date. Four years had elapsed since the accident, when the motion was made; and two years since the case was put at issue. In the meanwhile, the statute of limitations had run, and a suit against any other person was barred. In other words, the plaintiff through the careless pleading, if it was careless pleading, of the defendant was deprived of all chance to recover for the serious injuries he had suffered. There is reason for requiring from a defendant, in such a case as this, a prompt and certain statement of his relation to the individual whose negligence causes injury to a plaintiff. The employment of such a person, his, and his immediate employer's, relation to the work in question, are matters nearly always unknown to the injured person. Whether the immediate actor is working on his own account, or is agent for a third person, and who that third person is, and also the latter's relations to the work, depend so often upon private contracts, that the injured party is at a loss to know who, in fact, is at fault.
+> Counsel for the defendant asked leave to amend 'to the effect that we were not in the premises at the time.' Passing the point that such an amendment would not have made the affidavit effective, we are of opinion that an amendment could not, with justice, have been permitted 413*413 at this late date. Four years had elapsed since the accident, when the motion was made; and two years since the case was put at issue. In the meanwhile, the statute of limitations had run, and a suit against any other person was barred. In other words, the plaintiff through the careless pleading, if it was careless pleading, of the defendant was deprived of all chance to recover for the serious injuries he had suffered. There is reason for requiring from a defendant, in such a case as this, a prompt and certain statement of his relation to the individual whose negligence causes injury to a plaintiff. The employment of such a person, his, and his immediate employer's, relation to the work in question, are matters nearly always unknown to the injured person. Whether the immediate actor is working on his own account, or is agent for a third person, and who that third person is, and also the latter's relations to the work, depend so often upon private contracts, that the injured party is at a loss to know who, in fact, is at fault. 
 
 _Boles v. Federal Electric Co._, 89 Pa.Super. 160, 163-164 (1926). 
 
@@ -104,7 +104,7 @@ If Interrogatory 2 had been answered accurately by saying that employees of Carl
 
 At least one appellate court has stated that the doctrine of equitable estoppel will be applied to prevent a party from taking advantage of the statute of limitations where the plaintiff has been misled by conduct of such party. See, _Peters v. Public Service Corporation_, 29 A.2d 189, 195 (N.J. Eq. 1942). In that case, the court said:
 
-> Of course, defendants were under no duty to advise complainants' attorney of his error, other than by appropriate pleadings, but neither did defendants have a right, knowing of the mistake, to foster it by its acts of omission.
+> Of course, defendants were under no duty to advise complainants' attorney of his error, other than by appropriate pleadings, but neither did defendants have a right, knowing of the mistake, to foster it by its acts of omission. 
 
 _Id._ at 196. 
 
