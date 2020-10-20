@@ -28,28 +28,38 @@ Plaintiff requests a ruling that, for the purposes of this case, the motor-drive
    
 > "As per telephone conversation today with your office, we attach hereto 'Complaint in Trespass' as brought against Philadelphia Piers, Inc. by one Frank Zielinski for supposed injuries sustained by him on February 9, 1953. 
    
+
 > "We find that a fork lift truck operated by an employee of Carload Contractors, Inc. also insured by yourselves was involved in an accident with another chisel truck, which, was alleged, did cause injury to Frank Zielinski, and same was reported to you by Carload Contractors, Inc. at the time, and you assigned Claim Number OL 0153-94 to this claim. 
    
+
 > "Should not this Complaint in Trespass be issued against Carload Contractors, Inc. and not Philadelphia Piers, Inc.? 
    
+
 > "We forward for your handling." 
 
 7\. Interrogatories 1 to 5 and the answers thereto, which were sworn to by defendant's General Manager on June 12, 1953, and filed on June 22, 1953, read as follows:
 
 > 1\. State whether you have received any information of an injury sustained by the plaintiff on February 9, 1953, South Wharves. If so, state when and from whom you first received notice of such injury. A. We were first notified of this accident on or about February 9, 1953 by Thomas Wilson. 
 
+
 > 2\. State whether you caused an investigation to be made of the circumstances of said injury and if so, state who made such investigation and when it was made. A. We made a very brief investigation on February 9, 1953 and turned the matter over to (our insurance company) for further investigation. 
    
+
 > 3\. Give the names and addresses of all persons disclosed by such investigation to have been witnesses to the aforesaid occurrence. A. The witnesses whose names we have obtained so far are: 
      
+
 > Victor Marzo, 2005 E. Hart Lane, Philadelphia 
    
+
 > Thomas Wilson, 6115 Reinhardt St., Philadelphia 
    
+
 > Sandy Johnson, 1236 S. 16th Street, Philadelphia 
    
+
 > 4\. State whether you have obtained any written statements from such witnesses and if so, identify such statements and state when and by whom they were taken. If in writing, attach copies of same here to. A. We have obtained written statements from Victor Marzo, Thomas Wilson and Sandy Johnson and these statements are in the possession of our counsel * * *, who advises that copies need not be attached unless we are ordered by the court to do so. 
    
+
 > 5\. Set forth the facts disclosed by such statements and investigation concerning the manner in which the accident happened. A. Sandy Johnson was moving boxes on Pier 96 and had stopped his tow-motor when a towmotor operated by an employe of McCarthy Stevedoring Company with a person on the back, apparently the plaintiff, backed into the standing towmotor, injuring the plaintiff.
 
 8\. At a deposition taken August 18, 1953, Sandy Johnson testified that he was the employee of defendant on February 9, 1953, and had been their employee for approximately fifteen years.
@@ -60,10 +70,13 @@ Plaintiff requests a ruling that, for the purposes of this case, the motor-drive
 
 > 16\. With reference to your answer to Interrogatory #1, state the name and address of the person employed by you who first received notice of this accident on or about February 9, 1953. A. Joseph Nolan, Office Manager.
    
+
 > 17\. With reference to your answer to Interrogatory #2, give the name and address of the person who conducted the investigation on February 9, 1953. A. Joseph Nolan, Office Manager.
    
+
 > 18\. With reference to your answer to Interrogatory #2, state the name and address of the person who turned the matter over to (your insurance company) and state whether the matter was turned over by telephone or by letter. If by letter, attach copy of same hereto. A. Joseph Nolan gave the information to James L. Maher, Office Manager, of Carload Contractors, Inc., as a result of which the attached accident report signed by Jonathan Wainwright, Treasurer of Carload Contractors, Inc. was forwarded to (the insurance company) on February 10, 1953.
    
+
 > 19\. State whether or not any person on your behalf submitted a written report of the accident to (your insurance company). If so, give the name and address of such person, the date of said written report and attach copy of same hereto. A. Yes, the attached report dated April 29, 1953, was submitted to the insurance company after suit was started."
 
 11\. Defendant now admits that on February 9, 1953, it owned the fork lift in the custody of Sandy Johnson and that this fork lift was leased to Carload Contractors, Inc. It is also admitted that the pier on which the accident occurred was leased by defendant.
@@ -90,10 +103,13 @@ Under circumstances where an improper and ineffective answer has been filed, the
 
 > A general denial controverts the paragraph as a whole, and would be quite truthful, if but a fraction of the allegations answered were incorrect. 
    
+
 > The denial that any employe of the defendant directly or indirectly caused the injury might mean, either that the actor was not an employe of the defendant, or that, being the employe, he did not cause the injury. 
    
+
 > The agency, for the defendant, of the persons by whom the act was committed, that is, their employment by it was, in our opinion, properly taken by the trial Judge as an admitted fact. Of course, this carried with it no proof that these agents committed the act complained of, or that they were negligent, and the trial Judge so limited the admission, saying only that, 'The defendant, the Federal Electric Company, has admitted that it was its men who were doing this work.' 
    
+
 > Counsel for the defendant asked leave to amend 'to the effect that we were not in the premises at the time.' Passing the point that such an amendment would not have made the affidavit effective, we are of opinion that an amendment could not, with justice, have been permitted at this late date. Four years had elapsed since the accident, when the motion was made; and two years since the case was put at issue. In the meanwhile, the statute of limitations had run, and a suit against any other person was barred. In other words, the plaintiff through the careless pleading, if it was careless pleading, of the defendant was deprived of all chance to recover for the serious injuries he had suffered. There is reason for requiring from a defendant, in such a case as this, a prompt and certain statement of his relation to the individual whose negligence causes injury to a plaintiff. The employment of such a person, his, and his immediate employer's, relation to the work in question, are matters nearly always unknown to the injured person. Whether the immediate actor is working on his own account, or is agent for a third person, and who that third person is, and also the latter's relations to the work, depend so often upon private contracts, that the injured party is at a loss to know who, in fact, is at fault. 
 
 _Boles v. Federal Electric Co._, 89 Pa.Super. 160, 163-164 (1926). 
