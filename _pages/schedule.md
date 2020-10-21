@@ -189,12 +189,9 @@ title: Schedule & Assignments
 ### Complaints 
 
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
-- [Bell Atlantic Corp. v. Twombly](https://www.emfink.net/CivilProcedure/cases/Twombly)
-- Bell Atlantic v. Twombly—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Twombly-Complaint.pdf) 
-- [Ashcroft v. Iqbal](https://www.emfink.net/CivilProcedure/cases/Iqbal)
-- Ashcroft v. Iqbal—[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Iqbal-Complaint.pdf) 
-- [Ang v. Whitewave Foods Company](https://www.emfink.net/CivilProcedure/cases/Ang_Whitewave)
-- [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Dismissal)
+- [Bell Atlantic Corp. v. Twombly](https://www.emfink.net/CivilProcedure/cases/Twombly); [Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Twombly-Complaint.pdf) 
+- [Ashcroft v. Iqbal](https://www.emfink.net/CivilProcedure/cases/Iqbal); [Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Iqbal-Complaint.pdf) 
+- [Sines v. Kessler](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Sines_Kessler-12b6-Decision.pdf); [Complaint]](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Sines_Kessler-FAC.pdf); [Motion to Dismiss](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Sines_Kessler-12b6-Motion.pdf); [Plaintiff's Opposition](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Sines_Kessler-12b6-Opposition.pdf)
 
 #### October 30
 
