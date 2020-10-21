@@ -2,7 +2,7 @@
 layout: case
 
 course: Civil Procedure
-title: 'Parklane Hosiery v. Shore'
+title: 'Ashcroft v. Iqbal'
 cite: '556 US 662'
 published: '2009'
 judge: "Justice Kennedy delivered the opinion of the Court."
