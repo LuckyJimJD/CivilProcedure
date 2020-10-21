@@ -210,7 +210,7 @@ title: Schedule & Assignments
 - [FRCP Rule 15](https://www.law.cornell.edu/rules/frcp)
 - [FRCP Rule 15(a)(1) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15a1)
 - [FRCP Rule 15(c)(1)(C) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15c1C)
-- [Beeck v. Aquaslide 'n' Dive Corp.](https://scholar.google.com/scholar_case?case=15322670532319101167)
+- [Beeck v. Aquaslide 'n' Dive Corp.](https://www.emfink.net/CivilProcedure/cases/Beeck_Aquaslide)
 - [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
 
 
@@ -240,8 +240,8 @@ title: Schedule & Assignments
 ### The Rules of Decision Act 
 
 - Rules of Decision Act, [28 U.S.C. § 1652](https://www.law.cornell.edu/uscode/text/28/1652)
-- [Erie R.R. Co. v. Tompkins](https://scholar.google.com/scholar_case?case=4671607337309792720)
-- [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.](https://scholar.google.com/scholar_case?case=9475547876856228277)
+- [Erie R.R. Co. v. Tompkins](https://www.emfink.net/CivilProcedure/cases/Erie)
+- [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.](https://www.emfink.net/CivilProcedure/cases/Byrd)
 - Brian L. Frye, [The Ballad of Harry James Tompkins](https://www.emfink.net/CivilProcedure/readings/Frye-Tompkins.pdf), 52 Akron Law Review 531 (2019)
 
 #### November 13
@@ -249,8 +249,8 @@ title: Schedule & Assignments
 ### The Rules Enabling Act 
 
 - Rules Enabling Act, [28 U.S.C. §§ 2072, 2073, 2074](https://www.law.cornell.edu/uscode/text/28/part-V/chapter-131)
-- [Hanna v. Plumer](https://scholar.google.com/scholar_case?case=12605767878314119086)
-- [Shady Grove Orthopedic Associates v. Allstate Insurance Co.](https://scholar.google.com/scholar_case?case=7067599661351323973)
+- [Hanna v. Plumer](https://www.emfink.net/CivilProcedure/cases/Hanna)
+- [Shady Grove Orthopedic Associates v. Allstate Insurance Co.](https://www.emfink.net/CivilProcedure/cases/ShadyGrove)
 
 #### November 16
 
