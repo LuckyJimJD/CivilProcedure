@@ -45,11 +45,10 @@ Allocate different functions to different steps:
 
 # Pleading Under the FRCP
 
-## Applicable Rules
+## Pleadings allowed
 
 #### Rule 7
 
-##### Pleadings allowed
 - Complaint
 - Answer
 - Answer to counterclaim
@@ -58,93 +57,70 @@ Allocate different functions to different steps:
 - Answer to third-party complaint
 - Reply to answer, only if court orders 
 
+## Format of Pleadings
+
+See [FRCP Appendix of Forms](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/FRCP_Forms.pdf)
+
+# Complaints 
+
+## Requirements
+
 #### Rule 8
 
-Requirements for stating a claim: 
+> (a) Claim for Relief. A pleading that states a claim for relief must contain:
 
-- "a short and plain statement of the grounds for the court’s jurisdiction"
-- "a short and plain statement of the claim showing that the pleader is entitled to relief"
-- "a demand for the relief sought"
-  - "may include relief in the alternative or different types of relief"
+> > (1) a short and plain statement of the grounds for the court's jurisdiction, unless the court already has jurisdiction and the claim needs no new jurisdictional support;
 
-#### Rule 9(b)
+> > (2) a short and plain statement of the claim showing that the pleader is entitled to relief; and
 
-- Particularized allegations of fact requrefd for fraud or mistake
-- General allegations sufficient for malice, intent, knowledge, and other state of mind 
-  - But consider implications of Twombly/Iqbal: factual allegations must plausibly support _inference_ of malice, intent, etc. 
+> > (3) a demand for the relief sought, which may include relief in the alternative or different types of relief.
 
-## Notice Pleading
+#### Rule 9
 
-#### “Short and plain statement"
+> (b) Fraud or Mistake; Conditions of Mind. In alleging fraud or mistake, a party must state with particularity the circumstances constituting fraud or mistake. Malice, intent, knowledge, and other conditions of a person's mind may be alleged generally.
 
-- Form 11--Complaint for Negligence
-  - Compare code pleading
-    - "In an action or defense based upon negligence, it is not sufficient to allege the mere happening of an event of an injurious nature and call it negligence on the part of the party sough to be charged. This is necessarily so because negligence is not a fact in itself, but is the legal result of certain facts. Therefore, the facts which constitute the negligence charged and also the facts which establish such negligence as the proximate cause, or as one of the proximate causes, of the injury must be alleged.” _Gillespie v. Goodyear Svc. Stores,_ 258 N.C. 487 (1963), quoting _Shives v. Sample,_ 238 N.C. 724 (1953).^[N.B. The current NC Rules of Civil Procedure follow the FRCP model. _Gillespie_ pre-dates the adoption of these rules.]
+But consider implications of _Twombly/Iqbal_: 
 
-# Motions Under Rule 12
+- Factual allegations must plausibly support an _inference_ of malice, intent, etc. 
 
-## Defenses/Motions to Dismiss
+#### FRCP Form 11: Complaint for Negligence
 
-#### Rule 12(b)
+***
 
-##### Grounds
+1. (Statement of Jurisdiction — See Form 7.)
 
-- 12(b)(1): Lack of subject matter jurisdiction
-- 12(b)(2): Lack of personal jurisdiction
-- 12(b)(3): Improper venue
-- 12(b)(4) & (5): Defects in service or form of process
-- 12(b)(6): Failure to state a claim
-- 12(b)(7): Failure to join necessary party under Rule 19
+2. On (DATE), at (PLACE), the defendant negligently drove a motor vehicle against the plaintiff.
 
-May be asserted by motion or as a defense in an Answer 
+3. As a result, the plaintiff was physically injured, lost wages or income, suffered physical and mental pain, and incurred medical expenses of $_____.
 
-- But if asserted by motion, must be done before filing an Answer 
+Therefore, the plaintiff demands judgment against the defendant for $_____ , plus costs.
 
-## Joining Motions
+*** 
 
-#### Rule 12(g)
+Compare code pleading:
 
-- May combine any of the Rule 12(b) grounds in a single motion
-- Successive motions on same grounds not allowed 
+- "In an action or defense based upon negligence, it is not sufficient to allege the mere happening of an event of an injurious nature and call it negligence on the part of the party sough to be charged. This is necessarily so because negligence is not a fact in itself, but is the legal result of certain facts. Therefore, _the facts which constitute the negligence charged and also the facts which establish such negligence as the proximate cause, or as one of the proximate causes, of the injury must be alleged_.” _Gillespie v. Goodyear Svc. Stores,_ 258 N.C. 487 (1963) (emphasis added), quoting _Shives v. Sample,_ 238 N.C. 724 (1953).
+	- N.B. The current NC Rules of Civil Procedure follow the FRCP model. _Gillespie_ pre-dates the adoption of these rules.
 
-## Timing & Waiver
+## Challenging the Sufficiency of a Complaint
 
-#### Rule 12(h) 
-
-##### Defenses listed in Rule 12(b)((2)-(5) are _waived_ if
-
-- omitted from a 12(b) motion, or
-- neither raised by motion nor included in responsive pleading
-
-##### Defenses under Rule 12(b)(6) & (7) may be raised
-
-- in responsive pleading,
-- by motion, or
-- at trial
-
-##### Defense under Rule 12(b)(1) is never waived
-
-# Challenging the Sufficiency of a Complaint
-
-## Motion to Dismiss
+### Motion to Dismiss for Failure to State a Claim
 
 #### Rule 12(b)(6)
 
 - Failure to state a claim upon which relief can be granted
   - Challenges sufficiency of complaint under Rule 8
 
-##### Meaning of Insufficiency 
+_Meaning of Insufficiency_: Even if everything in the complaint is true, the plaintiff does not show an entitlement to relief. 
 
-Even if everything in the complaint is true, the plaintiff does not show an entitlement to relief. 
+This may be true for two reasons:
 
-This may be true for two reasons
+1. No such claim
+	- _Example_: Plaintiff sues for "Offensive Bad Taste in Music".
+2. Insufficient allegations to support claim
+	- _Example_: Plaintiff sues for negligence, but fails to allege any injury.
 
-- No such claim
-  - _Example_: Plaintiff sues for "Offensive Bad Taste in Music"
-- Insufficient allegations to support claim
-  - _Example_: Plaintiff sues for negligence, but fails to allege any injury 
-
-## Plausibility Standard
+### Plausibility Standard
 
 #### Bell Atlantic v. Twombly (US 2007)
 
@@ -234,23 +210,35 @@ _Inference_: Additional fact(s) or conclusion(s) drawn from factual allegations 
 		- _Twombly_: conduct resulted from market efficiency.
 		- _Iqbal_: detention policy was based on law enforcement information about likely suspects and witnesses in the 9/11 attacks. 
 
-##### Applying Twombly/Iqbal
+#### FRCP Form 11: Complaint for negligence
 
-FRCP Form 11: Complaint for negligence
+> On (DATE) at (PLACE), the defendant negligently drove a motor vehicle against the plaintiff.
 
-> On [DATE] at [PLACE], the defendant negligently drove a motor vehicle against the plaintiff.
-
-- Is negligence a plausible inference from the fact that defendant drove vehicle into plaintiff?
-
-How does the complaint in _Swierkiewicz v. Sorema_ fare under the Towmbly/Iqbal standard?
-
-- Is discrimination based on national origin a plausible inference from the facts alleged in that case? 
+Is negligence a plausible inference from the fact that defendant drove vehicle into plaintiff?
 
 # Answers 
 
 ## Requirements
 
-#### Rule 8(b): 
+#### Rule 8
+
+> (b) Defenses; Admissions and Denials.
+
+> > (1) In General. In responding to a pleading, a party must:
+
+> > > (A) state in short and plain terms its defenses to each claim asserted against it; and
+
+> > > (B) admit or deny the allegations asserted against it by an opposing party.
+
+> > (2) Denials—Responding to the Substance. A denial must fairly respond to the substance of the allegation.
+
+> > (3) General and Specific Denials. A party that intends in good faith to deny all the allegations of a pleading—including the jurisdictional grounds—may do so by a general denial. A party that does not intend to deny all the allegations must either specifically deny designated allegations or generally deny all except those specifically admitted.
+
+> > (4) Denying Part of an Allegation. A party that intends in good faith to deny only part of an allegation must admit the part that is true and deny the rest.
+
+> > (5) Lacking Knowledge or Information. A party that lacks knowledge or information sufficient to form a belief about the truth of an allegation must so state, and the statement has the effect of a denial.
+
+> > (6) Effect of Failing to Deny. An allegation—other than one relating to the amount of damages—is admitted if a responsive pleading is required and the allegation is not denied. If a responsive pleading is not required, an allegation is considered denied or avoided.
 
 ## Ineffective Denials
 
@@ -259,24 +247,23 @@ How does the complaint in _Swierkiewicz v. Sorema_ fare under the Towmbly/Iqbal 
 - “To the extent the alleged ‘contract’ ... failed to warrant [quality of goods], it was procured by fraud and was of no validity; accordingly, the remaining allegations in this paragraph are denied as true"
 - This is “equivocal and serves to confuse the issues that are in dispute”.
 
-
 #### Zielinski v. Philadelphia Piers, Inc. (E.D. Pa. 1956) 
 
 ##### Facts & Procedural History 
 
 - Zielinski was injured when he was hit by a fork lift while at work. 
 - Believing that the fork lift was owned by Philadelphia Piers, Inc. (PPI) and that the fork lift driver was a PPI employee, Zielinski sued PPI for his injury. 
-  - N.B. Workers compensation bars claims by an employee against their employer for injury sustained in the course of employment. But workers compensation does not bar claims for work-related injuries against third-parties. 
+	- N.B. Workers compensation bars claims by an employee against their employer for injury sustained in the course of employment. But workers compensation does not bar claims for work-related injuries against third-parties. 
 - In fact, a year before the accident, PPI had sold its business to another company, Carload Contractors, Inc. (CCI), and the fork lift operator who caused the accident became a CCI employee. PPI continued to own the fork lift and the pier where the accident happened, which it leased to CCI. 
-  - Upon receiving the complaint, PPI notified its insurance carrier, noting that CCI should be the defendant instead of PPI. 
-  - CCI was insured by the same carrier, and had notified the carrier of the accident the day after it occurred. 
+	- Upon receiving the complaint, PPI notified its insurance carrier, noting that CCI should be the defendant instead of PPI. 
+	- CCI was insured by the same carrier, and had notified the carrier of the accident the day after it occurred. 
 - Zielinski's complaint included this allegation:  
 
   > "a motor-driven vehicle known as a fork lift or chisel, owned, operated and controlled by the defendant, its agents, servants and employees, was so negligently and carelessly managed * * * that the same * * * did come into contact with the plaintiff causing him to sustain the injuries more fully hereinafter set forth."
 
 - In its Answer (filed after PPI contacted the insurance company to point out the mistaken identification of the responsible defendant), PPI responded to this paragraph with a general denial, without explaining that it no longer owned the fork lift or employed the operator at the time of the accident. 
 - PPI also failed to point out the sale of its business in its responses to the plaintiff's discovery requests. 
-  - The fork lift operator, apparently unaware that his employer had changed, identified himself as an employee of PPI in his deposition. 
+	- The fork lift operator, apparently unaware that his employer had changed, identified himself as an employee of PPI in his deposition. 
 - More than two years after the compliant and answer were filed, the plaintiff learned that PPI had sold its business to CCI prior to the accident. 
 - At some point after filing its Answer (in which it generally denied the allegations including ownership of the fork lift), PPI admitted that it owned the fork lift and the pier, which it least to CCI. 
 
@@ -285,18 +272,24 @@ How does the complaint in _Swierkiewicz v. Sorema_ fare under the Towmbly/Iqbal 
 - General denial in Answer was ineffective, where PPI admitted ownership of the fork lift. 
 - As a result of ineffective denial, and failure to correct it for over two years, PPI is deemed to have admitted _both_ that it owned the fork lift (which was actually true) _and_ that the operator was employed by and working for PPI at the time of the accident (which was not actually true). 
 - Court assusmed there was no bad faith, but concluded that "principles of equity require that defendant be estopped from denying agency because, otherwise, its inaccurate statements and statements in the record, which it knew (or had the means of knowing within its control) were inaccurate, will have deprived plaintiff of his right of action." 
-  - If defendant had answered properly, plaintiff could have sued CCI instead. 
-  - N.B. Under FRCP Rule 15(c)(1)(C), plaintiff might still be able to amend the complaint to substitute CCI for PPI as the defendant. 
-  - CCI had knowledge of the suit within the requisite time. 
-    - But this case pre-dates the addition of Rule 15(c)(1)(C), so that wasn't an option. 
-  - Court notes that PPI and CCI are both insured by same company, which will pay any judgment in any event, so there's no real prejudice in requiring PPI to proceed as defendant. 
+	- If defendant had answered properly, plaintiff could have sued CCI instead. 
+	- N.B. Under FRCP Rule 15(c)(1)(C), plaintiff might still be able to amend the complaint to substitute CCI for PPI as the defendant. 
+	- CCI had knowledge of the suit within the requisite time. 
+	- But this case pre-dates the addition of Rule 15(c)(1)(C), so that wasn't an option. 
+	- Court notes that PPI and CCI are both insured by same company, which will pay any judgment in any event, so there's no real prejudice in requiring PPI to proceed as defendant. 
 
 ## Affirmative Defenses
 
-#### Rule 8(c)
+#### Rule 8
 
-- Affirmative defenses are waived if not raised with answer 
-  - But defendant may be able to amend
+> (c) Affirmative Defenses.
+
+> > (1) In General. In responding to a pleading, a party must affirmatively state any avoidance or affirmative defense …
+
+- Rule 8(b) lists commmon affirmative defenses
+	- The applicable (state or federal) law may recognize others
+- Affirmative defenses may be waived if not raised with answer 
+	- Defendant may be able to amend the answer to add affirmative defenses
 - Substance over form
 	- Mistaken designation of defense as counterclaim (or vice versa) is ok
 
@@ -328,7 +321,12 @@ If the pleading requires a response, the 21 day clock does not start running unt
 
 _Example 1:_ Plaintiff files & serves a complaint on September 1. Plaintiff may amend the complaint, as a matter of course, at any time before Defendant serves an answer or motion under Rule 12(b), (e), or (f), _even if more than 21 days have passed since Plaintiff served the complaint_. 
 
-- A defendant must normally serve an answer or motion within 21 days from service of the complaint. Rule 12(a)(1)(A)(i). But if the defendant agrees to waive formal service, the deadline is 60 days (90 days if the defendant is outside the US) after the request for waiver. Parties may also agree to additional time. 
+- Note that this use up the one-time amendment as a matter of course, so any further amendment will require either the defendant's consent or leave of the court. 
+
+A defendant must normally serve an answer or motion within 21 days from service of the complaint. Rule 12(a)(1)(A)(i). 
+
+- But if the defendant agrees to waive formal service, the deadline is 60 days (90 days if the defendant is outside the US) after the request for waiver. 
+- Parties may also agree to additional time. 
 
 _Example 2:_ Plaintiff files & serves a complaint on September 1. Defendant files an answer or motion under Rule 12(b), (e), or (f) on September 5. Plaintiff has until September 26 to amend the complaint as a matter of course.  Rule 15(a)(1)(B). 
 
@@ -344,10 +342,12 @@ Subsequent amendments, or any amendent after the 21 day time limit, requires eit
 
 - Consent of opposing party, _or_
 - Leave of court: “freely give[n] when justice so requires"
-  - Party opposing amendment must show
-    - Prejudice 
-    - Bad faith, or 
-    - Fultility  
+
+Party opposing amendment must show:
+
+- Prejudice, 
+- Bad faith, or 
+- Fultility  
 
 #### Shiflet v. Allstate Ins. Co. (D.S.C. 2006)
 
@@ -461,7 +461,7 @@ Relation back is permitted if, within period for service under Rule 4(m), newly-
 
 ##### Facts & Procedural History
 
-- Plaintiff brought federal civil rights suit  under 52 U.S.C. § 1983 over alleged excessive use of force by police officers in the course of an arrest. 
+- Plaintiff brought federal civil rights suit  under 42 U.S.C. § 1983 over alleged excessive use of force by police officers in the course of an arrest. 
 - Because plaintiff did not know the names of the arresting officers, the complaint named "three unknown named police officers" as defendants. 
 - Plaintiff subsequently filed an amended complaint substituting two officers, Wilson & Wall, for the "unknown named police officers". 
   - Wilson & Wall moved to dismiss the complaint based on the statute of limitations, which had expired the day after the original complaint was filed. 
@@ -473,7 +473,6 @@ Relation back is permitted if, within period for service under Rule 4(m), newly-
   - Wilson & Wall did have notice of the action within the requsite time. Rule 15(c)(1)(C)(i)
   - But plaintiffs failure to name Wilson & Wall as defendants in the original complaint did not result from a _mistake_ concerning the defendants' identity.
     - Court distinguishes plaintiff's _lack of knowledge_ as to defendant's identify from a _mistake_ concerning that identity. 
-
 
 ##### Questions
 
@@ -489,6 +488,24 @@ Relation back is permitted if, within period for service under Rule 4(m), newly-
 
 - Majority of courts have likewise held that lack of knowledge is not a _mistake_ for purposes of Rule 15(c)(1)(C)(ii). 
 - Majority of courts have also held that identifying defendants as "John/Jane Doe" (instead of "unknown") does not satisfy the _mistake_ requirement (because the plaintiff didn't mistakenly think the defendant's name was "John/Jane Doe"). 
+
+#### Palacio v. City of Springfield, (D. Mass 2014)
+
+##### Facts & Procedural History
+ 
+- Plaintiffs brought federal civil rights suit  under 42 U.S.C. § 1983 against city and police officers who entered and searched their home without a warrant. 
+- Plaintiffs didn't know the names of the police officers, so they named them as "John Doe" defendants. 
+- After discovering the names of the officers, plaintiffs sought leave to amend to name them as defendants in place of the "John Does".
+- Defendants objected on the grounds that the statute of limitations had passed and that plaintiffs did not satisfy the requirements for relation back under Rule 15(c)(1)(C) 
+
+##### Holding & Analysis 
+
+- Court discusses cases (including _Worthington v. Wilson_) holding that lack of knowledge of a defendant's identity does not satisfy the "mistake" requirement of Rule 15(c)(1)(C) 
+	- Court notes criticism of those decisions, citing _Singletary v. Pennsylvania Dep’t of Corrections_, 266 F.3d 186 (3d Cir.2001) and Varlack v. SWC Caribbean, Inc., 550 F.2d 171, 175 (3d Cir.1977) cases taking a contrary view. 
+- Court holds that, even if amendment would not be allowed under Rule 15(c)(1)(C), it is allowed under Rule 15(c)(1)(A)
+- Under Rule 15(c)(1)(A), an amended pleading relates back when "the law that provides the applicable statute of limitations allows relation back;"
+	- In civil rights claims under § 1983, federal law borrows the statute of limitations for personal injuries under state law. 
+	- Massachusetts law allowed for relation back in this situation, even if Rule 15(c)(1)(C) would not. 
 
 #### Krupski v. Costa Crociere, S.P.A. (US 2010)
 
@@ -509,14 +526,13 @@ Relation back is permitted if, within period for service under Rule 4(m), newly-
 
 - Rule 15(c)(1)(C)(ii) applies to “mistake concerning the proper party’s identity".
 - “Mistake” is not precluded where plaintiff knew of proper defendant’s existence.
-  - Plaintiff might still be mistaken as to which entity was liable. 
+	- Plaintiff might still be mistaken as to which entity was liable. 
 
 ##### Question 
 
 - Does _Krupski_ alter the result in _Worthington_? 
-  - Court in _Krupski_ cites a dicitionary definition of "mistake" that includes "a wrong action or statement proceeding from faulty judgment, _inadequate knowledge,_ or inattention." 
-  - But Supreme Court didn't directly address the "lack of knowledge" question 
-
+	- Court in _Krupski_ cites a dicitionary definition of "mistake" that includes "a wrong action or statement proceeding from faulty judgment, _inadequate knowledge,_ or inattention." 
+	- But Supreme Court didn't directly address the "lack of knowledge" question 
 
 # Good Faith in Pleadings
 
@@ -567,7 +583,34 @@ Cf. Model Rules of Professional Conduct Rule 3.1 ("Meritorious Claims and Conten
 	- Because client is entitled to rely on lawyer’s expertise and judgment as to the law
 - No sua sponte sanctions unless court makes show-cause order “before voluntary dismissal or settlement"
 
-## Reasonable Inquiry
+## Factual & Legal Foundation
+
+#### In re Kunstler (4th Cir. 1990)
+
+##### Facts & Procedural History
+
+- Plaintiffs sued state and local government officials under  42 U.S.C. § 1983 alleging violations of their 1st and 6th Amendment rights. 
+
+##### Holding & Analysis 
+
+- Rule 11 sanctions were justified on three grounds: 
+	- "[T]he complaint was not well grounded in fact"
+		- The complaint contained "numerous misstatements of fact" and "allegations which utterly lacked any basis in fact".
+		- "While a lawyer may rely on discovery to reveal additional facts to support claims which are well grounded in fact, Rule 11 sanctions are appropriate when a lawyer attempts to use discovery to support outrageous and frivolous claims for which there is no factual support."
+		- Rule 11 has been amended, both substantively and stylistically, since this case. Would the outcome be different under the current Rule 11(b)(3): "the factual contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery"? 
+	- "[T]he complaint was not well grounded in law"
+		- The claims were not supported by controlling precedent. 
+	- "[T]he [attorneys'] improper purpose in filing the complaint"
+		- "[I]f a complaint is filed to vindicate rights in court, and also for some other purpose, a court should not sanction counsel for an intention that the court does not approve, so long as the added purpose is not undertaken in bad faith and is not so excessive as to eliminate a proper purpose."
+			- But, "[f]iling of excessive motions may sometimes constitute “harassment” under the rule even if the motions are well grounded."
+ 			- "Likewise, filing a motion or pleading without a sincere intent to pursue it will garner sanctions."
+		- The trial court found that "plaintiffs’ counsel never intended to litigate this § 1983 action and that counsel filed it for publicity, to embarrass state and county officials, to use as leverage in criminal proceedings, to obtain discovery for use in criminal proceedings, and to intimidate those involved in the prosecution of Hatcher and Jacobs."
+			- The Court of Appeals held that this conclusion "is not clearly errorneous and is supported by facts such as the baseless allegations made, appellants’ legal experience, and the cumulative nature of the evidence". 
+- "[T]he size of the sanction required the district court to allow sanctioned counsel an opportunity to respond."
+	- The Court of Appeals remanded with directions for the trial court to reassess the amount of the sanction. 
+- The imposition of additional sanctions of $10,000 against each attorney for their "pains to publicize the allegations through the media" was improper. 
+	- Rule 11 applies "only to a 'pleading, motion, or other paper.'"
+ 	- "[I]t clearly does not reach conduct outside of the judicial process."
 
 #### Turton v. Virginia Dept. of Educ. (E.D. Va. 2015)
 
