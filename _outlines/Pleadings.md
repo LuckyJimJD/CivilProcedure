@@ -590,6 +590,7 @@ Cf. Model Rules of Professional Conduct Rule 3.1 ("Meritorious Claims and Conten
 ##### Facts & Procedural History
 
 - Plaintiffs sued state and local government officials under  42 U.S.C. § 1983 alleging violations of their 1st and 6th Amendment rights. 
+- The trial court imposed sanctions on the grounds that the claims were not well grounded in fact or law and that the attorneys pursued the claims for an improper purpose. 
 
 ##### Holding & Analysis 
 
