@@ -419,11 +419,13 @@ An issue is regarded as actually litigated when the parties contest and put on e
 - Suit arises out of a collision between a truck, owned by Popular Dry Goods and driven by Rios, and a car driven by Davis. 
 - First action: Popular sues Davis for damage to truck
   - Davis asserts defense of contributory negligence against Popular.
-  - Davis impleads Rios as 3rd party defendant, and asserts a claim against Rios for damage to Davis's car.^[It's not clear from the opinion, but it appears that, unlike under FRCP Rule 14(a), Texas  law (as in some other states) permitted joinder of a third-party defendant for claims of direct liability to the third-party plaintiff and not only for claims of derivative liability based on contribution or indemnification.]
+  - Davis impleads Rios as 3rd party defendant, and asserts a claim against Rios for damage to Davis's car.
+		- It's not clear from the opinion, but it appears that, unlike under FRCP Rule 14(a), Texas  law (as in some other states) permitted joinder of a third-party defendant for claims of direct liability to the third-party plaintiff and not only for claims for contribution or indemnification.
   - Jury found that Popular, Rios, and Davis were all negligent, and that each party's negligence was a proximate cause of the collission. 
     - Based on those findings, the court entered judgment in favor of Davis on the claim by Popular, and in favor of Rios on the claim by Davis. 
-- Second action: Rios sues Davis for personal injuries Rios sustained in the same accident.^[Under the FRCP, this would have been a compulsory counterclaim, and Rios would have been precluded from bringing it in a separate suit. But Texas may not have had a compulsory counterclaim rule at the time.]
-  - Davis asserts defense of contributory negligence, and further asserts that issue preclusion applies based on the jury's finding that Rios was negligent in the prior suit.
+- Second action: Rios sues Davis for personal injuries Rios sustained in the same accident.
+	- Under the FRCP, this would have been a compulsory counterclaim, and Rios would have been precluded from bringing it in a separate suit. But Texas may not have had a compulsory counterclaim rule at the time.
+ - Davis asserts defense of contributory negligence, and further asserts that issue preclusion applies based on the jury's finding that Rios was negligent in the prior suit.
 
 ##### Holding
 

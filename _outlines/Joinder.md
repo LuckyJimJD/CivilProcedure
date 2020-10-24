@@ -26,9 +26,17 @@ Broad scope:
 - No distinction between “compulsory” and “permissive” claims 
 	- But claim preclusion will apply to claims arising out of the same T/O 
 
-Rule 18 is the Pandora's Box of the joinder rules. To open the box, a party must have a key, i.e. at least one claim against a party. For any party other than an initial plaintiff (who, by definition, begins with at least one claim against one opposing party), another joinder rule must provide the key (e.g. counterclaims & crossclaims under Rule 13; third-party claims under Rule 14). Once the box is opened, Rule 18 permits joinder of unlimited additional claims against the same opposing party. 
+Rule 18 is the Pandora's Box of the joinder rules:
 
-Other parts of the FRCP provide safeguards against the pandemonium that Rule 18 might unleash. [Rule 20](https://www.law.cornell.edu/rules/frcp/rule_42) and [Rule 42](https://www.law.cornell.edu/rules/frcp/rule_42) allow a court to order separate trials for some parties or claims. In addition, the limits of federal [subject matter jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction) will restrict the joinder of some claims that Rule 18 (or other joinder rules) would permit. 
+- To open the box, a party must have a key, i.e. at least one claim against a party. 
+	- For any party other than an initial plaintiff (who, by definition, begins with at least one claim against one opposing party), another joinder rule must provide the key (e.g. counterclaims & crossclaims under Rule 13; third-party claims under Rule 14). 
+- Once the box is opened, Rule 18 permits joinder of unlimited additional claims against the same opposing party. 
+
+Other parts of the FRCP provide safeguards against the pandemonium that Rule 18 might unleash: 
+
+- [Rule 20](https://www.law.cornell.edu/rules/frcp/rule_42) and [Rule 42](https://www.law.cornell.edu/rules/frcp/rule_42) allow a court to order separate trials for some parties or claims. 
+
+In addition, the limits of federal [subject matter jurisdiction]({{ site.baseurl }}/outlines/Subject_Matter_Jurisdiction) will restrict the joinder of some claims that Rule 18 (or other joinder rules) would permit. 
 
 ## Permissive Joinder of Parties
 
@@ -59,8 +67,10 @@ Other parts of the FRCP provide safeguards against the pandemonium that Rule 18 
 
 _Only one_ common question of law _or_ fact is needed to satisfy this requirement. 
 
-- In practice, there will inevitably be at least one such common question (and usually more) where claims arise out of the same T/O.
-	- Does not require identical injuries. _Mosley v. General Motors_. 
+As a practical matter, it's not clear that the "common question" requirement really adds much to the "same T/O" requirement. 
+
+- In practice, where claims arise out of the same T/O, there will almost inevitably be at least one such common question (and usually more).
+- The common question(s) are typically (part of) the basis for treating the claims as arising from the same T/O in the first place. 
 
 ### Permissive 
 
@@ -118,7 +128,7 @@ Compulsory counterclaim will _always_ satisfy [supplemental jurisdiction]({{ sit
 
 If defendant fails to assert a compulsory counterclaim, they may not assert that claim later in a separate action. 
 
-- Not [_res judicata_]({{ site.baseurl }}/outlines/Preclusion), because defendant who asserts no counterclaim is not a “claimant”. 
+- Not [_res judicata_]({{ site.baseurl }}/outlines/Preclusion), because a defendant who asserts no counterclaim is not a “claimant”. 
 - Purpose of compulsory counterclaim rule is to place defendant and plaintiff on even footing with regard to which claims they must assert in the same action. 
 
 ## Permissive Counterclaims
@@ -262,7 +272,6 @@ Once a party asserts a valid crossclaim against a co-party, Rule 18 then allows 
 - Rule 13 permits, but does not require, co-defendants to assert crossclaims against one another arising from the same T/O as the plaintiff's claims against them. 
 - Once Atlantis asserted a crossclaim against Rainbow for indemnification & contribution in that prior suit, Rainbow's claim against Atlantis arising out of the accident became compulsory counterclaims. 
 - By asserting its claim against Atlantis for contribution and indemnification on Berry's claim, but not its claim for damage to its boat, Rainbow waived the latter claim and was barred from asserting it in a subsequent suit. 
-
 
 ![]({{ site.baseurl }}/assets/materials/joinder/Rainbow_Atlantis.png)
 
