@@ -34,9 +34,9 @@ _In which state(s) may Pat sue?_
 
 Dan operates a gas station near U.S. Interstate 40 in Greensboro, north Carolina. The station is frequented by locals and by interstate travelers using I-40. last summer, Dan changed a tire on an automobile bearing Missitucky license plates. The car belonged to Vivian, who was driving through Greensboro on her way home from vacation in the Outer Banks. A few days later, after Vivian reached Missitucky, her car swerved out of control and his an embankment. Vivian sued Dan in Missitucky state court, alleging that the accident resulted in his negligence in changing the tire. 
 
-_May the court statutorily exercise personal jurisdiction over Dan if the Missitucky long-arm statute is identical (i) New York’s, (ii) Rhode Island’s, (iii) North Carolina’s?_
-
 _Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Dan be permissible under the U.S. Constitution?_
+
+[Model Answer](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/PJ-ModelAnswer.md)
 
 ## Question 4.1 
 
