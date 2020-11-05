@@ -36,7 +36,7 @@ Dan operates a gas station near U.S. Interstate 40 in Greensboro, north Carolina
 
 _Assuming the Missitucky long-arm statute allows it, would the exercise of personal jurisdiction over Dan be permissible under the U.S. Constitution?_
 
-[Model Answer](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/PJ-ModelAnswer.md)
+[Model Answer](https://www.emfink.net/CivilProcedure/assets/materials/personal-jurisdiction/PJ-ModelAnswer)
 
 ## Question 4.1 
 
