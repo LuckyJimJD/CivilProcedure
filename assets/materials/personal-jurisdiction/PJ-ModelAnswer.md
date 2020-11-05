@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sidenotes
 
 course: Civil Procedure 
 title: Personal Jurisdiction Problem 4
