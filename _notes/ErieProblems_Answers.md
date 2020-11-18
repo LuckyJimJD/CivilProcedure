@@ -3,8 +3,8 @@ layout: page
 date: 2020-08-12T06:00:00
 
 course: Civil Procedure 
-title: Review Problems
-subtitle: 'Erie Doctrine'
+title: Erie Review Problems
+subtitle: Answers & Explanations
 
 ---
 
@@ -22,11 +22,20 @@ In her complaint, Peggy seeks compensatory damages for her loss of employment.
 
 Under Hudson state law, compensatory damages for wrongful termination in breach of an employment contract are limited to an amount equal to three times the plaintiff's annual earnings (wages or salary) in their last year of employment. In contrast, in cases for wrongful termination under federal law, there is no such cap on the amount of compensatory damages. Which rule should the federal court apply in this case? 
 
+### Answer & Explanation 
+
+This problem presents a conflict between state and federal law on the issue of how much a plaintiff may recover in compensatory damages. Since the federal law here does not come from the FRCP or a federal statute, the applicable analysis comes from the Erie/Guaranty Trust/Byrd line of cases. This issue is unquestionably substantive: the legal rules define the defendant's liability. Applying a different rule in federal court than in state court would promote forum shopping for more favorable outcomes: plaintiffs who can bring their claims in federal court (because they can satisfy the requirements for diversity jurisdiction) will do so to avoid the damages cap under state law; plaintiffs who cannot bring their claims in federal court (i.e. because the plaintiff employee and the defendant employer are both citizens of the same state) will have to sue in state court, where there damages will be capped. This type of persistent difference in outcomes in otherwise similar case is what the Supreme Court means by "inequitable administration of the laws", which is the ultimate problem that the Erie doctrine is meant to avoid. Given the strong outcome determination, and the absense of any counterveiling federal policy interest at stake, the court must treat this as a substantive issue and apply state law. 
+
 ## Part B
 
 Under Hudson state law, a complaint for breach of contract must include an itemized statement showing the basis and amount of compensatory damages sought. In contract, under FRCP Rule 8(a)(3), the "demand for relief sought" requires only a general statement that the plaintiff seeks compensatory damages. 
 
 Which rule should the federal court apply in this case? 
+
+### Answer & Explanation 
+
+This problem presents a conflict between state law and federal law under the FRCP. The applicable analysis comes from Hanna v. Plumer. The state and federal rules here are in direct conflict: state law requires an itemized statement of damages; Rule 8(a)(3) does not. While it's true that Rule 8 doesn't _prohibit_ an itemized statement, so a plaintiff could satisfy both Rule 8 and state law by including such a statement in the complaint, there is still a conflict where state law imposes a more specific or burdensome procedure than the FRCP. See Hanna v. Plumer (finding a conflict between state law requiring personal service on defendant and FRCP Rule 4 permitting either personal dervice on defendant or service by other means). In this situation, the federal court must follow the FRCP provision, as long as it is valid under the Rules Enabling Act, i.e. as long as it regulates procedure and does not alter the parties' substantive rights, duties, or liabilities. Rule 8 easily passes this test: it simply governs the manner in which a plaintiff presents their claim for damages; it doesn't in any way affect the plaintiff's entitlement to recover those damages, which is a substantive issue governed by state law. So, the court should apply Rule 8 and not require an itemized statement of damages in the complaint. 
+
 
 # Problem 2
 
@@ -51,6 +60,10 @@ Carbolic objects that Carlill's request for both money damages and an injunction
 
 _Should the court apply state or federal law on this issue?_ 
 
+### Answer & Explanation 
+
+The answer and explanation here are similar to Question 1, Part B above. Again there is a conflict between state law and a provision of the FRCP, so the Hanna analysis applies. There is a direct conflict between state law, which requires the plaintiff to file two complaints, and the FRCP, which allows plaintiff to seek all relief in a single complaint. The difference is merely procedural: how many complaints must the plaintiff file. It doesn't affect the plaintiff's entitlement to either form or relief, which is governed by state law. So the court should follow FRCP Rule 8, not state law. 
+
 ## Part B
 
 Under Euphoria state law, a consumer asserting a fraud claim based on an allegedly false advertisement must plead and prove the following elements:
@@ -66,6 +79,6 @@ The Company moves to dismiss Carlill's complaint for failure to state a claim, b
 
 _Should the federal court apply state or federal law on the issue of whether Carlill must allege and prove reasonable reliance?_ 
 
-# Answers & Explanations 
+### Answer & Explanation 
 
-[Click here]({{ site.baseurl }}{{ outline.url }}/notes/ErieProblems_Answers). 
+At first glance, this problem might appear to belong on the Hanna path, because it involves a difference between state law and a federal statute (the FTC Act). However, Hanna does not apply here, because the federal law here does not regulate procedure at all, but rather defines the elements of a defendant's liability for false advertising claims. So the appropriate analysis is on the Erie path. The analysis here is similar to Question 1, Part A: Erie requires that the federal court follow state law, so that there will be consistent outcomes in similar cases regardless of the choice of forum. The fact that the defendant might be liable under the federal FTC Act but not under state law does not present a counterveiling federal policy interest that would allow a federal court to disregard state law. This is simply a situation where federal law and state law both regulate the same conduct, but take different positions on when that conduct is actionable and who may bring an action (an affected consumer under state law, but only the FTC under federal law). 
