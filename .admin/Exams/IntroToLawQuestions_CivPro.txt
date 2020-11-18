@@ -1,0 +1,58 @@
+Elon University 
+Introduction to Law
+
+Civil Procedure Exam Questions 
+
+1. Peter lives in Pennsylvania, where he also has a business called "Peter's Produce". In search of new items to sell, Peter travels to New Mexico to sample the local peppers. During his trip, Peter visits Pepe's Pepper Paradise, which makes artisinal pickled peppers from rare varieties of pepper grown only in New Mexico. Predicting that the pickled peppers would prove popular with his patrons in Pennsylvania, Peter proposes to Pepe a partnership, promising profuse profits. Pepe declines, explaining that he only sells the peppers locally and isn't interested in expending his business. Peter purchases two pecks of pickled peppers, telling Pepe he plans to sell them in his store in Pennsylvania. 
+
+After returning hom, Peter sells a jar of Pepe's pickled peppers to one of his customers. Shortly after eating the peppers, the customer becomes violently ill and is diagnosed with botulism, a severe and potentially fatal type of food poising. The customer asks Peter where the peppers came from, and Peter explains he bought them from Pepe in New Mexico. The customer files a suit against Pepe in a Pennsylvania court, alleging that the botulism resulted from Pepe's failure to sterilize the pepper jars properly. Is personal jurisdiction over Pepe in Pennsylvania proper? 
+
+a. Yes, because the customer bought the peppers in Pennsylvania. 
+b. Yes, because Peter told Pepe he was going to sell the peppers in Pennsylvania. 
+c. No, because Pepe doesn't live in Pennsylvania. 
+d. No, because Pepe wasn't responsible for the sale of the peppers in Pennsylvania. 
+
+[CORRECT ANSWER IS D]
+
+2. During his trip to New Mexico, Peter also met Carmen, a local chef renowned for her Calabacitas (a traditional dish made from sauteed roasted green chile, summer squash, and corn). Carmen has been canning and selling her Calabacitas locally, and is interested in expanding her market. Peter and Daniela enter into a contract under which Peter will distribute Carmen's Calabacitas to retailers in Pennsylvania, New Jersey, Maryland, and Delaware. Under the distribution agreement, Peter will solicit orders from the retailers, who will remit payment directly to Carmen in New Mexico. Carmen will then ship the goods to Peter in Pennsylvania, who will deliver them to the retailers, with Carmen paying Peter a commission on each order he solicits and delivers. The contract provides that Carmen will pay for advertising in local newspapers throughout the 4-state region, to promote interest in her Calabacitas. The contract also provides that Carmen will submit samples of her Calabacitas for testing and approval by the Pennsylvania Department of Agriculture, as required under Pennsylvania law for any foods to be sold within the state. 
+
+Peter returns to Pennsylvania, and immediately begins soliciting orders for Carmen's Calabacitas. His efforts prove far more successful than Carmen had anticipated, with orders pouring in for more Calabacitas than she can possibly make on her own. Determined not to disappoint her customers, Carmen expands her kitchen and hires several employees to assist her. Unfortunately, this leaves her with insufficient money to pay Peter's commission. Peter agrees to give Carmen extra time, but after waiting six months without receiving a dime, he decides to sue for breach of contract. He files his suit in a Pennsylvania court. Is personal jurisdiction over Carmen in Pennsylvania proper? 
+
+a. No, because Peter and Carmen entered into their contract in New Mexico. 
+b. No, because Carmen's business is based on New Mexico. 
+c. Yes, because Carmen took steps to promote the sale of her products in Pennsylvania. 
+d. Yes, because Carmen entered into a contract with a Pennsylvania resident. 
+
+[CORRECT ANSWER IS C]
+
+3. Pat (a resident of North Carolina) was crossing the street when she was hit by a car driven by Delroy (a resident of Virginia). Pat files a suit against Delroy in a North Carolina federal court (which has jurisdiction based on diversity of citizenship between the plaintiff and defendant). After Delroy has managed to elude all attempts at serving the complaint and summons, Pat hires a private investigator who learns that Delroy has purchased a ticket for a flight from Richmond to Miami, with a brief layover in Raleigh, NC to take on additional passengers. The investigator buys a ticket on the same flight. During the layover, the investigator gets up from his seat, approaches Delroy, hands him an envelope containing a copy of the complaint and summons, and tells him, "You've been served!". Is service valid? 
+
+a. Yes, because the complaint and summons were personally served on Delroy while he was present in North Carolina.. 
+b. Yes, but only if the accident giving rise to the suit happened in North Carolina. 
+c. No, because Delroy's stop in North Carolina was incidental to his travel from Virginia to Florida, and unconnected to the lawsuit. 
+d. No, because only a U.S. Marshall may serve a complaint and summons for a suit filed in federal court. 
+
+[CORRECT ANSWER IS A]
+
+4. Neff, a resident of California, hires Mitchell, an Oregon lawyer, to represent Neff in the aquisition of some land in Oregon. Neff has never actually been to Oregon, and his dealings with Mitchell took place by mail and telephone. After the transaction is completed, Neff refuses to pay Mitchell's fee. Mitchell sues Neff for breach of contract in an Oregon court. After filing the suit, Mitchell publishes a Legal Notice in an Oregon newspaper, identifying the court and parties to the suit, indicating the date by which Neff must respond, and advising that failure to respond will result in a default judgment. Michtell does not attempt to serve the complaint and summons by any other means. A friend of Neff's who lives in Oregon happens to see the Legal Notice and he mails a copy to Neff at his home in California. Neff ignores it. When Neff fails to appear or respond to the suit within the specified time, the court enters a default judgment in favor of Mitchell. Is the default judgment against Neff valid? 
+
+a. No, because publication of a Legal Notice in an Oregon newspaper was not a valid means of service under the circumstances. 
+b. No, because Neff lives outside Oregon and has never been to the state. 
+c. Yes, because Neff's hiring of an Oregon attorney to represent him in the acquisition of Oregon property satisfies the minimum contacts requirement for personal jurisdiction. 
+d. Yes, because Neff received a copy of the Legal Notice so he was aware of the suit. 
+
+[CORRECT ANSWER IS A]
+
+
+5. Plantagenet Industries, a North Carolina company, manufactures consumer electronics. Deftronics Technologies, a Russian company, recently began selling a device very similar to one of Plantagenet's products. The Deftronics device is manufactured in Russia and is available for sale in the U.S. via online retailers. Plantagenet's lawyer, Atwell, files suit against Deftronics in North Carolina federal court, asserting claims for patent infringement under US federal law. Attempting to serve copies of the complaint and summons, Atwell finds a company website for Deftronics that lists an email address, telephone number, and street address for the company's headquarters in Russia. The website also provides links to various social media sites. 
+
+Atwell makes several attempts to contact Deftronics by email and telephone, asking whether the company has an attorney or agent for service of process in the US. After receiving no response, Atwell sends copies of the complaint and summons by courier service to the headquarters address listed on the Deftronics website. The package is returned with a note indicating "Delivery Refused". Finally, Atwell asks the court to authorize service of the summons and complaint by sending a message to the Deftronics Twitter account. Should the court grant this request? 
+
+
+a. Yes, because Deftronics posted a link to its Twitter account on its website and is responsible for checking messages sent to that account. 
+b. Yes, because all other attempts to contact Deftronics and serve the complaint and summons by other means have been unsuccessful, if the court is satisfied that a Twitter message is reasonably calculated to give Deftronics notice of the suit. 
+c. No, because the complaint and summons must be served personally on the defendant or their agent in the state where the suit is filed. 
+d. No, unless North Carolina law specifically authorizes service of a complaint and summons by social media. 
+
+[CORRECT ANSWER IS B]
+
