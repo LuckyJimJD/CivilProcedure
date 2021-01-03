@@ -5,7 +5,7 @@ title: home
 
 ---
 
-<h1 class="profile">{{ site.course }}</h1>
+<h1 class="profile">{{ site.title }}</h1>
 <h2 class="profile">{{ site.author }}</h2>
 <h3 class="profile">{{ site.institution }}</h3>
 <h4 class="profile">{{ site.street }}</h4>
