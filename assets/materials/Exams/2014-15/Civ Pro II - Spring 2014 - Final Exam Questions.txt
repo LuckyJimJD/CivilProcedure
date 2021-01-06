@@ -1,0 +1,16 @@
+Civil Procedure II
+Spring 2014
+Final Exam Questions
+
+1. Duncan Excavators, Inc. (a citizen of NC) was a subcontractor on two construction projects for which Hamilton, Inc. (a citizen of NC) was the prime contractor. The first job ("Greensboro job") was for the construction of a new federal courthouse in Greensboro, NC. The second job ("Asheville") was for the construction of a store for a new Crystals-N-Incense, Inc. superstore in Asheville, NC. 
+
+Hamilton & Duncan entered into separate contracts for the two jobs, but the terms of the contracts were essentially the same, and included these provisions:
+* Hamilton had the right to terminate both contracts in the event that Duncan breached either contract.
+* Hamilton had the right to withhold payments on either job to offset any damages suffered on the other.
+* Hamilton would make progress payments to Duncan in lump sums, without allocating them to a particular job.
+* The two jobs would be covered by a single liability insurance policy jointly covering Hamilton & Duncan. 
+
+Duncan sued Hamilton, to recover $30,000 allegedly owed on the Greensboro job. Duncan sued under the Miller Act, a federal statute governing claims for payment by subcontractors against prime contractors on federal government construction projects. In its answer, Hamilton denied liability on the Greensboro job. Hamilton also asserted two counterclaims: first, a claim (also arising under the Miller Act) to recover $10,000 in alleged overpayments on the Greensboro job; second, a claim (based on NC state contract law) to recover $5,000 in alleged overpayments on the Asheville job. In reply Duncan then asserted a counterclaim (based on NC state contract law) for $20,000 allegedly owed on the Asheville job. 
+
+a. Are Hamilton's & Duncan's counterclaims pertaining to the Asheville job compulsory or permissive?
+b. Does the federal court have subject-matter jurisdiction over those claims? 
