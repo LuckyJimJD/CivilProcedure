@@ -69,7 +69,7 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  fda065e9589ddc4195512c3e59ba7afb5381b6dd
+  destination: ~/Git/EricM.Fink.github.com/
 
 # -----------------------------------------------------------------------------
 # Other settings
