@@ -9,7 +9,7 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: default.tex
-    path: /.admin/Exams/CivPro2020-FinalExam-StudentMemo.pdf
+    path: CivPro2020-FinalExam-StudentMemo.pdf
   
 ---
 
