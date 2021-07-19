@@ -5,9 +5,11 @@ title: Schedule & Assignments
   
 ---
 
-## Introduction 
+# The class schedule and assignments for Fall 2021 are subject to revision prior to the start of the term. 
 
-#### August 31
+## I. Introduction to Civil Litigation
+
+#### August 30
 
 ### The Federal Judicial System 
 
@@ -21,21 +23,23 @@ title: Schedule & Assignments
 
 - William Felstiner, Richard Abel, & Austin Sarat, ["The Emergence & Transformation of Disputes: Naming, Blaming, & Claiming"](https://www.emfink.net/CivilProcedure/readings/Felstiner_Abel_Sarat), 15 Law & Society Review 630 (1981)
 - [Civil Action Flowchart](https://www.emfink.net/CivilProcedure/visuals/civil_action)
+- [Don't Shoot Portland v. Wolf](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Portland-Protest-Complaint.pdf)
 
-#### Due September 2
+#### Due September 1
 
 ##### [Click & Learn](https://clickandlearnguide.com/): Basic Skills & Fundamentals (Parts 1, 2, & 3)
 
-## Joinder
+## II. Framing a Lawsuit: Claims & Parties  
 
-#### September 2
+#### September 1
 
-### Basic Claim & Party Joinder  
+### Foundations of Claim & Party Joinder 
 
 - [FRCP Rules 18 & 20](https://www.law.cornell.edu/rules/frcp)
-- [Mosley v. General Motors Co.](https://www.emfink.net/CivilProcedure/cases/Mosley)
+- [Mosley v. General Motors Co.](https://www.emfink.net/CivilProcedure/cases/Mosley) 
+- [NAACP v. Peterman](https://www.emfink.net/CivilProcedure/assets/materials/joinder/Graham-Ordinance-Complaint.pdf) (Complaint)
 
-#### September 4 & 7
+#### September 3 & 6
 
 ### Counterclaims & Crossclaims 
 
@@ -45,15 +49,20 @@ title: Schedule & Assignments
 - [Ginwright v. Exeter Finance Corp.](https://www.emfink.net/CivilProcedure/cases/Ginwright1)
 - [Pace v. Timmermann’s Ranch & Saddle Shop, Inc. ](https://www.emfink.net/CivilProcedure/cases/Pace_Timmermans)
 
-#### September 9
+#### September 8
 
-### Third-Party Claims 
+### No Class 
+
+#### September 10
+
+### Third-Party Claims: Indemnification & Contribution
 
 - [FRCP Rule 14](https://www.law.cornell.edu/rules/frcp)
 - [Rule 14 diagram](https://www.emfink.net/CivilProcedure/visuals/Rule14)
+- [Indemnification & Contribution Claims](https://www.emfink.net/CivilProcedure/notes/Contribution_Indemnification)
 - [Lehman v. Revolution Portfolio LLC](https://www.emfink.net/CivilProcedure/cases/Lehman_Revolution)
 
-#### September 11
+#### September 13
 
 ### Required Parties, Interpleader, & Intervention 
 
@@ -61,23 +70,22 @@ title: Schedule & Assignments
 - [28 U.S.C. § 1335](https://www.law.cornell.edu/uscode/text/28/1335)
 - [Camacho v. Major League Baseball](https://www.emfink.net/CivilProcedure/cases/Camacho_MLB)
 - [Deutsch v. Schoelkopf](https://www.emfink.net/CivilProcedure/cases/Deutsch_Schoelkopf)
-- [Sevier v. Lowenthal](https://www.emfink.net/CivilProcedure/cases/Sevier_Lowenthal_Intervention)
 - North Carolina Division, Sons of Confederate Veterans v. University of North Carolina, [Motion to Intervene](https://www.emfink.net/CivilProcedure/assets/materials/joinder/SCV_UNC_Intervention.pdf)
 
-#### September 14
+#### Due September 15
+
+##### [Click & Learn](https://clickandlearnguide.com/): Joinder (Unit 6, Parts 1, 2, & 3)
+
+#### September 15
 
 ### Joinder Review 
 
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/JoinderProblem)
 - [Review Problem diagram](https://www.emfink.net/CivilProcedure/visuals/Night_at_the_Opera)
 
-#### Due September 16
-
-##### [Click & Learn](https://clickandlearnguide.com/): Joinder (Unit 6, Parts 1, 2, & 3)
-
 ## Subject Matter Jurisdiction 
 
-#### September 16 & 18 
+#### September 17 & 20
 
 ### Federal Question Jurisdiction 
 
@@ -88,7 +96,7 @@ title: Schedule & Assignments
 - [Grable & Sons Metal Products, Inc. v. Darue Engineering & Manufacturing](https://www.emfink.net/CivilProcedure/cases/Grable)
 - [Note on Grable](https://www.emfink.net/CivilProcedure/notes/GrableExplanation)
 
-#### September 21 & 23 
+#### September 22 & 24
 
 ### Diversity Jurisdiction 
 
@@ -97,7 +105,7 @@ title: Schedule & Assignments
 - Ottawa Township Board of Trustees v. New Par: [Decision & Order 1](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_I); [Decision & Order 2](https://www.emfink.net/CivilProcedure/cases/OttowaTwp_NewPar_II)
 - [Complete Business Solutions Group, Inc. v. Annie's Pooch Pops LLC](https://www.emfink.net/CivilProcedure/cases/AnniesPoochPops)
 
-#### September 25 & 28
+#### September 27 & 29
 
 ### Supplemental Jurisdiction 
 
@@ -109,20 +117,20 @@ title: Schedule & Assignments
 - [Ginwright v. Exeter Finance Corp.](https://www.emfink.net/CivilProcedure/cases/Ginwright2)
 - [Exxon Mobile Corp. v. Allapattah Services, Inc.](https://www.emfink.net/CivilProcedure/cases/Allapattah)
 
-#### September 30
+#### October 1
 
 ### Subject Matter Jurisdiction Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/SMJProblems)
 - [Joinder & Subject Matter Jurisdiction diagram](https://www.emfink.net/CivilProcedure/visuals/joinder-smj)
 
-#### Due October 2
+#### Due October 4
 
 ##### [Click & Learn](https://clickandlearnguide.com/): Subject Matter Jurisdiction (Unit 3, Parts 1-4 & 6)
 
 ## Personal Jurisdiction 
 
-#### October 2
+#### October 4
 
 ### Foundations of Personal Jurisdiction 
 
@@ -130,22 +138,22 @@ title: Schedule & Assignments
 - [FRCP Rule 12(b)(2)](https://www.law.cornell.edu/rules/frcp)
 - [Pennoyer v. Neff](https://www.emfink.net/CivilProcedure/cases/Pennoyer)
 
-#### October 5, 7, & 9
+#### October 6 & 8
 
 ### Specific Jurisdiction Based on Minimum Contacts 
 
 - [International Shoe Co. v. Washington](https://www.emfink.net/CivilProcedure/cases/Shoe)
 - [World Wide Volkswagen Corp. v. Woodson](https://www.emfink.net/CivilProcedure/cases/Volkswagen)
 - [Keeton v. Hustler Magazine, Inc.](https://www.emfink.net/CivilProcedure/cases/Keeton)
-- [J. McIntyre Machinery, Ltd. v. Nicastro](https://www.emfink.net/CivilProcedure/cases/McIntyre_Nicastro)
+- [Ford Moto Co. v. Montana Eighth Judicial Dist. Court](https://www.emfink.net/CivilProcedure/cases/Ford)
 
-#### October 12
+#### October 11
 
 ### General Jurisdiction 
 
 - [Daimler A.G. v. Bauman](https://www.emfink.net/CivilProcedure/cases/Daimler_Bauman)
 
-#### October 14 
+#### October 13 
 
 ### Personal Jurisdiction Review 
 
@@ -153,13 +161,13 @@ title: Schedule & Assignments
 - [Review Problem 1 diagram](https://www.emfink.net/CivilProcedure/visuals/greedy_heir)
 - [Personal Jurisdiction Flowchart](https://www.emfink.net/CivilProcedure/visuals/personal_jurisdiction)
 
-#### Due Otober 16
+#### Due Otober 15
 
 ##### [Click & Learn](https://clickandlearnguide.com/): Personal Jurisdiction (Unit 1, Parts 1-7)
 
 ## Preclusion
 
-#### October 16 & 19
+#### October 15 & 18
 
 ### Claim Preclusion 
 
@@ -168,7 +176,7 @@ title: Schedule & Assignments
 - [Whole Woman's Health v. Hellerstedt](https://www.emfink.net/CivilProcedure/cases/Hellerstedt)
 - [Review Problem 1](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
-#### October 21 & 23 
+#### October 20 & 22 
 
 ### Issue Preclusion 
 
@@ -178,66 +186,64 @@ title: Schedule & Assignments
 - [Parklane Hosiery Co., Inc. v. Shore](https://www.emfink.net/CivilProcedure/cases/Parklane_Shore)
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/PreclusionProblems)
 
-#### Due October 26
+#### Due October 25
 
 ##### [Click & Learn](https://clickandlearnguide.com/): Preclusion (Unit 10)
 
 ## Pleading 
 
-#### October 26 & 28
+#### October 25 & 27
 
 ### Complaints 
 
 - [FRCP Rules 8(a), 9(b), 12(b)(6)](https://www.law.cornell.edu/rules/frcp)
+- [FRCP Form 11](LINK)
 - [Bell Atlantic Corp. v. Twombly](https://www.emfink.net/CivilProcedure/cases/Twombly)
 	- [Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Twombly-Complaint.pdf) 
 - [Ashcroft v. Iqbal](https://www.emfink.net/CivilProcedure/cases/Iqbal)
 	- [Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Iqbal-Complaint.pdf) 
-- [Sines v. Kessler](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Sines_Kessler-12b6-Decision.pdf)
-	-[Complaint](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Sines_Kessler-FAC.pdf)
-	- [Motion to Dismiss](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Sines_Kessler-12b6-Motion.pdf)
-	- [Plaintiff's Opposition](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Sines_Kessler-12b6-Opposition.pdf)
+- [Drumwright v. Johnson](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Drumwright-Johnson-Complaint.pdf) (Complaint)
+- [Allen v. City of Graham](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Allen-Graham-Complaint.pdf) (Complaint)
+- [Criss-A-Less, Inc. v. ASDN Houston, LLC](https://www.emfink.net/CivilProcedure/assets/materials/pleadings/Criss-A-Less-Complaint.pdf) (Complaint)
 
-#### October 30
+#### October 29
 
 ### Answers & Defenses 
 
 - [FRCP Rule 8(b) & (c)](https://www.law.cornell.edu/rules/frcp)
 - [Zielinski v. Philadelphia Piers, Inc.](https://www.emfink.net/CivilProcedure/cases/Zielinski_PPI)
 
-#### November 2
+#### November 1
 
 ### Amendments 
 
 - [FRCP Rule 15](https://www.law.cornell.edu/rules/frcp)
 - [FRCP Rule 15(a)(1) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15a1)
 - [FRCP Rule 15(c)(1)(C) diagram](https://www.emfink.net/CivilProcedure/visuals/pleadings/Rule15c1C)
-- [Beeck v. Aquaslide 'n' Dive Corp.](https://www.emfink.net/CivilProcedure/cases/Beeck_Aquaslide)
 - [Palacio v. City of Springfield](https://www.emfink.net/CivilProcedure/cases/Palacio_Springfield)
+- [Index Newspapers, LLC v. City of Portland](https://www.emfink.net/CivilProcedure/cases/IndexNews_Portland) 
 
-
-#### November 4
+#### November 3
 
 ### Truthfulness & Good Faith in Pleadings 
 
 - [FRCP Rule 11](https://www.law.cornell.edu/rules/frcp)
 - [NC Rules of Professional Conduct, Rules 3.1, 3.2, & 3.3](https://www.emfink.net/ProfessionalResponsibility/rules_statutes/NC_RCP_Part3)
 - [In re Kunstler](https://www.emfink.net/CivilProcedure/cases/InReKunstler)
-- [Washington v. Alaimo](https://www.emfink.net/CivilProcedure/cases/Washington_Alaimo)
 
-#### November 6
+#### November 5
 
 ### Pleadings Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/PleadingsProblems)
 
-#### Due November 9
+#### Due November 8
 
 ##### [Click & Learn](https://clickandlearnguide.com/): Pleadings (Unit 5, Parts 1-5)
 
 ## Erie Doctrine
 
-#### November 9 & 11 
+#### November 8 & 10
 
 ### The Rules of Decision Act 
 
@@ -246,7 +252,7 @@ title: Schedule & Assignments
 - [Byrd v. Blue Ridge Rural Electric Cooperative, Inc.](https://www.emfink.net/CivilProcedure/cases/Byrd)
 - Brian L. Frye, [The Ballad of Harry James Tompkins](https://www.emfink.net/CivilProcedure/readings/Frye-Tompkins.pdf), 52 Akron Law Review 531 (2019)
 
-#### November 13
+#### November 12
 
 ### The Rules Enabling Act 
 
@@ -254,20 +260,20 @@ title: Schedule & Assignments
 - [Hanna v. Plumer](https://www.emfink.net/CivilProcedure/cases/Hanna)
 - [Shady Grove Orthopedic Associates v. Allstate Insurance Co.](https://www.emfink.net/CivilProcedure/cases/ShadyGrove)
 
-#### November 16
+#### November 15
 
 ### Erie Doctrine Review 
 
 - [Review Problems](https://www.emfink.net/CivilProcedure/problems/ErieProblems)
 - [Erie-Hanna diagram](https://www.emfink.net/CivilProcedure/visuals/Erie_Hanna)
 
-#### Due November 18
+#### Due November 17
 
 ##### [Click & Learn](https://clickandlearnguide.com/): Erie Doctrine (Unit 9)
 
 ## Summary Judgment
 
-#### November 18
+#### November 17
 
 ### Standard for Summary Judgment 
 
@@ -275,7 +281,7 @@ title: Schedule & Assignments
 - [Scott v. Harris](https://www.emfink.net/CivilProcedure/cases/Scott_Harris)
 - [Motion for Summary Judgment](https://www.emfink.net/CivilProcedure/assets/materials/summary-judgment/DallasMavericksMSJ.pdf) in Hillwood Investment Properties III v. Radical Mavericks Management, Ltd., No. 10-05639 (Tex. Dist. Ct. June 22, 2011)
 
-#### November 20
+#### November 19
 
 ### Burden of Production 
 
@@ -283,10 +289,18 @@ title: Schedule & Assignments
 - [Stout v. Vincent](https://www.emfink.net/CivilProcedure/cases/Stout_Vincent)
 - [Review Problem](https://www.emfink.net/CivilProcedure/problems/SummaryJudgmentProblem)
 
-#### Due November 22 
+#### November 22
+
+### Burden of Production 
+
+- [FRCP Rules 56(c), (d), (e)](https://www.law.cornell.edu/rules/frcp)
+- [Stout v. Vincent](https://www.emfink.net/CivilProcedure/cases/Stout_Vincent)
+- [Review Problem](https://www.emfink.net/CivilProcedure/problems/SummaryJudgmentProblem)
+
+#### Due November 24 
 
 ##### [Click & Learn](https://clickandlearnguide.com/): Summary Judgment (Unit 8, Part I, sec. III)
 
-#### December 2 
+#### December EXAM DATE
 
 ## Final Exam 

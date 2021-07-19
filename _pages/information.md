@@ -23,7 +23,7 @@ Cases, statutes, rules, and other assigned readings (see "Schedule & Assignments
 
 Your final grade for the term will be based on the assigned Click & Learn review questions (40% total) and a final exam (60%). 
 
-- You will complete the assigned Click & Learn questions (see "Schedule & Assignments") outside of class.
+- You will complete the assigned Click & Learn questions ("Schedule & Assignments") outside of class. The due dates indicated are for guidance, but there will be no penalty for completing these assignments after those dates. You may repeat the Click & Learn lessons and your grade will be based on your highest score for each assigned section. 
 - The final exam will consist of essay and short-answer questions and will be administered during the Fall term exam period. 
 
 ### Class Preparation, Attendance, & Participation
