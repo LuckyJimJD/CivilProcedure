@@ -1,6 +1,6 @@
 ---
 layout: syllabus 
-permalink: /schedule/
+permalink: /schedule2020/
 title: Schedule & Assignments
   
 ---
